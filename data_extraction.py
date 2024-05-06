@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from pandas import DataFrame
 
-from model import Tense, VerbData, Verb, TranslatedTense
+from model import Tense, VerbData, Verb, TranslatedTense, TranslatedImperativo
 from translation import translate_present_with_root, translate_past_with_root
 
 
@@ -37,14 +37,14 @@ def extract_verb_data(verb) -> VerbData:
     return VerbData(verb, present, past)
 
 
-def extract(verb, past_root_sg='', past_root_pl='', present_root_sg='', present_root_pl='') -> Verb:
+def extract(verb, polski='', past_root_sg='', past_root_pl='', present_root_sg='', present_root_pl='') -> Verb:
     present_root_pl = present_root_pl or present_root_sg
 
     data = extract_verb_data(verb)
 
     present_translation = translate_present_with_root(verb, data.present, present_root_sg,
-                                                      present_root_pl) if present_root_sg else TranslatedTense.empty()
+                                                      present_root_pl)
     past_translation = translate_past_with_root(verb, data.past, past_root_sg,
-                                                past_root_pl) if past_root_sg else TranslatedTense.empty()
-    v = Verb(verb, '', '', present_translation, past_translation)
+                                                past_root_pl)
+    v = Verb(verb, polski, '', present_translation, past_translation, TranslatedImperativo.empty())
     return v

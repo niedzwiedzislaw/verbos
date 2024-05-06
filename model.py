@@ -40,16 +40,32 @@ class TranslatedTense:
     def __getitem__(self, item: int):
         return getattr(self, fields(self)[item].name)
 
-    @staticmethod
-    def empty():
-        return TranslatedTense(*[Translation.empty() for i in range(6)])
+    @classmethod
+    def empty(cls):
+        return cls(*[Translation.empty() for i in fields(cls)])
+
+@dataclass
+class TranslatedImperativo:
+    tu: Translation
+    el: Translation
+    ns: Translation
+    vs: Translation
+    ellos: Translation
+
+    def __getitem__(self, item: int):
+        return getattr(self, fields(self)[item].name)
+
+    @classmethod
+    def empty(cls):
+        return cls(*[Translation.empty() for i in fields(cls)])
 
 
 @dataclass
 class Verb:
     infinitivo: str
-    english: str
     polish: str
+    english: str
 
     present: TranslatedTense
     past: TranslatedTense
+    imp: TranslatedImperativo
