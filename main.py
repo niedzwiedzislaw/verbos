@@ -2,9 +2,10 @@
 from dataclasses import asdict
 
 import pandas as pd
+from streamable import Stream
 
 from data_extraction import extract
-
+from separate_cards import create_cards
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
@@ -48,24 +49,28 @@ if __name__ == '__main__':
         extract("descubrir", 'odkryć',"odkrył", "odkryli", ''),
     ]
 
-    new_words = pd.json_normalize([asdict(v) for v in results])
-    new_words.set_index('infinitivo')
-    # print('df')
-    # print(type(df))
-    # print(dir(df.columns))
-    # print(df)
+    cards = Stream(lambda: results).map(create_cards).flatten()
+    for c in cards:
+        print(c.to_line())
 
-    with open("Spanish__verbos.txt", "r", encoding='utf-8') as f:
-        existing_words = pd.read_csv(f, sep=',', header=None, names=new_words.columns, skip_blank_lines=True, dtype='str')
-        existing_words.set_index('infinitivo')
-
-    with open("Spanish__verbos__upd.csv", "w", encoding='utf-8') as f:
-        print('existing_df')
-        print(type(existing_words))
-        print(existing_words)
-        existing_words.update(new_words, join='left')
-        # existing_df.merge(df, how='outer', on=['infinitivo'])
-        print('merged')
-        print(existing_words)
-        # existing_words.to_csv(f, index=False, header=True, sep=',')
-        new_words.to_csv(f, index=False, header=False, sep=',')
+    # new_words = pd.json_normalize([asdict(v) for v in results])
+    # new_words.set_index('infinitivo')
+    # # print('df')
+    # # print(type(df))
+    # # print(dir(df.columns))
+    # # print(df)
+    #
+    # with open("Spanish__verbos.txt", "r", encoding='utf-8') as f:
+    #     existing_words = pd.read_csv(f, sep=',', header=None, names=new_words.columns, skip_blank_lines=True, dtype='str')
+    #     existing_words.set_index('infinitivo')
+    #
+    # with open("Spanish__verbos__upd.csv", "w", encoding='utf-8') as f:
+    #     print('existing_df')
+    #     print(type(existing_words))
+    #     print(existing_words)
+    #     existing_words.update(new_words, join='left')
+    #     # existing_df.merge(df, how='outer', on=['infinitivo'])
+    #     print('merged')
+    #     print(existing_words)
+    #     # existing_words.to_csv(f, index=False, header=True, sep=',')
+    #     new_words.to_csv(f, index=False, header=False, sep=',')

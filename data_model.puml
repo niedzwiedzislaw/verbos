@@ -1,0 +1,28 @@
+@startuml
+
+class Verb {
+    infinitive: str
+    polski: str
+
+    present: TenseTranslation
+    past: TenseTranslation
+}
+
+class TenseTranslation {
+    yo: PersonTranslation
+    tu: PersonTranslation
+    el: PersonTranslation
+    ns: PersonTranslation
+    vs: PersonTranslation
+    ellos: PersonTranslation
+}
+
+class PersonTranslation {
+    form: str
+    irregular: bool
+}
+
+Verb::present -> TenseTranslation
+Verb::past -> TenseTranslation
+
+@enduml

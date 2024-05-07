@@ -86,14 +86,14 @@ def translate_past_with_root(verb, trans, root_sg, root_pl) -> TranslatedTense:
     def sg_1(): return root_sg + f"em{się}" if root_sg else ''
     def sg_2(): return root_sg + f"eś{się}" if root_sg else ''
     def sg_3(): return root_sg + f"{się}" if root_sg else ''
-    def pl_1(): return root_sg + f"śmy{się}" if root_sg else ''
-    def pl_2(): return root_sg + f"ście{się}" if root_sg else ''
-    def pl_3(): return root_sg + f"{się}" if root_sg else ''
+    def pl_1(): return root_pl + f"śmy{się}" if root_pl else ''
+    def pl_2(): return root_pl + f"ście{się}" if root_pl else ''
+    def pl_3(): return root_pl + f"{się}" if root_pl else ''
 
     return TranslatedTense(
-        yo=Translation(trans.yo, pl_1()),
-        tu=Translation(trans.tu, pl_2()),
-        el=Translation(trans.el, pl_3()),
+        yo=Translation(trans.yo, sg_1()),
+        tu=Translation(trans.tu, sg_2()),
+        el=Translation(trans.el, sg_3()),
         ns=Translation(trans.ns, pl_1()),
         vs=Translation(trans.vs, pl_2()),
         ellos=Translation(trans.ellos, pl_3()),

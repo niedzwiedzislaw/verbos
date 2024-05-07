@@ -1,0 +1,32 @@
+@startyaml
+
+verb:
+    infinitivo: a
+    present:
+        yo:
+            form: x
+            irregular: x
+        tu:
+            form: x
+            irregular: x
+        el:
+            form: x
+            irregular: x
+        ns:
+            form: x
+            irregular: x
+        vs:
+            form: x
+            irregular: x
+        ellos:
+            form: x
+            irregular: x
+    past:
+        yo: x
+        tu: x
+        el: x
+        ns: x
+        vs: x
+        ellos: x
+
+@endyaml

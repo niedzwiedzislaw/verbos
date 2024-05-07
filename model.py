@@ -12,6 +12,12 @@ class Tense:
 
 
 @dataclass
+class Conjugation:
+    form: str
+    irrregular: bool
+
+
+@dataclass
 class VerbData:
     infinitivo: str
     present: Tense

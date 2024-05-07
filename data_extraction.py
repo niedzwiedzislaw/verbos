@@ -42,9 +42,9 @@ def extract(verb, polski='', past_root_sg='', past_root_pl='', present_root_sg='
 
     data = extract_verb_data(verb)
 
-    present_translation = translate_present_with_root(verb, data.present, present_root_sg,
-                                                      present_root_pl)
-    past_translation = translate_past_with_root(verb, data.past, past_root_sg,
-                                                past_root_pl)
+    present_translation = translate_present_with_root(
+        verb, data.present, present_root_sg, present_root_pl)
+    past_translation = translate_past_with_root(
+        verb, data.past, past_root_sg, past_root_pl)
     v = Verb(verb, polski, '', present_translation, past_translation, TranslatedImperativo.empty())
     return v

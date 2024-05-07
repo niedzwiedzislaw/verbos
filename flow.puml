@@ -1,0 +1,20 @@
+@startuml
+
+start
+split
+    :load existing from CSV;
+split again
+    :load new from web;
+end split
+:update existing with new;
+:write updated to CSV;
+split
+    :transform to big format;
+    :export;
+split again
+    :transform to small format;
+    :export;
+end split
+end
+
+@enduml
