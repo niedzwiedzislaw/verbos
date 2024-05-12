@@ -5,7 +5,7 @@ import pandas as pd
 from streamable import Stream
 
 from data_extraction import extract
-from separate_cards import create_cards
+from separate_cards import create_cards, Card
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
@@ -49,7 +49,7 @@ if __name__ == '__main__':
         extract("descubrir", 'odkryć',"odkrył", "odkryli", ''),
     ]
 
-    cards = Stream(lambda: results).map(create_cards).flatten()
+    cards: Stream[Card] = Stream(lambda: results).map(create_cards).flatten()
     for c in cards:
         print(c.to_line())
 

@@ -1,10 +1,12 @@
-from dataclasses import dataclass, fields
+from dataclasses import dataclass, fields, field
+from typing import List
 
 from model import Verb
 
 
 @dataclass
 class Card:
+    index: str = field(init=False, repr=False)
     infinitivo: str
     person: str
     case: str
@@ -12,16 +14,15 @@ class Card:
     polish: str
     irregular: bool
 
-    def index(self) -> str:
-        return f"{self.infinitivo}, {self.person}, {self.case}"
+    def __post_init__(self):
+        self.index = f"{self.infinitivo}, {self.person}, {self.case}"
 
     def to_line(self, sep=";"):
         values = [str(getattr(self, f.name)) for f in fields(self)]
-        return sep.join([self.index()] + values)
+        return sep.join(values)
 
 
-
-def create_cards(verb: Verb):
+def create_cards(verb: Verb) -> List[Card]:
     cards = []
     tenses = ['present', 'past']
     for tense in tenses:
