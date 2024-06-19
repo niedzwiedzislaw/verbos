@@ -1,57 +1,21 @@
 # This is a sample Python script.
-from dataclasses import asdict
+import csv
 
-import pandas as pd
 from streamable import Stream
 
-from data_extraction import extract
-from separate_cards import create_cards, Card
+from extractor.ellaverbs import Extractor
+from model import create_cards, Card
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    results = [
-        extract("ir", 'być','był', 'byli', 'jest'),
-        extract("ser", 'iść','szedł', 'szli', 'idzie'),
-        extract("estar", 'być','był', 'byli', 'jest'),
-        extract("dormir", 'spać','spał', 'spali', 'śpi'),
-        extract("vestir", 'nosić','nosił', 'nosili', 'nosi'),
-        extract("vestirse", 'ubierać się','ubiera', 'ubierał', 'ubierali'),
-        extract("volver", 'wracać','wracał', 'wracali', 'wraca'),
-        extract("comer", 'jeść','jadł', 'jedli', 'je'),
-        extract("salir", 'wychodzić', 'wyszedł', 'wyszli', 'wyszedł'),
-        extract("comprar", 'kupować','kupił', 'kupili', 'kupuje'),
-        extract("limpiar", 'czyścić', 'czyścił', 'czyścili', 'czyści'),
-        extract("preparar", 'przygotowywać','przygotował', 'przygotowali', 'przygotowuje'),
-        extract("acabar", 'kończyć', 'skończył', 'skończyli', 'kończy'),
-        extract("acostarse", 'położyć się', 'położył', 'położyli', 'kładzie'),
-        extract("levantarse", 'wstać; obudzić się', 'wstał', 'wstali', 'wstaje'),
-        extract("ver", 'oglądać','oglądał', 'oglądali', 'ogląda'),
-        extract("empezar", 'zaczynać','zaczynał', 'zaczynali', 'zaczyna'),
-        extract("escribir", 'pisać', 'pisał', 'pisali', 'pisze'),
-        extract("despertarse", 'budzić się','budził', 'budzili', 'budzi'),
-        extract("llamarse", 'nazywać się', 'nazywał', 'nazywali', 'nazywa'),
-        extract("saber", 'myśleć', 'myślał', 'myśleli', 'myśli'),
-        extract("conocer", 'znać', "znał", "znali", 'zna'),
-        extract("lavarse", 'myć się',"", "", ''),
-        extract("poder", 'móc',"", "", ''),
-        extract("cerrar", 'zamykać',"", "", ''),
-        extract("dar", 'dać', "dał", "dali", 'daje'),
-        extract("repetir", 'powtarzać',"", "", ''),
-        extract("pensar", 'myśleć',"", "", ''),
-        extract("preferir", 'preferować', "", "", ''),
-        extract("sentir", 'czuć',"", "", ''),
-        extract("decir", 'mówić',"", "", ''),
-        extract("preparar", 'przygotować',"", "", ''),
-        extract("limpiar", 'myć',"", "", ''),
-        extract("querer", 'chcieć',"chciał", "chcieli", 'chce'),
-        extract("nacer", 'urodzić się',"rodził", "rodzili", 'rodzi'),
-        extract("conseguir", 'zyskać',"zyskał", "zyskali", ''),
-        extract("descubrir", 'odkryć',"odkrył", "odkryli", ''),
-    ]
+    with open('input.csv', encoding='utf-8') as f:
+        rows = csv.reader(f, delimiter=',', quotechar='"')
+        results = [Extractor.extract_with_translation(*row) for row in rows]
 
     cards: Stream[Card] = Stream(lambda: results).map(create_cards).flatten()
-    for c in cards:
-        print(c.to_line())
+    with open('verbos_separar.csv', 'w', encoding='utf-8') as f:
+        for c in cards:
+            f.write(c.to_line() + '\n')
 
     # new_words = pd.json_normalize([asdict(v) for v in results])
     # new_words.set_index('infinitivo')

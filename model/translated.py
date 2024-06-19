@@ -1,37 +1,18 @@
 from dataclasses import dataclass, fields
+from typing import Dict
 
-
-@dataclass
-class Tense:
-    yo: str
-    tu: str
-    el: str
-    ns: str
-    vs: str
-    ellos: str
-
-
-@dataclass
-class Conjugation:
-    form: str
-    irrregular: bool
-
-
-@dataclass
-class VerbData:
-    infinitivo: str
-    present: Tense
-    past: Tense
+from model import Tense
 
 
 @dataclass
 class Translation:
     es: str
     pl: str
+    irregular: bool
 
     @staticmethod
     def empty():
-        return Translation('', '')
+        return Translation('', '', False)
 
 
 @dataclass
@@ -72,6 +53,18 @@ class Verb:
     polish: str
     english: str
 
-    present: TranslatedTense
-    past: TranslatedTense
-    imp: TranslatedImperativo
+    presente: TranslatedTense
+    pret_indefinido: TranslatedTense
+    pret_perfecto: Tense
+    imp_afirmativo: TranslatedImperativo
+
+    def translated_tenses(self) -> Dict[str, TranslatedTense]:
+        return {
+            'presente': self.presente,
+            'pret_indefinido': self.pret_indefinido
+        }
+
+    def bare_tenses(self) -> Dict[str, Tense]:
+        return {
+            'pret_perfecto': self.pret_perfecto
+        }

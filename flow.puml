@@ -17,4 +17,11 @@ split again
 end split
 end
 
+start
+:load from web/cache;
+:append translation;
+:create cards;
+:write cards;
+end
+
 @enduml
