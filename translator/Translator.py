@@ -50,6 +50,7 @@ class Translator:
             return '' if root_sg == '' else (
                     substitute(root_sg, 'jest', 'są') or
                     substitute(root_sg, 'dzie', 'dą') or
+                    substitute(root_sg, 'dzi', 'dzą') or
                     substitute(root_sg, 'e', 'ą') or
                     append(root_sg, '', 'ą')
             )
