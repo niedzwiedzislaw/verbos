@@ -6,7 +6,7 @@ class Translator:
 
     @staticmethod
     def translate_present_with_root(verb: str, trans: Tense, root_sg: str, root_pl: str = None) -> TranslatedTense:
-        się = ' się' if verb.endswith("se") else ''
+        się = ' się' if verb.endswith("se") else ''  # todo - use translation, not verb - sacarse doesn't fit the rule
 
         def persona_sg_1():
             return '' if root_sg == '' else (

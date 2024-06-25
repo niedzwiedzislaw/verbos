@@ -1,5 +1,6 @@
 # This is a sample Python script.
 import csv
+from dataclasses import asdict
 
 from streamable import Stream
 
@@ -14,6 +15,8 @@ if __name__ == '__main__':
 
     cards: Stream[Card] = Stream(lambda: results).map(create_cards).flatten()
     with open('verbos_separar.csv', 'w', encoding='utf-8') as f:
+        f.write('#separator:;' + '\n')
+        f.write('#columns:' + Card.get_headers() + '\n')
         for c in cards:
             f.write(c.to_line() + '\n')
 

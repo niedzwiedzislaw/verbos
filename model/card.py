@@ -10,6 +10,7 @@ names = {
     'pret_perfecto': 'pret. perfecto',
 }
 
+
 @dataclass
 class Card:
     index: str = field(init=False, repr=False)
@@ -19,7 +20,7 @@ class Card:
     case: str
     spanish: str
     polish: str
-    irregular: bool
+    _irregular: bool
     hint: str
 
     def __post_init__(self):
@@ -28,6 +29,10 @@ class Card:
     def to_line(self, sep=";"):
         values = [str(getattr(self, f.name)) for f in fields(self)]
         return sep.join(values)
+
+    @staticmethod
+    def get_headers(sep=';'):
+        return sep.join(['question', 'infinitivo', 'polski', 'person', 'case', 'conj_espanol', 'conj_polski', 'irregular', 'hint'])
 
 
 def create_cards(verb: Verb) -> List[Card]:

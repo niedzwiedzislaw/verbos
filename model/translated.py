@@ -14,6 +14,10 @@ class Translation:
     def empty():
         return Translation('', '', False)
 
+    @staticmethod
+    def no_translation(es: str, irregular: bool):
+        return Translation(es, '', irregular)
+
 
 @dataclass
 class TranslatedTense:
