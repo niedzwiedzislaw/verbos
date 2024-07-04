@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from model import VerbData, Tense, Verb, TranslatedImperativo, ConjugationData
+from reader import CsvInputRow
 from translator import Translator
 
 
@@ -50,14 +51,13 @@ class Extractor:
         return VerbData(verb, presente, pret_indefinido, pret_perfecto)
 
     @staticmethod
-    def extract_with_translation(verb: str, polski='', past_root_sg='', past_root_pl='', present_root_sg='', present_root_pl='') -> Verb:
-        present_root_pl = present_root_pl or present_root_sg
-
-        verb_data = Extractor.extract_verb_data(verb)
+    def extract_with_translation(input_data: CsvInputRow) -> Verb:
+        verb_data = Extractor.extract_verb_data(input_data.verb)
 
         present_translation = Translator.translate_present_with_root(
-            verb, verb_data.presente, present_root_sg, present_root_pl)
+            input_data.verb, verb_data.presente, input_data.present)
         past_translation = Translator.translate_past_with_root(
-            verb, verb_data.pret_indefinido, past_root_sg, past_root_pl)
-        v = Verb(verb_data.infinitivo, polski, '', present_translation, past_translation, verb_data.pret_perfecto, TranslatedImperativo.empty())
+            input_data.verb, verb_data.pret_indefinido, input_data.past)
+
+        v = Verb(verb_data.infinitivo, input_data.polski, '', present_translation, past_translation, verb_data.pret_perfecto, TranslatedImperativo.empty())
         return v

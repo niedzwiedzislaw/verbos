@@ -20,7 +20,7 @@ class Card:
     case: str
     spanish: str
     polish: str
-    _irregular: bool
+    irregular: bool
     hint: str
 
     def __post_init__(self):

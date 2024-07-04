@@ -6,12 +6,13 @@ from streamable import Stream
 
 from extractor.ellaverbs import Extractor
 from model import create_cards, Card
+from reader import CsvInputRow
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     with open('input.csv', encoding='utf-8') as f:
         rows = csv.reader(f, delimiter=',', quotechar='"')
-        results = [Extractor.extract_with_translation(*row) for row in rows]
+        results = [Extractor.extract_with_translation(CsvInputRow(*row)) for row in rows]
 
     cards: Stream[Card] = Stream(lambda: results).map(create_cards).flatten()
     with open('verbos_separar.csv', 'w', encoding='utf-8') as f:
