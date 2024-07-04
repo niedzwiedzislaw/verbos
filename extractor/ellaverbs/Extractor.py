@@ -1,3 +1,5 @@
+import sys
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -44,11 +46,17 @@ class Extractor:
             with open(f'cache/{verb}.html', 'w', encoding='utf-8') as h:
                 h.write(f)
 
-        soup = BeautifulSoup(f, 'html.parser')
-        presente = Extractor.extract_presente(soup)
-        pret_indefinido = Extractor.extract_pret_indefinido(soup)
-        pret_perfecto = Extractor.extract_pret_perfecto(soup)
-        return VerbData(verb, presente, pret_indefinido, pret_perfecto)
+        try:
+            soup = BeautifulSoup(f, 'html.parser')
+            presente = Extractor.extract_presente(soup)
+            pret_indefinido = Extractor.extract_pret_indefinido(soup)
+            pret_perfecto = Extractor.extract_pret_perfecto(soup)
+        except Exception as e:
+            print(f'Problem with {verb}')
+            print(f"URL: https://ellaverbs.com/spanish-verbs/{verb}-conjugation/")
+            raise e
+        else:
+            return VerbData(verb, presente, pret_indefinido, pret_perfecto)
 
     @staticmethod
     def extract_with_translation(input_data: CsvInputRow) -> Verb:
