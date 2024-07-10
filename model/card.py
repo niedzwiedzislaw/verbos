@@ -4,28 +4,36 @@ from typing import List
 from hints import hints
 from model import Verb
 
-names = {
+tense_names = {
     'presente': 'presente',
     'pret_indefinido': 'pret. indefinido',
     'pret_perfecto': 'pret. perfecto',
 }
 
+person_abbr_with_accents = {
+    'yo': 'yo',
+    'tu': 'tú',
+    'el': 'él',
+    'ns': 'ns',
+    'vs': 'vs',
+    'ellos': 'ellos',
+}
 
 @dataclass
 class Card:
-    index: str = field(init=False, repr=False)
+    question: str = field(init=False, repr=False)
     infinitivo: str
     polski: str
     english: str
     person: str
     case: str
-    conj_spanish: str
-    conj_polish: str
+    conj_espanol: str
+    conj_polski: str
     irregular: bool
     hint: str
 
     def __post_init__(self):
-        self.index = f"{self.infinitivo}, {self.person}, {names[self.case]}"
+        self.question = f"{self.infinitivo}, {person_abbr_with_accents[self.person]}, {tense_names[self.case]}"
 
     def to_line(self, sep=";"):
         values = [str(getattr(self, f.name)) for f in fields(self)]
@@ -33,7 +41,7 @@ class Card:
 
     @staticmethod
     def get_headers(sep=';'):
-        return sep.join(['question', 'infinitivo', 'polski', 'english', 'person', 'case', 'conj_espanol', 'conj_polski', 'irregular', 'hint'])
+        return sep.join([f.name for f in fields(Card)])
 
 
 def create_cards(verb: Verb) -> List[Card]:

@@ -9,16 +9,21 @@ from translator import Translator
 
 class SpanishDictExtractor:
 
+    use_em_irregular = False
+    limit_english_translations = 1
+
     @classmethod
     def parse_conjugation(cls, item) -> ConjugationData:
         irregular = item.find('span', {'class': 'conj-irregular'})
-        if irregular:
-            tag = BeautifulSoup().new_tag("em")
-            tag.string = irregular.text
-            item.find('span', {'class': 'conj-irregular'}).replaceWith(tag)
-        inner = item.find('div').find('div').find('div').find('a').find('div')
-        # text = inner.decode_contents().replace("\n", "").strip()
-        text = inner.text.replace("\n", "").strip()
+        if cls.use_em_irregular:
+            if irregular:
+                tag = BeautifulSoup().new_tag("em")
+                tag.string = irregular.text
+                item.find('span', {'class': 'conj-irregular'}).replaceWith(tag)
+            inner = item.find('div').find('div').find('div').find('a').find('div')
+            text = inner.decode_contents().replace("\n", "").strip()
+        else:
+            text = item.text.replace("\n", "").strip()
         return ConjugationData(text, irregular is not None)
 
     @classmethod
@@ -40,6 +45,18 @@ class SpanishDictExtractor:
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
+    def extract_english(cls, soup: BeautifulSoup) -> str:
+        def f(i): return soup.find('div', id=f"quickdef{i}-es")
+        translation = f(1)
+        i = 1
+        results = []
+        while translation is not None and i <= cls.limit_english_translations:
+            results.append(translation.text.strip())
+            translation = soup.find('div', id=f"quickdef{i}-es")
+            i += 1
+        return ', '.join(results)
+
+    @classmethod
     def extract_verb_data(cls, verb) -> VerbData:
         try:
             f = open(f'cache/spanishdict/{verb}.html', encoding='utf-8').read()
@@ -50,7 +67,7 @@ class SpanishDictExtractor:
 
         try:
             soup = BeautifulSoup(f, 'html.parser')
-            ingles = soup.find('div', id="quickdef1-es").text.strip()
+            ingles = cls.extract_english(soup)
             presente = cls.extract_presente(soup)
             pret_indefinido = cls.extract_pret_indefinido(soup)
             pret_perfecto = cls.extract_pret_perfecto(soup)
