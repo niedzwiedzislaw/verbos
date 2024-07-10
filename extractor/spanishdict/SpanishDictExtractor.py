@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+from model import VerbData, Tense, Verb, TranslatedImperativo, ConjugationData
 from model import VerbData
 from reader import CsvInputRow
 from translator import Translator
@@ -39,7 +40,7 @@ class SpanishDictExtractor:
     def extract_verb_data(cls, verb) -> VerbData:
         try:
             f = open(f'cache/spanishdict/{verb}.html', encoding='utf-8').read()
-        except _:
+        except:
             f = requests.get(f"https://www.spanishdict.com/conjugate/{verb}").text
             with open(f'cache/spanishdict/{verb}.html', 'w', encoding='utf-8') as h:
                 h.write(f)
