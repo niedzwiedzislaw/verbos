@@ -18,8 +18,8 @@ class Card:
     polski: str
     person: str
     case: str
-    spanish: str
-    polish: str
+    conj_spanish: str
+    conj_polish: str
     irregular: bool
     hint: str
 
@@ -42,13 +42,13 @@ def create_cards(verb: Verb) -> List[Card]:
             person = c.name
             conj = getattr(translations, person)
             card = Card(verb.infinitivo, verb.polish, person, tense, conj.es, conj.pl, conj.irregular,
-                        verb if verb in hints else '')
+                        verb.infinitivo if verb.infinitivo in hints else '')
             cards.append(card)
 
     for (tense, formas) in verb.bare_tenses().items():
         for c in fields(formas):
             person = c.name
             conj = getattr(formas, person)
-            card = Card(verb.infinitivo, verb.polish, person, tense, conj.conjugation, '', conj.irregular, verb if verb in hints else '')
+            card = Card(verb.infinitivo, verb.polish, person, tense, conj.conjugation, '', conj.irregular, verb.infinitivo if verb.infinitivo in hints else '')
             cards.append(card)
     return cards

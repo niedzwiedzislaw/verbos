@@ -17,7 +17,8 @@ class SpanishDictExtractor:
             tag.string = irregular.text
             item.find('span', {'class': 'conj-irregular'}).replaceWith(tag)
         inner = item.find('div').find('div').find('div').find('a').find('div')
-        text = inner.decode_contents().replace("\n", "").strip()
+        # text = inner.decode_contents().replace("\n", "").strip()
+        text = inner.text.replace("\n", "").strip()
         return ConjugationData(text, irregular is not None)
 
     @classmethod
@@ -49,6 +50,7 @@ class SpanishDictExtractor:
 
         try:
             soup = BeautifulSoup(f, 'html.parser')
+            ingles = soup.find('div', id="quickdef1-es").text.strip()
             presente = cls.extract_presente(soup)
             pret_indefinido = cls.extract_pret_indefinido(soup)
             pret_perfecto = cls.extract_pret_perfecto(soup)
@@ -57,7 +59,7 @@ class SpanishDictExtractor:
             print(f"URL: https://www.spanishdict.com/conjugate/{verb}")
             raise e
         else:
-            return VerbData(verb, presente, pret_indefinido, pret_perfecto)
+            return VerbData(verb, ingles, presente, pret_indefinido, pret_perfecto)
 
     @classmethod
     def extract_with_translation(cls, input_data: CsvInputRow) -> Verb:
@@ -68,6 +70,6 @@ class SpanishDictExtractor:
         past_translation = Translator.translate_past_with_root(
             input_data.verb, verb_data.pret_indefinido, input_data.past)
 
-        v = Verb(verb_data.infinitivo, input_data.polski, '', present_translation, past_translation,
+        v = Verb(verb_data.infinitivo, input_data.polski, verb_data.ingles, present_translation, past_translation,
                  verb_data.pret_perfecto, TranslatedImperativo.empty())
         return v
