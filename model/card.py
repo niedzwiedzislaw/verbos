@@ -16,6 +16,7 @@ class Card:
     index: str = field(init=False, repr=False)
     infinitivo: str
     polski: str
+    english: str
     person: str
     case: str
     conj_spanish: str
@@ -32,7 +33,7 @@ class Card:
 
     @staticmethod
     def get_headers(sep=';'):
-        return sep.join(['question', 'infinitivo', 'polski', 'person', 'case', 'conj_espanol', 'conj_polski', 'irregular', 'hint'])
+        return sep.join(['question', 'infinitivo', 'polski', 'english', 'person', 'case', 'conj_espanol', 'conj_polski', 'irregular', 'hint'])
 
 
 def create_cards(verb: Verb) -> List[Card]:
@@ -41,7 +42,7 @@ def create_cards(verb: Verb) -> List[Card]:
         for c in fields(translations):
             person = c.name
             conj = getattr(translations, person)
-            card = Card(verb.infinitivo, verb.polish, person, tense, conj.es, conj.pl, conj.irregular,
+            card = Card(verb.infinitivo, verb.polish, verb.english, person, tense, conj.es, conj.pl, conj.irregular,
                         verb.infinitivo if verb.infinitivo in hints else '')
             cards.append(card)
 
@@ -49,6 +50,6 @@ def create_cards(verb: Verb) -> List[Card]:
         for c in fields(formas):
             person = c.name
             conj = getattr(formas, person)
-            card = Card(verb.infinitivo, verb.polish, person, tense, conj.conjugation, '', conj.irregular, verb.infinitivo if verb.infinitivo in hints else '')
+            card = Card(verb.infinitivo, verb.polish, verb.english, person, tense, conj.conjugation, '', conj.irregular, verb.infinitivo if verb.infinitivo in hints else '')
             cards.append(card)
     return cards
