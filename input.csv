@@ -9,6 +9,7 @@ comer,jeść,jadł,jedli,je,
 comprar,kupować,kupił,kupili,kupuje,
 conocer,znać,znał,znali,zna,
 conseguir,zyskać,zyskał,zyskali,zyskuje,
+contar,liczyć
 dar,dać,dał,dali,daje,
 decir,mówić,mówił,mówili,mówi,
 desayunar,jeść śniadanie,,,,
@@ -19,6 +20,8 @@ empezar,zaczynać,zaczynał,zaczynali,zaczyna,
 escribir,pisać,pisał,pisali,pisze,
 esperar,czekać,czekał,czekali,czeka,
 estar,być,był,byli,jest,
+fregar,szorować
+freír,smażyć
 haber,egzystować
 hacer,robić
 ir,iść,szedł,szli,idzie,
@@ -26,9 +29,13 @@ lavarse,myć się,mył,myli,myje,
 levantarse,wstać; obudzić się,wstał,wstali,wstaje,
 limpiar,czyścić,czyścił,czyścili,czyści,
 llamarse,nazywać się,nazywał,nazywali,nazywa,
+medir,mierzyć
 morir,umrzeć
+mover,przenosić
 nacer,urodzić się,rodził,rodzili,rodzi,
 oir,słyszeć
+oler,wąchać
+pedir,zapywać
 pensar,myśleć,myśllał,myśleli,myśli,
 poder,móc,mógł,mogli,może,
 poner,kłaść
@@ -40,23 +47,14 @@ repetir,powtarzać,powtarzał,powtarzali,powtarza,
 saber,wiedzieć,wiedział,wiedzieli,wie,
 sacarse,dostać
 salir,wychodzić,wyszedł,wyszli,wychodzi,
+seguir,kontynuować
 sentir,czuć,czuł,czuli,czuje,
 ser,być,był,byli,jest,
 tener,mieć,miał,mieli,ma,
+vencer,pokonać
 venir,przychodzić
 ver,oglądać,oglądał,oglądali,ogląda,
 vestir,nosić,nosił,nosili,nosi,
 vestirse,ubierać się,ubierał,ubierali,ubiera,
-volver,wracać,wracał,wracali,wraca,
-vencer,pokonać
-freír,smażyć
-contar,liczyć
-mover,przenosić
-repetir,powtarzać,
-conseguir,zdobywać,
-pedir,zapywać,
-seguir,kontynuować
-oler,wąchać
-medir,mierzyć
 volar,latać
-fregar,szorować
+volver,wracać,wracał,wracali,wraca,

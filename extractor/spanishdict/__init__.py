@@ -1,0 +1,1 @@
+from .SpanishDictExtractor import *

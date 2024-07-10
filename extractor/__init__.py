@@ -3,6 +3,6 @@ from reader import CsvInputRow
 
 
 class BaseExtractor:
-    @staticmethod
-    def extract_with_translation(input_data: CsvInputRow) -> Verb:
+    @classmethod
+    def extract_with_translation(cls, input_data: CsvInputRow) -> Verb:
         pass
