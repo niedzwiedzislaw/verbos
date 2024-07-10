@@ -16,7 +16,7 @@ if __name__ == '__main__':
         results = [SpanishDictExtractor.extract_with_translation(CsvInputRow(*row)) for row in rows]
 
     cards: Stream[Card] = Stream(lambda: results).map(create_cards).flatten()
-    with open('verbos_separar.csv', 'w', encoding='utf-8') as f:
+    with open('verbos_conjugacion.csv', 'w', encoding='utf-8') as f:
         f.write('#separator:;' + '\n')
         f.write('#columns:' + Card.get_headers() + '\n')
         for c in cards:

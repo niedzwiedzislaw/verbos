@@ -71,6 +71,7 @@ class Translator:
                             substitute(root_sg, 'dzie', 'dą') or
                             substitute(root_sg, 'dzi', 'dzą') or
                             substitute(root_sg, 'e', 'ą') or
+                            substitute(root_sg, 'a', 'ją') or
                             append(root_sg, '', 'ą')
                     ) + się
 
