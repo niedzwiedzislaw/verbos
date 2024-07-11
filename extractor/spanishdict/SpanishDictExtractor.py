@@ -57,6 +57,11 @@ class SpanishDictExtractor:
         return ', '.join(results)
 
     @classmethod
+    def extract_infinitivo(cls, soup: BeautifulSoup, verb) -> str:
+        header = soup.find('h1')
+        return header.text.strip()
+
+    @classmethod
     def extract_verb_data(cls, verb) -> VerbData:
         try:
             f = open(f'cache/spanishdict/{verb}.html', encoding='utf-8').read()
@@ -67,6 +72,7 @@ class SpanishDictExtractor:
 
         try:
             soup = BeautifulSoup(f, 'html.parser')
+            infinitivo_con_accentos = cls.extract_infinitivo(soup, verb)
             ingles = cls.extract_english(soup)
             presente = cls.extract_presente(soup)
             pret_indefinido = cls.extract_pret_indefinido(soup)
@@ -76,7 +82,7 @@ class SpanishDictExtractor:
             print(f"URL: https://www.spanishdict.com/conjugate/{verb}")
             raise e
         else:
-            return VerbData(verb, ingles, presente, pret_indefinido, pret_perfecto)
+            return VerbData(infinitivo_con_accentos, ingles, presente, pret_indefinido, pret_perfecto)
 
     @classmethod
     def extract_with_translation(cls, input_data: CsvInputRow) -> Verb:

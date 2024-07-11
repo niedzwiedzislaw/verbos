@@ -9,7 +9,6 @@ from extractor.spanishdict import SpanishDictExtractor
 from model import create_cards, Card
 from reader import CsvInputRow
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     with open('input.csv', encoding='utf-8') as f:
         rows = csv.reader(f, delimiter=',', quotechar='"')
