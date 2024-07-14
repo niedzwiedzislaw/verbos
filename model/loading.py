@@ -20,6 +20,7 @@ class Tense:
 @dataclass
 class VerbData:
     infinitivo: str
+    ingles: str
     presente: Tense
     pret_indefinido: Tense
     pret_perfecto: Tense

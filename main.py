@@ -9,14 +9,13 @@ from extractor.spanishdict import SpanishDictExtractor
 from model import create_cards, Card
 from reader import CsvInputRow
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     with open('input.csv', encoding='utf-8') as f:
         rows = csv.reader(f, delimiter=',', quotechar='"')
         results = [SpanishDictExtractor.extract_with_translation(CsvInputRow(*row)) for row in rows]
 
     cards: Stream[Card] = Stream(lambda: results).map(create_cards).flatten()
-    with open('verbos_separar.csv', 'w', encoding='utf-8') as f:
+    with open('verbos_conjugacion.csv', 'w', encoding='utf-8') as f:
         f.write('#separator:;' + '\n')
         f.write('#columns:' + Card.get_headers() + '\n')
         for c in cards:
