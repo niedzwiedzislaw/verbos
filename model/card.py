@@ -3,6 +3,7 @@ from typing import List
 
 from hints import hints
 from model import Verb
+from settings import separator
 
 tense_names = {
     'presente': 'presente',
@@ -33,14 +34,16 @@ class Card:
     hint: str
 
     def __post_init__(self):
-        self.question = f"{self.infinitivo}, {person_abbr_with_accents[self.person]}, {tense_names[self.case]}"
+        self.question = f'{self.infinitivo}, {person_abbr_with_accents[self.person]}, {tense_names[self.case]}'
+        if separator == ',':
+            self.question = '"' + self.question + '"'
 
-    def to_line(self, sep=";"):
+    def to_line(self, sep=separator):
         values = [str(getattr(self, f.name)) for f in fields(self)]
         return sep.join(values)
 
     @staticmethod
-    def get_headers(sep=';'):
+    def get_headers(sep=separator):
         return sep.join([f.name for f in fields(Card)])
 
 

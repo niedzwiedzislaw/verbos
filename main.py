@@ -3,20 +3,26 @@ import csv
 from dataclasses import asdict
 
 from streamable import Stream
+from tqdm import tqdm
 
 from extractor.ellaverbs import Extractor
 from extractor.spanishdict import SpanishDictExtractor
 from model import create_cards, Card
 from reader import CsvInputRow
+from settings import separator
 
 if __name__ == '__main__':
     with open('input.csv', encoding='utf-8') as f:
         rows = csv.reader(f, delimiter=',', quotechar='"')
-        results = [SpanishDictExtractor.extract_with_translation(CsvInputRow(*row)) for row in rows]
+        results = [SpanishDictExtractor.extract_with_translation(CsvInputRow(*row)) for row in tqdm(rows)]
 
     cards: Stream[Card] = Stream(lambda: results).map(create_cards).flatten()
     with open('verbos_conjugacion.csv', 'w', encoding='utf-8') as f:
-        f.write('#separator:;' + '\n')
+        f.write(f'#separator:{separator}' + '\n')
+        f.write(f'#html:true' + '\n')
+        f.write(f'#if matches:keep current' + '\n')
+        f.write(f'#notetype:Spanish Conjugation' + '\n')
+        f.write(f'#deck:Spanish::conjugación' + '\n')
         f.write('#columns:' + Card.get_headers() + '\n')
         for c in cards:
             f.write(c.to_line() + '\n')
