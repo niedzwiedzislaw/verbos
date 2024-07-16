@@ -9,7 +9,7 @@ from translator import Translator
 
 class SpanishDictExtractor:
 
-    use_em_irregular = False
+    use_em_irregular = True
     limit_english_translations = 1
 
     @classmethod
@@ -64,7 +64,7 @@ class SpanishDictExtractor:
     @classmethod
     def extract_verb_data(cls, verb) -> VerbData:
         try:
-            f = open(f'cache/spanishdict/{verb}.html', encoding='utf-8').read()
+            f = open(f'cache/spanishdict/{verb}', encoding='utf-8').read()
         except:
             f = requests.get(f"https://www.spanishdict.com/conjugate/{verb}").text
             with open(f'cache/spanishdict/{verb}.html', 'w', encoding='utf-8') as h:

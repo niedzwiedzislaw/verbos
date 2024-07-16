@@ -19,11 +19,13 @@ contar,liczyć
 dar,dać,dał,dali,daje,
 deber,musieć
 decir,mówić,mówił,mówili,mówi,
+dejar,pozostawić
 desayunar,jeść śniadanie,,,,
 descubrir,odkryć,odkrył,odkryli,odkrywa,
 despertarse,budzić się,budził,budzili,budzi,
 dormir,spać,spał,spali,śpi,
 empezar,zaczynać,zaczynał,zaczynali,zaczyna,
+equivocarse,pomylić się
 escribir,pisać,pisał,pisali,pisze,
 esperar,czekać,czekał,czekali,czeka,
 estar,być,był,byli,jest,
@@ -38,6 +40,7 @@ lavarse,myć się,mył,myli,myje,
 levantarse,wstać; obudzić się,wstał,wstali,wstaje,
 limpiar,czyścić,czyścił,czyścili,czyści,
 llamarse,nazywać się,nazywał,nazywali,nazywa,
+llover,padać
 medir,mierzyć
 morir,umrzeć
 mover,przenosić
@@ -61,6 +64,7 @@ salir,wychodzić,wyszedł,wyszli,wychodzi,
 seguir,kontynuować
 sentir,czuć,czuł,czuli,czuje,
 ser,być,był,byli,jest,
+soler,mieć w zwyczaju
 tener,mieć,miał,mieli,ma,
 traducir,tłumaczyć
 traer,przynieść
@@ -71,3 +75,4 @@ vestir,nosić,nosił,nosili,nosi,
 vestirse,ubierać się,ubierał,ubierali,ubiera,
 volar,latać
 volver,wracać,wracał,wracali,wraca,
+parecer,przypominać
