@@ -1,22 +1,27 @@
 # This is a sample Python script.
 import csv
-from dataclasses import asdict
 
 from streamable import Stream
 from tqdm import tqdm
 
-from extractor.ellaverbs import Extractor
 from extractor.spanishdict import SpanishDictExtractor
-from model import create_cards, Card
-from reader import CsvInputRow
+from anki import Card
+from params import CsvInputRow
 from settings import separator
+from translator import Translator, TranslatedVerbConjugation
 
-if __name__ == '__main__':
+
+def prepare_conjugation(params: CsvInputRow) -> TranslatedVerbConjugation:
+    verb_data = SpanishDictExtractor.extract_verb_data(params.verb)
+    return Translator.add_translations(verb_data, params.translation_params)
+
+
+def main():
     with open('input.csv', encoding='utf-8') as f:
         rows = csv.reader(f, delimiter=',', quotechar='"')
-        results = [SpanishDictExtractor.extract_with_translation(CsvInputRow(*row)) for row in tqdm(rows)]
+        results = [prepare_conjugation(CsvInputRow(*row)) for row in tqdm(rows)]
 
-    cards: Stream[Card] = Stream(lambda: results).map(create_cards).flatten()
+    cards: Stream[Card] = Stream(lambda: results).map(Card.create_cards).flatten()
     with open('verbos_conjugacion.csv', 'w', encoding='utf-8') as f:
         f.write(f'#separator:{separator}' + '\n')
         f.write(f'#html:true' + '\n')
@@ -48,3 +53,7 @@ if __name__ == '__main__':
     #     print(existing_words)
     #     # existing_words.to_csv(f, index=False, header=True, sep=',')
     #     new_words.to_csv(f, index=False, header=False, sep=',')
+
+
+if __name__ == '__main__':
+    main()

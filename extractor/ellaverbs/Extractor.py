@@ -1,10 +1,8 @@
-import sys
-
 import requests
 from bs4 import BeautifulSoup
 
-from model import VerbData, Tense, Verb, TranslatedImperativo, ConjugationData
-from reader import CsvInputRow
+from anki import VerbData, Tense, Verb, TranslatedImperativo, ConjugationData
+from params import CsvInputRow
 from translator import Translator
 
 

@@ -1,6 +1,7 @@
-from model import TranslatedTense, VerbData, TranslatedImperativo, Translation, Tense
-from reader import TensTranslationBase
-from translator.LetterUtils import substitute, append
+from extractor import Tense, VerbData
+from params import TensTranslationBase, TranslationParams
+from translator import TranslatedTense, Translation, TranslatedImperativo, TranslatedVerbConjugation
+from translator import substitute, append
 
 
 class Translator:
@@ -120,3 +121,22 @@ class Translator:
                 substitute(root_sg, 'iał', 'iali') or
                 substitute(root_sg, 'ał', 'ali')
         )
+
+    @classmethod
+    def add_translations(cls, verb_data: VerbData, translation_params: TranslationParams) -> TranslatedVerbConjugation:
+        present_translation = cls.translate_present_with_root(
+            verb_data.infinitivo, verb_data.presente, translation_params.present)
+        past_translation = cls.translate_past_with_root(
+            verb_data.infinitivo, verb_data.pret_indefinido, translation_params.past)
+
+        v = TranslatedVerbConjugation(
+            verb_data.infinitivo,
+            translation_params.polski,
+            verb_data.ingles,
+
+            present_translation,
+            past_translation,
+            verb_data.pret_perfecto,
+            TranslatedImperativo.empty()
+        )
+        return v

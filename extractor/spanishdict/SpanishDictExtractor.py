@@ -1,10 +1,7 @@
 import requests
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 
-from model import VerbData, Tense, Verb, TranslatedImperativo, ConjugationData
-from model import VerbData
-from reader import CsvInputRow
-from translator import Translator
+from extractor import *
 
 
 class SpanishDictExtractor:
@@ -83,16 +80,3 @@ class SpanishDictExtractor:
             raise e
         else:
             return VerbData(infinitivo_con_accentos, ingles, presente, pret_indefinido, pret_perfecto)
-
-    @classmethod
-    def extract_with_translation(cls, input_data: CsvInputRow) -> Verb:
-        verb_data = cls.extract_verb_data(input_data.verb)
-
-        present_translation = Translator.translate_present_with_root(
-            input_data.verb, verb_data.presente, input_data.present)
-        past_translation = Translator.translate_past_with_root(
-            input_data.verb, verb_data.pret_indefinido, input_data.past)
-
-        v = Verb(verb_data.infinitivo, input_data.polski, verb_data.ingles, present_translation, past_translation,
-                 verb_data.pret_perfecto, TranslatedImperativo.empty())
-        return v

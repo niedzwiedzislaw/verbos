@@ -1,8 +1,7 @@
-from model import Verb
-from reader import CsvInputRow
+from .VerbData import *
 
 
 class BaseExtractor:
     @classmethod
-    def extract_with_translation(cls, input_data: CsvInputRow) -> Verb:
+    def extract_verb_data(cls, verb) -> VerbData:
         pass

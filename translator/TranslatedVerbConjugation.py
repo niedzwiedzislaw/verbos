@@ -1,7 +1,7 @@
 from dataclasses import dataclass, fields
 from typing import Dict
 
-from model import Tense
+from extractor import Tense
 
 
 @dataclass
@@ -35,6 +35,7 @@ class TranslatedTense:
     def empty(cls):
         return cls(*[Translation.empty() for i in fields(cls)])
 
+
 @dataclass
 class TranslatedImperativo:
     tu: Translation
@@ -52,7 +53,7 @@ class TranslatedImperativo:
 
 
 @dataclass
-class Verb:
+class TranslatedVerbConjugation:
     infinitivo: str
     polish: str
     english: str
