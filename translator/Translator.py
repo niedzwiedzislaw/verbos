@@ -129,7 +129,7 @@ class Translator:
         past_translation = cls.translate_past_with_root(
             verb_data.infinitivo, verb_data.pret_indefinido, translation_params.past)
 
-        v = TranslatedVerbConjugation(
+        return TranslatedVerbConjugation(
             verb_data.infinitivo,
             translation_params.polski,
             verb_data.ingles,
@@ -137,6 +137,6 @@ class Translator:
             present_translation,
             past_translation,
             verb_data.pret_perfecto,
-            TranslatedImperativo.empty()
+            TranslatedImperativo.empty(),
+            verb_data.presente_progresivo,
         )
-        return v

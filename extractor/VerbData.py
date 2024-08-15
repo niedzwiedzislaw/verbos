@@ -20,7 +20,10 @@ class Tense:
 @dataclass
 class VerbData:
     infinitivo: str
+    gerundio: str
+    participio: str
     ingles: str
     presente: Tense
     pret_indefinido: Tense
     pret_perfecto: Tense
+    presente_progresivo: Tense

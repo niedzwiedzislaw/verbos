@@ -10,6 +10,7 @@ tense_names = {
     'presente': 'presente',
     'pret_indefinido': 'pret. indefinido',
     'pret_perfecto': 'pret. perfecto',
+    'presente_progresivo': 'presente progresivo'
 }
 
 person_abbr_with_accents = {

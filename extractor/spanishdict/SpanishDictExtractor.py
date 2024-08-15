@@ -36,10 +36,30 @@ class SpanishDictExtractor:
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
+    def extract_presente_progresivo(cls, soup: BeautifulSoup) -> Tense:
+        tbody = soup.findAll('tbody')[4]
+        cells = [row.findAll('td')[1] for row in tbody.findAll('tr')[1:]]
+        return Tense(*[cls.parse_conjugation(i) for i in cells])
+
+    @classmethod
     def extract_pret_perfecto(cls, soup: BeautifulSoup) -> Tense:
         tbody = soup.findAll('tbody')[5]
         cells = [row.findAll('td')[1] for row in tbody.findAll('tr')[1:]]
         return Tense(*[cls.parse_conjugation(i) for i in cells])
+
+    @classmethod
+    def extract_participio(cls, soup: BeautifulSoup) -> str:
+        div = soup.find('div', {'id': 'sd-participles-section'})
+        tbody = div.find('tbody')
+        cell = tbody.findAll('td')[3]
+        return cell.text
+
+    @classmethod
+    def extract_gerundio(cls, soup: BeautifulSoup) -> str:
+        div = soup.find('div', {'id': 'sd-participles-section'})
+        tbody = div.find('tbody')
+        cell = tbody.findAll('td')[1]
+        return cell.text
 
     @classmethod
     def extract_english(cls, soup: BeautifulSoup) -> str:
@@ -63,20 +83,24 @@ class SpanishDictExtractor:
         try:
             f = open(f'cache/spanishdict/{verb}.html', encoding='utf-8').read()
         except:
+            print(f'Downloading {verb}')
             f = requests.get(f"https://www.spanishdict.com/conjugate/{verb}").text
             with open(f'cache/spanishdict/{verb}.html', 'w', encoding='utf-8') as h:
                 h.write(f)
 
         try:
             soup = BeautifulSoup(f, 'html.parser')
-            infinitivo_con_accentos = cls.extract_infinitivo(soup, verb)
-            ingles = cls.extract_english(soup)
-            presente = cls.extract_presente(soup)
-            pret_indefinido = cls.extract_pret_indefinido(soup)
-            pret_perfecto = cls.extract_pret_perfecto(soup)
+            return VerbData(
+                cls.extract_infinitivo(soup, verb),
+                cls.extract_gerundio(soup),
+                cls.extract_participio(soup),
+                cls.extract_english(soup),
+                cls.extract_presente(soup),
+                cls.extract_pret_indefinido(soup),
+                cls.extract_pret_perfecto(soup),
+                cls.extract_presente_progresivo(soup)
+            )
         except Exception as e:
             print(f'Problem with {verb}')
             print(f"URL: https://www.spanishdict.com/conjugate/{verb}")
             raise e
-        else:
-            return VerbData(infinitivo_con_accentos, ingles, presente, pret_indefinido, pret_perfecto)

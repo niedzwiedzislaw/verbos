@@ -12,6 +12,7 @@ comer,jeść,jadł,jedli,je,
 componer,skomponować
 comprar,kupować,kupił,kupili,kupuje,
 conducir,prowadzić
+confundirse,pomylić się
 conocer,znać,znał,znali,zna,
 conseguir,zyskać,zyskał,zyskali,zyskuje,
 construir,budować
@@ -25,9 +26,11 @@ descubrir,odkryć,odkrył,odkryli,odkrywa,
 despertarse,budzić się,budził,budzili,budzi,
 dormir,spać,spał,spali,śpi,
 empezar,zaczynać,zaczynał,zaczynali,zaczyna,
+entender,rozumieć
 equivocarse,pomylić się
 escribir,pisać,pisał,pisali,pisze,
 esperar,czekać,czekał,czekali,czeka,
+esperar,czekać
 estar,być,był,byli,jest,
 fregar,szorować
 freír,smażyć
@@ -51,16 +54,18 @@ obtener,uzyskać
 oir,słyszeć
 oler,wąchać
 parecer,przypominać
-pedir,zapywać
+pedir,poprosić
 pensar,myśleć,myśllał,myśleli,myśli,
 poder,móc,mógł,mogli,może,
 poner,kłaść
 preferir,preferować,preferował,preferowali,preferuje,
 preparar,przygotowywać,przygotował,przygotowali,przygotowuje,
 preparar,przygotować,przygotował,przygotowali,przygotowuje,
+prohibir,zabronić
 querer,chcieć,chciał,chcieli,chce,
 repetir,powtarzać,powtarzał,powtarzali,powtarza,
 romparse,złamać
+romper,łamać
 saber,wiedzieć,wiedział,wiedzieli,wie,
 sacarse,dostać
 salir,wychodzić,wyszedł,wyszli,wychodzi,
@@ -68,6 +73,7 @@ seguir,kontynuować
 sentir,czuć,czuł,czuli,czuje,
 ser,być,był,byli,jest,
 soler,mieć w zwyczaju
+suponer,przypuszczać
 tener,mieć,miał,mieli,ma,
 traducir,tłumaczyć
 traer,przynieść
@@ -78,4 +84,3 @@ vestir,nosić,nosił,nosili,nosi,
 vestirse,ubierać się,ubierał,ubierali,ubiera,
 volar,latać
 volver,wracać,wracał,wracali,wraca,
-prohibir,zabronić
