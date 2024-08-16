@@ -38,12 +38,12 @@ class Card:
 
     def __post_init__(self):
         self.question = f'{self.infinitivo}, {person_abbr_with_accents[self.person]}, {tense_names[self.case]}'
-        if separator == ',':
-            self.question = '"' + self.question + '"'
 
     def to_line(self, sep=separator):
-        values = [str(getattr(self, f.name)) for f in fields(self)]
-        return sep.join(values)
+        return sep.join(self.values())
+
+    def values(self) -> List[str]:
+        return [str(getattr(self, f.name)) for f in fields(self)]
 
     @staticmethod
     def get_headers(sep=separator):

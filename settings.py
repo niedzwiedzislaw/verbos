@@ -1,1 +1,1 @@
-separator = ';'
+separator = ','

@@ -29,8 +29,9 @@ def main():
         f.write(f'#notetype:Spanish Conjugation' + '\n')
         f.write(f'#deck:Spanish::conjugación' + '\n')
         f.write('#columns:' + Card.get_headers() + '\n')
+        w = csv.writer(f, delimiter=separator)
         for c in cards:
-            f.write(c.to_line() + '\n')
+            w.writerow(c.values())
 
     # new_words = pd.json_normalize([asdict(v) for v in results])
     # new_words.set_index('infinitivo')
