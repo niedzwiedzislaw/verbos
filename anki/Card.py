@@ -39,9 +39,6 @@ class Card:
     def __post_init__(self):
         self.question = f'{self.infinitivo}, {person_abbr_with_accents[self.person]}, {tense_names[self.case]}'
 
-    def to_line(self, sep=separator):
-        return sep.join(self.values())
-
     def values(self) -> List[str]:
         return [str(getattr(self, f.name)) for f in fields(self)]
 
