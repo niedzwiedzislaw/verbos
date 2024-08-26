@@ -45,8 +45,10 @@ class SpanishDictExtractor:
     @classmethod
     def extract_imperativo(cls, soup: BeautifulSoup) -> Imperativo:
         tbody = soup.findAll('tbody')[3]
-        cells = [row.findAll('td')[1] for row in tbody.findAll('tr')[1:]]
-        return Imperativo(*[cls.parse_conjugation(i) for i in cells[1:]])
+        tr = tbody.findAll('tr')
+        # cells = [row.findAll(['th', 'td'])[1] for row in tr[2:]]
+        cells = [row.findAll('td')[0] for row in tr[2:]]
+        return Imperativo(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
     def extract_presente_progresivo(cls, soup: BeautifulSoup) -> Tense:
