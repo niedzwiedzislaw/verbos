@@ -1,7 +1,7 @@
 from dataclasses import dataclass, fields
 from typing import Dict
 
-from extractor import Tense
+from extractor import Tense, Imperativo
 
 
 @dataclass
@@ -61,9 +61,9 @@ class TranslatedVerbConjugation:
     presente: TranslatedTense
     pret_indefinido: TranslatedTense
     pret_perfecto: Tense
-    imp_afirmativo: TranslatedImperativo
     presente_progresivo: Tense
     pret_imperfecto: Tense
+    imperativo: Imperativo
 
     def translated_tenses(self) -> Dict[str, TranslatedTense]:
         return {
@@ -76,5 +76,5 @@ class TranslatedVerbConjugation:
             'pret_perfecto': self.pret_perfecto,
             'presente_progresivo': self.presente_progresivo,
             'pret_imperfecto': self.pret_imperfecto,
-            'imp_afirmativo': self.imp_afirmativo,
+            'imperativo': self.imperativo,
         }

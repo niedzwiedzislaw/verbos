@@ -12,7 +12,7 @@ tense_names = {
     'pret_perfecto': 'pret. perfecto',
     'presente_progresivo': 'presente progresivo',
     'pret_imperfecto': 'pretérito imperfecto',
-    'imp_afirmativo': 'imperativo'
+    'imperativo': 'imperativo'
 }
 
 person_abbr_with_accents = {

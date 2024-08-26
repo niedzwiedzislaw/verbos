@@ -36,4 +36,4 @@ class VerbData:
     pret_perfecto: Tense
     presente_progresivo: Tense
     pret_imperfecto: Tense
-    # imp_afirmativo: Imperativo
+    imperativo: Imperativo

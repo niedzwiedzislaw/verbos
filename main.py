@@ -22,7 +22,7 @@ def main():
         results = [prepare_conjugation(CsvInputRow(*row)) for row in tqdm(list(rows), dynamic_ncols=True)]
 
     cards: Stream[Card] = Stream(lambda: results).map(Card.create_cards).flatten()
-    with open('verbos_conjugacion.csv', 'w', encoding='utf-8') as f:
+    with open('verbos_conjugacion.csv', 'w', encoding='utf-8', newline='') as f:
         f.write(f'#separator:{separator}' + '\n')
         f.write(f'#html:true' + '\n')
         f.write(f'#if matches:keep current' + '\n')
