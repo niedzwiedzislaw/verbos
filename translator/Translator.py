@@ -137,6 +137,7 @@ class Translator:
             present_translation,
             past_translation,
             verb_data.pret_perfecto,
-            TranslatedImperativo.empty(),
             verb_data.presente_progresivo,
+            verb_data.pret_imperfecto,
+            verb_data.imperativo
         )
