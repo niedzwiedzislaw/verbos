@@ -16,6 +16,14 @@ class Tense:
     vs: ConjugationData
     ellos: ConjugationData
 
+@dataclass
+class Imperativo:
+    tu: ConjugationData
+    ud: ConjugationData
+    ns: ConjugationData
+    vs: ConjugationData
+    uds: ConjugationData
+
 
 @dataclass
 class VerbData:
@@ -27,3 +35,5 @@ class VerbData:
     pret_indefinido: Tense
     pret_perfecto: Tense
     presente_progresivo: Tense
+    pret_imperfecto: Tense
+    # imp_afirmativo: Imperativo

@@ -10,16 +10,20 @@ tense_names = {
     'presente': 'presente',
     'pret_indefinido': 'pret. indefinido',
     'pret_perfecto': 'pret. perfecto',
-    'presente_progresivo': 'presente progresivo'
+    'presente_progresivo': 'presente progresivo',
+    'pret_imperfecto': 'pretérito imperfecto',
+    'imp_afirmativo': 'imperativo'
 }
 
 person_abbr_with_accents = {
     'yo': 'yo',
     'tu': 'tú',
     'el': 'él',
+    'ud': 'usted',
     'ns': 'ns',
     'vs': 'vs',
     'ellos': 'ellos',
+    'uds': 'ustedes'
 }
 
 

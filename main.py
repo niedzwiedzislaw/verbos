@@ -19,7 +19,7 @@ def prepare_conjugation(params: CsvInputRow) -> TranslatedVerbConjugation:
 def main():
     with open('input.csv', encoding='utf-8') as f:
         rows = csv.reader(f, delimiter=',', quotechar='"')
-        results = [prepare_conjugation(CsvInputRow(*row)) for row in tqdm(list(rows))]
+        results = [prepare_conjugation(CsvInputRow(*row)) for row in tqdm(list(rows), dynamic_ncols=True)]
 
     cards: Stream[Card] = Stream(lambda: results).map(Card.create_cards).flatten()
     with open('verbos_conjugacion.csv', 'w', encoding='utf-8') as f:

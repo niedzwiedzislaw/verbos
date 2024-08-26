@@ -1,4 +1,5 @@
 import requests
+import tqdm
 from bs4 import BeautifulSoup
 
 from extractor import *
@@ -33,6 +34,12 @@ class SpanishDictExtractor:
     def extract_pret_indefinido(cls, soup: BeautifulSoup) -> Tense:
         tbody = soup.findAll('tbody')[1]
         cells = [row.findAll('td')[2] for row in tbody.findAll('tr')[1:]]
+        return Tense(*[cls.parse_conjugation(i) for i in cells])
+
+    @classmethod
+    def extract_preterito_imperfecto(cls, soup: BeautifulSoup) -> Tense:
+        tbody = soup.findAll('tbody')[1]
+        cells = [row.findAll('td')[3] for row in tbody.findAll('tr')[1:]]
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
@@ -98,7 +105,8 @@ class SpanishDictExtractor:
                 cls.extract_presente(soup),
                 cls.extract_pret_indefinido(soup),
                 cls.extract_pret_perfecto(soup),
-                cls.extract_presente_progresivo(soup)
+                cls.extract_presente_progresivo(soup),
+                cls.extract_preterito_imperfecto(soup)
             )
         except Exception as e:
             print(f'Problem with {verb}')
