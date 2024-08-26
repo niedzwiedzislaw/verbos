@@ -17,6 +17,7 @@ class Translator:
                     return ''
                 case _:
                     return (
+                            substitute(root_sg, 'oże', 'ogę') or
                             substitute(root_sg, 'si', 'szę') or
                             substitute(root_sg, 'ści', 'szczę') or
                             substitute(root_sg, 'dzie', 'dę') or

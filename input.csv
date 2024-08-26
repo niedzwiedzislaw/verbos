@@ -6,6 +6,7 @@ alquilar,wynajmować,wynajmował,wynajmowali,wynajmuje,
 andar,chodzić
 beber,pić
 caerse,upaść
+causar,powodować
 cenar,jeść kolację
 cerrar,zamykać,zamykał,zamykali,zamyka,
 comer,jeść,jadł,jedli,je,
@@ -24,18 +25,19 @@ dejar,pozostawić
 desayunar,jeść śniadanie,,,,
 descubrir,odkryć,odkrył,odkryli,odkrywa,
 despertarse,budzić się,budził,budzili,budzi,
+doler,boleć
 dormir,spać,spał,spali,śpi,
 empezar,zaczynać,zaczynał,zaczynali,zaczyna,
 entender,rozumieć
 equivocarse,pomylić się
 escribir,pisać,pisał,pisali,pisze,
 esperar,czekać,czekał,czekali,czeka,
-esperar,czekać
 estar,być,był,byli,jest,
 fregar,szorować
 freír,smażyć
 haber,egzystować
 hacer,robić
+hervir,gotować
 huir,uciekać
 influir,wpływać
 ir,iść,szedł,szli,idzie,
@@ -48,6 +50,7 @@ llevarse,dogadywać się
 llover,padać
 medir,mierzyć
 morir,umrzeć
+mostrar,pokazywać
 mover,przenosić
 nacer,urodzić się,rodził,rodzili,rodzi,
 obtener,uzyskać
@@ -59,7 +62,6 @@ pensar,myśleć,myśllał,myśleli,myśli,
 poder,móc,mógł,mogli,może,
 poner,kłaść
 preferir,preferować,preferował,preferowali,preferuje,
-preparar,przygotowywać,przygotował,przygotowali,przygotowuje,
 preparar,przygotować,przygotował,przygotowali,przygotowuje,
 prohibir,zabronić
 querer,chcieć,chciał,chcieli,chce,
@@ -77,6 +79,7 @@ suponer,przypuszczać
 tener,mieć,miał,mieli,ma,
 traducir,tłumaczyć
 traer,przynieść
+tratar,próbować
 vencer,pokonać
 venir,przychodzić
 ver,oglądać,oglądał,oglądali,ogląda,
@@ -84,8 +87,3 @@ vestir,nosić,nosił,nosili,nosi,
 vestirse,ubierać się,ubierał,ubierali,ubiera,
 volar,latać
 volver,wracać,wracał,wracali,wraca,
-tratar,próbować
-mostrar,pokazywać
-hervir,gotować
-doler,boleć
-causar,powodować

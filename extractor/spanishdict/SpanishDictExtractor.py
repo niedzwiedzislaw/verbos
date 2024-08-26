@@ -48,7 +48,6 @@ class SpanishDictExtractor:
         tr = tbody.findAll('tr')
         cells = [row.findAll(['th', 'td'])[1] for row in tr[2:]]
         # cells = [row.findAll('td')[0] for row in tr[2:]]
-        print(cells)
         return Imperativo(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
