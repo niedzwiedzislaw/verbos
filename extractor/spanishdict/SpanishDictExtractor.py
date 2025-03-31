@@ -27,19 +27,19 @@ class SpanishDictExtractor:
     @classmethod
     def extract_presente(cls, soup: BeautifulSoup) -> Tense:
         tbody = soup.findAll('tbody')[1]
-        cells = [row.findAll('td')[1] for row in tbody.findAll('tr')[1:]]
+        cells = [row.findAll(['th', 'td'])[1] for row in tbody.findAll('tr')[1:]]
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
     def extract_pret_indefinido(cls, soup: BeautifulSoup) -> Tense:
         tbody = soup.findAll('tbody')[1]
-        cells = [row.findAll('td')[2] for row in tbody.findAll('tr')[1:]]
+        cells = [row.findAll(['th', 'td'])[2] for row in tbody.findAll('tr')[1:]]
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
     def extract_preterito_imperfecto(cls, soup: BeautifulSoup) -> Tense:
         tbody = soup.findAll('tbody')[1]
-        cells = [row.findAll('td')[3] for row in tbody.findAll('tr')[1:]]
+        cells = [row.findAll(['th', 'td'])[3] for row in tbody.findAll('tr')[1:]]
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
@@ -47,33 +47,33 @@ class SpanishDictExtractor:
         tbody = soup.findAll('tbody')[3]
         tr = tbody.findAll('tr')
         cells = [row.findAll(['th', 'td'])[1] for row in tr[2:]]
-        # cells = [row.findAll('td')[0] for row in tr[2:]]
+        # cells = [row.findAll(['th', 'td'])[0] for row in tr[2:]]
         return Imperativo(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
     def extract_presente_progresivo(cls, soup: BeautifulSoup) -> Tense:
         tbody = soup.findAll('tbody')[4]
-        cells = [row.findAll('td')[1] for row in tbody.findAll('tr')[1:]]
+        cells = [row.findAll(['th', 'td'])[1] for row in tbody.findAll('tr')[1:]]
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
     def extract_pret_perfecto(cls, soup: BeautifulSoup) -> Tense:
         tbody = soup.findAll('tbody')[5]
-        cells = [row.findAll('td')[1] for row in tbody.findAll('tr')[1:]]
+        cells = [row.findAll(['th', 'td'])[1] for row in tbody.findAll('tr')[1:]]
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
     def extract_participio(cls, soup: BeautifulSoup) -> str:
         div = soup.find('div', {'id': 'sd-participles-section'})
         tbody = div.find('tbody')
-        cell = tbody.findAll('td')[3]
+        cell = tbody.findAll(['th', 'td'])[3]
         return cell.text
 
     @classmethod
     def extract_gerundio(cls, soup: BeautifulSoup) -> str:
         div = soup.find('div', {'id': 'sd-participles-section'})
         tbody = div.find('tbody')
-        cell = tbody.findAll('td')[1]
+        cell = tbody.findAll(['th', 'td'])[1]
         return cell.text
 
     @classmethod
