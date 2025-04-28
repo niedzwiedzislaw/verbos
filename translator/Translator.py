@@ -17,6 +17,7 @@ class Translator:
                     return ''
                 case _:
                     return (
+                            substitute(root_sg, 'wie', 'wiem') or
                             substitute(root_sg, 'oże', 'ogę') or
                             substitute(root_sg, 'si', 'szę') or
                             substitute(root_sg, 'ści', 'szczę') or
@@ -140,5 +141,6 @@ class Translator:
             verb_data.pret_perfecto,
             verb_data.presente_progresivo,
             verb_data.pret_imperfecto,
+            verb_data.futuro_simple,
             verb_data.imperativo
         )

@@ -63,6 +63,12 @@ class SpanishDictExtractor:
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
+    def extract_futuro_simple(cls, soup: BeautifulSoup) -> Tense:
+        tbody = soup.findAll('tbody')[1]
+        cells = [row.findAll(['th', 'td'])[5] for row in tbody.findAll('tr')[1:]]
+        return Tense(*[cls.parse_conjugation(i) for i in cells])
+
+    @classmethod
     def extract_participio(cls, soup: BeautifulSoup) -> str:
         div = soup.find('div', {'id': 'sd-participles-section'})
         tbody = div.find('tbody')
@@ -100,7 +106,7 @@ class SpanishDictExtractor:
         except:
             print(f'Downloading {verb}')
             f = requests.get(f"https://www.spanishdict.com/conjugate/{verb}").text
-            with open(f'cache/spanishdict/{verb}.html', 'w', encoding='utf-8') as h:
+            with open(f'../cache/spanishdict/{verb}.html', 'w', encoding='utf-8') as h:
                 h.write(f)
 
         try:
@@ -115,7 +121,8 @@ class SpanishDictExtractor:
                 cls.extract_pret_perfecto(soup),
                 cls.extract_presente_progresivo(soup),
                 cls.extract_preterito_imperfecto(soup),
-                cls.extract_imperativo(soup)
+                cls.extract_futuro_simple(soup),
+                cls.extract_imperativo(soup),
             )
         except Exception as e:
             print(f'Problem with {verb}')

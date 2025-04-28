@@ -1,0 +1,459 @@
+#separator:,
+#html:true
+#if matches:keep both
+#notetype:Spanish Conjugation
+#deck:Spanish::conjugación::Basic verbs::irregulares
+#columns:question,infinitivo,polski,english,person,case,conj_espanol,conj_polski,irregular,hint
+"acostarse, yo, presente",acostarse,położyć się,to go to bed,yo,presente,me ac<em>ue</em>sto,kładę się,True,
+"acostarse, tú, presente",acostarse,położyć się,to go to bed,tu,presente,te ac<em>ue</em>stas,kładziesz się,True,
+"acostarse, él, presente",acostarse,położyć się,to go to bed,el,presente,se ac<em>ue</em>sta,kładzie się,True,
+"acostarse, ellos, presente",acostarse,położyć się,to go to bed,ellos,presente,se ac<em>ue</em>stan,kładą się,True,
+"acostarse, tú, imperativo",acostarse,położyć się,to go to bed,tu,imperativo,ac<em>ué</em>state,,True,
+"acostarse, usted, imperativo",acostarse,położyć się,to go to bed,ud,imperativo,ac<em>ué</em>stese,,True,
+"acostarse, ustedes, imperativo",acostarse,położyć się,to go to bed,uds,imperativo,ac<em>ué</em>stense,,True,
+"andar, yo, pret. indefinido",andar,chodzić,to walk,yo,pret_indefinido,and<em>uve</em>,,True,
+"andar, tú, pret. indefinido",andar,chodzić,to walk,tu,pret_indefinido,and<em>uvi</em>ste,,True,
+"andar, él, pret. indefinido",andar,chodzić,to walk,el,pret_indefinido,and<em>uvo</em>,,True,
+"andar, ns, pret. indefinido",andar,chodzić,to walk,ns,pret_indefinido,and<em>uvi</em>mos,,True,
+"andar, vs, pret. indefinido",andar,chodzić,to walk,vs,pret_indefinido,and<em>uvi</em>steis,,True,
+"andar, ellos, pret. indefinido",andar,chodzić,to walk,ellos,pret_indefinido,and<em>uvie</em>ron,,True,
+"conseguir, yo, presente",conseguir,zyskać,to get,yo,presente,cons<em>ig</em>o,zyskuję,True,
+"conseguir, tú, presente",conseguir,zyskać,to get,tu,presente,cons<em>i</em>gues,zyskujesz,True,
+"conseguir, él, presente",conseguir,zyskać,to get,el,presente,cons<em>i</em>gue,zyskuje,True,
+"conseguir, ellos, presente",conseguir,zyskać,to get,ellos,presente,cons<em>i</em>guen,zyskują,True,
+"conseguir, él, pret. indefinido",conseguir,zyskać,to get,el,pret_indefinido,cons<em>i</em>guió,zyskał,True,
+"conseguir, ellos, pret. indefinido",conseguir,zyskać,to get,ellos,pret_indefinido,cons<em>i</em>guieron,zyskali,True,
+"conseguir, yo, presente progresivo",conseguir,zyskać,to get,yo,presente_progresivo,estoy cons<em>i</em>guiendo,,True,
+"conseguir, tú, presente progresivo",conseguir,zyskać,to get,tu,presente_progresivo,estás cons<em>i</em>guiendo,,True,
+"conseguir, él, presente progresivo",conseguir,zyskać,to get,el,presente_progresivo,está cons<em>i</em>guiendo,,True,
+"conseguir, ns, presente progresivo",conseguir,zyskać,to get,ns,presente_progresivo,estamos cons<em>i</em>guiendo,,True,
+"conseguir, vs, presente progresivo",conseguir,zyskać,to get,vs,presente_progresivo,estáis cons<em>i</em>guiendo,,True,
+"conseguir, ellos, presente progresivo",conseguir,zyskać,to get,ellos,presente_progresivo,están cons<em>i</em>guiendo,,True,
+"conseguir, tú, imperativo",conseguir,zyskać,to get,tu,imperativo,cons<em>i</em>gue,,True,
+"conseguir, usted, imperativo",conseguir,zyskać,to get,ud,imperativo,cons<em>ig</em>a,,True,
+"conseguir, ns, imperativo",conseguir,zyskać,to get,ns,imperativo,cons<em>ig</em>amos,,True,
+"conseguir, ustedes, imperativo",conseguir,zyskać,to get,uds,imperativo,cons<em>ig</em>an,,True,
+"dar, yo, presente",dar,dać,to give,yo,presente,do<em>y</em>,daję,True,
+"dar, vs, presente",dar,dać,to give,vs,presente,d<em>a</em>is,dajecie,True,
+"dar, yo, pret. indefinido",dar,dać,to give,yo,pret_indefinido,d<em>i</em>,dałem,True,
+"dar, tú, pret. indefinido",dar,dać,to give,tu,pret_indefinido,d<em>i</em>ste,dałeś,True,
+"dar, él, pret. indefinido",dar,dać,to give,el,pret_indefinido,d<em>io</em>,dał,True,
+"dar, ns, pret. indefinido",dar,dać,to give,ns,pret_indefinido,d<em>i</em>mos,daliśmy,True,
+"dar, vs, pret. indefinido",dar,dać,to give,vs,pret_indefinido,d<em>i</em>steis,daliście,True,
+"dar, ellos, pret. indefinido",dar,dać,to give,ellos,pret_indefinido,d<em>ie</em>ron,dali,True,
+"dar, usted, imperativo",dar,dać,to give,ud,imperativo,d<em>é</em>,,True,
+"decir, yo, presente",decir,mówić,to say,yo,presente,d<em>ig</em>o,mówię,True,
+"decir, tú, presente",decir,mówić,to say,tu,presente,d<em>i</em>ces,mówisz,True,
+"decir, él, presente",decir,mówić,to say,el,presente,d<em>i</em>ce,mówi,True,
+"decir, ellos, presente",decir,mówić,to say,ellos,presente,d<em>i</em>cen,mówią,True,
+"decir, yo, pret. indefinido",decir,mówić,to say,yo,pret_indefinido,d<em>ije</em>,mówiłem,True,
+"decir, tú, pret. indefinido",decir,mówić,to say,tu,pret_indefinido,d<em>ij</em>iste,mówiłeś,True,
+"decir, él, pret. indefinido",decir,mówić,to say,el,pret_indefinido,d<em>ijo</em>,mówił,True,
+"decir, ns, pret. indefinido",decir,mówić,to say,ns,pret_indefinido,d<em>ij</em>imos,mówiliśmy,True,
+"decir, vs, pret. indefinido",decir,mówić,to say,vs,pret_indefinido,d<em>ij</em>isteis,mówiliście,True,
+"decir, ellos, pret. indefinido",decir,mówić,to say,ellos,pret_indefinido,d<em>ij</em>eron,mówili,True,
+"decir, yo, pret. perfecto",decir,mówić,to say,yo,pret_perfecto,he d<em>ich</em>o,,True,
+"decir, tú, pret. perfecto",decir,mówić,to say,tu,pret_perfecto,has d<em>ich</em>o,,True,
+"decir, él, pret. perfecto",decir,mówić,to say,el,pret_perfecto,ha d<em>ich</em>o,,True,
+"decir, ns, pret. perfecto",decir,mówić,to say,ns,pret_perfecto,hemos d<em>ich</em>o,,True,
+"decir, vs, pret. perfecto",decir,mówić,to say,vs,pret_perfecto,habéis d<em>ich</em>o,,True,
+"decir, ellos, pret. perfecto",decir,mówić,to say,ellos,pret_perfecto,han d<em>ich</em>o,,True,
+"decir, yo, presente progresivo",decir,mówić,to say,yo,presente_progresivo,estoy d<em>i</em>ciendo,,True,
+"decir, tú, presente progresivo",decir,mówić,to say,tu,presente_progresivo,estás d<em>i</em>ciendo,,True,
+"decir, él, presente progresivo",decir,mówić,to say,el,presente_progresivo,está d<em>i</em>ciendo,,True,
+"decir, ns, presente progresivo",decir,mówić,to say,ns,presente_progresivo,estamos d<em>i</em>ciendo,,True,
+"decir, vs, presente progresivo",decir,mówić,to say,vs,presente_progresivo,estáis d<em>i</em>ciendo,,True,
+"decir, ellos, presente progresivo",decir,mówić,to say,ellos,presente_progresivo,están d<em>i</em>ciendo,,True,
+"decir, tú, imperativo",decir,mówić,to say,tu,imperativo,d<em>i</em>,,True,
+"decir, usted, imperativo",decir,mówić,to say,ud,imperativo,d<em>ig</em>a,,True,
+"decir, ns, imperativo",decir,mówić,to say,ns,imperativo,d<em>ig</em>amos,,True,
+"decir, ustedes, imperativo",decir,mówić,to say,uds,imperativo,d<em>ig</em>an,,True,
+"decir, yo, futuro",decir,mówić,to say,yo,futuro_simple,d<em>ir</em>é,,True,
+"decir, tú, futuro",decir,mówić,to say,tu,futuro_simple,d<em>ir</em>ás,,True,
+"decir, él, futuro",decir,mówić,to say,el,futuro_simple,d<em>ir</em>á,,True,
+"decir, ns, futuro",decir,mówić,to say,ns,futuro_simple,d<em>ir</em>emos,,True,
+"decir, vs, futuro",decir,mówić,to say,vs,futuro_simple,d<em>ir</em>éis,,True,
+"decir, ellos, futuro",decir,mówić,to say,ellos,futuro_simple,d<em>ir</em>án,,True,
+"despertarse, yo, presente",despertarse,budzić się,to wake up,yo,presente,me desp<em>i</em>erto,budzę się,True,
+"despertarse, tú, presente",despertarse,budzić się,to wake up,tu,presente,te desp<em>i</em>ertas,budzisz się,True,
+"despertarse, él, presente",despertarse,budzić się,to wake up,el,presente,se desp<em>i</em>erta,budzi się,True,
+"despertarse, ellos, presente",despertarse,budzić się,to wake up,ellos,presente,se desp<em>i</em>ertan,budzą się,True,
+"despertarse, tú, imperativo",despertarse,budzić się,to wake up,tu,imperativo,desp<em>i</em>értate,,True,
+"despertarse, usted, imperativo",despertarse,budzić się,to wake up,ud,imperativo,desp<em>i</em>értese,,True,
+"despertarse, ustedes, imperativo",despertarse,budzić się,to wake up,uds,imperativo,desp<em>i</em>értense,,True,
+"dormir, yo, presente",dormir,spać,to sleep,yo,presente,d<em>ue</em>rmo,śpę,True,
+"dormir, tú, presente",dormir,spać,to sleep,tu,presente,d<em>ue</em>rmes,śpisz,True,
+"dormir, él, presente",dormir,spać,to sleep,el,presente,d<em>ue</em>rme,śpi,True,
+"dormir, ellos, presente",dormir,spać,to sleep,ellos,presente,d<em>ue</em>rmen,śpią,True,
+"dormir, él, pret. indefinido",dormir,spać,to sleep,el,pret_indefinido,d<em>u</em>rmió,spał,True,
+"dormir, ellos, pret. indefinido",dormir,spać,to sleep,ellos,pret_indefinido,d<em>u</em>rmieron,spali,True,
+"dormir, yo, presente progresivo",dormir,spać,to sleep,yo,presente_progresivo,estoy d<em>u</em>rmiendo,,True,
+"dormir, tú, presente progresivo",dormir,spać,to sleep,tu,presente_progresivo,estás d<em>u</em>rmiendo,,True,
+"dormir, él, presente progresivo",dormir,spać,to sleep,el,presente_progresivo,está d<em>u</em>rmiendo,,True,
+"dormir, ns, presente progresivo",dormir,spać,to sleep,ns,presente_progresivo,estamos d<em>u</em>rmiendo,,True,
+"dormir, vs, presente progresivo",dormir,spać,to sleep,vs,presente_progresivo,estáis d<em>u</em>rmiendo,,True,
+"dormir, ellos, presente progresivo",dormir,spać,to sleep,ellos,presente_progresivo,están d<em>u</em>rmiendo,,True,
+"dormir, tú, imperativo",dormir,spać,to sleep,tu,imperativo,d<em>ue</em>rme,,True,
+"dormir, usted, imperativo",dormir,spać,to sleep,ud,imperativo,d<em>ue</em>rma,,True,
+"dormir, ns, imperativo",dormir,spać,to sleep,ns,imperativo,d<em>u</em>rmamos,,True,
+"dormir, ustedes, imperativo",dormir,spać,to sleep,uds,imperativo,d<em>ue</em>rman,,True,
+"empezar, yo, presente",empezar,zaczynać,to start,yo,presente,emp<em>i</em>ezo,zaczynam,True,
+"empezar, tú, presente",empezar,zaczynać,to start,tu,presente,emp<em>i</em>ezas,zaczynasz,True,
+"empezar, él, presente",empezar,zaczynać,to start,el,presente,emp<em>i</em>eza,zaczyna,True,
+"empezar, ellos, presente",empezar,zaczynać,to start,ellos,presente,emp<em>i</em>ezan,zaczynją,True,
+"empezar, yo, pret. indefinido",empezar,zaczynać,to start,yo,pret_indefinido,empe<em>c</em>é,zaczynałem,True,
+"empezar, tú, imperativo",empezar,zaczynać,to start,tu,imperativo,emp<em>i</em>eza,,True,
+"empezar, usted, imperativo",empezar,zaczynać,to start,ud,imperativo,emp<em>iec</em>e,,True,
+"empezar, ns, imperativo",empezar,zaczynać,to start,ns,imperativo,empe<em>c</em>emos,,True,
+"empezar, ustedes, imperativo",empezar,zaczynać,to start,uds,imperativo,emp<em>iec</em>en,,True,
+"entender, yo, presente",entender,rozumieć,to understand,yo,presente,ent<em>i</em>endo,,True,
+"entender, tú, presente",entender,rozumieć,to understand,tu,presente,ent<em>i</em>endes,,True,
+"entender, él, presente",entender,rozumieć,to understand,el,presente,ent<em>i</em>ende,,True,
+"entender, ellos, presente",entender,rozumieć,to understand,ellos,presente,ent<em>i</em>enden,,True,
+"entender, tú, imperativo",entender,rozumieć,to understand,tu,imperativo,ent<em>i</em>ende,,True,
+"entender, usted, imperativo",entender,rozumieć,to understand,ud,imperativo,ent<em>i</em>enda,,True,
+"entender, ustedes, imperativo",entender,rozumieć,to understand,uds,imperativo,ent<em>i</em>endan,,True,
+"estar, yo, presente",estar,być,to be,yo,presente,esto<em>y</em>,jestem,True,estar
+"estar, tú, presente",estar,być,to be,tu,presente,est<em>á</em>s,jesteś,True,estar
+"estar, él, presente",estar,być,to be,el,presente,est<em>á</em>,jest,True,estar
+"estar, ellos, presente",estar,być,to be,ellos,presente,est<em>á</em>n,są,True,estar
+"estar, yo, pret. indefinido",estar,być,to be,yo,pret_indefinido,est<em>uve</em>,byłem,True,estar
+"estar, tú, pret. indefinido",estar,być,to be,tu,pret_indefinido,est<em>uvi</em>ste,byłeś,True,estar
+"estar, él, pret. indefinido",estar,być,to be,el,pret_indefinido,est<em>uvo</em>,był,True,estar
+"estar, ns, pret. indefinido",estar,być,to be,ns,pret_indefinido,est<em>uvi</em>mos,byliśmy,True,estar
+"estar, vs, pret. indefinido",estar,być,to be,vs,pret_indefinido,est<em>uvi</em>steis,byliście,True,estar
+"estar, ellos, pret. indefinido",estar,być,to be,ellos,pret_indefinido,est<em>uvie</em>ron,byli,True,estar
+"estar, tú, imperativo",estar,być,to be,tu,imperativo,est<em>á</em>,,True,estar
+"estar, usted, imperativo",estar,być,to be,ud,imperativo,est<em>é</em>,,True,estar
+"estar, ustedes, imperativo",estar,być,to be,uds,imperativo,est<em>é</em>n,,True,estar
+"haber, yo, presente",haber,egzystować,to have,yo,presente,h<em>e</em>,,True,
+"haber, tú, presente",haber,egzystować,to have,tu,presente,ha<em>s</em>,,True,
+"haber, él, presente",haber,egzystować,to have,el,presente,h<em>a</em>,,True,
+"haber, ns, presente",haber,egzystować,to have,ns,presente,h<em>e</em>mos,,True,
+"haber, ellos, presente",haber,egzystować,to have,ellos,presente,ha<em>n</em>,,True,
+"haber, yo, pret. indefinido",haber,egzystować,to have,yo,pret_indefinido,h<em>ube</em>,,True,
+"haber, tú, pret. indefinido",haber,egzystować,to have,tu,pret_indefinido,h<em>u</em>biste,,True,
+"haber, él, pret. indefinido",haber,egzystować,to have,el,pret_indefinido,h<em>ubo</em>,,True,
+"haber, ns, pret. indefinido",haber,egzystować,to have,ns,pret_indefinido,h<em>u</em>bimos,,True,
+"haber, vs, pret. indefinido",haber,egzystować,to have,vs,pret_indefinido,h<em>u</em>bisteis,,True,
+"haber, ellos, pret. indefinido",haber,egzystować,to have,ellos,pret_indefinido,h<em>u</em>bieron,,True,
+"haber, tú, imperativo",haber,egzystować,to have,tu,imperativo,h<em>e</em>,,True,
+"haber, usted, imperativo",haber,egzystować,to have,ud,imperativo,ha<em>y</em>a,,True,
+"haber, ns, imperativo",haber,egzystować,to have,ns,imperativo,ha<em>y</em>amos,,True,
+"haber, ustedes, imperativo",haber,egzystować,to have,uds,imperativo,ha<em>y</em>an,,True,
+"haber, yo, futuro",haber,egzystować,to have,yo,futuro_simple,hab<em>r</em>é,,True,
+"haber, tú, futuro",haber,egzystować,to have,tu,futuro_simple,hab<em>r</em>ás,,True,
+"haber, él, futuro",haber,egzystować,to have,el,futuro_simple,hab<em>r</em>á,,True,
+"haber, ns, futuro",haber,egzystować,to have,ns,futuro_simple,hab<em>r</em>emos,,True,
+"haber, vs, futuro",haber,egzystować,to have,vs,futuro_simple,hab<em>r</em>éis,,True,
+"haber, ellos, futuro",haber,egzystować,to have,ellos,futuro_simple,hab<em>r</em>án,,True,
+"hacer, yo, presente",hacer,robić,to do,yo,presente,ha<em>g</em>o,,True,
+"hacer, yo, pret. indefinido",hacer,robić,to do,yo,pret_indefinido,h<em>ice</em>,,True,
+"hacer, tú, pret. indefinido",hacer,robić,to do,tu,pret_indefinido,h<em>i</em>ciste,,True,
+"hacer, él, pret. indefinido",hacer,robić,to do,el,pret_indefinido,h<em>izo</em>,,True,
+"hacer, ns, pret. indefinido",hacer,robić,to do,ns,pret_indefinido,h<em>i</em>cimos,,True,
+"hacer, vs, pret. indefinido",hacer,robić,to do,vs,pret_indefinido,h<em>i</em>cisteis,,True,
+"hacer, ellos, pret. indefinido",hacer,robić,to do,ellos,pret_indefinido,h<em>i</em>cieron,,True,
+"hacer, yo, pret. perfecto",hacer,robić,to do,yo,pret_perfecto,he h<em>ech</em>o,,True,
+"hacer, tú, pret. perfecto",hacer,robić,to do,tu,pret_perfecto,has h<em>ech</em>o,,True,
+"hacer, él, pret. perfecto",hacer,robić,to do,el,pret_perfecto,ha h<em>ech</em>o,,True,
+"hacer, ns, pret. perfecto",hacer,robić,to do,ns,pret_perfecto,hemos h<em>ech</em>o,,True,
+"hacer, vs, pret. perfecto",hacer,robić,to do,vs,pret_perfecto,habéis h<em>ech</em>o,,True,
+"hacer, ellos, pret. perfecto",hacer,robić,to do,ellos,pret_perfecto,han h<em>ech</em>o,,True,
+"hacer, tú, imperativo",hacer,robić,to do,tu,imperativo,ha<em>z</em>,,True,
+"hacer, usted, imperativo",hacer,robić,to do,ud,imperativo,ha<em>g</em>a,,True,
+"hacer, ns, imperativo",hacer,robić,to do,ns,imperativo,ha<em>g</em>amos,,True,
+"hacer, ustedes, imperativo",hacer,robić,to do,uds,imperativo,ha<em>g</em>an,,True,
+"hacer, yo, futuro",hacer,robić,to do,yo,futuro_simple,ha<em>r</em>é,,True,
+"hacer, tú, futuro",hacer,robić,to do,tu,futuro_simple,ha<em>r</em>ás,,True,
+"hacer, él, futuro",hacer,robić,to do,el,futuro_simple,ha<em>r</em>á,,True,
+"hacer, ns, futuro",hacer,robić,to do,ns,futuro_simple,ha<em>r</em>emos,,True,
+"hacer, vs, futuro",hacer,robić,to do,vs,futuro_simple,ha<em>r</em>éis,,True,
+"hacer, ellos, futuro",hacer,robić,to do,ellos,futuro_simple,ha<em>r</em>án,,True,
+"ir, yo, presente",ir,iść,to go,yo,presente,<em>voy</em>,idę,True,ir
+"ir, tú, presente",ir,iść,to go,tu,presente,<em>vas</em>,idziesz,True,ir
+"ir, él, presente",ir,iść,to go,el,presente,<em>va</em>,idzie,True,ir
+"ir, ns, presente",ir,iść,to go,ns,presente,<em>vamos</em>,idziemy,True,ir
+"ir, vs, presente",ir,iść,to go,vs,presente,<em>vais</em>,idziecie,True,ir
+"ir, ellos, presente",ir,iść,to go,ellos,presente,<em>van</em>,idą,True,ir
+"ir, yo, pret. indefinido",ir,iść,to go,yo,pret_indefinido,<em>fui</em>,szedłem,True,ir
+"ir, tú, pret. indefinido",ir,iść,to go,tu,pret_indefinido,<em>fuiste</em>,szedłeś,True,ir
+"ir, él, pret. indefinido",ir,iść,to go,el,pret_indefinido,<em>fue</em>,szedł,True,ir
+"ir, ns, pret. indefinido",ir,iść,to go,ns,pret_indefinido,<em>fuimos</em>,szliśmy,True,ir
+"ir, vs, pret. indefinido",ir,iść,to go,vs,pret_indefinido,<em>fuisteis</em>,szliście,True,ir
+"ir, ellos, pret. indefinido",ir,iść,to go,ellos,pret_indefinido,<em>fueron</em>,szli,True,ir
+"ir, yo, presente progresivo",ir,iść,to go,yo,presente_progresivo,estoy <em>y</em>endo,,True,ir
+"ir, tú, presente progresivo",ir,iść,to go,tu,presente_progresivo,estás <em>y</em>endo,,True,ir
+"ir, él, presente progresivo",ir,iść,to go,el,presente_progresivo,está <em>y</em>endo,,True,ir
+"ir, ns, presente progresivo",ir,iść,to go,ns,presente_progresivo,estamos <em>y</em>endo,,True,ir
+"ir, vs, presente progresivo",ir,iść,to go,vs,presente_progresivo,estáis <em>y</em>endo,,True,ir
+"ir, ellos, presente progresivo",ir,iść,to go,ellos,presente_progresivo,están <em>y</em>endo,,True,ir
+"ir, yo, pretérito imperfecto",ir,iść,to go,yo,pret_imperfecto,<em>iba</em>,,True,ir
+"ir, tú, pretérito imperfecto",ir,iść,to go,tu,pret_imperfecto,<em>ibas</em>,,True,ir
+"ir, él, pretérito imperfecto",ir,iść,to go,el,pret_imperfecto,<em>iba</em>,,True,ir
+"ir, ns, pretérito imperfecto",ir,iść,to go,ns,pret_imperfecto,<em>íbamos</em>,,True,ir
+"ir, vs, pretérito imperfecto",ir,iść,to go,vs,pret_imperfecto,<em>ibais</em>,,True,ir
+"ir, ellos, pretérito imperfecto",ir,iść,to go,ellos,pret_imperfecto,<em>iban</em>,,True,ir
+"ir, tú, imperativo",ir,iść,to go,tu,imperativo,<em>ve</em>,,True,ir
+"ir, usted, imperativo",ir,iść,to go,ud,imperativo,<em>vaya</em>,,True,ir
+"ir, ns, imperativo",ir,iść,to go,ns,imperativo,<em>vamos</em>,,True,ir
+"ir, ustedes, imperativo",ir,iść,to go,uds,imperativo,<em>vayan</em>,,True,ir
+"oír, yo, presente",oír,słyszeć,to hear,yo,presente,o<em>ig</em>o,,True,
+"oír, tú, presente",oír,słyszeć,to hear,tu,presente,o<em>y</em>es,,True,
+"oír, él, presente",oír,słyszeć,to hear,el,presente,o<em>y</em>e,,True,
+"oír, ns, presente",oír,słyszeć,to hear,ns,presente,o<em>í</em>mos,,True,
+"oír, ellos, presente",oír,słyszeć,to hear,ellos,presente,o<em>y</em>en,,True,
+"oír, tú, pret. indefinido",oír,słyszeć,to hear,tu,pret_indefinido,o<em>í</em>ste,,True,
+"oír, él, pret. indefinido",oír,słyszeć,to hear,el,pret_indefinido,o<em>y</em>ó,,True,
+"oír, ns, pret. indefinido",oír,słyszeć,to hear,ns,pret_indefinido,o<em>í</em>mos,,True,
+"oír, vs, pret. indefinido",oír,słyszeć,to hear,vs,pret_indefinido,o<em>í</em>steis,,True,
+"oír, ellos, pret. indefinido",oír,słyszeć,to hear,ellos,pret_indefinido,o<em>y</em>eron,,True,
+"oír, yo, pret. perfecto",oír,słyszeć,to hear,yo,pret_perfecto,he o<em>í</em>do,,True,
+"oír, tú, pret. perfecto",oír,słyszeć,to hear,tu,pret_perfecto,has o<em>í</em>do,,True,
+"oír, él, pret. perfecto",oír,słyszeć,to hear,el,pret_perfecto,ha o<em>í</em>do,,True,
+"oír, ns, pret. perfecto",oír,słyszeć,to hear,ns,pret_perfecto,hemos o<em>í</em>do,,True,
+"oír, vs, pret. perfecto",oír,słyszeć,to hear,vs,pret_perfecto,habéis o<em>í</em>do,,True,
+"oír, ellos, pret. perfecto",oír,słyszeć,to hear,ellos,pret_perfecto,han o<em>í</em>do,,True,
+"oír, yo, presente progresivo",oír,słyszeć,to hear,yo,presente_progresivo,estoy o<em>y</em>endo,,True,
+"oír, tú, presente progresivo",oír,słyszeć,to hear,tu,presente_progresivo,estás o<em>y</em>endo,,True,
+"oír, él, presente progresivo",oír,słyszeć,to hear,el,presente_progresivo,está o<em>y</em>endo,,True,
+"oír, ns, presente progresivo",oír,słyszeć,to hear,ns,presente_progresivo,estamos o<em>y</em>endo,,True,
+"oír, vs, presente progresivo",oír,słyszeć,to hear,vs,presente_progresivo,estáis o<em>y</em>endo,,True,
+"oír, ellos, presente progresivo",oír,słyszeć,to hear,ellos,presente_progresivo,están o<em>y</em>endo,,True,
+"oír, tú, imperativo",oír,słyszeć,to hear,tu,imperativo,o<em>y</em>e,,True,
+"oír, usted, imperativo",oír,słyszeć,to hear,ud,imperativo,o<em>ig</em>a,,True,
+"oír, ns, imperativo",oír,słyszeć,to hear,ns,imperativo,o<em>ig</em>amos,,True,
+"oír, ustedes, imperativo",oír,słyszeć,to hear,uds,imperativo,o<em>ig</em>an,,True,
+"pedir, yo, presente",pedir,poprosić,to ask for,yo,presente,p<em>i</em>do,,True,
+"pedir, tú, presente",pedir,poprosić,to ask for,tu,presente,p<em>i</em>des,,True,
+"pedir, él, presente",pedir,poprosić,to ask for,el,presente,p<em>i</em>de,,True,
+"pedir, ellos, presente",pedir,poprosić,to ask for,ellos,presente,p<em>i</em>den,,True,
+"pedir, él, pret. indefinido",pedir,poprosić,to ask for,el,pret_indefinido,p<em>i</em>dió,,True,
+"pedir, ellos, pret. indefinido",pedir,poprosić,to ask for,ellos,pret_indefinido,p<em>i</em>dieron,,True,
+"pedir, yo, presente progresivo",pedir,poprosić,to ask for,yo,presente_progresivo,estoy p<em>i</em>diendo,,True,
+"pedir, tú, presente progresivo",pedir,poprosić,to ask for,tu,presente_progresivo,estás p<em>i</em>diendo,,True,
+"pedir, él, presente progresivo",pedir,poprosić,to ask for,el,presente_progresivo,está p<em>i</em>diendo,,True,
+"pedir, ns, presente progresivo",pedir,poprosić,to ask for,ns,presente_progresivo,estamos p<em>i</em>diendo,,True,
+"pedir, vs, presente progresivo",pedir,poprosić,to ask for,vs,presente_progresivo,estáis p<em>i</em>diendo,,True,
+"pedir, ellos, presente progresivo",pedir,poprosić,to ask for,ellos,presente_progresivo,están p<em>i</em>diendo,,True,
+"pedir, tú, imperativo",pedir,poprosić,to ask for,tu,imperativo,p<em>i</em>de,,True,
+"pedir, usted, imperativo",pedir,poprosić,to ask for,ud,imperativo,p<em>i</em>da,,True,
+"pedir, ns, imperativo",pedir,poprosić,to ask for,ns,imperativo,p<em>i</em>damos,,True,
+"pedir, ustedes, imperativo",pedir,poprosić,to ask for,uds,imperativo,p<em>i</em>dan,,True,
+"pensar, yo, presente",pensar,myśleć,to think,yo,presente,p<em>i</em>enso,myślę,True,
+"pensar, tú, presente",pensar,myśleć,to think,tu,presente,p<em>i</em>ensas,myślisz,True,
+"pensar, él, presente",pensar,myśleć,to think,el,presente,p<em>i</em>ensa,myśli,True,
+"pensar, ellos, presente",pensar,myśleć,to think,ellos,presente,p<em>i</em>ensan,myślią,True,
+"pensar, tú, imperativo",pensar,myśleć,to think,tu,imperativo,p<em>i</em>ensa,,True,
+"pensar, usted, imperativo",pensar,myśleć,to think,ud,imperativo,p<em>i</em>ense,,True,
+"pensar, ustedes, imperativo",pensar,myśleć,to think,uds,imperativo,p<em>i</em>ensen,,True,
+"poder, yo, presente",poder,móc,to be able to,yo,presente,p<em>ue</em>do,mogę,True,
+"poder, tú, presente",poder,móc,to be able to,tu,presente,p<em>ue</em>des,możesz,True,
+"poder, él, presente",poder,móc,to be able to,el,presente,p<em>ue</em>de,może,True,
+"poder, ellos, presente",poder,móc,to be able to,ellos,presente,p<em>ue</em>den,możą,True,
+"poder, yo, pret. indefinido",poder,móc,to be able to,yo,pret_indefinido,p<em>ude</em>,mógłem,True,
+"poder, tú, pret. indefinido",poder,móc,to be able to,tu,pret_indefinido,p<em>u</em>diste,mógłeś,True,
+"poder, él, pret. indefinido",poder,móc,to be able to,el,pret_indefinido,p<em>udo</em>,mógł,True,
+"poder, ns, pret. indefinido",poder,móc,to be able to,ns,pret_indefinido,p<em>u</em>dimos,mogliśmy,True,
+"poder, vs, pret. indefinido",poder,móc,to be able to,vs,pret_indefinido,p<em>u</em>disteis,mogliście,True,
+"poder, ellos, pret. indefinido",poder,móc,to be able to,ellos,pret_indefinido,p<em>u</em>dieron,mogli,True,
+"poder, yo, presente progresivo",poder,móc,to be able to,yo,presente_progresivo,estoy p<em>u</em>diendo,,True,
+"poder, tú, presente progresivo",poder,móc,to be able to,tu,presente_progresivo,estás p<em>u</em>diendo,,True,
+"poder, él, presente progresivo",poder,móc,to be able to,el,presente_progresivo,está p<em>u</em>diendo,,True,
+"poder, ns, presente progresivo",poder,móc,to be able to,ns,presente_progresivo,estamos p<em>u</em>diendo,,True,
+"poder, vs, presente progresivo",poder,móc,to be able to,vs,presente_progresivo,estáis p<em>u</em>diendo,,True,
+"poder, ellos, presente progresivo",poder,móc,to be able to,ellos,presente_progresivo,están p<em>u</em>diendo,,True,
+"poder, tú, imperativo",poder,móc,to be able to,tu,imperativo,p<em>ue</em>de,,True,
+"poder, usted, imperativo",poder,móc,to be able to,ud,imperativo,p<em>ue</em>da,,True,
+"poder, ustedes, imperativo",poder,móc,to be able to,uds,imperativo,p<em>ue</em>dan,,True,
+"poder, yo, futuro",poder,móc,to be able to,yo,futuro_simple,pod<em>r</em>é,,True,
+"poder, tú, futuro",poder,móc,to be able to,tu,futuro_simple,pod<em>r</em>ás,,True,
+"poder, él, futuro",poder,móc,to be able to,el,futuro_simple,pod<em>r</em>á,,True,
+"poder, ns, futuro",poder,móc,to be able to,ns,futuro_simple,pod<em>r</em>emos,,True,
+"poder, vs, futuro",poder,móc,to be able to,vs,futuro_simple,pod<em>r</em>éis,,True,
+"poder, ellos, futuro",poder,móc,to be able to,ellos,futuro_simple,pod<em>r</em>án,,True,
+"poner, yo, presente",poner,kłaść,to put,yo,presente,pon<em>g</em>o,,True,poner
+"poner, yo, pret. indefinido",poner,kłaść,to put,yo,pret_indefinido,p<em>use</em>,,True,poner
+"poner, tú, pret. indefinido",poner,kłaść,to put,tu,pret_indefinido,p<em>us</em>iste,,True,poner
+"poner, él, pret. indefinido",poner,kłaść,to put,el,pret_indefinido,p<em>uso</em>,,True,poner
+"poner, ns, pret. indefinido",poner,kłaść,to put,ns,pret_indefinido,p<em>us</em>imos,,True,poner
+"poner, vs, pret. indefinido",poner,kłaść,to put,vs,pret_indefinido,p<em>us</em>isteis,,True,poner
+"poner, ellos, pret. indefinido",poner,kłaść,to put,ellos,pret_indefinido,p<em>us</em>ieron,,True,poner
+"poner, yo, pret. perfecto",poner,kłaść,to put,yo,pret_perfecto,he p<em>uest</em>o,,True,poner
+"poner, tú, pret. perfecto",poner,kłaść,to put,tu,pret_perfecto,has p<em>uest</em>o,,True,poner
+"poner, él, pret. perfecto",poner,kłaść,to put,el,pret_perfecto,ha p<em>uest</em>o,,True,poner
+"poner, ns, pret. perfecto",poner,kłaść,to put,ns,pret_perfecto,hemos p<em>uest</em>o,,True,poner
+"poner, vs, pret. perfecto",poner,kłaść,to put,vs,pret_perfecto,habéis p<em>uest</em>o,,True,poner
+"poner, ellos, pret. perfecto",poner,kłaść,to put,ellos,pret_perfecto,han p<em>uest</em>o,,True,poner
+"poner, tú, imperativo",poner,kłaść,to put,tu,imperativo,po<em>n</em>,,True,poner
+"poner, usted, imperativo",poner,kłaść,to put,ud,imperativo,pon<em>g</em>a,,True,poner
+"poner, ns, imperativo",poner,kłaść,to put,ns,imperativo,pon<em>g</em>amos,,True,poner
+"poner, ustedes, imperativo",poner,kłaść,to put,uds,imperativo,pon<em>g</em>an,,True,poner
+"poner, yo, futuro",poner,kłaść,to put,yo,futuro_simple,pon<em>dr</em>é,,True,poner
+"poner, tú, futuro",poner,kłaść,to put,tu,futuro_simple,pon<em>dr</em>ás,,True,poner
+"poner, él, futuro",poner,kłaść,to put,el,futuro_simple,pon<em>dr</em>á,,True,poner
+"poner, ns, futuro",poner,kłaść,to put,ns,futuro_simple,pon<em>dr</em>emos,,True,poner
+"poner, vs, futuro",poner,kłaść,to put,vs,futuro_simple,pon<em>dr</em>éis,,True,poner
+"poner, ellos, futuro",poner,kłaść,to put,ellos,futuro_simple,pon<em>dr</em>án,,True,poner
+"querer, yo, presente",querer,chcieć,to want,yo,presente,qu<em>i</em>ero,chcę,True,
+"querer, tú, presente",querer,chcieć,to want,tu,presente,qu<em>i</em>eres,chcesz,True,
+"querer, él, presente",querer,chcieć,to want,el,presente,qu<em>i</em>ere,chce,True,
+"querer, ellos, presente",querer,chcieć,to want,ellos,presente,qu<em>i</em>eren,chcą,True,
+"querer, yo, pret. indefinido",querer,chcieć,to want,yo,pret_indefinido,qu<em>ise</em>,chciałem,True,
+"querer, tú, pret. indefinido",querer,chcieć,to want,tu,pret_indefinido,qu<em>is</em>iste,chciałeś,True,
+"querer, él, pret. indefinido",querer,chcieć,to want,el,pret_indefinido,qu<em>iso</em>,chciał,True,
+"querer, ns, pret. indefinido",querer,chcieć,to want,ns,pret_indefinido,qu<em>is</em>imos,chcieliśmy,True,
+"querer, vs, pret. indefinido",querer,chcieć,to want,vs,pret_indefinido,qu<em>is</em>isteis,chcieliście,True,
+"querer, ellos, pret. indefinido",querer,chcieć,to want,ellos,pret_indefinido,qu<em>is</em>ieron,chcieli,True,
+"querer, tú, imperativo",querer,chcieć,to want,tu,imperativo,qu<em>i</em>ere,,True,
+"querer, usted, imperativo",querer,chcieć,to want,ud,imperativo,qu<em>i</em>era,,True,
+"querer, ustedes, imperativo",querer,chcieć,to want,uds,imperativo,qu<em>i</em>eran,,True,
+"querer, yo, futuro",querer,chcieć,to want,yo,futuro_simple,quer<em>r</em>é,,True,
+"querer, tú, futuro",querer,chcieć,to want,tu,futuro_simple,quer<em>r</em>ás,,True,
+"querer, él, futuro",querer,chcieć,to want,el,futuro_simple,quer<em>r</em>á,,True,
+"querer, ns, futuro",querer,chcieć,to want,ns,futuro_simple,quer<em>r</em>emos,,True,
+"querer, vs, futuro",querer,chcieć,to want,vs,futuro_simple,quer<em>r</em>éis,,True,
+"querer, ellos, futuro",querer,chcieć,to want,ellos,futuro_simple,quer<em>r</em>án,,True,
+"saber, yo, presente",saber,wiedzieć,to know,yo,presente,s<em>é</em>,wiem,True,
+"saber, yo, pret. indefinido",saber,wiedzieć,to know,yo,pret_indefinido,s<em>upe</em>,wiedziałem,True,
+"saber, tú, pret. indefinido",saber,wiedzieć,to know,tu,pret_indefinido,s<em>up</em>iste,wiedziałeś,True,
+"saber, él, pret. indefinido",saber,wiedzieć,to know,el,pret_indefinido,s<em>upo</em>,wiedział,True,
+"saber, ns, pret. indefinido",saber,wiedzieć,to know,ns,pret_indefinido,s<em>up</em>imos,wiedzieliśmy,True,
+"saber, vs, pret. indefinido",saber,wiedzieć,to know,vs,pret_indefinido,s<em>up</em>isteis,wiedzieliście,True,
+"saber, ellos, pret. indefinido",saber,wiedzieć,to know,ellos,pret_indefinido,s<em>up</em>ieron,wiedzieli,True,
+"saber, usted, imperativo",saber,wiedzieć,to know,ud,imperativo,s<em>ep</em>a,,True,
+"saber, ns, imperativo",saber,wiedzieć,to know,ns,imperativo,s<em>ep</em>amos,,True,
+"saber, ustedes, imperativo",saber,wiedzieć,to know,uds,imperativo,s<em>ep</em>an,,True,
+"saber, yo, futuro",saber,wiedzieć,to know,yo,futuro_simple,sab<em>r</em>é,,True,
+"saber, tú, futuro",saber,wiedzieć,to know,tu,futuro_simple,sab<em>r</em>ás,,True,
+"saber, él, futuro",saber,wiedzieć,to know,el,futuro_simple,sab<em>r</em>á,,True,
+"saber, ns, futuro",saber,wiedzieć,to know,ns,futuro_simple,sab<em>r</em>emos,,True,
+"saber, vs, futuro",saber,wiedzieć,to know,vs,futuro_simple,sab<em>r</em>éis,,True,
+"saber, ellos, futuro",saber,wiedzieć,to know,ellos,futuro_simple,sab<em>r</em>án,,True,
+"salir, yo, presente",salir,wychodzić,to go out,yo,presente,sal<em>g</em>o,wychodzę,True,
+"salir, tú, imperativo",salir,wychodzić,to go out,tu,imperativo,sa<em>l</em>,,True,
+"salir, usted, imperativo",salir,wychodzić,to go out,ud,imperativo,sal<em>g</em>a,,True,
+"salir, ns, imperativo",salir,wychodzić,to go out,ns,imperativo,sal<em>g</em>amos,,True,
+"salir, ustedes, imperativo",salir,wychodzić,to go out,uds,imperativo,sal<em>g</em>an,,True,
+"salir, yo, futuro",salir,wychodzić,to go out,yo,futuro_simple,sal<em>dr</em>é,,True,
+"salir, tú, futuro",salir,wychodzić,to go out,tu,futuro_simple,sal<em>dr</em>ás,,True,
+"salir, él, futuro",salir,wychodzić,to go out,el,futuro_simple,sal<em>dr</em>á,,True,
+"salir, ns, futuro",salir,wychodzić,to go out,ns,futuro_simple,sal<em>dr</em>emos,,True,
+"salir, vs, futuro",salir,wychodzić,to go out,vs,futuro_simple,sal<em>dr</em>éis,,True,
+"salir, ellos, futuro",salir,wychodzić,to go out,ellos,futuro_simple,sal<em>dr</em>án,,True,
+"seguir, yo, presente",seguir,kontynuować,to follow,yo,presente,s<em>ig</em>o,,True,
+"seguir, tú, presente",seguir,kontynuować,to follow,tu,presente,s<em>i</em>gues,,True,
+"seguir, él, presente",seguir,kontynuować,to follow,el,presente,s<em>i</em>gue,,True,
+"seguir, ellos, presente",seguir,kontynuować,to follow,ellos,presente,s<em>i</em>guen,,True,
+"seguir, él, pret. indefinido",seguir,kontynuować,to follow,el,pret_indefinido,s<em>i</em>guió,,True,
+"seguir, ellos, pret. indefinido",seguir,kontynuować,to follow,ellos,pret_indefinido,s<em>i</em>guieron,,True,
+"seguir, yo, presente progresivo",seguir,kontynuować,to follow,yo,presente_progresivo,estoy s<em>i</em>guiendo,,True,
+"seguir, tú, presente progresivo",seguir,kontynuować,to follow,tu,presente_progresivo,estás s<em>i</em>guiendo,,True,
+"seguir, él, presente progresivo",seguir,kontynuować,to follow,el,presente_progresivo,está s<em>i</em>guiendo,,True,
+"seguir, ns, presente progresivo",seguir,kontynuować,to follow,ns,presente_progresivo,estamos s<em>i</em>guiendo,,True,
+"seguir, vs, presente progresivo",seguir,kontynuować,to follow,vs,presente_progresivo,estáis s<em>i</em>guiendo,,True,
+"seguir, ellos, presente progresivo",seguir,kontynuować,to follow,ellos,presente_progresivo,están s<em>i</em>guiendo,,True,
+"seguir, tú, imperativo",seguir,kontynuować,to follow,tu,imperativo,s<em>i</em>gue,,True,
+"seguir, usted, imperativo",seguir,kontynuować,to follow,ud,imperativo,s<em>ig</em>a,,True,
+"seguir, ns, imperativo",seguir,kontynuować,to follow,ns,imperativo,s<em>ig</em>amos,,True,
+"seguir, ustedes, imperativo",seguir,kontynuować,to follow,uds,imperativo,s<em>ig</em>an,,True,
+"ser, yo, presente",ser,być,to be,yo,presente,so<em>y</em>,jestem,True,ser
+"ser, tú, presente",ser,być,to be,tu,presente,<em>er</em>es,jesteś,True,ser
+"ser, él, presente",ser,być,to be,el,presente,<em>es</em>,jest,True,ser
+"ser, ns, presente",ser,być,to be,ns,presente,s<em>o</em>mos,jestmy,True,ser
+"ser, vs, presente",ser,być,to be,vs,presente,s<em>o</em>is,jestcie,True,ser
+"ser, ellos, presente",ser,być,to be,ellos,presente,s<em>o</em>n,są,True,ser
+"ser, yo, pret. indefinido",ser,być,to be,yo,pret_indefinido,<em>fui</em>,byłem,True,ser
+"ser, tú, pret. indefinido",ser,być,to be,tu,pret_indefinido,<em>fu</em>iste,byłeś,True,ser
+"ser, él, pret. indefinido",ser,być,to be,el,pret_indefinido,<em>fue</em>,był,True,ser
+"ser, ns, pret. indefinido",ser,być,to be,ns,pret_indefinido,<em>fu</em>imos,byliśmy,True,ser
+"ser, vs, pret. indefinido",ser,być,to be,vs,pret_indefinido,<em>fu</em>isteis,byliście,True,ser
+"ser, ellos, pret. indefinido",ser,być,to be,ellos,pret_indefinido,<em>fu</em>eron,byli,True,ser
+"ser, yo, pretérito imperfecto",ser,być,to be,yo,pret_imperfecto,<em>er</em>a,,True,ser
+"ser, tú, pretérito imperfecto",ser,być,to be,tu,pret_imperfecto,<em>er</em>as,,True,ser
+"ser, él, pretérito imperfecto",ser,być,to be,el,pret_imperfecto,<em>er</em>a,,True,ser
+"ser, ns, pretérito imperfecto",ser,być,to be,ns,pret_imperfecto,<em>ér</em>amos,,True,ser
+"ser, vs, pretérito imperfecto",ser,być,to be,vs,pret_imperfecto,<em>er</em>ais,,True,ser
+"ser, ellos, pretérito imperfecto",ser,być,to be,ellos,pret_imperfecto,<em>er</em>an,,True,ser
+"ser, tú, imperativo",ser,być,to be,tu,imperativo,s<em>é</em>,,True,ser
+"ser, usted, imperativo",ser,być,to be,ud,imperativo,s<em>e</em>a,,True,ser
+"ser, ns, imperativo",ser,być,to be,ns,imperativo,s<em>e</em>amos,,True,ser
+"ser, ustedes, imperativo",ser,być,to be,uds,imperativo,s<em>e</em>an,,True,ser
+"tener, yo, presente",tener,mieć,to have,yo,presente,ten<em>g</em>o,mam,True,
+"tener, tú, presente",tener,mieć,to have,tu,presente,t<em>i</em>enes,masz,True,
+"tener, él, presente",tener,mieć,to have,el,presente,t<em>i</em>ene,ma,True,
+"tener, ellos, presente",tener,mieć,to have,ellos,presente,t<em>i</em>enen,mją,True,
+"tener, yo, pret. indefinido",tener,mieć,to have,yo,pret_indefinido,t<em>uve</em>,miałem,True,
+"tener, tú, pret. indefinido",tener,mieć,to have,tu,pret_indefinido,t<em>uv</em>iste,miałeś,True,
+"tener, él, pret. indefinido",tener,mieć,to have,el,pret_indefinido,t<em>uvo</em>,miał,True,
+"tener, ns, pret. indefinido",tener,mieć,to have,ns,pret_indefinido,t<em>uv</em>imos,mieliśmy,True,
+"tener, vs, pret. indefinido",tener,mieć,to have,vs,pret_indefinido,t<em>uv</em>isteis,mieliście,True,
+"tener, ellos, pret. indefinido",tener,mieć,to have,ellos,pret_indefinido,t<em>uv</em>ieron,mieli,True,
+"tener, tú, imperativo",tener,mieć,to have,tu,imperativo,te<em>n</em>,,True,
+"tener, usted, imperativo",tener,mieć,to have,ud,imperativo,ten<em>g</em>a,,True,
+"tener, ns, imperativo",tener,mieć,to have,ns,imperativo,ten<em>g</em>amos,,True,
+"tener, ustedes, imperativo",tener,mieć,to have,uds,imperativo,ten<em>g</em>an,,True,
+"tener, yo, futuro",tener,mieć,to have,yo,futuro_simple,ten<em>dr</em>é,,True,
+"tener, tú, futuro",tener,mieć,to have,tu,futuro_simple,ten<em>dr</em>ás,,True,
+"tener, él, futuro",tener,mieć,to have,el,futuro_simple,ten<em>dr</em>á,,True,
+"tener, ns, futuro",tener,mieć,to have,ns,futuro_simple,ten<em>dr</em>emos,,True,
+"tener, vs, futuro",tener,mieć,to have,vs,futuro_simple,ten<em>dr</em>éis,,True,
+"tener, ellos, futuro",tener,mieć,to have,ellos,futuro_simple,ten<em>dr</em>án,,True,
+"venir, yo, presente",venir,przychodzić,to come,yo,presente,ven<em>g</em>o,,True,
+"venir, tú, presente",venir,przychodzić,to come,tu,presente,v<em>i</em>enes,,True,
+"venir, él, presente",venir,przychodzić,to come,el,presente,v<em>i</em>ene,,True,
+"venir, ellos, presente",venir,przychodzić,to come,ellos,presente,v<em>i</em>enen,,True,
+"venir, yo, pret. indefinido",venir,przychodzić,to come,yo,pret_indefinido,v<em>ine</em>,,True,
+"venir, tú, pret. indefinido",venir,przychodzić,to come,tu,pret_indefinido,v<em>i</em>niste,,True,
+"venir, él, pret. indefinido",venir,przychodzić,to come,el,pret_indefinido,v<em>ino</em>,,True,
+"venir, ns, pret. indefinido",venir,przychodzić,to come,ns,pret_indefinido,v<em>i</em>nimos,,True,
+"venir, vs, pret. indefinido",venir,przychodzić,to come,vs,pret_indefinido,v<em>i</em>nisteis,,True,
+"venir, ellos, pret. indefinido",venir,przychodzić,to come,ellos,pret_indefinido,v<em>i</em>nieron,,True,
+"venir, yo, presente progresivo",venir,przychodzić,to come,yo,presente_progresivo,estoy v<em>i</em>niendo,,True,
+"venir, tú, presente progresivo",venir,przychodzić,to come,tu,presente_progresivo,estás v<em>i</em>niendo,,True,
+"venir, él, presente progresivo",venir,przychodzić,to come,el,presente_progresivo,está v<em>i</em>niendo,,True,
+"venir, ns, presente progresivo",venir,przychodzić,to come,ns,presente_progresivo,estamos v<em>i</em>niendo,,True,
+"venir, vs, presente progresivo",venir,przychodzić,to come,vs,presente_progresivo,estáis v<em>i</em>niendo,,True,
+"venir, ellos, presente progresivo",venir,przychodzić,to come,ellos,presente_progresivo,están v<em>i</em>niendo,,True,
+"venir, tú, imperativo",venir,przychodzić,to come,tu,imperativo,ve<em>n</em>,,True,
+"venir, usted, imperativo",venir,przychodzić,to come,ud,imperativo,ven<em>g</em>a,,True,
+"venir, ns, imperativo",venir,przychodzić,to come,ns,imperativo,ven<em>g</em>amos,,True,
+"venir, ustedes, imperativo",venir,przychodzić,to come,uds,imperativo,ven<em>g</em>an,,True,
+"venir, yo, futuro",venir,przychodzić,to come,yo,futuro_simple,ven<em>dr</em>é,,True,
+"venir, tú, futuro",venir,przychodzić,to come,tu,futuro_simple,ven<em>dr</em>ás,,True,
+"venir, él, futuro",venir,przychodzić,to come,el,futuro_simple,ven<em>dr</em>á,,True,
+"venir, ns, futuro",venir,przychodzić,to come,ns,futuro_simple,ven<em>dr</em>emos,,True,
+"venir, vs, futuro",venir,przychodzić,to come,vs,futuro_simple,ven<em>dr</em>éis,,True,
+"venir, ellos, futuro",venir,przychodzić,to come,ellos,futuro_simple,ven<em>dr</em>án,,True,
+"ver, yo, presente",ver,oglądać,to see,yo,presente,v<em>e</em>o,oglądam,True,
+"ver, vs, presente",ver,oglądać,to see,vs,presente,v<em>e</em>is,oglądacie,True,
+"ver, yo, pret. indefinido",ver,oglądać,to see,yo,pret_indefinido,v<em>i</em>,oglądałem,True,
+"ver, él, pret. indefinido",ver,oglądać,to see,el,pret_indefinido,vi<em>o</em>,oglądał,True,
+"ver, yo, pret. perfecto",ver,oglądać,to see,yo,pret_perfecto,he vi<em>st</em>o,,True,
+"ver, tú, pret. perfecto",ver,oglądać,to see,tu,pret_perfecto,has vi<em>st</em>o,,True,
+"ver, él, pret. perfecto",ver,oglądać,to see,el,pret_perfecto,ha vi<em>st</em>o,,True,
+"ver, ns, pret. perfecto",ver,oglądać,to see,ns,pret_perfecto,hemos vi<em>st</em>o,,True,
+"ver, vs, pret. perfecto",ver,oglądać,to see,vs,pret_perfecto,habéis vi<em>st</em>o,,True,
+"ver, ellos, pret. perfecto",ver,oglądać,to see,ellos,pret_perfecto,han vi<em>st</em>o,,True,
+"ver, yo, pretérito imperfecto",ver,oglądać,to see,yo,pret_imperfecto,v<em>e</em>ía,,True,
+"ver, tú, pretérito imperfecto",ver,oglądać,to see,tu,pret_imperfecto,v<em>e</em>ías,,True,
+"ver, él, pretérito imperfecto",ver,oglądać,to see,el,pret_imperfecto,v<em>e</em>ía,,True,
+"ver, ns, pretérito imperfecto",ver,oglądać,to see,ns,pret_imperfecto,v<em>e</em>íamos,,True,
+"ver, vs, pretérito imperfecto",ver,oglądać,to see,vs,pret_imperfecto,v<em>e</em>íais,,True,
+"ver, ellos, pretérito imperfecto",ver,oglądać,to see,ellos,pret_imperfecto,v<em>e</em>ían,,True,
+"ver, usted, imperativo",ver,oglądać,to see,ud,imperativo,v<em>e</em>a,,True,
+"ver, ns, imperativo",ver,oglądać,to see,ns,imperativo,v<em>e</em>amos,,True,
+"ver, ustedes, imperativo",ver,oglądać,to see,uds,imperativo,v<em>e</em>an,,True,
+"volver, yo, presente",volver,wracać,to return,yo,presente,v<em>ue</em>lvo,wracam,True,
+"volver, tú, presente",volver,wracać,to return,tu,presente,v<em>ue</em>lves,wracasz,True,
+"volver, él, presente",volver,wracać,to return,el,presente,v<em>ue</em>lve,wraca,True,
+"volver, ellos, presente",volver,wracać,to return,ellos,presente,v<em>ue</em>lven,wracją,True,
+"volver, yo, pret. perfecto",volver,wracać,to return,yo,pret_perfecto,he v<em>uelt</em>o,,True,
+"volver, tú, pret. perfecto",volver,wracać,to return,tu,pret_perfecto,has v<em>uelt</em>o,,True,
+"volver, él, pret. perfecto",volver,wracać,to return,el,pret_perfecto,ha v<em>uelt</em>o,,True,
+"volver, ns, pret. perfecto",volver,wracać,to return,ns,pret_perfecto,hemos v<em>uelt</em>o,,True,
+"volver, vs, pret. perfecto",volver,wracać,to return,vs,pret_perfecto,habéis v<em>uelt</em>o,,True,
+"volver, ellos, pret. perfecto",volver,wracać,to return,ellos,pret_perfecto,han v<em>uelt</em>o,,True,
+"volver, tú, imperativo",volver,wracać,to return,tu,imperativo,v<em>ue</em>lve,,True,
+"volver, usted, imperativo",volver,wracać,to return,ud,imperativo,v<em>ue</em>lva,,True,
+"volver, ustedes, imperativo",volver,wracać,to return,uds,imperativo,v<em>ue</em>lvan,,True,

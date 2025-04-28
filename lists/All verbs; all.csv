@@ -1,8 +1,8 @@
 #separator:,
 #html:true
-#if matches:keep current
+#if matches:update current
 #notetype:Spanish Conjugation
-#deck:Spanish::conjugación
+#deck:Spanish::conjugación::All verbs::all
 #columns:question,infinitivo,polski,english,person,case,conj_espanol,conj_polski,irregular,hint
 "abrir, yo, presente",abrir,otwierać,to open,yo,presente,abro,,False,
 "abrir, tú, presente",abrir,otwierać,to open,tu,presente,abres,,False,

@@ -1,3 +1,3 @@
 hints = [
-    'ser', 'ir', 'vestir', 'poner'
+    'ser', 'estar', 'ir', 'vestir', 'poner'
 ]

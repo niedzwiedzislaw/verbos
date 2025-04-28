@@ -12,8 +12,14 @@ tense_names = {
     'pret_perfecto': 'pret. perfecto',
     'presente_progresivo': 'presente progresivo',
     'pret_imperfecto': 'pretérito imperfecto',
+    'futuro_simple': 'futuro',
+}
+
+mode_names = {
     'imperativo': 'imperativo'
 }
+
+case_names = tense_names | mode_names
 
 person_abbr_with_accents = {
     'yo': 'yo',
@@ -41,10 +47,13 @@ class Card:
     hint: str
 
     def __post_init__(self):
-        self.question = f'{self.infinitivo}, {person_abbr_with_accents[self.person]}, {tense_names[self.case]}'
+        self.question = f'{self.infinitivo}, {person_abbr_with_accents[self.person]}, {case_names[self.case]}'
 
     def values(self) -> List[str]:
         return [str(getattr(self, f.name)) for f in fields(self)]
+
+    def verify_type(self, persons: List[str], times: List[str]) -> bool:
+        return self.person in persons and self.case in times
 
     @staticmethod
     def get_headers(sep=separator):
