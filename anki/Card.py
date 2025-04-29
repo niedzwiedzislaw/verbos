@@ -1,5 +1,8 @@
+import builtins
+import typing
 from dataclasses import field, dataclass, fields
 from typing import List
+from unittest import case
 
 from hints import hints
 from anki import Card
@@ -45,15 +48,27 @@ class Card:
     conj_polski: str
     irregular: bool
     hint: str
+    tags: List[str] = field(default_factory=list)
 
     def __post_init__(self):
         self.question = f'{self.infinitivo}, {person_abbr_with_accents[self.person]}, {case_names[self.case]}'
 
     def values(self) -> List[str]:
-        return [str(getattr(self, f.name)) for f in fields(self)]
+        return [self.__format(getattr(self, f.name)) for f in fields(self)]
 
     def verify_type(self, persons: List[str], times: List[str]) -> bool:
         return self.person in persons and self.case in times
+
+    def __format(self, f):
+        t = type(f)
+        match t:
+            case builtins.bool:
+                return str(f).lower()
+            case builtins.list:
+                return ",".join(f)
+            case _:
+                return f
+
 
     @staticmethod
     def get_headers(sep=separator):

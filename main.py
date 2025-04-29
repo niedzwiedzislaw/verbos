@@ -29,26 +29,33 @@ def main():
         results = tqdm(multiprocessing.Pool().imap(g, rows), desc='Gathering data')
         # results = multiprocessing.Pool().map(g, rows)
 
+    basic_infinitivos = []
+    with(open('input/basic_verbs_filter.csv', 'r', encoding='utf-8')) as f:
+        basic_infinitivos = [v.strip() for v in f.readlines()]
+
     # cards: Stream[Card] = Stream(lambda: results).map(Card.create_cards).flatten()
     # cards: Iterator[Card] = tqdm(more_itertools.flatten(multiprocessing.Pool().imap(Card.create_cards, results)), desc='Creating cards')
     cards: List[Card] = tqdm(list(chain.from_iterable(multiprocessing.Pool().imap(Card.create_cards, results))), desc='Creating cards')
+
+    for card in cards:
+        if card.infinitivo in basic_infinitivos:
+            card.tags.append('conjugation::basic-verb')
 
     ListWriter.write_list('Spanish::conjugación::All verbs::all', cards, "update current")
     ListWriter.write_list('Spanish::conjugación::All verbs::irregulares', [card for card in cards if card.irregular], "keep both")
     ListWriter.filter_and_write_by_time(["yo", "tu", "el"], tense_names.keys(), cards, "keep both", "All verbs::")
     ListWriter.filter_and_write_by_time(["tu"], ["imperativo"], cards, "keep both", "All verbs::")
 
-    with(open('input/basic_verbs_filter.csv', 'r', encoding='utf-8')) as f:
-        verbs = [v.strip() for v in f.readlines()]
-        basic_cards = [card for card in cards if card.infinitivo in verbs]
+
+    basic_cards = [card for card in cards if card.infinitivo in basic_infinitivos]
 
 
-        prefix = "Basic verbs"
-        ListWriter.write_list(f'Spanish::conjugación::{prefix}::all', basic_cards, "keep both")
-        ListWriter.write_list(f'Spanish::conjugación::{prefix}::irregulares', [card for card in basic_cards if card.irregular],
-                              "keep both")
-        ListWriter.filter_and_write_by_time(["yo", "tu", "el"], tense_names.keys(), basic_cards, "keep both", f"{prefix}::")
-        ListWriter.filter_and_write_by_time(["tu"], ["imperativo"], basic_cards, "keep both", f"{prefix}::")
+    prefix = "Basic verbs"
+    ListWriter.write_list(f'Spanish::conjugación::{prefix}::all', basic_cards, "keep both")
+    ListWriter.write_list(f'Spanish::conjugación::{prefix}::irregulares', [card for card in basic_cards if card.irregular],
+                          "keep both")
+    ListWriter.filter_and_write_by_time(["yo", "tu", "el"], tense_names.keys(), basic_cards, "keep both", f"{prefix}::")
+    ListWriter.filter_and_write_by_time(["tu"], ["imperativo"], basic_cards, "keep both", f"{prefix}::")
 
 
     # new_words = pd.json_normalize([asdict(v) for v in results])

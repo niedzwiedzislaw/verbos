@@ -3,103 +3,103 @@
 #if matches:keep both
 #notetype:Spanish Conjugation
 #deck:Spanish::conjugación::Basic verbs::futuro: yo, tú, él
-#columns:question,infinitivo,polski,english,person,case,conj_espanol,conj_polski,irregular,hint
-"acostarse, yo, futuro",acostarse,położyć się,to go to bed,yo,futuro_simple,me acostaré,,False,
-"acostarse, tú, futuro",acostarse,położyć się,to go to bed,tu,futuro_simple,te acostarás,,False,
-"acostarse, él, futuro",acostarse,położyć się,to go to bed,el,futuro_simple,se acostará,,False,
-"andar, yo, futuro",andar,chodzić,to walk,yo,futuro_simple,andaré,,False,
-"andar, tú, futuro",andar,chodzić,to walk,tu,futuro_simple,andarás,,False,
-"andar, él, futuro",andar,chodzić,to walk,el,futuro_simple,andará,,False,
-"comer, yo, futuro",comer,jeść,to eat,yo,futuro_simple,comeré,,False,
-"comer, tú, futuro",comer,jeść,to eat,tu,futuro_simple,comerás,,False,
-"comer, él, futuro",comer,jeść,to eat,el,futuro_simple,comerá,,False,
-"comprar, yo, futuro",comprar,kupować,to buy,yo,futuro_simple,compraré,,False,
-"comprar, tú, futuro",comprar,kupować,to buy,tu,futuro_simple,comprarás,,False,
-"comprar, él, futuro",comprar,kupować,to buy,el,futuro_simple,comprará,,False,
-"confundirse, yo, futuro",confundirse,pomylić się,to make a mistake,yo,futuro_simple,me confundiré,,False,
-"confundirse, tú, futuro",confundirse,pomylić się,to make a mistake,tu,futuro_simple,te confundirás,,False,
-"confundirse, él, futuro",confundirse,pomylić się,to make a mistake,el,futuro_simple,se confundirá,,False,
-"conseguir, yo, futuro",conseguir,zyskać,to get,yo,futuro_simple,conseguiré,,False,
-"conseguir, tú, futuro",conseguir,zyskać,to get,tu,futuro_simple,conseguirás,,False,
-"conseguir, él, futuro",conseguir,zyskać,to get,el,futuro_simple,conseguirá,,False,
-"dar, yo, futuro",dar,dać,to give,yo,futuro_simple,daré,,False,
-"dar, tú, futuro",dar,dać,to give,tu,futuro_simple,darás,,False,
-"dar, él, futuro",dar,dać,to give,el,futuro_simple,dará,,False,
-"decir, yo, futuro",decir,mówić,to say,yo,futuro_simple,d<em>ir</em>é,,True,
-"decir, tú, futuro",decir,mówić,to say,tu,futuro_simple,d<em>ir</em>ás,,True,
-"decir, él, futuro",decir,mówić,to say,el,futuro_simple,d<em>ir</em>á,,True,
-"dejar, yo, futuro",dejar,pozostawić,to leave,yo,futuro_simple,dejaré,,False,
-"dejar, tú, futuro",dejar,pozostawić,to leave,tu,futuro_simple,dejarás,,False,
-"dejar, él, futuro",dejar,pozostawić,to leave,el,futuro_simple,dejará,,False,
-"despertarse, yo, futuro",despertarse,budzić się,to wake up,yo,futuro_simple,me despertaré,,False,
-"despertarse, tú, futuro",despertarse,budzić się,to wake up,tu,futuro_simple,te despertarás,,False,
-"despertarse, él, futuro",despertarse,budzić się,to wake up,el,futuro_simple,se despertará,,False,
-"dormir, yo, futuro",dormir,spać,to sleep,yo,futuro_simple,dormiré,,False,
-"dormir, tú, futuro",dormir,spać,to sleep,tu,futuro_simple,dormirás,,False,
-"dormir, él, futuro",dormir,spać,to sleep,el,futuro_simple,dormirá,,False,
-"empezar, yo, futuro",empezar,zaczynać,to start,yo,futuro_simple,empezaré,,False,
-"empezar, tú, futuro",empezar,zaczynać,to start,tu,futuro_simple,empezarás,,False,
-"empezar, él, futuro",empezar,zaczynać,to start,el,futuro_simple,empezará,,False,
-"entender, yo, futuro",entender,rozumieć,to understand,yo,futuro_simple,entenderé,,False,
-"entender, tú, futuro",entender,rozumieć,to understand,tu,futuro_simple,entenderás,,False,
-"entender, él, futuro",entender,rozumieć,to understand,el,futuro_simple,entenderá,,False,
-"estar, yo, futuro",estar,być,to be,yo,futuro_simple,estaré,,False,estar
-"estar, tú, futuro",estar,być,to be,tu,futuro_simple,estarás,,False,estar
-"estar, él, futuro",estar,być,to be,el,futuro_simple,estará,,False,estar
-"haber, yo, futuro",haber,egzystować,to have,yo,futuro_simple,hab<em>r</em>é,,True,
-"haber, tú, futuro",haber,egzystować,to have,tu,futuro_simple,hab<em>r</em>ás,,True,
-"haber, él, futuro",haber,egzystować,to have,el,futuro_simple,hab<em>r</em>á,,True,
-"hacer, yo, futuro",hacer,robić,to do,yo,futuro_simple,ha<em>r</em>é,,True,
-"hacer, tú, futuro",hacer,robić,to do,tu,futuro_simple,ha<em>r</em>ás,,True,
-"hacer, él, futuro",hacer,robić,to do,el,futuro_simple,ha<em>r</em>á,,True,
-"ir, yo, futuro",ir,iść,to go,yo,futuro_simple,iré,,False,ir
-"ir, tú, futuro",ir,iść,to go,tu,futuro_simple,irás,,False,ir
-"ir, él, futuro",ir,iść,to go,el,futuro_simple,irá,,False,ir
-"levantarse, yo, futuro",levantarse,wstać; obudzić się,to get up,yo,futuro_simple,me levantaré,,False,
-"levantarse, tú, futuro",levantarse,wstać; obudzić się,to get up,tu,futuro_simple,te levantarás,,False,
-"levantarse, él, futuro",levantarse,wstać; obudzić się,to get up,el,futuro_simple,se levantará,,False,
-"llevar, yo, futuro",llevar,nosić,to take,yo,futuro_simple,llevaré,,False,
-"llevar, tú, futuro",llevar,nosić,to take,tu,futuro_simple,llevarás,,False,
-"llevar, él, futuro",llevar,nosić,to take,el,futuro_simple,llevará,,False,
-"oír, yo, futuro",oír,słyszeć,to hear,yo,futuro_simple,oiré,,False,
-"oír, tú, futuro",oír,słyszeć,to hear,tu,futuro_simple,oirás,,False,
-"oír, él, futuro",oír,słyszeć,to hear,el,futuro_simple,oirá,,False,
-"pedir, yo, futuro",pedir,poprosić,to ask for,yo,futuro_simple,pediré,,False,
-"pedir, tú, futuro",pedir,poprosić,to ask for,tu,futuro_simple,pedirás,,False,
-"pedir, él, futuro",pedir,poprosić,to ask for,el,futuro_simple,pedirá,,False,
-"pensar, yo, futuro",pensar,myśleć,to think,yo,futuro_simple,pensaré,,False,
-"pensar, tú, futuro",pensar,myśleć,to think,tu,futuro_simple,pensarás,,False,
-"pensar, él, futuro",pensar,myśleć,to think,el,futuro_simple,pensará,,False,
-"poder, yo, futuro",poder,móc,to be able to,yo,futuro_simple,pod<em>r</em>é,,True,
-"poder, tú, futuro",poder,móc,to be able to,tu,futuro_simple,pod<em>r</em>ás,,True,
-"poder, él, futuro",poder,móc,to be able to,el,futuro_simple,pod<em>r</em>á,,True,
-"poner, yo, futuro",poner,kłaść,to put,yo,futuro_simple,pon<em>dr</em>é,,True,poner
-"poner, tú, futuro",poner,kłaść,to put,tu,futuro_simple,pon<em>dr</em>ás,,True,poner
-"poner, él, futuro",poner,kłaść,to put,el,futuro_simple,pon<em>dr</em>á,,True,poner
-"querer, yo, futuro",querer,chcieć,to want,yo,futuro_simple,quer<em>r</em>é,,True,
-"querer, tú, futuro",querer,chcieć,to want,tu,futuro_simple,quer<em>r</em>ás,,True,
-"querer, él, futuro",querer,chcieć,to want,el,futuro_simple,quer<em>r</em>á,,True,
-"saber, yo, futuro",saber,wiedzieć,to know,yo,futuro_simple,sab<em>r</em>é,,True,
-"saber, tú, futuro",saber,wiedzieć,to know,tu,futuro_simple,sab<em>r</em>ás,,True,
-"saber, él, futuro",saber,wiedzieć,to know,el,futuro_simple,sab<em>r</em>á,,True,
-"salir, yo, futuro",salir,wychodzić,to go out,yo,futuro_simple,sal<em>dr</em>é,,True,
-"salir, tú, futuro",salir,wychodzić,to go out,tu,futuro_simple,sal<em>dr</em>ás,,True,
-"salir, él, futuro",salir,wychodzić,to go out,el,futuro_simple,sal<em>dr</em>á,,True,
-"seguir, yo, futuro",seguir,kontynuować,to follow,yo,futuro_simple,seguiré,,False,
-"seguir, tú, futuro",seguir,kontynuować,to follow,tu,futuro_simple,seguirás,,False,
-"seguir, él, futuro",seguir,kontynuować,to follow,el,futuro_simple,seguirá,,False,
-"ser, yo, futuro",ser,być,to be,yo,futuro_simple,seré,,False,ser
-"ser, tú, futuro",ser,być,to be,tu,futuro_simple,serás,,False,ser
-"ser, él, futuro",ser,być,to be,el,futuro_simple,será,,False,ser
-"tener, yo, futuro",tener,mieć,to have,yo,futuro_simple,ten<em>dr</em>é,,True,
-"tener, tú, futuro",tener,mieć,to have,tu,futuro_simple,ten<em>dr</em>ás,,True,
-"tener, él, futuro",tener,mieć,to have,el,futuro_simple,ten<em>dr</em>á,,True,
-"venir, yo, futuro",venir,przychodzić,to come,yo,futuro_simple,ven<em>dr</em>é,,True,
-"venir, tú, futuro",venir,przychodzić,to come,tu,futuro_simple,ven<em>dr</em>ás,,True,
-"venir, él, futuro",venir,przychodzić,to come,el,futuro_simple,ven<em>dr</em>á,,True,
-"ver, yo, futuro",ver,oglądać,to see,yo,futuro_simple,veré,,False,
-"ver, tú, futuro",ver,oglądać,to see,tu,futuro_simple,verás,,False,
-"ver, él, futuro",ver,oglądać,to see,el,futuro_simple,verá,,False,
-"volver, yo, futuro",volver,wracać,to return,yo,futuro_simple,volveré,,False,
-"volver, tú, futuro",volver,wracać,to return,tu,futuro_simple,volverás,,False,
-"volver, él, futuro",volver,wracać,to return,el,futuro_simple,volverá,,False,
+#columns:question,infinitivo,polski,english,person,case,conj_espanol,conj_polski,irregular,hint,tags
+"acostarse, yo, futuro",acostarse,położyć się,to go to bed,yo,futuro_simple,me acostaré,,false,,conjugation::basic-verb
+"acostarse, tú, futuro",acostarse,położyć się,to go to bed,tu,futuro_simple,te acostarás,,false,,conjugation::basic-verb
+"acostarse, él, futuro",acostarse,położyć się,to go to bed,el,futuro_simple,se acostará,,false,,conjugation::basic-verb
+"andar, yo, futuro",andar,chodzić,to walk,yo,futuro_simple,andaré,,false,,conjugation::basic-verb
+"andar, tú, futuro",andar,chodzić,to walk,tu,futuro_simple,andarás,,false,,conjugation::basic-verb
+"andar, él, futuro",andar,chodzić,to walk,el,futuro_simple,andará,,false,,conjugation::basic-verb
+"comer, yo, futuro",comer,jeść,to eat,yo,futuro_simple,comeré,,false,,conjugation::basic-verb
+"comer, tú, futuro",comer,jeść,to eat,tu,futuro_simple,comerás,,false,,conjugation::basic-verb
+"comer, él, futuro",comer,jeść,to eat,el,futuro_simple,comerá,,false,,conjugation::basic-verb
+"comprar, yo, futuro",comprar,kupować,to buy,yo,futuro_simple,compraré,,false,,conjugation::basic-verb
+"comprar, tú, futuro",comprar,kupować,to buy,tu,futuro_simple,comprarás,,false,,conjugation::basic-verb
+"comprar, él, futuro",comprar,kupować,to buy,el,futuro_simple,comprará,,false,,conjugation::basic-verb
+"confundirse, yo, futuro",confundirse,pomylić się,to make a mistake,yo,futuro_simple,me confundiré,,false,,conjugation::basic-verb
+"confundirse, tú, futuro",confundirse,pomylić się,to make a mistake,tu,futuro_simple,te confundirás,,false,,conjugation::basic-verb
+"confundirse, él, futuro",confundirse,pomylić się,to make a mistake,el,futuro_simple,se confundirá,,false,,conjugation::basic-verb
+"conseguir, yo, futuro",conseguir,zyskać,to get,yo,futuro_simple,conseguiré,,false,,conjugation::basic-verb
+"conseguir, tú, futuro",conseguir,zyskać,to get,tu,futuro_simple,conseguirás,,false,,conjugation::basic-verb
+"conseguir, él, futuro",conseguir,zyskać,to get,el,futuro_simple,conseguirá,,false,,conjugation::basic-verb
+"dar, yo, futuro",dar,dać,to give,yo,futuro_simple,daré,,false,,conjugation::basic-verb
+"dar, tú, futuro",dar,dać,to give,tu,futuro_simple,darás,,false,,conjugation::basic-verb
+"dar, él, futuro",dar,dać,to give,el,futuro_simple,dará,,false,,conjugation::basic-verb
+"decir, yo, futuro",decir,mówić,to say,yo,futuro_simple,d<em>ir</em>é,,true,,conjugation::basic-verb
+"decir, tú, futuro",decir,mówić,to say,tu,futuro_simple,d<em>ir</em>ás,,true,,conjugation::basic-verb
+"decir, él, futuro",decir,mówić,to say,el,futuro_simple,d<em>ir</em>á,,true,,conjugation::basic-verb
+"dejar, yo, futuro",dejar,pozostawić,to leave,yo,futuro_simple,dejaré,,false,,conjugation::basic-verb
+"dejar, tú, futuro",dejar,pozostawić,to leave,tu,futuro_simple,dejarás,,false,,conjugation::basic-verb
+"dejar, él, futuro",dejar,pozostawić,to leave,el,futuro_simple,dejará,,false,,conjugation::basic-verb
+"despertarse, yo, futuro",despertarse,budzić się,to wake up,yo,futuro_simple,me despertaré,,false,,conjugation::basic-verb
+"despertarse, tú, futuro",despertarse,budzić się,to wake up,tu,futuro_simple,te despertarás,,false,,conjugation::basic-verb
+"despertarse, él, futuro",despertarse,budzić się,to wake up,el,futuro_simple,se despertará,,false,,conjugation::basic-verb
+"dormir, yo, futuro",dormir,spać,to sleep,yo,futuro_simple,dormiré,,false,,conjugation::basic-verb
+"dormir, tú, futuro",dormir,spać,to sleep,tu,futuro_simple,dormirás,,false,,conjugation::basic-verb
+"dormir, él, futuro",dormir,spać,to sleep,el,futuro_simple,dormirá,,false,,conjugation::basic-verb
+"empezar, yo, futuro",empezar,zaczynać,to start,yo,futuro_simple,empezaré,,false,,conjugation::basic-verb
+"empezar, tú, futuro",empezar,zaczynać,to start,tu,futuro_simple,empezarás,,false,,conjugation::basic-verb
+"empezar, él, futuro",empezar,zaczynać,to start,el,futuro_simple,empezará,,false,,conjugation::basic-verb
+"entender, yo, futuro",entender,rozumieć,to understand,yo,futuro_simple,entenderé,,false,,conjugation::basic-verb
+"entender, tú, futuro",entender,rozumieć,to understand,tu,futuro_simple,entenderás,,false,,conjugation::basic-verb
+"entender, él, futuro",entender,rozumieć,to understand,el,futuro_simple,entenderá,,false,,conjugation::basic-verb
+"estar, yo, futuro",estar,być,to be,yo,futuro_simple,estaré,,false,estar,conjugation::basic-verb
+"estar, tú, futuro",estar,być,to be,tu,futuro_simple,estarás,,false,estar,conjugation::basic-verb
+"estar, él, futuro",estar,być,to be,el,futuro_simple,estará,,false,estar,conjugation::basic-verb
+"haber, yo, futuro",haber,egzystować,to have,yo,futuro_simple,hab<em>r</em>é,,true,,conjugation::basic-verb
+"haber, tú, futuro",haber,egzystować,to have,tu,futuro_simple,hab<em>r</em>ás,,true,,conjugation::basic-verb
+"haber, él, futuro",haber,egzystować,to have,el,futuro_simple,hab<em>r</em>á,,true,,conjugation::basic-verb
+"hacer, yo, futuro",hacer,robić,to do,yo,futuro_simple,ha<em>r</em>é,,true,,conjugation::basic-verb
+"hacer, tú, futuro",hacer,robić,to do,tu,futuro_simple,ha<em>r</em>ás,,true,,conjugation::basic-verb
+"hacer, él, futuro",hacer,robić,to do,el,futuro_simple,ha<em>r</em>á,,true,,conjugation::basic-verb
+"ir, yo, futuro",ir,iść,to go,yo,futuro_simple,iré,,false,ir,conjugation::basic-verb
+"ir, tú, futuro",ir,iść,to go,tu,futuro_simple,irás,,false,ir,conjugation::basic-verb
+"ir, él, futuro",ir,iść,to go,el,futuro_simple,irá,,false,ir,conjugation::basic-verb
+"levantarse, yo, futuro",levantarse,wstać; obudzić się,to get up,yo,futuro_simple,me levantaré,,false,,conjugation::basic-verb
+"levantarse, tú, futuro",levantarse,wstać; obudzić się,to get up,tu,futuro_simple,te levantarás,,false,,conjugation::basic-verb
+"levantarse, él, futuro",levantarse,wstać; obudzić się,to get up,el,futuro_simple,se levantará,,false,,conjugation::basic-verb
+"llevar, yo, futuro",llevar,nosić,to take,yo,futuro_simple,llevaré,,false,,conjugation::basic-verb
+"llevar, tú, futuro",llevar,nosić,to take,tu,futuro_simple,llevarás,,false,,conjugation::basic-verb
+"llevar, él, futuro",llevar,nosić,to take,el,futuro_simple,llevará,,false,,conjugation::basic-verb
+"oír, yo, futuro",oír,słyszeć,to hear,yo,futuro_simple,oiré,,false,,conjugation::basic-verb
+"oír, tú, futuro",oír,słyszeć,to hear,tu,futuro_simple,oirás,,false,,conjugation::basic-verb
+"oír, él, futuro",oír,słyszeć,to hear,el,futuro_simple,oirá,,false,,conjugation::basic-verb
+"pedir, yo, futuro",pedir,poprosić,to ask for,yo,futuro_simple,pediré,,false,,conjugation::basic-verb
+"pedir, tú, futuro",pedir,poprosić,to ask for,tu,futuro_simple,pedirás,,false,,conjugation::basic-verb
+"pedir, él, futuro",pedir,poprosić,to ask for,el,futuro_simple,pedirá,,false,,conjugation::basic-verb
+"pensar, yo, futuro",pensar,myśleć,to think,yo,futuro_simple,pensaré,,false,,conjugation::basic-verb
+"pensar, tú, futuro",pensar,myśleć,to think,tu,futuro_simple,pensarás,,false,,conjugation::basic-verb
+"pensar, él, futuro",pensar,myśleć,to think,el,futuro_simple,pensará,,false,,conjugation::basic-verb
+"poder, yo, futuro",poder,móc,to be able to,yo,futuro_simple,pod<em>r</em>é,,true,,conjugation::basic-verb
+"poder, tú, futuro",poder,móc,to be able to,tu,futuro_simple,pod<em>r</em>ás,,true,,conjugation::basic-verb
+"poder, él, futuro",poder,móc,to be able to,el,futuro_simple,pod<em>r</em>á,,true,,conjugation::basic-verb
+"poner, yo, futuro",poner,kłaść,to put,yo,futuro_simple,pon<em>dr</em>é,,true,poner,conjugation::basic-verb
+"poner, tú, futuro",poner,kłaść,to put,tu,futuro_simple,pon<em>dr</em>ás,,true,poner,conjugation::basic-verb
+"poner, él, futuro",poner,kłaść,to put,el,futuro_simple,pon<em>dr</em>á,,true,poner,conjugation::basic-verb
+"querer, yo, futuro",querer,chcieć,to want,yo,futuro_simple,quer<em>r</em>é,,true,,conjugation::basic-verb
+"querer, tú, futuro",querer,chcieć,to want,tu,futuro_simple,quer<em>r</em>ás,,true,,conjugation::basic-verb
+"querer, él, futuro",querer,chcieć,to want,el,futuro_simple,quer<em>r</em>á,,true,,conjugation::basic-verb
+"saber, yo, futuro",saber,wiedzieć,to know,yo,futuro_simple,sab<em>r</em>é,,true,,conjugation::basic-verb
+"saber, tú, futuro",saber,wiedzieć,to know,tu,futuro_simple,sab<em>r</em>ás,,true,,conjugation::basic-verb
+"saber, él, futuro",saber,wiedzieć,to know,el,futuro_simple,sab<em>r</em>á,,true,,conjugation::basic-verb
+"salir, yo, futuro",salir,wychodzić,to go out,yo,futuro_simple,sal<em>dr</em>é,,true,,conjugation::basic-verb
+"salir, tú, futuro",salir,wychodzić,to go out,tu,futuro_simple,sal<em>dr</em>ás,,true,,conjugation::basic-verb
+"salir, él, futuro",salir,wychodzić,to go out,el,futuro_simple,sal<em>dr</em>á,,true,,conjugation::basic-verb
+"seguir, yo, futuro",seguir,kontynuować,to follow,yo,futuro_simple,seguiré,,false,,conjugation::basic-verb
+"seguir, tú, futuro",seguir,kontynuować,to follow,tu,futuro_simple,seguirás,,false,,conjugation::basic-verb
+"seguir, él, futuro",seguir,kontynuować,to follow,el,futuro_simple,seguirá,,false,,conjugation::basic-verb
+"ser, yo, futuro",ser,być,to be,yo,futuro_simple,seré,,false,ser,conjugation::basic-verb
+"ser, tú, futuro",ser,być,to be,tu,futuro_simple,serás,,false,ser,conjugation::basic-verb
+"ser, él, futuro",ser,być,to be,el,futuro_simple,será,,false,ser,conjugation::basic-verb
+"tener, yo, futuro",tener,mieć,to have,yo,futuro_simple,ten<em>dr</em>é,,true,,conjugation::basic-verb
+"tener, tú, futuro",tener,mieć,to have,tu,futuro_simple,ten<em>dr</em>ás,,true,,conjugation::basic-verb
+"tener, él, futuro",tener,mieć,to have,el,futuro_simple,ten<em>dr</em>á,,true,,conjugation::basic-verb
+"venir, yo, futuro",venir,przychodzić,to come,yo,futuro_simple,ven<em>dr</em>é,,true,,conjugation::basic-verb
+"venir, tú, futuro",venir,przychodzić,to come,tu,futuro_simple,ven<em>dr</em>ás,,true,,conjugation::basic-verb
+"venir, él, futuro",venir,przychodzić,to come,el,futuro_simple,ven<em>dr</em>á,,true,,conjugation::basic-verb
+"ver, yo, futuro",ver,oglądać,to see,yo,futuro_simple,veré,,false,,conjugation::basic-verb
+"ver, tú, futuro",ver,oglądać,to see,tu,futuro_simple,verás,,false,,conjugation::basic-verb
+"ver, él, futuro",ver,oglądać,to see,el,futuro_simple,verá,,false,,conjugation::basic-verb
+"volver, yo, futuro",volver,wracać,to return,yo,futuro_simple,volveré,,false,,conjugation::basic-verb
+"volver, tú, futuro",volver,wracać,to return,tu,futuro_simple,volverás,,false,,conjugation::basic-verb
+"volver, él, futuro",volver,wracać,to return,el,futuro_simple,volverá,,false,,conjugation::basic-verb

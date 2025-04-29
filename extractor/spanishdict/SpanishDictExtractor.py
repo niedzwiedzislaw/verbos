@@ -104,10 +104,16 @@ class SpanishDictExtractor:
         try:
             f = open(f'cache/spanishdict/{verb}.html', encoding='utf-8').read()
         except:
-            print(f'Downloading {verb}')
-            f = requests.get(f"https://www.spanishdict.com/conjugate/{verb}").text
-            with open(f'../cache/spanishdict/{verb}.html', 'w', encoding='utf-8') as h:
-                h.write(f)
+            url = f"https://www.spanishdict.com/conjugate/{verb}"
+            try:
+                print(f'Downloading {verb}')
+                f = requests.get(url).text
+                with open(f'cache/spanishdict/{verb}.html', 'w', encoding='utf-8') as h:
+                    h.write(f)
+            except Exception as e:
+                print(f'Failed to download {url}')
+                print(f'Exception: {e}')
+                raise e
 
         try:
             soup = BeautifulSoup(f, 'html.parser')

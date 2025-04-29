@@ -3,103 +3,103 @@
 #if matches:keep both
 #notetype:Spanish Conjugation
 #deck:Spanish::conjugación::Basic verbs::pret. perfecto: yo, tú, él
-#columns:question,infinitivo,polski,english,person,case,conj_espanol,conj_polski,irregular,hint
-"acostarse, yo, pret. perfecto",acostarse,położyć się,to go to bed,yo,pret_perfecto,me he acostado,,False,
-"acostarse, tú, pret. perfecto",acostarse,położyć się,to go to bed,tu,pret_perfecto,te has acostado,,False,
-"acostarse, él, pret. perfecto",acostarse,położyć się,to go to bed,el,pret_perfecto,se ha acostado,,False,
-"andar, yo, pret. perfecto",andar,chodzić,to walk,yo,pret_perfecto,he andado,,False,
-"andar, tú, pret. perfecto",andar,chodzić,to walk,tu,pret_perfecto,has andado,,False,
-"andar, él, pret. perfecto",andar,chodzić,to walk,el,pret_perfecto,ha andado,,False,
-"comer, yo, pret. perfecto",comer,jeść,to eat,yo,pret_perfecto,he comido,,False,
-"comer, tú, pret. perfecto",comer,jeść,to eat,tu,pret_perfecto,has comido,,False,
-"comer, él, pret. perfecto",comer,jeść,to eat,el,pret_perfecto,ha comido,,False,
-"comprar, yo, pret. perfecto",comprar,kupować,to buy,yo,pret_perfecto,he comprado,,False,
-"comprar, tú, pret. perfecto",comprar,kupować,to buy,tu,pret_perfecto,has comprado,,False,
-"comprar, él, pret. perfecto",comprar,kupować,to buy,el,pret_perfecto,ha comprado,,False,
-"confundirse, yo, pret. perfecto",confundirse,pomylić się,to make a mistake,yo,pret_perfecto,me he confundido,,False,
-"confundirse, tú, pret. perfecto",confundirse,pomylić się,to make a mistake,tu,pret_perfecto,te has confundido,,False,
-"confundirse, él, pret. perfecto",confundirse,pomylić się,to make a mistake,el,pret_perfecto,se ha confundido,,False,
-"conseguir, yo, pret. perfecto",conseguir,zyskać,to get,yo,pret_perfecto,he conseguido,,False,
-"conseguir, tú, pret. perfecto",conseguir,zyskać,to get,tu,pret_perfecto,has conseguido,,False,
-"conseguir, él, pret. perfecto",conseguir,zyskać,to get,el,pret_perfecto,ha conseguido,,False,
-"dar, yo, pret. perfecto",dar,dać,to give,yo,pret_perfecto,he dado,,False,
-"dar, tú, pret. perfecto",dar,dać,to give,tu,pret_perfecto,has dado,,False,
-"dar, él, pret. perfecto",dar,dać,to give,el,pret_perfecto,ha dado,,False,
-"decir, yo, pret. perfecto",decir,mówić,to say,yo,pret_perfecto,he d<em>ich</em>o,,True,
-"decir, tú, pret. perfecto",decir,mówić,to say,tu,pret_perfecto,has d<em>ich</em>o,,True,
-"decir, él, pret. perfecto",decir,mówić,to say,el,pret_perfecto,ha d<em>ich</em>o,,True,
-"dejar, yo, pret. perfecto",dejar,pozostawić,to leave,yo,pret_perfecto,he dejado,,False,
-"dejar, tú, pret. perfecto",dejar,pozostawić,to leave,tu,pret_perfecto,has dejado,,False,
-"dejar, él, pret. perfecto",dejar,pozostawić,to leave,el,pret_perfecto,ha dejado,,False,
-"despertarse, yo, pret. perfecto",despertarse,budzić się,to wake up,yo,pret_perfecto,me he despertado,,False,
-"despertarse, tú, pret. perfecto",despertarse,budzić się,to wake up,tu,pret_perfecto,te has despertado,,False,
-"despertarse, él, pret. perfecto",despertarse,budzić się,to wake up,el,pret_perfecto,se ha despertado,,False,
-"dormir, yo, pret. perfecto",dormir,spać,to sleep,yo,pret_perfecto,he dormido,,False,
-"dormir, tú, pret. perfecto",dormir,spać,to sleep,tu,pret_perfecto,has dormido,,False,
-"dormir, él, pret. perfecto",dormir,spać,to sleep,el,pret_perfecto,ha dormido,,False,
-"empezar, yo, pret. perfecto",empezar,zaczynać,to start,yo,pret_perfecto,he empezado,,False,
-"empezar, tú, pret. perfecto",empezar,zaczynać,to start,tu,pret_perfecto,has empezado,,False,
-"empezar, él, pret. perfecto",empezar,zaczynać,to start,el,pret_perfecto,ha empezado,,False,
-"entender, yo, pret. perfecto",entender,rozumieć,to understand,yo,pret_perfecto,he entendido,,False,
-"entender, tú, pret. perfecto",entender,rozumieć,to understand,tu,pret_perfecto,has entendido,,False,
-"entender, él, pret. perfecto",entender,rozumieć,to understand,el,pret_perfecto,ha entendido,,False,
-"estar, yo, pret. perfecto",estar,być,to be,yo,pret_perfecto,he estado,,False,estar
-"estar, tú, pret. perfecto",estar,być,to be,tu,pret_perfecto,has estado,,False,estar
-"estar, él, pret. perfecto",estar,być,to be,el,pret_perfecto,ha estado,,False,estar
-"haber, yo, pret. perfecto",haber,egzystować,to have,yo,pret_perfecto,he habido,,False,
-"haber, tú, pret. perfecto",haber,egzystować,to have,tu,pret_perfecto,has habido,,False,
-"haber, él, pret. perfecto",haber,egzystować,to have,el,pret_perfecto,ha habido,,False,
-"hacer, yo, pret. perfecto",hacer,robić,to do,yo,pret_perfecto,he h<em>ech</em>o,,True,
-"hacer, tú, pret. perfecto",hacer,robić,to do,tu,pret_perfecto,has h<em>ech</em>o,,True,
-"hacer, él, pret. perfecto",hacer,robić,to do,el,pret_perfecto,ha h<em>ech</em>o,,True,
-"ir, yo, pret. perfecto",ir,iść,to go,yo,pret_perfecto,he ido,,False,ir
-"ir, tú, pret. perfecto",ir,iść,to go,tu,pret_perfecto,has ido,,False,ir
-"ir, él, pret. perfecto",ir,iść,to go,el,pret_perfecto,ha ido,,False,ir
-"levantarse, yo, pret. perfecto",levantarse,wstać; obudzić się,to get up,yo,pret_perfecto,me he levantado,,False,
-"levantarse, tú, pret. perfecto",levantarse,wstać; obudzić się,to get up,tu,pret_perfecto,te has levantado,,False,
-"levantarse, él, pret. perfecto",levantarse,wstać; obudzić się,to get up,el,pret_perfecto,se ha levantado,,False,
-"llevar, yo, pret. perfecto",llevar,nosić,to take,yo,pret_perfecto,he llevado,,False,
-"llevar, tú, pret. perfecto",llevar,nosić,to take,tu,pret_perfecto,has llevado,,False,
-"llevar, él, pret. perfecto",llevar,nosić,to take,el,pret_perfecto,ha llevado,,False,
-"oír, yo, pret. perfecto",oír,słyszeć,to hear,yo,pret_perfecto,he o<em>í</em>do,,True,
-"oír, tú, pret. perfecto",oír,słyszeć,to hear,tu,pret_perfecto,has o<em>í</em>do,,True,
-"oír, él, pret. perfecto",oír,słyszeć,to hear,el,pret_perfecto,ha o<em>í</em>do,,True,
-"pedir, yo, pret. perfecto",pedir,poprosić,to ask for,yo,pret_perfecto,he pedido,,False,
-"pedir, tú, pret. perfecto",pedir,poprosić,to ask for,tu,pret_perfecto,has pedido,,False,
-"pedir, él, pret. perfecto",pedir,poprosić,to ask for,el,pret_perfecto,ha pedido,,False,
-"pensar, yo, pret. perfecto",pensar,myśleć,to think,yo,pret_perfecto,he pensado,,False,
-"pensar, tú, pret. perfecto",pensar,myśleć,to think,tu,pret_perfecto,has pensado,,False,
-"pensar, él, pret. perfecto",pensar,myśleć,to think,el,pret_perfecto,ha pensado,,False,
-"poder, yo, pret. perfecto",poder,móc,to be able to,yo,pret_perfecto,he podido,,False,
-"poder, tú, pret. perfecto",poder,móc,to be able to,tu,pret_perfecto,has podido,,False,
-"poder, él, pret. perfecto",poder,móc,to be able to,el,pret_perfecto,ha podido,,False,
-"poner, yo, pret. perfecto",poner,kłaść,to put,yo,pret_perfecto,he p<em>uest</em>o,,True,poner
-"poner, tú, pret. perfecto",poner,kłaść,to put,tu,pret_perfecto,has p<em>uest</em>o,,True,poner
-"poner, él, pret. perfecto",poner,kłaść,to put,el,pret_perfecto,ha p<em>uest</em>o,,True,poner
-"querer, yo, pret. perfecto",querer,chcieć,to want,yo,pret_perfecto,he querido,,False,
-"querer, tú, pret. perfecto",querer,chcieć,to want,tu,pret_perfecto,has querido,,False,
-"querer, él, pret. perfecto",querer,chcieć,to want,el,pret_perfecto,ha querido,,False,
-"saber, yo, pret. perfecto",saber,wiedzieć,to know,yo,pret_perfecto,he sabido,,False,
-"saber, tú, pret. perfecto",saber,wiedzieć,to know,tu,pret_perfecto,has sabido,,False,
-"saber, él, pret. perfecto",saber,wiedzieć,to know,el,pret_perfecto,ha sabido,,False,
-"salir, yo, pret. perfecto",salir,wychodzić,to go out,yo,pret_perfecto,he salido,,False,
-"salir, tú, pret. perfecto",salir,wychodzić,to go out,tu,pret_perfecto,has salido,,False,
-"salir, él, pret. perfecto",salir,wychodzić,to go out,el,pret_perfecto,ha salido,,False,
-"seguir, yo, pret. perfecto",seguir,kontynuować,to follow,yo,pret_perfecto,he seguido,,False,
-"seguir, tú, pret. perfecto",seguir,kontynuować,to follow,tu,pret_perfecto,has seguido,,False,
-"seguir, él, pret. perfecto",seguir,kontynuować,to follow,el,pret_perfecto,ha seguido,,False,
-"ser, yo, pret. perfecto",ser,być,to be,yo,pret_perfecto,he sido,,False,ser
-"ser, tú, pret. perfecto",ser,być,to be,tu,pret_perfecto,has sido,,False,ser
-"ser, él, pret. perfecto",ser,być,to be,el,pret_perfecto,ha sido,,False,ser
-"tener, yo, pret. perfecto",tener,mieć,to have,yo,pret_perfecto,he tenido,,False,
-"tener, tú, pret. perfecto",tener,mieć,to have,tu,pret_perfecto,has tenido,,False,
-"tener, él, pret. perfecto",tener,mieć,to have,el,pret_perfecto,ha tenido,,False,
-"venir, yo, pret. perfecto",venir,przychodzić,to come,yo,pret_perfecto,he venido,,False,
-"venir, tú, pret. perfecto",venir,przychodzić,to come,tu,pret_perfecto,has venido,,False,
-"venir, él, pret. perfecto",venir,przychodzić,to come,el,pret_perfecto,ha venido,,False,
-"ver, yo, pret. perfecto",ver,oglądać,to see,yo,pret_perfecto,he vi<em>st</em>o,,True,
-"ver, tú, pret. perfecto",ver,oglądać,to see,tu,pret_perfecto,has vi<em>st</em>o,,True,
-"ver, él, pret. perfecto",ver,oglądać,to see,el,pret_perfecto,ha vi<em>st</em>o,,True,
-"volver, yo, pret. perfecto",volver,wracać,to return,yo,pret_perfecto,he v<em>uelt</em>o,,True,
-"volver, tú, pret. perfecto",volver,wracać,to return,tu,pret_perfecto,has v<em>uelt</em>o,,True,
-"volver, él, pret. perfecto",volver,wracać,to return,el,pret_perfecto,ha v<em>uelt</em>o,,True,
+#columns:question,infinitivo,polski,english,person,case,conj_espanol,conj_polski,irregular,hint,tags
+"acostarse, yo, pret. perfecto",acostarse,położyć się,to go to bed,yo,pret_perfecto,me he acostado,,false,,conjugation::basic-verb
+"acostarse, tú, pret. perfecto",acostarse,położyć się,to go to bed,tu,pret_perfecto,te has acostado,,false,,conjugation::basic-verb
+"acostarse, él, pret. perfecto",acostarse,położyć się,to go to bed,el,pret_perfecto,se ha acostado,,false,,conjugation::basic-verb
+"andar, yo, pret. perfecto",andar,chodzić,to walk,yo,pret_perfecto,he andado,,false,,conjugation::basic-verb
+"andar, tú, pret. perfecto",andar,chodzić,to walk,tu,pret_perfecto,has andado,,false,,conjugation::basic-verb
+"andar, él, pret. perfecto",andar,chodzić,to walk,el,pret_perfecto,ha andado,,false,,conjugation::basic-verb
+"comer, yo, pret. perfecto",comer,jeść,to eat,yo,pret_perfecto,he comido,,false,,conjugation::basic-verb
+"comer, tú, pret. perfecto",comer,jeść,to eat,tu,pret_perfecto,has comido,,false,,conjugation::basic-verb
+"comer, él, pret. perfecto",comer,jeść,to eat,el,pret_perfecto,ha comido,,false,,conjugation::basic-verb
+"comprar, yo, pret. perfecto",comprar,kupować,to buy,yo,pret_perfecto,he comprado,,false,,conjugation::basic-verb
+"comprar, tú, pret. perfecto",comprar,kupować,to buy,tu,pret_perfecto,has comprado,,false,,conjugation::basic-verb
+"comprar, él, pret. perfecto",comprar,kupować,to buy,el,pret_perfecto,ha comprado,,false,,conjugation::basic-verb
+"confundirse, yo, pret. perfecto",confundirse,pomylić się,to make a mistake,yo,pret_perfecto,me he confundido,,false,,conjugation::basic-verb
+"confundirse, tú, pret. perfecto",confundirse,pomylić się,to make a mistake,tu,pret_perfecto,te has confundido,,false,,conjugation::basic-verb
+"confundirse, él, pret. perfecto",confundirse,pomylić się,to make a mistake,el,pret_perfecto,se ha confundido,,false,,conjugation::basic-verb
+"conseguir, yo, pret. perfecto",conseguir,zyskać,to get,yo,pret_perfecto,he conseguido,,false,,conjugation::basic-verb
+"conseguir, tú, pret. perfecto",conseguir,zyskać,to get,tu,pret_perfecto,has conseguido,,false,,conjugation::basic-verb
+"conseguir, él, pret. perfecto",conseguir,zyskać,to get,el,pret_perfecto,ha conseguido,,false,,conjugation::basic-verb
+"dar, yo, pret. perfecto",dar,dać,to give,yo,pret_perfecto,he dado,,false,,conjugation::basic-verb
+"dar, tú, pret. perfecto",dar,dać,to give,tu,pret_perfecto,has dado,,false,,conjugation::basic-verb
+"dar, él, pret. perfecto",dar,dać,to give,el,pret_perfecto,ha dado,,false,,conjugation::basic-verb
+"decir, yo, pret. perfecto",decir,mówić,to say,yo,pret_perfecto,he d<em>ich</em>o,,true,,conjugation::basic-verb
+"decir, tú, pret. perfecto",decir,mówić,to say,tu,pret_perfecto,has d<em>ich</em>o,,true,,conjugation::basic-verb
+"decir, él, pret. perfecto",decir,mówić,to say,el,pret_perfecto,ha d<em>ich</em>o,,true,,conjugation::basic-verb
+"dejar, yo, pret. perfecto",dejar,pozostawić,to leave,yo,pret_perfecto,he dejado,,false,,conjugation::basic-verb
+"dejar, tú, pret. perfecto",dejar,pozostawić,to leave,tu,pret_perfecto,has dejado,,false,,conjugation::basic-verb
+"dejar, él, pret. perfecto",dejar,pozostawić,to leave,el,pret_perfecto,ha dejado,,false,,conjugation::basic-verb
+"despertarse, yo, pret. perfecto",despertarse,budzić się,to wake up,yo,pret_perfecto,me he despertado,,false,,conjugation::basic-verb
+"despertarse, tú, pret. perfecto",despertarse,budzić się,to wake up,tu,pret_perfecto,te has despertado,,false,,conjugation::basic-verb
+"despertarse, él, pret. perfecto",despertarse,budzić się,to wake up,el,pret_perfecto,se ha despertado,,false,,conjugation::basic-verb
+"dormir, yo, pret. perfecto",dormir,spać,to sleep,yo,pret_perfecto,he dormido,,false,,conjugation::basic-verb
+"dormir, tú, pret. perfecto",dormir,spać,to sleep,tu,pret_perfecto,has dormido,,false,,conjugation::basic-verb
+"dormir, él, pret. perfecto",dormir,spać,to sleep,el,pret_perfecto,ha dormido,,false,,conjugation::basic-verb
+"empezar, yo, pret. perfecto",empezar,zaczynać,to start,yo,pret_perfecto,he empezado,,false,,conjugation::basic-verb
+"empezar, tú, pret. perfecto",empezar,zaczynać,to start,tu,pret_perfecto,has empezado,,false,,conjugation::basic-verb
+"empezar, él, pret. perfecto",empezar,zaczynać,to start,el,pret_perfecto,ha empezado,,false,,conjugation::basic-verb
+"entender, yo, pret. perfecto",entender,rozumieć,to understand,yo,pret_perfecto,he entendido,,false,,conjugation::basic-verb
+"entender, tú, pret. perfecto",entender,rozumieć,to understand,tu,pret_perfecto,has entendido,,false,,conjugation::basic-verb
+"entender, él, pret. perfecto",entender,rozumieć,to understand,el,pret_perfecto,ha entendido,,false,,conjugation::basic-verb
+"estar, yo, pret. perfecto",estar,być,to be,yo,pret_perfecto,he estado,,false,estar,conjugation::basic-verb
+"estar, tú, pret. perfecto",estar,być,to be,tu,pret_perfecto,has estado,,false,estar,conjugation::basic-verb
+"estar, él, pret. perfecto",estar,być,to be,el,pret_perfecto,ha estado,,false,estar,conjugation::basic-verb
+"haber, yo, pret. perfecto",haber,egzystować,to have,yo,pret_perfecto,he habido,,false,,conjugation::basic-verb
+"haber, tú, pret. perfecto",haber,egzystować,to have,tu,pret_perfecto,has habido,,false,,conjugation::basic-verb
+"haber, él, pret. perfecto",haber,egzystować,to have,el,pret_perfecto,ha habido,,false,,conjugation::basic-verb
+"hacer, yo, pret. perfecto",hacer,robić,to do,yo,pret_perfecto,he h<em>ech</em>o,,true,,conjugation::basic-verb
+"hacer, tú, pret. perfecto",hacer,robić,to do,tu,pret_perfecto,has h<em>ech</em>o,,true,,conjugation::basic-verb
+"hacer, él, pret. perfecto",hacer,robić,to do,el,pret_perfecto,ha h<em>ech</em>o,,true,,conjugation::basic-verb
+"ir, yo, pret. perfecto",ir,iść,to go,yo,pret_perfecto,he ido,,false,ir,conjugation::basic-verb
+"ir, tú, pret. perfecto",ir,iść,to go,tu,pret_perfecto,has ido,,false,ir,conjugation::basic-verb
+"ir, él, pret. perfecto",ir,iść,to go,el,pret_perfecto,ha ido,,false,ir,conjugation::basic-verb
+"levantarse, yo, pret. perfecto",levantarse,wstać; obudzić się,to get up,yo,pret_perfecto,me he levantado,,false,,conjugation::basic-verb
+"levantarse, tú, pret. perfecto",levantarse,wstać; obudzić się,to get up,tu,pret_perfecto,te has levantado,,false,,conjugation::basic-verb
+"levantarse, él, pret. perfecto",levantarse,wstać; obudzić się,to get up,el,pret_perfecto,se ha levantado,,false,,conjugation::basic-verb
+"llevar, yo, pret. perfecto",llevar,nosić,to take,yo,pret_perfecto,he llevado,,false,,conjugation::basic-verb
+"llevar, tú, pret. perfecto",llevar,nosić,to take,tu,pret_perfecto,has llevado,,false,,conjugation::basic-verb
+"llevar, él, pret. perfecto",llevar,nosić,to take,el,pret_perfecto,ha llevado,,false,,conjugation::basic-verb
+"oír, yo, pret. perfecto",oír,słyszeć,to hear,yo,pret_perfecto,he o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, tú, pret. perfecto",oír,słyszeć,to hear,tu,pret_perfecto,has o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, él, pret. perfecto",oír,słyszeć,to hear,el,pret_perfecto,ha o<em>í</em>do,,true,,conjugation::basic-verb
+"pedir, yo, pret. perfecto",pedir,poprosić,to ask for,yo,pret_perfecto,he pedido,,false,,conjugation::basic-verb
+"pedir, tú, pret. perfecto",pedir,poprosić,to ask for,tu,pret_perfecto,has pedido,,false,,conjugation::basic-verb
+"pedir, él, pret. perfecto",pedir,poprosić,to ask for,el,pret_perfecto,ha pedido,,false,,conjugation::basic-verb
+"pensar, yo, pret. perfecto",pensar,myśleć,to think,yo,pret_perfecto,he pensado,,false,,conjugation::basic-verb
+"pensar, tú, pret. perfecto",pensar,myśleć,to think,tu,pret_perfecto,has pensado,,false,,conjugation::basic-verb
+"pensar, él, pret. perfecto",pensar,myśleć,to think,el,pret_perfecto,ha pensado,,false,,conjugation::basic-verb
+"poder, yo, pret. perfecto",poder,móc,to be able to,yo,pret_perfecto,he podido,,false,,conjugation::basic-verb
+"poder, tú, pret. perfecto",poder,móc,to be able to,tu,pret_perfecto,has podido,,false,,conjugation::basic-verb
+"poder, él, pret. perfecto",poder,móc,to be able to,el,pret_perfecto,ha podido,,false,,conjugation::basic-verb
+"poner, yo, pret. perfecto",poner,kłaść,to put,yo,pret_perfecto,he p<em>uest</em>o,,true,poner,conjugation::basic-verb
+"poner, tú, pret. perfecto",poner,kłaść,to put,tu,pret_perfecto,has p<em>uest</em>o,,true,poner,conjugation::basic-verb
+"poner, él, pret. perfecto",poner,kłaść,to put,el,pret_perfecto,ha p<em>uest</em>o,,true,poner,conjugation::basic-verb
+"querer, yo, pret. perfecto",querer,chcieć,to want,yo,pret_perfecto,he querido,,false,,conjugation::basic-verb
+"querer, tú, pret. perfecto",querer,chcieć,to want,tu,pret_perfecto,has querido,,false,,conjugation::basic-verb
+"querer, él, pret. perfecto",querer,chcieć,to want,el,pret_perfecto,ha querido,,false,,conjugation::basic-verb
+"saber, yo, pret. perfecto",saber,wiedzieć,to know,yo,pret_perfecto,he sabido,,false,,conjugation::basic-verb
+"saber, tú, pret. perfecto",saber,wiedzieć,to know,tu,pret_perfecto,has sabido,,false,,conjugation::basic-verb
+"saber, él, pret. perfecto",saber,wiedzieć,to know,el,pret_perfecto,ha sabido,,false,,conjugation::basic-verb
+"salir, yo, pret. perfecto",salir,wychodzić,to go out,yo,pret_perfecto,he salido,,false,,conjugation::basic-verb
+"salir, tú, pret. perfecto",salir,wychodzić,to go out,tu,pret_perfecto,has salido,,false,,conjugation::basic-verb
+"salir, él, pret. perfecto",salir,wychodzić,to go out,el,pret_perfecto,ha salido,,false,,conjugation::basic-verb
+"seguir, yo, pret. perfecto",seguir,kontynuować,to follow,yo,pret_perfecto,he seguido,,false,,conjugation::basic-verb
+"seguir, tú, pret. perfecto",seguir,kontynuować,to follow,tu,pret_perfecto,has seguido,,false,,conjugation::basic-verb
+"seguir, él, pret. perfecto",seguir,kontynuować,to follow,el,pret_perfecto,ha seguido,,false,,conjugation::basic-verb
+"ser, yo, pret. perfecto",ser,być,to be,yo,pret_perfecto,he sido,,false,ser,conjugation::basic-verb
+"ser, tú, pret. perfecto",ser,być,to be,tu,pret_perfecto,has sido,,false,ser,conjugation::basic-verb
+"ser, él, pret. perfecto",ser,być,to be,el,pret_perfecto,ha sido,,false,ser,conjugation::basic-verb
+"tener, yo, pret. perfecto",tener,mieć,to have,yo,pret_perfecto,he tenido,,false,,conjugation::basic-verb
+"tener, tú, pret. perfecto",tener,mieć,to have,tu,pret_perfecto,has tenido,,false,,conjugation::basic-verb
+"tener, él, pret. perfecto",tener,mieć,to have,el,pret_perfecto,ha tenido,,false,,conjugation::basic-verb
+"venir, yo, pret. perfecto",venir,przychodzić,to come,yo,pret_perfecto,he venido,,false,,conjugation::basic-verb
+"venir, tú, pret. perfecto",venir,przychodzić,to come,tu,pret_perfecto,has venido,,false,,conjugation::basic-verb
+"venir, él, pret. perfecto",venir,przychodzić,to come,el,pret_perfecto,ha venido,,false,,conjugation::basic-verb
+"ver, yo, pret. perfecto",ver,oglądać,to see,yo,pret_perfecto,he vi<em>st</em>o,,true,,conjugation::basic-verb
+"ver, tú, pret. perfecto",ver,oglądać,to see,tu,pret_perfecto,has vi<em>st</em>o,,true,,conjugation::basic-verb
+"ver, él, pret. perfecto",ver,oglądać,to see,el,pret_perfecto,ha vi<em>st</em>o,,true,,conjugation::basic-verb
+"volver, yo, pret. perfecto",volver,wracać,to return,yo,pret_perfecto,he v<em>uelt</em>o,,true,,conjugation::basic-verb
+"volver, tú, pret. perfecto",volver,wracać,to return,tu,pret_perfecto,has v<em>uelt</em>o,,true,,conjugation::basic-verb
+"volver, él, pret. perfecto",volver,wracać,to return,el,pret_perfecto,ha v<em>uelt</em>o,,true,,conjugation::basic-verb
