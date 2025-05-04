@@ -3,6 +3,7 @@ from typing import List, Iterable
 
 from anki import Card, person_abbr_with_accents, case_names
 from settings import separator
+from translator import TranslatedVerbConjugation
 
 
 class ListWriter:
@@ -26,6 +27,18 @@ class ListWriter:
             w = csv.writer(f, delimiter=separator)
             for c in cards:
                 w.writerow(c.values())
+
+    @staticmethod
+    def write_infinitivos_list(deck_name: str, verbs: Iterable[Card]):
+        with open("lists/" + ListWriter.__generate_file_name(deck_name), 'w', encoding='utf-8', newline='') as f:
+            f.write(f'#separator:{separator}' + '\n')
+            f.write(f'#html:true' + '\n')
+            w = csv.writer(f, delimiter=separator)
+            used = set()
+            for v in verbs:
+                if not v.infinitivo in used:
+                    w.writerow([v.infinitivo, v.english, v.polski, "verbos"])
+                    used.add(v.infinitivo)
 
     __update_modes = ["keep both", "keep current", "update current"]
 

@@ -1,15 +1,28 @@
 from extractor import Tense, VerbData
 from params import TensTranslationBase, TranslationParams
 from translator import TranslatedTense, Translation, TranslatedImperativo, TranslatedVerbConjugation
-from translator import substitute, append
+from translator import substitute, substitute_end, append
 
 
 class Translator:
 
     @staticmethod
+    def self_ending(verb: str, translation_base: TensTranslationBase):
+        match translation_base.zwrotny:
+            case None:
+                return ' się' if verb.endswith("se") else ''
+            case True:
+                return ' się'
+            case False:
+                return ''
+            case _:
+                raise Exception()
+
+    @staticmethod
     def translate_present_with_root(verb: str, trans: Tense, translation_base: TensTranslationBase) -> TranslatedTense:
-        się = ' się' if verb.endswith("se") else ''  # todo - use translation, not verb - sacarse doesn't fit the rule
+        się = Translator.self_ending(verb, translation_base)
         root_sg = translation_base.singular
+        root_pl = translation_base.plural or translation_base.singular
 
         def persona_sg_1():
             match root_sg:
@@ -17,15 +30,17 @@ class Translator:
                     return ''
                 case _:
                     return (
+                            substitute(root_sg, 'je', 'jem') or
                             substitute(root_sg, 'wie', 'wiem') or
-                            substitute(root_sg, 'oże', 'ogę') or
-                            substitute(root_sg, 'si', 'szę') or
-                            substitute(root_sg, 'ści', 'szczę') or
-                            substitute(root_sg, 'dzie', 'dę') or
-                            substitute(root_sg, ['e', 'y'], 'ę') or
-                            substitute(root_sg, 'bi', 'bię') or
-                            substitute(root_sg, 'wi', 'wię') or
-                            substitute(root_sg, 'i', 'ę') or
+                            substitute_end(root_sg, 'oże', 'ogę') or
+                            substitute_end(root_sg, 'si', 'szę') or
+                            substitute_end(root_sg, 'ści', 'szczę') or
+                            substitute_end(root_sg, 'dzie', 'dę') or
+                            substitute_end(root_sg, ['e', 'y'], 'ę') or
+                            substitute_end(root_sg, 'bi', 'bię') or
+                            substitute_end(root_sg, 'wi', 'wię') or
+                            substitute_end(root_sg, 'pi', 'pię') or
+                            substitute_end(root_sg, 'i', 'ę') or
                             append(root_sg, 'a', 'm') or
                             append(root_sg, '', 'em')
                     ) + się
@@ -37,7 +52,7 @@ class Translator:
                     return ''
                 case _:
                     return (
-                            substitute(root_sg, 'st', 'steś') or
+                            substitute_end(root_sg, 'st', 'steś') or
                             append(root_sg, '', 'sz')
                     ) + się
 
@@ -49,33 +64,39 @@ class Translator:
                     return x + się
 
         def persona_pl_1():
-            match root_sg:
+            match root_pl:
                 case '':
                     return ''
                 case x:
                     return x + "my" + się
 
         def persona_pl_2():
-            match root_sg:
+            match root_pl:
                 case '':
                     return ''
                 case _:
                     return (
-                        append(root_sg, '', 'cie')
+                        append(root_pl, '', 'cie')
                     ) + się
 
         def persona_pl_3():
-            match root_sg:
+            match root_pl:
                 case '':
                     return ''
                 case _:
                     return (
-                            substitute(root_sg, 'jest', 'są') or
-                            substitute(root_sg, 'dzie', 'dą') or
-                            substitute(root_sg, 'dzi', 'dzą') or
-                            substitute(root_sg, 'e', 'ą') or
-                            substitute(root_sg, 'a', 'ją') or
-                            append(root_sg, '', 'ą')
+                            substitute(root_pl, 'jesteś', 'są') or
+                            substitute(root_pl, 'je', 'jedzą') or
+                            substitute(root_pl, 'wie', 'wiedzą') or
+                            substitute_end(root_pl, 'jest', 'są') or
+                            substitute_end(root_pl, 'dzie', 'dą') or
+                            substitute_end(root_pl, 'dzi', 'dzą') or
+                            substitute_end(root_pl, 'da', 'dają') or
+                            substitute_end(root_pl, 'je', 'ją') or
+                            substitute_end(root_pl, 'e', 'ą') or
+                            substitute_end(root_pl, 'wa', 'wają') or
+                            substitute_end(root_pl, 'a', 'ją') or
+                            append(root_pl, '', 'ą')
                     ) + się
 
         return TranslatedTense(
@@ -89,7 +110,7 @@ class Translator:
 
     @staticmethod
     def translate_past_with_root(verb, trans: Tense, translation_base: TensTranslationBase) -> TranslatedTense:
-        się = ' się' if verb.endswith("se") else ''
+        się = Translator.self_ending(verb, translation_base)
         root_sg = translation_base.singular
         root_pl = translation_base.plural or root_sg
 
@@ -117,11 +138,11 @@ class Translator:
     @staticmethod
     def build_root_pl_from_sg(root_sg) -> str:
         return (
-                substitute(root_sg, 'ił', 'ili') or
-                substitute(root_sg, 'ciał', 'cieli') or
-                substitute(root_sg, 'miał', 'mieli') or
-                substitute(root_sg, 'iał', 'iali') or
-                substitute(root_sg, 'ał', 'ali')
+                substitute_end(root_sg, 'ił', 'ili') or
+                substitute_end(root_sg, 'ciał', 'cieli') or
+                substitute_end(root_sg, 'miał', 'mieli') or
+                substitute_end(root_sg, 'iał', 'iali') or
+                substitute_end(root_sg, 'ał', 'ali')
         )
 
     @classmethod

@@ -4,102 +4,102 @@
 #notetype:Spanish Conjugation
 #deck:Spanish::conjugación::Basic verbs::pret. indefinido: yo, tú, él
 #columns:question,infinitivo,polski,english,person,case,conj_espanol,conj_polski,irregular,hint,tags
-"acostarse, yo, pret. indefinido",acostarse,położyć się,to go to bed,yo,pret_indefinido,me acosté,położyłem się,false,,conjugation::basic-verb
-"acostarse, tú, pret. indefinido",acostarse,położyć się,to go to bed,tu,pret_indefinido,te acostaste,położyłeś się,false,,conjugation::basic-verb
-"acostarse, él, pret. indefinido",acostarse,położyć się,to go to bed,el,pret_indefinido,se acostó,położył się,false,,conjugation::basic-verb
-"andar, yo, pret. indefinido",andar,chodzić,to walk,yo,pret_indefinido,and<em>uve</em>,,true,,conjugation::basic-verb
-"andar, tú, pret. indefinido",andar,chodzić,to walk,tu,pret_indefinido,and<em>uvi</em>ste,,true,,conjugation::basic-verb
-"andar, él, pret. indefinido",andar,chodzić,to walk,el,pret_indefinido,and<em>uvo</em>,,true,,conjugation::basic-verb
-"comer, yo, pret. indefinido",comer,jeść,to eat,yo,pret_indefinido,comí,jadłem,false,,conjugation::basic-verb
-"comer, tú, pret. indefinido",comer,jeść,to eat,tu,pret_indefinido,comiste,jadłeś,false,,conjugation::basic-verb
-"comer, él, pret. indefinido",comer,jeść,to eat,el,pret_indefinido,comió,jadł,false,,conjugation::basic-verb
-"comprar, yo, pret. indefinido",comprar,kupować,to buy,yo,pret_indefinido,compré,kupiłem,false,,conjugation::basic-verb
-"comprar, tú, pret. indefinido",comprar,kupować,to buy,tu,pret_indefinido,compraste,kupiłeś,false,,conjugation::basic-verb
-"comprar, él, pret. indefinido",comprar,kupować,to buy,el,pret_indefinido,compró,kupił,false,,conjugation::basic-verb
-"confundirse, yo, pret. indefinido",confundirse,pomylić się,to make a mistake,yo,pret_indefinido,me confundí,,false,,conjugation::basic-verb
-"confundirse, tú, pret. indefinido",confundirse,pomylić się,to make a mistake,tu,pret_indefinido,te confundiste,,false,,conjugation::basic-verb
-"confundirse, él, pret. indefinido",confundirse,pomylić się,to make a mistake,el,pret_indefinido,se confundió,,false,,conjugation::basic-verb
-"conseguir, yo, pret. indefinido",conseguir,zyskać,to get,yo,pret_indefinido,conseguí,zyskałem,false,,conjugation::basic-verb
-"conseguir, tú, pret. indefinido",conseguir,zyskać,to get,tu,pret_indefinido,conseguiste,zyskałeś,false,,conjugation::basic-verb
-"conseguir, él, pret. indefinido",conseguir,zyskać,to get,el,pret_indefinido,cons<em>i</em>guió,zyskał,true,,conjugation::basic-verb
-"dar, yo, pret. indefinido",dar,dać,to give,yo,pret_indefinido,d<em>i</em>,dałem,true,,conjugation::basic-verb
-"dar, tú, pret. indefinido",dar,dać,to give,tu,pret_indefinido,d<em>i</em>ste,dałeś,true,,conjugation::basic-verb
-"dar, él, pret. indefinido",dar,dać,to give,el,pret_indefinido,d<em>io</em>,dał,true,,conjugation::basic-verb
-"decir, yo, pret. indefinido",decir,mówić,to say,yo,pret_indefinido,d<em>ije</em>,mówiłem,true,,conjugation::basic-verb
-"decir, tú, pret. indefinido",decir,mówić,to say,tu,pret_indefinido,d<em>ij</em>iste,mówiłeś,true,,conjugation::basic-verb
-"decir, él, pret. indefinido",decir,mówić,to say,el,pret_indefinido,d<em>ijo</em>,mówił,true,,conjugation::basic-verb
-"dejar, yo, pret. indefinido",dejar,pozostawić,to leave,yo,pret_indefinido,dejé,,false,,conjugation::basic-verb
-"dejar, tú, pret. indefinido",dejar,pozostawić,to leave,tu,pret_indefinido,dejaste,,false,,conjugation::basic-verb
-"dejar, él, pret. indefinido",dejar,pozostawić,to leave,el,pret_indefinido,dejó,,false,,conjugation::basic-verb
-"despertarse, yo, pret. indefinido",despertarse,budzić się,to wake up,yo,pret_indefinido,me desperté,budziłem się,false,,conjugation::basic-verb
-"despertarse, tú, pret. indefinido",despertarse,budzić się,to wake up,tu,pret_indefinido,te despertaste,budziłeś się,false,,conjugation::basic-verb
-"despertarse, él, pret. indefinido",despertarse,budzić się,to wake up,el,pret_indefinido,se despertó,budził się,false,,conjugation::basic-verb
-"dormir, yo, pret. indefinido",dormir,spać,to sleep,yo,pret_indefinido,dormí,spałem,false,,conjugation::basic-verb
-"dormir, tú, pret. indefinido",dormir,spać,to sleep,tu,pret_indefinido,dormiste,spałeś,false,,conjugation::basic-verb
-"dormir, él, pret. indefinido",dormir,spać,to sleep,el,pret_indefinido,d<em>u</em>rmió,spał,true,,conjugation::basic-verb
-"empezar, yo, pret. indefinido",empezar,zaczynać,to start,yo,pret_indefinido,empe<em>c</em>é,zaczynałem,true,,conjugation::basic-verb
-"empezar, tú, pret. indefinido",empezar,zaczynać,to start,tu,pret_indefinido,empezaste,zaczynałeś,false,,conjugation::basic-verb
-"empezar, él, pret. indefinido",empezar,zaczynać,to start,el,pret_indefinido,empezó,zaczynał,false,,conjugation::basic-verb
-"entender, yo, pret. indefinido",entender,rozumieć,to understand,yo,pret_indefinido,entendí,,false,,conjugation::basic-verb
-"entender, tú, pret. indefinido",entender,rozumieć,to understand,tu,pret_indefinido,entendiste,,false,,conjugation::basic-verb
-"entender, él, pret. indefinido",entender,rozumieć,to understand,el,pret_indefinido,entendió,,false,,conjugation::basic-verb
-"estar, yo, pret. indefinido",estar,być,to be,yo,pret_indefinido,est<em>uve</em>,byłem,true,estar,conjugation::basic-verb
-"estar, tú, pret. indefinido",estar,być,to be,tu,pret_indefinido,est<em>uvi</em>ste,byłeś,true,estar,conjugation::basic-verb
-"estar, él, pret. indefinido",estar,być,to be,el,pret_indefinido,est<em>uvo</em>,był,true,estar,conjugation::basic-verb
-"haber, yo, pret. indefinido",haber,egzystować,to have,yo,pret_indefinido,h<em>ube</em>,,true,,conjugation::basic-verb
-"haber, tú, pret. indefinido",haber,egzystować,to have,tu,pret_indefinido,h<em>u</em>biste,,true,,conjugation::basic-verb
-"haber, él, pret. indefinido",haber,egzystować,to have,el,pret_indefinido,h<em>ubo</em>,,true,,conjugation::basic-verb
-"hacer, yo, pret. indefinido",hacer,robić,to do,yo,pret_indefinido,h<em>ice</em>,,true,,conjugation::basic-verb
-"hacer, tú, pret. indefinido",hacer,robić,to do,tu,pret_indefinido,h<em>i</em>ciste,,true,,conjugation::basic-verb
-"hacer, él, pret. indefinido",hacer,robić,to do,el,pret_indefinido,h<em>izo</em>,,true,,conjugation::basic-verb
-"ir, yo, pret. indefinido",ir,iść,to go,yo,pret_indefinido,<em>fui</em>,szedłem,true,ir,conjugation::basic-verb
-"ir, tú, pret. indefinido",ir,iść,to go,tu,pret_indefinido,<em>fuiste</em>,szedłeś,true,ir,conjugation::basic-verb
-"ir, él, pret. indefinido",ir,iść,to go,el,pret_indefinido,<em>fue</em>,szedł,true,ir,conjugation::basic-verb
-"levantarse, yo, pret. indefinido",levantarse,wstać; obudzić się,to get up,yo,pret_indefinido,me levanté,wstałem się,false,,conjugation::basic-verb
-"levantarse, tú, pret. indefinido",levantarse,wstać; obudzić się,to get up,tu,pret_indefinido,te levantaste,wstałeś się,false,,conjugation::basic-verb
-"levantarse, él, pret. indefinido",levantarse,wstać; obudzić się,to get up,el,pret_indefinido,se levantó,wstał się,false,,conjugation::basic-verb
-"llevar, yo, pret. indefinido",llevar,nosić,to take,yo,pret_indefinido,llevé,,false,,conjugation::basic-verb
-"llevar, tú, pret. indefinido",llevar,nosić,to take,tu,pret_indefinido,llevaste,,false,,conjugation::basic-verb
-"llevar, él, pret. indefinido",llevar,nosić,to take,el,pret_indefinido,llevó,,false,,conjugation::basic-verb
-"oír, yo, pret. indefinido",oír,słyszeć,to hear,yo,pret_indefinido,oí,,false,,conjugation::basic-verb
-"oír, tú, pret. indefinido",oír,słyszeć,to hear,tu,pret_indefinido,o<em>í</em>ste,,true,,conjugation::basic-verb
-"oír, él, pret. indefinido",oír,słyszeć,to hear,el,pret_indefinido,o<em>y</em>ó,,true,,conjugation::basic-verb
-"pedir, yo, pret. indefinido",pedir,poprosić,to ask for,yo,pret_indefinido,pedí,,false,,conjugation::basic-verb
-"pedir, tú, pret. indefinido",pedir,poprosić,to ask for,tu,pret_indefinido,pediste,,false,,conjugation::basic-verb
-"pedir, él, pret. indefinido",pedir,poprosić,to ask for,el,pret_indefinido,p<em>i</em>dió,,true,,conjugation::basic-verb
-"pensar, yo, pret. indefinido",pensar,myśleć,to think,yo,pret_indefinido,pensé,myśllałem,false,,conjugation::basic-verb
-"pensar, tú, pret. indefinido",pensar,myśleć,to think,tu,pret_indefinido,pensaste,myśllałeś,false,,conjugation::basic-verb
-"pensar, él, pret. indefinido",pensar,myśleć,to think,el,pret_indefinido,pensó,myśllał,false,,conjugation::basic-verb
-"poder, yo, pret. indefinido",poder,móc,to be able to,yo,pret_indefinido,p<em>ude</em>,mógłem,true,,conjugation::basic-verb
-"poder, tú, pret. indefinido",poder,móc,to be able to,tu,pret_indefinido,p<em>u</em>diste,mógłeś,true,,conjugation::basic-verb
-"poder, él, pret. indefinido",poder,móc,to be able to,el,pret_indefinido,p<em>udo</em>,mógł,true,,conjugation::basic-verb
-"poner, yo, pret. indefinido",poner,kłaść,to put,yo,pret_indefinido,p<em>use</em>,,true,poner,conjugation::basic-verb
-"poner, tú, pret. indefinido",poner,kłaść,to put,tu,pret_indefinido,p<em>us</em>iste,,true,poner,conjugation::basic-verb
-"poner, él, pret. indefinido",poner,kłaść,to put,el,pret_indefinido,p<em>uso</em>,,true,poner,conjugation::basic-verb
-"querer, yo, pret. indefinido",querer,chcieć,to want,yo,pret_indefinido,qu<em>ise</em>,chciałem,true,,conjugation::basic-verb
-"querer, tú, pret. indefinido",querer,chcieć,to want,tu,pret_indefinido,qu<em>is</em>iste,chciałeś,true,,conjugation::basic-verb
-"querer, él, pret. indefinido",querer,chcieć,to want,el,pret_indefinido,qu<em>iso</em>,chciał,true,,conjugation::basic-verb
-"saber, yo, pret. indefinido",saber,wiedzieć,to know,yo,pret_indefinido,s<em>upe</em>,wiedziałem,true,,conjugation::basic-verb
-"saber, tú, pret. indefinido",saber,wiedzieć,to know,tu,pret_indefinido,s<em>up</em>iste,wiedziałeś,true,,conjugation::basic-verb
-"saber, él, pret. indefinido",saber,wiedzieć,to know,el,pret_indefinido,s<em>upo</em>,wiedział,true,,conjugation::basic-verb
-"salir, yo, pret. indefinido",salir,wychodzić,to go out,yo,pret_indefinido,salí,wyszedłem,false,,conjugation::basic-verb
-"salir, tú, pret. indefinido",salir,wychodzić,to go out,tu,pret_indefinido,saliste,wyszedłeś,false,,conjugation::basic-verb
-"salir, él, pret. indefinido",salir,wychodzić,to go out,el,pret_indefinido,salió,wyszedł,false,,conjugation::basic-verb
-"seguir, yo, pret. indefinido",seguir,kontynuować,to follow,yo,pret_indefinido,seguí,,false,,conjugation::basic-verb
-"seguir, tú, pret. indefinido",seguir,kontynuować,to follow,tu,pret_indefinido,seguiste,,false,,conjugation::basic-verb
-"seguir, él, pret. indefinido",seguir,kontynuować,to follow,el,pret_indefinido,s<em>i</em>guió,,true,,conjugation::basic-verb
-"ser, yo, pret. indefinido",ser,być,to be,yo,pret_indefinido,<em>fui</em>,byłem,true,ser,conjugation::basic-verb
-"ser, tú, pret. indefinido",ser,być,to be,tu,pret_indefinido,<em>fu</em>iste,byłeś,true,ser,conjugation::basic-verb
-"ser, él, pret. indefinido",ser,być,to be,el,pret_indefinido,<em>fue</em>,był,true,ser,conjugation::basic-verb
-"tener, yo, pret. indefinido",tener,mieć,to have,yo,pret_indefinido,t<em>uve</em>,miałem,true,,conjugation::basic-verb
-"tener, tú, pret. indefinido",tener,mieć,to have,tu,pret_indefinido,t<em>uv</em>iste,miałeś,true,,conjugation::basic-verb
-"tener, él, pret. indefinido",tener,mieć,to have,el,pret_indefinido,t<em>uvo</em>,miał,true,,conjugation::basic-verb
-"venir, yo, pret. indefinido",venir,przychodzić,to come,yo,pret_indefinido,v<em>ine</em>,,true,,conjugation::basic-verb
-"venir, tú, pret. indefinido",venir,przychodzić,to come,tu,pret_indefinido,v<em>i</em>niste,,true,,conjugation::basic-verb
-"venir, él, pret. indefinido",venir,przychodzić,to come,el,pret_indefinido,v<em>ino</em>,,true,,conjugation::basic-verb
-"ver, yo, pret. indefinido",ver,oglądać,to see,yo,pret_indefinido,v<em>i</em>,oglądałem,true,,conjugation::basic-verb
-"ver, tú, pret. indefinido",ver,oglądać,to see,tu,pret_indefinido,viste,oglądałeś,false,,conjugation::basic-verb
-"ver, él, pret. indefinido",ver,oglądać,to see,el,pret_indefinido,vi<em>o</em>,oglądał,true,,conjugation::basic-verb
-"volver, yo, pret. indefinido",volver,wracać,to return,yo,pret_indefinido,volví,wracałem,false,,conjugation::basic-verb
-"volver, tú, pret. indefinido",volver,wracać,to return,tu,pret_indefinido,volviste,wracałeś,false,,conjugation::basic-verb
-"volver, él, pret. indefinido",volver,wracać,to return,el,pret_indefinido,volvió,wracał,false,,conjugation::basic-verb
+"acostarse, yo, pret. indefinido",acostarse,położyć się,to go to bed,yo,pret_indefinido,me acosté,położyłem się,false,,conjugation::po-polsku conjugation::basic-verb
+"acostarse, tú, pret. indefinido",acostarse,położyć się,to go to bed,tu,pret_indefinido,te acostaste,położyłeś się,false,,conjugation::po-polsku conjugation::basic-verb
+"acostarse, él, pret. indefinido",acostarse,położyć się,to go to bed,el,pret_indefinido,se acostó,położył się,false,,conjugation::po-polsku conjugation::basic-verb
+"andar, yo, pret. indefinido",andar,chodzić,to walk,yo,pret_indefinido,and<em>uve</em>,,true,,conjugation::po-polsku conjugation::basic-verb
+"andar, tú, pret. indefinido",andar,chodzić,to walk,tu,pret_indefinido,and<em>uvi</em>ste,,true,,conjugation::po-polsku conjugation::basic-verb
+"andar, él, pret. indefinido",andar,chodzić,to walk,el,pret_indefinido,and<em>uvo</em>,,true,,conjugation::po-polsku conjugation::basic-verb
+"comer, yo, pret. indefinido",comer,jeść,to eat,yo,pret_indefinido,comí,jadłem,false,,conjugation::po-polsku conjugation::basic-verb
+"comer, tú, pret. indefinido",comer,jeść,to eat,tu,pret_indefinido,comiste,jadłeś,false,,conjugation::po-polsku conjugation::basic-verb
+"comer, él, pret. indefinido",comer,jeść,to eat,el,pret_indefinido,comió,jadł,false,,conjugation::po-polsku conjugation::basic-verb
+"comprar, yo, pret. indefinido",comprar,kupować,to buy,yo,pret_indefinido,compré,kupiłem,false,,conjugation::po-polsku conjugation::basic-verb
+"comprar, tú, pret. indefinido",comprar,kupować,to buy,tu,pret_indefinido,compraste,kupiłeś,false,,conjugation::po-polsku conjugation::basic-verb
+"comprar, él, pret. indefinido",comprar,kupować,to buy,el,pret_indefinido,compró,kupił,false,,conjugation::po-polsku conjugation::basic-verb
+"confundirse, yo, pret. indefinido",confundirse,pomylić się,to make a mistake,yo,pret_indefinido,me confundí,,false,,conjugation::po-polsku conjugation::basic-verb
+"confundirse, tú, pret. indefinido",confundirse,pomylić się,to make a mistake,tu,pret_indefinido,te confundiste,,false,,conjugation::po-polsku conjugation::basic-verb
+"confundirse, él, pret. indefinido",confundirse,pomylić się,to make a mistake,el,pret_indefinido,se confundió,,false,,conjugation::po-polsku conjugation::basic-verb
+"conseguir, yo, pret. indefinido",conseguir,zyskać,to get,yo,pret_indefinido,conseguí,zyskałem,false,,conjugation::po-polsku conjugation::basic-verb
+"conseguir, tú, pret. indefinido",conseguir,zyskać,to get,tu,pret_indefinido,conseguiste,zyskałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"conseguir, él, pret. indefinido",conseguir,zyskać,to get,el,pret_indefinido,cons<em>i</em>guió,zyskał,true,,conjugation::po-polsku conjugation::basic-verb
+"dar, yo, pret. indefinido",dar,dać,to give,yo,pret_indefinido,d<em>i</em>,dałem,true,,conjugation::po-polsku conjugation::basic-verb
+"dar, tú, pret. indefinido",dar,dać,to give,tu,pret_indefinido,d<em>i</em>ste,dałeś,true,,conjugation::po-polsku conjugation::basic-verb
+"dar, él, pret. indefinido",dar,dać,to give,el,pret_indefinido,d<em>io</em>,dał,true,,conjugation::po-polsku conjugation::basic-verb
+"decir, yo, pret. indefinido",decir,mówić,to say,yo,pret_indefinido,d<em>ije</em>,mówiłem,true,,conjugation::po-polsku conjugation::basic-verb
+"decir, tú, pret. indefinido",decir,mówić,to say,tu,pret_indefinido,d<em>ij</em>iste,mówiłeś,true,,conjugation::po-polsku conjugation::basic-verb
+"decir, él, pret. indefinido",decir,mówić,to say,el,pret_indefinido,d<em>ijo</em>,mówił,true,,conjugation::po-polsku conjugation::basic-verb
+"dejar, yo, pret. indefinido",dejar,pozostawić,to leave,yo,pret_indefinido,dejé,,false,,conjugation::po-polsku conjugation::basic-verb
+"dejar, tú, pret. indefinido",dejar,pozostawić,to leave,tu,pret_indefinido,dejaste,,false,,conjugation::po-polsku conjugation::basic-verb
+"dejar, él, pret. indefinido",dejar,pozostawić,to leave,el,pret_indefinido,dejó,,false,,conjugation::po-polsku conjugation::basic-verb
+"despertarse, yo, pret. indefinido",despertarse,budzić się,to wake up,yo,pret_indefinido,me desperté,budziłem się,false,,conjugation::po-polsku conjugation::basic-verb
+"despertarse, tú, pret. indefinido",despertarse,budzić się,to wake up,tu,pret_indefinido,te despertaste,budziłeś się,false,,conjugation::po-polsku conjugation::basic-verb
+"despertarse, él, pret. indefinido",despertarse,budzić się,to wake up,el,pret_indefinido,se despertó,budził się,false,,conjugation::po-polsku conjugation::basic-verb
+"dormir, yo, pret. indefinido",dormir,spać,to sleep,yo,pret_indefinido,dormí,spałem,false,,conjugation::po-polsku conjugation::basic-verb
+"dormir, tú, pret. indefinido",dormir,spać,to sleep,tu,pret_indefinido,dormiste,spałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"dormir, él, pret. indefinido",dormir,spać,to sleep,el,pret_indefinido,d<em>u</em>rmió,spał,true,,conjugation::po-polsku conjugation::basic-verb
+"empezar, yo, pret. indefinido",empezar,zaczynać,to start,yo,pret_indefinido,empe<em>c</em>é,zaczynałem,true,,conjugation::po-polsku conjugation::basic-verb
+"empezar, tú, pret. indefinido",empezar,zaczynać,to start,tu,pret_indefinido,empezaste,zaczynałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"empezar, él, pret. indefinido",empezar,zaczynać,to start,el,pret_indefinido,empezó,zaczynał,false,,conjugation::po-polsku conjugation::basic-verb
+"entender, yo, pret. indefinido",entender,rozumieć,to understand,yo,pret_indefinido,entendí,,false,,conjugation::po-polsku conjugation::basic-verb
+"entender, tú, pret. indefinido",entender,rozumieć,to understand,tu,pret_indefinido,entendiste,,false,,conjugation::po-polsku conjugation::basic-verb
+"entender, él, pret. indefinido",entender,rozumieć,to understand,el,pret_indefinido,entendió,,false,,conjugation::po-polsku conjugation::basic-verb
+"estar, yo, pret. indefinido",estar,być,to be,yo,pret_indefinido,est<em>uve</em>,byłem,true,estar,conjugation::po-polsku conjugation::basic-verb
+"estar, tú, pret. indefinido",estar,być,to be,tu,pret_indefinido,est<em>uvi</em>ste,byłeś,true,estar,conjugation::po-polsku conjugation::basic-verb
+"estar, él, pret. indefinido",estar,być,to be,el,pret_indefinido,est<em>uvo</em>,był,true,estar,conjugation::po-polsku conjugation::basic-verb
+"haber, yo, pret. indefinido",haber,egzystować,to have,yo,pret_indefinido,h<em>ube</em>,,true,,conjugation::po-polsku conjugation::basic-verb
+"haber, tú, pret. indefinido",haber,egzystować,to have,tu,pret_indefinido,h<em>u</em>biste,,true,,conjugation::po-polsku conjugation::basic-verb
+"haber, él, pret. indefinido",haber,egzystować,to have,el,pret_indefinido,h<em>ubo</em>,,true,,conjugation::po-polsku conjugation::basic-verb
+"hacer, yo, pret. indefinido",hacer,robić,to do,yo,pret_indefinido,h<em>ice</em>,,true,,conjugation::po-polsku conjugation::basic-verb
+"hacer, tú, pret. indefinido",hacer,robić,to do,tu,pret_indefinido,h<em>i</em>ciste,,true,,conjugation::po-polsku conjugation::basic-verb
+"hacer, él, pret. indefinido",hacer,robić,to do,el,pret_indefinido,h<em>izo</em>,,true,,conjugation::po-polsku conjugation::basic-verb
+"ir, yo, pret. indefinido",ir,iść,to go,yo,pret_indefinido,<em>fui</em>,szedłem,true,ir,conjugation::po-polsku conjugation::basic-verb
+"ir, tú, pret. indefinido",ir,iść,to go,tu,pret_indefinido,<em>fuiste</em>,szedłeś,true,ir,conjugation::po-polsku conjugation::basic-verb
+"ir, él, pret. indefinido",ir,iść,to go,el,pret_indefinido,<em>fue</em>,szedł,true,ir,conjugation::po-polsku conjugation::basic-verb
+"levantarse, yo, pret. indefinido",levantarse,wstać; obudzić się,to get up,yo,pret_indefinido,me levanté,wstałem,false,,conjugation::po-polsku conjugation::basic-verb
+"levantarse, tú, pret. indefinido",levantarse,wstać; obudzić się,to get up,tu,pret_indefinido,te levantaste,wstałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"levantarse, él, pret. indefinido",levantarse,wstać; obudzić się,to get up,el,pret_indefinido,se levantó,wstał,false,,conjugation::po-polsku conjugation::basic-verb
+"llevar, yo, pret. indefinido",llevar,nosić,to take,yo,pret_indefinido,llevé,,false,,conjugation::po-polsku conjugation::basic-verb
+"llevar, tú, pret. indefinido",llevar,nosić,to take,tu,pret_indefinido,llevaste,,false,,conjugation::po-polsku conjugation::basic-verb
+"llevar, él, pret. indefinido",llevar,nosić,to take,el,pret_indefinido,llevó,,false,,conjugation::po-polsku conjugation::basic-verb
+"oír, yo, pret. indefinido",oír,słyszeć,to hear,yo,pret_indefinido,oí,,false,,conjugation::po-polsku conjugation::basic-verb
+"oír, tú, pret. indefinido",oír,słyszeć,to hear,tu,pret_indefinido,o<em>í</em>ste,,true,,conjugation::po-polsku conjugation::basic-verb
+"oír, él, pret. indefinido",oír,słyszeć,to hear,el,pret_indefinido,o<em>y</em>ó,,true,,conjugation::po-polsku conjugation::basic-verb
+"pedir, yo, pret. indefinido",pedir,poprosić,to ask for,yo,pret_indefinido,pedí,,false,,conjugation::po-polsku conjugation::basic-verb
+"pedir, tú, pret. indefinido",pedir,poprosić,to ask for,tu,pret_indefinido,pediste,,false,,conjugation::po-polsku conjugation::basic-verb
+"pedir, él, pret. indefinido",pedir,poprosić,to ask for,el,pret_indefinido,p<em>i</em>dió,,true,,conjugation::po-polsku conjugation::basic-verb
+"pensar, yo, pret. indefinido",pensar,myśleć,to think,yo,pret_indefinido,pensé,myśllałem,false,,conjugation::po-polsku conjugation::basic-verb
+"pensar, tú, pret. indefinido",pensar,myśleć,to think,tu,pret_indefinido,pensaste,myśllałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"pensar, él, pret. indefinido",pensar,myśleć,to think,el,pret_indefinido,pensó,myśllał,false,,conjugation::po-polsku conjugation::basic-verb
+"poder, yo, pret. indefinido",poder,móc,to be able to,yo,pret_indefinido,p<em>ude</em>,mógłem,true,,conjugation::po-polsku conjugation::basic-verb
+"poder, tú, pret. indefinido",poder,móc,to be able to,tu,pret_indefinido,p<em>u</em>diste,mógłeś,true,,conjugation::po-polsku conjugation::basic-verb
+"poder, él, pret. indefinido",poder,móc,to be able to,el,pret_indefinido,p<em>udo</em>,mógł,true,,conjugation::po-polsku conjugation::basic-verb
+"poner, yo, pret. indefinido",poner,kłaść,to put,yo,pret_indefinido,p<em>use</em>,,true,poner,conjugation::po-polsku conjugation::basic-verb
+"poner, tú, pret. indefinido",poner,kłaść,to put,tu,pret_indefinido,p<em>us</em>iste,,true,poner,conjugation::po-polsku conjugation::basic-verb
+"poner, él, pret. indefinido",poner,kłaść,to put,el,pret_indefinido,p<em>uso</em>,,true,poner,conjugation::po-polsku conjugation::basic-verb
+"querer, yo, pret. indefinido",querer,chcieć,to want,yo,pret_indefinido,qu<em>ise</em>,chciałem,true,,conjugation::po-polsku conjugation::basic-verb
+"querer, tú, pret. indefinido",querer,chcieć,to want,tu,pret_indefinido,qu<em>is</em>iste,chciałeś,true,,conjugation::po-polsku conjugation::basic-verb
+"querer, él, pret. indefinido",querer,chcieć,to want,el,pret_indefinido,qu<em>iso</em>,chciał,true,,conjugation::po-polsku conjugation::basic-verb
+"saber, yo, pret. indefinido",saber,wiedzieć,to know,yo,pret_indefinido,s<em>upe</em>,wiedziałem,true,,conjugation::po-polsku conjugation::basic-verb
+"saber, tú, pret. indefinido",saber,wiedzieć,to know,tu,pret_indefinido,s<em>up</em>iste,wiedziałeś,true,,conjugation::po-polsku conjugation::basic-verb
+"saber, él, pret. indefinido",saber,wiedzieć,to know,el,pret_indefinido,s<em>upo</em>,wiedział,true,,conjugation::po-polsku conjugation::basic-verb
+"salir, yo, pret. indefinido",salir,wychodzić,to go out,yo,pret_indefinido,salí,wyszedłem,false,,conjugation::po-polsku conjugation::basic-verb
+"salir, tú, pret. indefinido",salir,wychodzić,to go out,tu,pret_indefinido,saliste,wyszedłeś,false,,conjugation::po-polsku conjugation::basic-verb
+"salir, él, pret. indefinido",salir,wychodzić,to go out,el,pret_indefinido,salió,wyszedł,false,,conjugation::po-polsku conjugation::basic-verb
+"seguir, yo, pret. indefinido",seguir,kontynuować,to follow,yo,pret_indefinido,seguí,,false,,conjugation::po-polsku conjugation::basic-verb
+"seguir, tú, pret. indefinido",seguir,kontynuować,to follow,tu,pret_indefinido,seguiste,,false,,conjugation::po-polsku conjugation::basic-verb
+"seguir, él, pret. indefinido",seguir,kontynuować,to follow,el,pret_indefinido,s<em>i</em>guió,,true,,conjugation::po-polsku conjugation::basic-verb
+"ser, yo, pret. indefinido",ser,być,to be,yo,pret_indefinido,<em>fui</em>,byłem,true,ser,conjugation::po-polsku conjugation::basic-verb
+"ser, tú, pret. indefinido",ser,być,to be,tu,pret_indefinido,<em>fu</em>iste,byłeś,true,ser,conjugation::po-polsku conjugation::basic-verb
+"ser, él, pret. indefinido",ser,być,to be,el,pret_indefinido,<em>fue</em>,był,true,ser,conjugation::po-polsku conjugation::basic-verb
+"tener, yo, pret. indefinido",tener,mieć,to have,yo,pret_indefinido,t<em>uve</em>,miałem,true,,conjugation::po-polsku conjugation::basic-verb
+"tener, tú, pret. indefinido",tener,mieć,to have,tu,pret_indefinido,t<em>uv</em>iste,miałeś,true,,conjugation::po-polsku conjugation::basic-verb
+"tener, él, pret. indefinido",tener,mieć,to have,el,pret_indefinido,t<em>uvo</em>,miał,true,,conjugation::po-polsku conjugation::basic-verb
+"venir, yo, pret. indefinido",venir,przychodzić,to come,yo,pret_indefinido,v<em>ine</em>,,true,,conjugation::po-polsku conjugation::basic-verb
+"venir, tú, pret. indefinido",venir,przychodzić,to come,tu,pret_indefinido,v<em>i</em>niste,,true,,conjugation::po-polsku conjugation::basic-verb
+"venir, él, pret. indefinido",venir,przychodzić,to come,el,pret_indefinido,v<em>ino</em>,,true,,conjugation::po-polsku conjugation::basic-verb
+"ver, yo, pret. indefinido",ver,oglądać,to see,yo,pret_indefinido,v<em>i</em>,oglądałem,true,,conjugation::po-polsku conjugation::basic-verb
+"ver, tú, pret. indefinido",ver,oglądać,to see,tu,pret_indefinido,viste,oglądałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"ver, él, pret. indefinido",ver,oglądać,to see,el,pret_indefinido,vi<em>o</em>,oglądał,true,,conjugation::po-polsku conjugation::basic-verb
+"volver, yo, pret. indefinido",volver,wracać,to return,yo,pret_indefinido,volví,wracałem,false,,conjugation::po-polsku conjugation::basic-verb
+"volver, tú, pret. indefinido",volver,wracać,to return,tu,pret_indefinido,volviste,wracałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"volver, él, pret. indefinido",volver,wracać,to return,el,pret_indefinido,volvió,wracał,false,,conjugation::po-polsku conjugation::basic-verb

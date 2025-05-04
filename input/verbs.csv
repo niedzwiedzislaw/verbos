@@ -1,100 +1,100 @@
-abrir,otwierać
-acabar,kończyć,skończył,skończyli,kończy,
-acercarse,podejść
-acostarse,położyć się,położył,położyli,kładzie,
-alquilar,wynajmować,wynajmował,wynajmowali,wynajmuje,
-andar,chodzić
-beber,pić
-caerse,upaść
-causar,powodować
-cenar,jeść kolację
-cerrar,zamykać,zamykał,zamykali,zamyka,
-comer,jeść,jadł,jedli,je,
-componer,skomponować
-comprar,kupować,kupił,kupili,kupuje,
-conducir,prowadzić
-confundirse,pomylić się
-conocer,znać,znał,znali,zna,
-conseguir,zyskać,zyskał,zyskali,zyskuje,
-construir,budować
-contar,liczyć
-dar,dać,dał,dali,daje,
-deber,musieć
-decir,mówić,mówił,mówili,mówi,
-dejar,pozostawić
-desayunar,jeść śniadanie,,,,
-descubrir,odkryć,odkrył,odkryli,odkrywa,
-despertarse,budzić się,budził,budzili,budzi,
-doler,boleć
-dormir,spać,spał,spali,śpi,
-empezar,zaczynać,zaczynał,zaczynali,zaczyna,
-entender,rozumieć
-equivocarse,pomylić się
-escribir,pisać,pisał,pisali,pisze,
-esperar,czekać,czekał,czekali,czeka,
-estar,być,był,byli,jest,
-fregar,szorować
-freír,smażyć
-haber,egzystować
-hacer,robić
-hervir,gotować
-huir,uciekać
-influir,wpływać
-ir,iść,szedł,szli,idzie,
-lavarse,myć się,mył,myli,myje,
-levantarse,wstać; obudzić się,wstał,wstali,wstaje,
-limpiar,czyścić,czyścił,czyścili,czyści,
-llamarse,nazywać się,nazywał,nazywali,nazywa,
-llevar,nosić
-llevarse,dogadywać się
-llover,padać
-medir,mierzyć
-morir,umrzeć
-mostrar,pokazywać
-mover,przenosić
-nacer,urodzić się,rodził,rodzili,rodzi,
-obtener,uzyskać
-oir,słyszeć
-oler,wąchać
-parecer,przypominać
-pedir,poprosić
-pensar,myśleć,myśllał,myśleli,myśli,
-poder,móc,mógł,mogli,może,
-poner,kłaść
-preferir,preferować,preferował,preferowali,preferuje,
-preparar,przygotować,przygotował,przygotowali,przygotowuje,
-prohibir,zabronić
-querer,chcieć,chciał,chcieli,chce,
-repetir,powtarzać,powtarzał,powtarzali,powtarza,
-romparse,złamać
-romper,łamać
-saber,wiedzieć,wiedział,wiedzieli,wie,
-sacarse,dostać
-salir,wychodzić,wyszedł,wyszli,wychodzi,
-seguir,kontynuować
-sentir,czuć,czuł,czuli,czuje,
-ser,być,był,byli,jest,
-soler,mieć w zwyczaju
-suponer,przypuszczać
-tener,mieć,miał,mieli,ma,
-traducir,tłumaczyć
-traer,przynieść
-tratar,próbować
-vencer,pokonać
-venir,przychodzić
-ver,oglądać,oglądał,oglądali,ogląda,
-vestir,nosić,nosił,nosili,nosi,
-vestirse,ubierać się,ubierał,ubierali,ubiera,
-volar,latać
-volver,wracać,wracał,wracali,wraca,
-jugar,grać
-utiizar,używać
-marcar,zaznaczać
-rechazar,odrzucać
-aparcar,parkować
-tocar,dotykać
-alcanzar,sięgać
-producir,produkować
-sustituir,zastępować
-aprobarse,aprobować
-luchar,walczyć
+abrir,otwierać,
+acabar,kończyć,skończył,skończyli,kończy,,
+acercarse,podejść,
+acostarse,położyć się,położył,położyli,kładzie,,
+alquilar,wynajmować,wynajmował,wynajmowali,wynajmuje,,
+andar,chodzić,
+beber,pić,
+caerse,upaść,
+causar,powodować,
+cenar,jeść kolację,
+cerrar,zamykać,zamykał,zamykali,zamyka,,
+comer,jeść,jadł,jedli,je,"",
+componer,skomponować,
+comprar,kupować,kupił,kupili,kupuje,,
+conducir,prowadzić,
+confundirse,pomylić się,
+conocer,znać,znał,znali,zna,,
+conseguir,zyskać,zyskał,zyskali,zyskuje,,
+construir,budować,
+contar,liczyć,
+dar,dać,dał,dali,daje,,
+deber,musieć,
+decir,mówić,mówił,mówili,mówi,,
+dejar,pozostawić,
+desayunar,jeść śniadanie,,,,,
+descubrir,odkryć,odkrył,odkryli,odkrywa,,
+despertarse,budzić się,budził,budzili,budzi,,
+doler,boleć,
+dormir,spać,spał,spali,śpi,,
+empezar,zaczynać,zaczynał,zaczynali,zaczyna,,
+entender,rozumieć,
+equivocarse,pomylić się,
+escribir,pisać,pisał,pisali,pisze,,
+esperar,czekać,czekał,czekali,czeka,,
+estar,być,był,byli,jest,jesteś,
+fregar,szorować,
+freír,smażyć,
+haber,egzystować,
+hacer,robić,
+hervir,gotować,
+huir,uciekać,
+influir,wpływać,
+ir,iść,szedł,szli,idzie,,
+lavarse,myć się,mył,myli,myje,,
+levantarse,wstać; obudzić się,wstał,wstali,wstaje,,false
+limpiar,czyścić,czyścił,czyścili,czyści,,
+llamarse,nazywać się,nazywał,nazywali,nazywa,,
+llevar,nosić,
+llevarse,dogadywać się,
+llover,padać,
+medir,mierzyć,
+morir,umrzeć,
+mostrar,pokazywać,
+mover,przenosić,
+nacer,urodzić się,rodził,rodzili,rodzi,,
+obtener,uzyskać,
+oir,słyszeć,
+oler,wąchać,
+parecer,przypominać,
+pedir,poprosić,
+pensar,myśleć,myśllał,myśleli,myśli,,
+poder,móc,mógł,mogli,może,,
+poner,kłaść,
+preferir,preferować,preferował,preferowali,preferuje,,
+preparar,przygotować,przygotował,przygotowali,przygotowuje,,
+prohibir,zabronić,
+querer,chcieć,chciał,chcieli,chce,,
+repetir,powtarzać,powtarzał,powtarzali,powtarza,,
+romparse,złamać,
+romper,łamać,
+saber,wiedzieć,wiedział,wiedzieli,wie,,
+sacarse,dostać,,,,,false
+salir,wychodzić,wyszedł,wyszli,wychodzi,,
+seguir,kontynuować,
+sentir,czuć,czuł,czuli,czuje,,
+ser,być,był,byli,jest,jesteś,
+soler,mieć w zwyczaju,
+suponer,przypuszczać,
+tener,mieć,miał,mieli,ma,,
+traducir,tłumaczyć,
+traer,przynieść,
+tratar,próbować,
+vencer,pokonać,
+venir,przychodzić,
+ver,oglądać,oglądał,oglądali,ogląda,,
+vestir,nosić,nosił,nosili,nosi,,
+vestirse,ubierać się,ubierał,ubierali,ubiera,,
+volar,latać,
+volver,wracać,wracał,wracali,wraca,,
+jugar,grać,
+utiizar,używać,
+marcar,zaznaczać,
+rechazar,odrzucać,
+aparcar,parkować,
+tocar,dotykać,
+alcanzar,sięgać,
+producir,produkować,
+sustituir,zastępować,
+aprobarse,aprobować,
+luchar,walczyć,

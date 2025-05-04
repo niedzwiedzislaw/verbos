@@ -61,9 +61,9 @@ class Extractor:
         verb_data = Extractor.extract_verb_data(input_data.verb)
 
         present_translation = Translator.translate_present_with_root(
-            input_data.verb, verb_data.presente, input_data.present)
+            input_data.verb, verb_data.presente, input_data.translation_params.present)
         past_translation = Translator.translate_past_with_root(
-            input_data.verb, verb_data.pret_indefinido, input_data.past)
+            input_data.verb, verb_data.pret_indefinido, input_data.translation_params.past)
 
         v = Verb(verb_data.infinitivo, input_data.polski, '', present_translation, past_translation, verb_data.pret_perfecto, TranslatedImperativo.empty())
         return v
