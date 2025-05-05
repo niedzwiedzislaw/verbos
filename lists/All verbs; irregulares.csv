@@ -10,7 +10,7 @@
 "abrir, ns, pret. perfecto",abrir,otwierać,to open,ns,pret_perfecto,hemos ab<em>iert</em>o,,true,,
 "abrir, vs, pret. perfecto",abrir,otwierać,to open,vs,pret_perfecto,habéis ab<em>iert</em>o,,true,,
 "abrir, ellos, pret. perfecto",abrir,otwierać,to open,ellos,pret_perfecto,han ab<em>iert</em>o,,true,,
-"acercarse, yo, pret. indefinido",acercarse,podejść,to approach,yo,pret_indefinido,me acer<em>qu</em>é,,true,,conjugation::po-polsku
+"acercarse, yo, pret. indefinido",acercarse,podejść,to approach,yo,pret_indefinido,me acer<em>qu</em>é,,true,,
 "acercarse, usted, imperativo",acercarse,podejść,to approach,ud,imperativo,acér<em>qu</em>ese,,true,,
 "acercarse, ns, imperativo",acercarse,podejść,to approach,ns,imperativo,acer<em>qu</em>émonos,,true,,
 "acercarse, ustedes, imperativo",acercarse,podejść,to approach,uds,imperativo,acér<em>qu</em>ense,,true,,
@@ -21,18 +21,33 @@
 "acostarse, tú, imperativo",acostarse,położyć się,to go to bed,tu,imperativo,ac<em>ué</em>state,,true,,conjugation::basic-verb
 "acostarse, usted, imperativo",acostarse,położyć się,to go to bed,ud,imperativo,ac<em>ué</em>stese,,true,,conjugation::basic-verb
 "acostarse, ustedes, imperativo",acostarse,położyć się,to go to bed,uds,imperativo,ac<em>ué</em>stense,,true,,conjugation::basic-verb
-"andar, yo, pret. indefinido",andar,chodzić,to walk,yo,pret_indefinido,and<em>uve</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"andar, tú, pret. indefinido",andar,chodzić,to walk,tu,pret_indefinido,and<em>uvi</em>ste,,true,,conjugation::po-polsku conjugation::basic-verb
-"andar, él, pret. indefinido",andar,chodzić,to walk,el,pret_indefinido,and<em>uvo</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"andar, ns, pret. indefinido",andar,chodzić,to walk,ns,pret_indefinido,and<em>uvi</em>mos,,true,,conjugation::po-polsku conjugation::basic-verb
-"andar, vs, pret. indefinido",andar,chodzić,to walk,vs,pret_indefinido,and<em>uvi</em>steis,,true,,conjugation::po-polsku conjugation::basic-verb
-"andar, ellos, pret. indefinido",andar,chodzić,to walk,ellos,pret_indefinido,and<em>uvie</em>ron,,true,,conjugation::po-polsku conjugation::basic-verb
-"caerse, yo, presente",caerse,upaść,to fall,yo,presente,me ca<em>ig</em>o,,true,,conjugation::po-polsku
-"caerse, tú, pret. indefinido",caerse,upaść,to fall,tu,pret_indefinido,te ca<em>í</em>ste,,true,,conjugation::po-polsku
-"caerse, él, pret. indefinido",caerse,upaść,to fall,el,pret_indefinido,se ca<em>y</em>ó,,true,,conjugation::po-polsku
-"caerse, ns, pret. indefinido",caerse,upaść,to fall,ns,pret_indefinido,nos ca<em>í</em>mos,,true,,conjugation::po-polsku
-"caerse, vs, pret. indefinido",caerse,upaść,to fall,vs,pret_indefinido,os ca<em>í</em>steis,,true,,conjugation::po-polsku
-"caerse, ellos, pret. indefinido",caerse,upaść,to fall,ellos,pret_indefinido,se ca<em>y</em>eron,,true,,conjugation::po-polsku
+"alcanzar, yo, pret. indefinido",alcanzar,sięgać,to reach,yo,pret_indefinido,alcan<em>c</em>é,,true,,
+"alcanzar, usted, imperativo",alcanzar,sięgać,to reach,ud,imperativo,alcan<em>c</em>e,,true,,
+"alcanzar, ns, imperativo",alcanzar,sięgać,to reach,ns,imperativo,alcan<em>c</em>emos,,true,,
+"alcanzar, ustedes, imperativo",alcanzar,sięgać,to reach,uds,imperativo,alcan<em>c</em>en,,true,,
+"andar, yo, pret. indefinido",andar,chodzić,to walk,yo,pret_indefinido,and<em>uve</em>,,true,,conjugation::basic-verb
+"andar, tú, pret. indefinido",andar,chodzić,to walk,tu,pret_indefinido,and<em>uvi</em>ste,,true,,conjugation::basic-verb
+"andar, él, pret. indefinido",andar,chodzić,to walk,el,pret_indefinido,and<em>uvo</em>,,true,,conjugation::basic-verb
+"andar, ns, pret. indefinido",andar,chodzić,to walk,ns,pret_indefinido,and<em>uvi</em>mos,,true,,conjugation::basic-verb
+"andar, vs, pret. indefinido",andar,chodzić,to walk,vs,pret_indefinido,and<em>uvi</em>steis,,true,,conjugation::basic-verb
+"andar, ellos, pret. indefinido",andar,chodzić,to walk,ellos,pret_indefinido,and<em>uvie</em>ron,,true,,conjugation::basic-verb
+"aparcar, yo, pret. indefinido",aparcar,parkować,to park,yo,pret_indefinido,apar<em>qu</em>é,,true,,
+"aparcar, usted, imperativo",aparcar,parkować,to park,ud,imperativo,apar<em>qu</em>e,,true,,
+"aparcar, ns, imperativo",aparcar,parkować,to park,ns,imperativo,apar<em>qu</em>emos,,true,,
+"aparcar, ustedes, imperativo",aparcar,parkować,to park,uds,imperativo,apar<em>qu</em>en,,true,,
+"aprobarse, yo, presente",aprobarse,aprobować,to pass,yo,presente,me apr<em>ue</em>bo,,true,,
+"aprobarse, tú, presente",aprobarse,aprobować,to pass,tu,presente,te apr<em>ue</em>bas,,true,,
+"aprobarse, él, presente",aprobarse,aprobować,to pass,el,presente,se apr<em>ue</em>ba,,true,,
+"aprobarse, ellos, presente",aprobarse,aprobować,to pass,ellos,presente,se apr<em>ue</em>ban,,true,,
+"aprobarse, tú, imperativo",aprobarse,aprobować,to pass,tu,imperativo,apr<em>ué</em>bate,,true,,
+"aprobarse, usted, imperativo",aprobarse,aprobować,to pass,ud,imperativo,apr<em>ué</em>bese,,true,,
+"aprobarse, ustedes, imperativo",aprobarse,aprobować,to pass,uds,imperativo,apr<em>ué</em>bense,,true,,
+"caerse, yo, presente",caerse,upaść,to fall,yo,presente,me ca<em>ig</em>o,,true,,
+"caerse, tú, pret. indefinido",caerse,upaść,to fall,tu,pret_indefinido,te ca<em>í</em>ste,,true,,
+"caerse, él, pret. indefinido",caerse,upaść,to fall,el,pret_indefinido,se ca<em>y</em>ó,,true,,
+"caerse, ns, pret. indefinido",caerse,upaść,to fall,ns,pret_indefinido,nos ca<em>í</em>mos,,true,,
+"caerse, vs, pret. indefinido",caerse,upaść,to fall,vs,pret_indefinido,os ca<em>í</em>steis,,true,,
+"caerse, ellos, pret. indefinido",caerse,upaść,to fall,ellos,pret_indefinido,se ca<em>y</em>eron,,true,,
 "caerse, yo, pret. perfecto",caerse,upaść,to fall,yo,pret_perfecto,me he ca<em>í</em>do,,true,,
 "caerse, tú, pret. perfecto",caerse,upaść,to fall,tu,pret_perfecto,te has ca<em>í</em>do,,true,,
 "caerse, él, pret. perfecto",caerse,upaść,to fall,el,pret_perfecto,se ha ca<em>í</em>do,,true,,
@@ -55,13 +70,13 @@
 "cerrar, tú, imperativo",cerrar,zamykać,to close,tu,imperativo,c<em>i</em>erra,,true,,
 "cerrar, usted, imperativo",cerrar,zamykać,to close,ud,imperativo,c<em>i</em>erre,,true,,
 "cerrar, ustedes, imperativo",cerrar,zamykać,to close,uds,imperativo,c<em>i</em>erren,,true,,
-"componer, yo, presente",componer,skomponować,to make up,yo,presente,compon<em>g</em>o,,true,,conjugation::po-polsku
-"componer, yo, pret. indefinido",componer,skomponować,to make up,yo,pret_indefinido,comp<em>use</em>,,true,,conjugation::po-polsku
-"componer, tú, pret. indefinido",componer,skomponować,to make up,tu,pret_indefinido,comp<em>us</em>iste,,true,,conjugation::po-polsku
-"componer, él, pret. indefinido",componer,skomponować,to make up,el,pret_indefinido,comp<em>uso</em>,,true,,conjugation::po-polsku
-"componer, ns, pret. indefinido",componer,skomponować,to make up,ns,pret_indefinido,comp<em>us</em>imos,,true,,conjugation::po-polsku
-"componer, vs, pret. indefinido",componer,skomponować,to make up,vs,pret_indefinido,comp<em>us</em>isteis,,true,,conjugation::po-polsku
-"componer, ellos, pret. indefinido",componer,skomponować,to make up,ellos,pret_indefinido,comp<em>us</em>ieron,,true,,conjugation::po-polsku
+"componer, yo, presente",componer,skomponować,to make up,yo,presente,compon<em>g</em>o,,true,,
+"componer, yo, pret. indefinido",componer,skomponować,to make up,yo,pret_indefinido,comp<em>use</em>,,true,,
+"componer, tú, pret. indefinido",componer,skomponować,to make up,tu,pret_indefinido,comp<em>us</em>iste,,true,,
+"componer, él, pret. indefinido",componer,skomponować,to make up,el,pret_indefinido,comp<em>uso</em>,,true,,
+"componer, ns, pret. indefinido",componer,skomponować,to make up,ns,pret_indefinido,comp<em>us</em>imos,,true,,
+"componer, vs, pret. indefinido",componer,skomponować,to make up,vs,pret_indefinido,comp<em>us</em>isteis,,true,,
+"componer, ellos, pret. indefinido",componer,skomponować,to make up,ellos,pret_indefinido,comp<em>us</em>ieron,,true,,
 "componer, yo, pret. perfecto",componer,skomponować,to make up,yo,pret_perfecto,he comp<em>uest</em>o,,true,,
 "componer, tú, pret. perfecto",componer,skomponować,to make up,tu,pret_perfecto,has comp<em>uest</em>o,,true,,
 "componer, él, pret. perfecto",componer,skomponować,to make up,el,pret_perfecto,ha comp<em>uest</em>o,,true,,
@@ -78,13 +93,13 @@
 "componer, ns, futuro",componer,skomponować,to make up,ns,futuro_simple,compon<em>dr</em>emos,,true,,
 "componer, vs, futuro",componer,skomponować,to make up,vs,futuro_simple,compon<em>dr</em>éis,,true,,
 "componer, ellos, futuro",componer,skomponować,to make up,ellos,futuro_simple,compon<em>dr</em>án,,true,,
-"conducir, yo, presente",conducir,prowadzić,to lead,yo,presente,condu<em>z</em>co,,true,,conjugation::po-polsku
-"conducir, yo, pret. indefinido",conducir,prowadzić,to lead,yo,pret_indefinido,condu<em>je</em>,,true,,conjugation::po-polsku
-"conducir, tú, pret. indefinido",conducir,prowadzić,to lead,tu,pret_indefinido,condu<em>j</em>iste,,true,,conjugation::po-polsku
-"conducir, él, pret. indefinido",conducir,prowadzić,to lead,el,pret_indefinido,condu<em>jo</em>,,true,,conjugation::po-polsku
-"conducir, ns, pret. indefinido",conducir,prowadzić,to lead,ns,pret_indefinido,condu<em>j</em>imos,,true,,conjugation::po-polsku
-"conducir, vs, pret. indefinido",conducir,prowadzić,to lead,vs,pret_indefinido,condu<em>j</em>isteis,,true,,conjugation::po-polsku
-"conducir, ellos, pret. indefinido",conducir,prowadzić,to lead,ellos,pret_indefinido,condu<em>j</em>eron,,true,,conjugation::po-polsku
+"conducir, yo, presente",conducir,prowadzić,to lead,yo,presente,condu<em>z</em>co,,true,,
+"conducir, yo, pret. indefinido",conducir,prowadzić,to lead,yo,pret_indefinido,condu<em>je</em>,,true,,
+"conducir, tú, pret. indefinido",conducir,prowadzić,to lead,tu,pret_indefinido,condu<em>j</em>iste,,true,,
+"conducir, él, pret. indefinido",conducir,prowadzić,to lead,el,pret_indefinido,condu<em>jo</em>,,true,,
+"conducir, ns, pret. indefinido",conducir,prowadzić,to lead,ns,pret_indefinido,condu<em>j</em>imos,,true,,
+"conducir, vs, pret. indefinido",conducir,prowadzić,to lead,vs,pret_indefinido,condu<em>j</em>isteis,,true,,
+"conducir, ellos, pret. indefinido",conducir,prowadzić,to lead,ellos,pret_indefinido,condu<em>j</em>eron,,true,,
 "conducir, usted, imperativo",conducir,prowadzić,to lead,ud,imperativo,condu<em>z</em>ca,,true,,
 "conducir, ns, imperativo",conducir,prowadzić,to lead,ns,imperativo,condu<em>z</em>camos,,true,,
 "conducir, ustedes, imperativo",conducir,prowadzić,to lead,uds,imperativo,condu<em>z</em>can,,true,,
@@ -108,12 +123,12 @@
 "conseguir, usted, imperativo",conseguir,zyskać,to get,ud,imperativo,cons<em>ig</em>a,,true,,conjugation::basic-verb
 "conseguir, ns, imperativo",conseguir,zyskać,to get,ns,imperativo,cons<em>ig</em>amos,,true,,conjugation::basic-verb
 "conseguir, ustedes, imperativo",conseguir,zyskać,to get,uds,imperativo,cons<em>ig</em>an,,true,,conjugation::basic-verb
-"construir, yo, presente",construir,budować,to build,yo,presente,constru<em>y</em>o,,true,,conjugation::po-polsku
-"construir, tú, presente",construir,budować,to build,tu,presente,constru<em>y</em>es,,true,,conjugation::po-polsku
-"construir, él, presente",construir,budować,to build,el,presente,constru<em>y</em>e,,true,,conjugation::po-polsku
-"construir, ellos, presente",construir,budować,to build,ellos,presente,constru<em>y</em>en,,true,,conjugation::po-polsku
-"construir, él, pret. indefinido",construir,budować,to build,el,pret_indefinido,constru<em>y</em>ó,,true,,conjugation::po-polsku
-"construir, ellos, pret. indefinido",construir,budować,to build,ellos,pret_indefinido,constru<em>y</em>eron,,true,,conjugation::po-polsku
+"construir, yo, presente",construir,budować,to build,yo,presente,constru<em>y</em>o,,true,,
+"construir, tú, presente",construir,budować,to build,tu,presente,constru<em>y</em>es,,true,,
+"construir, él, presente",construir,budować,to build,el,presente,constru<em>y</em>e,,true,,
+"construir, ellos, presente",construir,budować,to build,ellos,presente,constru<em>y</em>en,,true,,
+"construir, él, pret. indefinido",construir,budować,to build,el,pret_indefinido,constru<em>y</em>ó,,true,,
+"construir, ellos, pret. indefinido",construir,budować,to build,ellos,pret_indefinido,constru<em>y</em>eron,,true,,
 "construir, yo, presente progresivo",construir,budować,to build,yo,presente_progresivo,estoy constru<em>y</em>endo,,true,,
 "construir, tú, presente progresivo",construir,budować,to build,tu,presente_progresivo,estás constru<em>y</em>endo,,true,,
 "construir, él, presente progresivo",construir,budować,to build,el,presente_progresivo,está constru<em>y</em>endo,,true,,
@@ -124,13 +139,17 @@
 "construir, usted, imperativo",construir,budować,to build,ud,imperativo,constru<em>y</em>a,,true,,
 "construir, ns, imperativo",construir,budować,to build,ns,imperativo,constru<em>y</em>amos,,true,,
 "construir, ustedes, imperativo",construir,budować,to build,uds,imperativo,constru<em>y</em>an,,true,,
-"contar, yo, presente",contar,liczyć,to count,yo,presente,c<em>ue</em>nto,,true,,conjugation::po-polsku
-"contar, tú, presente",contar,liczyć,to count,tu,presente,c<em>ue</em>ntas,,true,,conjugation::po-polsku
-"contar, él, presente",contar,liczyć,to count,el,presente,c<em>ue</em>nta,,true,,conjugation::po-polsku
-"contar, ellos, presente",contar,liczyć,to count,ellos,presente,c<em>ue</em>ntan,,true,,conjugation::po-polsku
+"contar, yo, presente",contar,liczyć,to count,yo,presente,c<em>ue</em>nto,,true,,
+"contar, tú, presente",contar,liczyć,to count,tu,presente,c<em>ue</em>ntas,,true,,
+"contar, él, presente",contar,liczyć,to count,el,presente,c<em>ue</em>nta,,true,,
+"contar, ellos, presente",contar,liczyć,to count,ellos,presente,c<em>ue</em>ntan,,true,,
 "contar, tú, imperativo",contar,liczyć,to count,tu,imperativo,c<em>ue</em>nta,,true,,
 "contar, usted, imperativo",contar,liczyć,to count,ud,imperativo,c<em>ue</em>nte,,true,,
 "contar, ustedes, imperativo",contar,liczyć,to count,uds,imperativo,c<em>ue</em>nten,,true,,
+"crecer, yo, presente",crecer,rosnąć,to grow,yo,presente,cre<em>z</em>co,,true,,
+"crecer, usted, imperativo",crecer,rosnąć,to grow,ud,imperativo,cre<em>z</em>ca,,true,,
+"crecer, ns, imperativo",crecer,rosnąć,to grow,ns,imperativo,cre<em>z</em>camos,,true,,
+"crecer, ustedes, imperativo",crecer,rosnąć,to grow,uds,imperativo,cre<em>z</em>can,,true,,
 "dar, yo, presente",dar,dać,to give,yo,presente,do<em>y</em>,daję,true,,conjugation::po-polsku conjugation::basic-verb
 "dar, vs, presente",dar,dać,to give,vs,presente,d<em>a</em>is,dajecie,true,,conjugation::po-polsku conjugation::basic-verb
 "dar, yo, pret. indefinido",dar,dać,to give,yo,pret_indefinido,d<em>i</em>,dałem,true,,conjugation::po-polsku conjugation::basic-verb
@@ -185,10 +204,10 @@
 "despertarse, tú, imperativo",despertarse,budzić się,to wake up,tu,imperativo,desp<em>i</em>értate,,true,,conjugation::basic-verb
 "despertarse, usted, imperativo",despertarse,budzić się,to wake up,ud,imperativo,desp<em>i</em>értese,,true,,conjugation::basic-verb
 "despertarse, ustedes, imperativo",despertarse,budzić się,to wake up,uds,imperativo,desp<em>i</em>értense,,true,,conjugation::basic-verb
-"doler, yo, presente",doler,boleć,to hurt,yo,presente,d<em>ue</em>lo,,true,,conjugation::po-polsku
-"doler, tú, presente",doler,boleć,to hurt,tu,presente,d<em>ue</em>les,,true,,conjugation::po-polsku
-"doler, él, presente",doler,boleć,to hurt,el,presente,d<em>ue</em>le,,true,,conjugation::po-polsku
-"doler, ellos, presente",doler,boleć,to hurt,ellos,presente,d<em>ue</em>len,,true,,conjugation::po-polsku
+"doler, yo, presente",doler,boleć,to hurt,yo,presente,d<em>ue</em>lo,,true,,
+"doler, tú, presente",doler,boleć,to hurt,tu,presente,d<em>ue</em>les,,true,,
+"doler, él, presente",doler,boleć,to hurt,el,presente,d<em>ue</em>le,,true,,
+"doler, ellos, presente",doler,boleć,to hurt,ellos,presente,d<em>ue</em>len,,true,,
 "doler, tú, imperativo",doler,boleć,to hurt,tu,imperativo,d<em>ue</em>le,,true,,
 "doler, usted, imperativo",doler,boleć,to hurt,ud,imperativo,d<em>ue</em>la,,true,,
 "doler, ustedes, imperativo",doler,boleć,to hurt,uds,imperativo,d<em>ue</em>lan,,true,,
@@ -217,14 +236,14 @@
 "empezar, usted, imperativo",empezar,zaczynać,to start,ud,imperativo,emp<em>iec</em>e,,true,,conjugation::basic-verb
 "empezar, ns, imperativo",empezar,zaczynać,to start,ns,imperativo,empe<em>c</em>emos,,true,,conjugation::basic-verb
 "empezar, ustedes, imperativo",empezar,zaczynać,to start,uds,imperativo,emp<em>iec</em>en,,true,,conjugation::basic-verb
-"entender, yo, presente",entender,rozumieć,to understand,yo,presente,ent<em>i</em>endo,,true,,conjugation::po-polsku conjugation::basic-verb
-"entender, tú, presente",entender,rozumieć,to understand,tu,presente,ent<em>i</em>endes,,true,,conjugation::po-polsku conjugation::basic-verb
-"entender, él, presente",entender,rozumieć,to understand,el,presente,ent<em>i</em>ende,,true,,conjugation::po-polsku conjugation::basic-verb
-"entender, ellos, presente",entender,rozumieć,to understand,ellos,presente,ent<em>i</em>enden,,true,,conjugation::po-polsku conjugation::basic-verb
+"entender, yo, presente",entender,rozumieć,to understand,yo,presente,ent<em>i</em>endo,,true,,conjugation::basic-verb
+"entender, tú, presente",entender,rozumieć,to understand,tu,presente,ent<em>i</em>endes,,true,,conjugation::basic-verb
+"entender, él, presente",entender,rozumieć,to understand,el,presente,ent<em>i</em>ende,,true,,conjugation::basic-verb
+"entender, ellos, presente",entender,rozumieć,to understand,ellos,presente,ent<em>i</em>enden,,true,,conjugation::basic-verb
 "entender, tú, imperativo",entender,rozumieć,to understand,tu,imperativo,ent<em>i</em>ende,,true,,conjugation::basic-verb
 "entender, usted, imperativo",entender,rozumieć,to understand,ud,imperativo,ent<em>i</em>enda,,true,,conjugation::basic-verb
 "entender, ustedes, imperativo",entender,rozumieć,to understand,uds,imperativo,ent<em>i</em>endan,,true,,conjugation::basic-verb
-"equivocarse, yo, pret. indefinido",equivocarse,pomylić się,to make a mistake,yo,pret_indefinido,me equivo<em>qu</em>é,,true,,conjugation::po-polsku
+"equivocarse, yo, pret. indefinido",equivocarse,pomylić się,to make a mistake,yo,pret_indefinido,me equivo<em>qu</em>é,,true,,
 "equivocarse, usted, imperativo",equivocarse,pomylić się,to make a mistake,ud,imperativo,equivó<em>qu</em>ese,,true,,
 "equivocarse, ns, imperativo",equivocarse,pomylić się,to make a mistake,ns,imperativo,equivo<em>qu</em>émonos,,true,,
 "equivocarse, ustedes, imperativo",equivocarse,pomylić się,to make a mistake,uds,imperativo,equivó<em>qu</em>ense,,true,,
@@ -247,25 +266,25 @@
 "estar, tú, imperativo",estar,być,to be,tu,imperativo,est<em>á</em>,,true,estar,conjugation::basic-verb
 "estar, usted, imperativo",estar,być,to be,ud,imperativo,est<em>é</em>,,true,estar,conjugation::basic-verb
 "estar, ustedes, imperativo",estar,być,to be,uds,imperativo,est<em>é</em>n,,true,estar,conjugation::basic-verb
-"fregar, yo, presente",fregar,szorować,to wash,yo,presente,fr<em>i</em>ego,,true,,conjugation::po-polsku
-"fregar, tú, presente",fregar,szorować,to wash,tu,presente,fr<em>i</em>egas,,true,,conjugation::po-polsku
-"fregar, él, presente",fregar,szorować,to wash,el,presente,fr<em>i</em>ega,,true,,conjugation::po-polsku
-"fregar, ellos, presente",fregar,szorować,to wash,ellos,presente,fr<em>i</em>egan,,true,,conjugation::po-polsku
-"fregar, yo, pret. indefinido",fregar,szorować,to wash,yo,pret_indefinido,freg<em>u</em>é,,true,,conjugation::po-polsku
+"fregar, yo, presente",fregar,szorować,to wash,yo,presente,fr<em>i</em>ego,,true,,
+"fregar, tú, presente",fregar,szorować,to wash,tu,presente,fr<em>i</em>egas,,true,,
+"fregar, él, presente",fregar,szorować,to wash,el,presente,fr<em>i</em>ega,,true,,
+"fregar, ellos, presente",fregar,szorować,to wash,ellos,presente,fr<em>i</em>egan,,true,,
+"fregar, yo, pret. indefinido",fregar,szorować,to wash,yo,pret_indefinido,freg<em>u</em>é,,true,,
 "fregar, tú, imperativo",fregar,szorować,to wash,tu,imperativo,fr<em>i</em>ega,,true,,
 "fregar, usted, imperativo",fregar,szorować,to wash,ud,imperativo,fr<em>iegu</em>e,,true,,
 "fregar, ns, imperativo",fregar,szorować,to wash,ns,imperativo,freg<em>u</em>emos,,true,,
 "fregar, ustedes, imperativo",fregar,szorować,to wash,uds,imperativo,fr<em>iegu</em>en,,true,,
-"freír, yo, presente",freír,smażyć,to fry,yo,presente,fr<em>í</em>o,,true,,conjugation::po-polsku
-"freír, tú, presente",freír,smażyć,to fry,tu,presente,fr<em>í</em>es,,true,,conjugation::po-polsku
-"freír, él, presente",freír,smażyć,to fry,el,presente,fr<em>í</em>e,,true,,conjugation::po-polsku
-"freír, ns, presente",freír,smażyć,to fry,ns,presente,fre<em>í</em>mos,,true,,conjugation::po-polsku
-"freír, ellos, presente",freír,smażyć,to fry,ellos,presente,fr<em>í</em>en,,true,,conjugation::po-polsku
-"freír, tú, pret. indefinido",freír,smażyć,to fry,tu,pret_indefinido,fre<em>í</em>ste,,true,,conjugation::po-polsku
-"freír, él, pret. indefinido",freír,smażyć,to fry,el,pret_indefinido,fr<em>io</em>,,true,,conjugation::po-polsku
-"freír, ns, pret. indefinido",freír,smażyć,to fry,ns,pret_indefinido,fre<em>í</em>mos,,true,,conjugation::po-polsku
-"freír, vs, pret. indefinido",freír,smażyć,to fry,vs,pret_indefinido,fre<em>í</em>steis,,true,,conjugation::po-polsku
-"freír, ellos, pret. indefinido",freír,smażyć,to fry,ellos,pret_indefinido,fr<em>i</em>eron,,true,,conjugation::po-polsku
+"freír, yo, presente",freír,smażyć,to fry,yo,presente,fr<em>í</em>o,,true,,
+"freír, tú, presente",freír,smażyć,to fry,tu,presente,fr<em>í</em>es,,true,,
+"freír, él, presente",freír,smażyć,to fry,el,presente,fr<em>í</em>e,,true,,
+"freír, ns, presente",freír,smażyć,to fry,ns,presente,fre<em>í</em>mos,,true,,
+"freír, ellos, presente",freír,smażyć,to fry,ellos,presente,fr<em>í</em>en,,true,,
+"freír, tú, pret. indefinido",freír,smażyć,to fry,tu,pret_indefinido,fre<em>í</em>ste,,true,,
+"freír, él, pret. indefinido",freír,smażyć,to fry,el,pret_indefinido,fr<em>io</em>,,true,,
+"freír, ns, pret. indefinido",freír,smażyć,to fry,ns,pret_indefinido,fre<em>í</em>mos,,true,,
+"freír, vs, pret. indefinido",freír,smażyć,to fry,vs,pret_indefinido,fre<em>í</em>steis,,true,,
+"freír, ellos, pret. indefinido",freír,smażyć,to fry,ellos,pret_indefinido,fr<em>i</em>eron,,true,,
 "freír, yo, pret. perfecto",freír,smażyć,to fry,yo,pret_perfecto,he fr<em>it</em>o,,true,,
 "freír, tú, pret. perfecto",freír,smażyć,to fry,tu,pret_perfecto,has fr<em>it</em>o,,true,,
 "freír, él, pret. perfecto",freír,smażyć,to fry,el,pret_perfecto,ha fr<em>it</em>o,,true,,
@@ -282,17 +301,17 @@
 "freír, usted, imperativo",freír,smażyć,to fry,ud,imperativo,fr<em>í</em>a,,true,,
 "freír, ns, imperativo",freír,smażyć,to fry,ns,imperativo,fr<em>i</em>amos,,true,,
 "freír, ustedes, imperativo",freír,smażyć,to fry,uds,imperativo,fr<em>í</em>an,,true,,
-"haber, yo, presente",haber,egzystować,to have,yo,presente,h<em>e</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, tú, presente",haber,egzystować,to have,tu,presente,ha<em>s</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, él, presente",haber,egzystować,to have,el,presente,h<em>a</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, ns, presente",haber,egzystować,to have,ns,presente,h<em>e</em>mos,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, ellos, presente",haber,egzystować,to have,ellos,presente,ha<em>n</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, yo, pret. indefinido",haber,egzystować,to have,yo,pret_indefinido,h<em>ube</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, tú, pret. indefinido",haber,egzystować,to have,tu,pret_indefinido,h<em>u</em>biste,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, él, pret. indefinido",haber,egzystować,to have,el,pret_indefinido,h<em>ubo</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, ns, pret. indefinido",haber,egzystować,to have,ns,pret_indefinido,h<em>u</em>bimos,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, vs, pret. indefinido",haber,egzystować,to have,vs,pret_indefinido,h<em>u</em>bisteis,,true,,conjugation::po-polsku conjugation::basic-verb
-"haber, ellos, pret. indefinido",haber,egzystować,to have,ellos,pret_indefinido,h<em>u</em>bieron,,true,,conjugation::po-polsku conjugation::basic-verb
+"haber, yo, presente",haber,egzystować,to have,yo,presente,h<em>e</em>,,true,,conjugation::basic-verb
+"haber, tú, presente",haber,egzystować,to have,tu,presente,ha<em>s</em>,,true,,conjugation::basic-verb
+"haber, él, presente",haber,egzystować,to have,el,presente,h<em>a</em>,,true,,conjugation::basic-verb
+"haber, ns, presente",haber,egzystować,to have,ns,presente,h<em>e</em>mos,,true,,conjugation::basic-verb
+"haber, ellos, presente",haber,egzystować,to have,ellos,presente,ha<em>n</em>,,true,,conjugation::basic-verb
+"haber, yo, pret. indefinido",haber,egzystować,to have,yo,pret_indefinido,h<em>ube</em>,,true,,conjugation::basic-verb
+"haber, tú, pret. indefinido",haber,egzystować,to have,tu,pret_indefinido,h<em>u</em>biste,,true,,conjugation::basic-verb
+"haber, él, pret. indefinido",haber,egzystować,to have,el,pret_indefinido,h<em>ubo</em>,,true,,conjugation::basic-verb
+"haber, ns, pret. indefinido",haber,egzystować,to have,ns,pret_indefinido,h<em>u</em>bimos,,true,,conjugation::basic-verb
+"haber, vs, pret. indefinido",haber,egzystować,to have,vs,pret_indefinido,h<em>u</em>bisteis,,true,,conjugation::basic-verb
+"haber, ellos, pret. indefinido",haber,egzystować,to have,ellos,pret_indefinido,h<em>u</em>bieron,,true,,conjugation::basic-verb
 "haber, tú, imperativo",haber,egzystować,to have,tu,imperativo,h<em>e</em>,,true,,conjugation::basic-verb
 "haber, usted, imperativo",haber,egzystować,to have,ud,imperativo,ha<em>y</em>a,,true,,conjugation::basic-verb
 "haber, ns, imperativo",haber,egzystować,to have,ns,imperativo,ha<em>y</em>amos,,true,,conjugation::basic-verb
@@ -303,13 +322,13 @@
 "haber, ns, futuro",haber,egzystować,to have,ns,futuro_simple,hab<em>r</em>emos,,true,,conjugation::basic-verb
 "haber, vs, futuro",haber,egzystować,to have,vs,futuro_simple,hab<em>r</em>éis,,true,,conjugation::basic-verb
 "haber, ellos, futuro",haber,egzystować,to have,ellos,futuro_simple,hab<em>r</em>án,,true,,conjugation::basic-verb
-"hacer, yo, presente",hacer,robić,to do,yo,presente,ha<em>g</em>o,,true,,conjugation::po-polsku conjugation::basic-verb
-"hacer, yo, pret. indefinido",hacer,robić,to do,yo,pret_indefinido,h<em>ice</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"hacer, tú, pret. indefinido",hacer,robić,to do,tu,pret_indefinido,h<em>i</em>ciste,,true,,conjugation::po-polsku conjugation::basic-verb
-"hacer, él, pret. indefinido",hacer,robić,to do,el,pret_indefinido,h<em>izo</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"hacer, ns, pret. indefinido",hacer,robić,to do,ns,pret_indefinido,h<em>i</em>cimos,,true,,conjugation::po-polsku conjugation::basic-verb
-"hacer, vs, pret. indefinido",hacer,robić,to do,vs,pret_indefinido,h<em>i</em>cisteis,,true,,conjugation::po-polsku conjugation::basic-verb
-"hacer, ellos, pret. indefinido",hacer,robić,to do,ellos,pret_indefinido,h<em>i</em>cieron,,true,,conjugation::po-polsku conjugation::basic-verb
+"hacer, yo, presente",hacer,robić,to do,yo,presente,ha<em>g</em>o,,true,,conjugation::basic-verb
+"hacer, yo, pret. indefinido",hacer,robić,to do,yo,pret_indefinido,h<em>ice</em>,,true,,conjugation::basic-verb
+"hacer, tú, pret. indefinido",hacer,robić,to do,tu,pret_indefinido,h<em>i</em>ciste,,true,,conjugation::basic-verb
+"hacer, él, pret. indefinido",hacer,robić,to do,el,pret_indefinido,h<em>izo</em>,,true,,conjugation::basic-verb
+"hacer, ns, pret. indefinido",hacer,robić,to do,ns,pret_indefinido,h<em>i</em>cimos,,true,,conjugation::basic-verb
+"hacer, vs, pret. indefinido",hacer,robić,to do,vs,pret_indefinido,h<em>i</em>cisteis,,true,,conjugation::basic-verb
+"hacer, ellos, pret. indefinido",hacer,robić,to do,ellos,pret_indefinido,h<em>i</em>cieron,,true,,conjugation::basic-verb
 "hacer, yo, pret. perfecto",hacer,robić,to do,yo,pret_perfecto,he h<em>ech</em>o,,true,,conjugation::basic-verb
 "hacer, tú, pret. perfecto",hacer,robić,to do,tu,pret_perfecto,has h<em>ech</em>o,,true,,conjugation::basic-verb
 "hacer, él, pret. perfecto",hacer,robić,to do,el,pret_perfecto,ha h<em>ech</em>o,,true,,conjugation::basic-verb
@@ -326,12 +345,12 @@
 "hacer, ns, futuro",hacer,robić,to do,ns,futuro_simple,ha<em>r</em>emos,,true,,conjugation::basic-verb
 "hacer, vs, futuro",hacer,robić,to do,vs,futuro_simple,ha<em>r</em>éis,,true,,conjugation::basic-verb
 "hacer, ellos, futuro",hacer,robić,to do,ellos,futuro_simple,ha<em>r</em>án,,true,,conjugation::basic-verb
-"hervir, yo, presente",hervir,gotować,to boil,yo,presente,h<em>i</em>ervo,,true,,conjugation::po-polsku
-"hervir, tú, presente",hervir,gotować,to boil,tu,presente,h<em>i</em>erves,,true,,conjugation::po-polsku
-"hervir, él, presente",hervir,gotować,to boil,el,presente,h<em>i</em>erve,,true,,conjugation::po-polsku
-"hervir, ellos, presente",hervir,gotować,to boil,ellos,presente,h<em>i</em>erven,,true,,conjugation::po-polsku
-"hervir, él, pret. indefinido",hervir,gotować,to boil,el,pret_indefinido,h<em>i</em>rvió,,true,,conjugation::po-polsku
-"hervir, ellos, pret. indefinido",hervir,gotować,to boil,ellos,pret_indefinido,h<em>i</em>rvieron,,true,,conjugation::po-polsku
+"hervir, yo, presente",hervir,gotować,to boil,yo,presente,h<em>i</em>ervo,,true,,
+"hervir, tú, presente",hervir,gotować,to boil,tu,presente,h<em>i</em>erves,,true,,
+"hervir, él, presente",hervir,gotować,to boil,el,presente,h<em>i</em>erve,,true,,
+"hervir, ellos, presente",hervir,gotować,to boil,ellos,presente,h<em>i</em>erven,,true,,
+"hervir, él, pret. indefinido",hervir,gotować,to boil,el,pret_indefinido,h<em>i</em>rvió,,true,,
+"hervir, ellos, pret. indefinido",hervir,gotować,to boil,ellos,pret_indefinido,h<em>i</em>rvieron,,true,,
 "hervir, yo, presente progresivo",hervir,gotować,to boil,yo,presente_progresivo,estoy h<em>i</em>rviendo,,true,,
 "hervir, tú, presente progresivo",hervir,gotować,to boil,tu,presente_progresivo,estás h<em>i</em>rviendo,,true,,
 "hervir, él, presente progresivo",hervir,gotować,to boil,el,presente_progresivo,está h<em>i</em>rviendo,,true,,
@@ -342,14 +361,14 @@
 "hervir, usted, imperativo",hervir,gotować,to boil,ud,imperativo,h<em>i</em>erva,,true,,
 "hervir, ns, imperativo",hervir,gotować,to boil,ns,imperativo,h<em>i</em>rvamos,,true,,
 "hervir, ustedes, imperativo",hervir,gotować,to boil,uds,imperativo,h<em>i</em>ervan,,true,,
-"huir, yo, presente",huir,uciekać,to escape,yo,presente,hu<em>y</em>o,,true,,conjugation::po-polsku
-"huir, tú, presente",huir,uciekać,to escape,tu,presente,hu<em>y</em>es,,true,,conjugation::po-polsku
-"huir, él, presente",huir,uciekać,to escape,el,presente,hu<em>y</em>e,,true,,conjugation::po-polsku
-"huir, vs, presente",huir,uciekać,to escape,vs,presente,hu<em>i</em>s,,true,,conjugation::po-polsku
-"huir, ellos, presente",huir,uciekać,to escape,ellos,presente,hu<em>y</em>en,,true,,conjugation::po-polsku
-"huir, yo, pret. indefinido",huir,uciekać,to escape,yo,pret_indefinido,hu<em>i</em>,,true,,conjugation::po-polsku
-"huir, él, pret. indefinido",huir,uciekać,to escape,el,pret_indefinido,hu<em>y</em>ó,,true,,conjugation::po-polsku
-"huir, ellos, pret. indefinido",huir,uciekać,to escape,ellos,pret_indefinido,hu<em>y</em>eron,,true,,conjugation::po-polsku
+"huir, yo, presente",huir,uciekać,to escape,yo,presente,hu<em>y</em>o,,true,,
+"huir, tú, presente",huir,uciekać,to escape,tu,presente,hu<em>y</em>es,,true,,
+"huir, él, presente",huir,uciekać,to escape,el,presente,hu<em>y</em>e,,true,,
+"huir, vs, presente",huir,uciekać,to escape,vs,presente,hu<em>i</em>s,,true,,
+"huir, ellos, presente",huir,uciekać,to escape,ellos,presente,hu<em>y</em>en,,true,,
+"huir, yo, pret. indefinido",huir,uciekać,to escape,yo,pret_indefinido,hu<em>i</em>,,true,,
+"huir, él, pret. indefinido",huir,uciekać,to escape,el,pret_indefinido,hu<em>y</em>ó,,true,,
+"huir, ellos, pret. indefinido",huir,uciekać,to escape,ellos,pret_indefinido,hu<em>y</em>eron,,true,,
 "huir, yo, presente progresivo",huir,uciekać,to escape,yo,presente_progresivo,estoy hu<em>y</em>endo,,true,,
 "huir, tú, presente progresivo",huir,uciekać,to escape,tu,presente_progresivo,estás hu<em>y</em>endo,,true,,
 "huir, él, presente progresivo",huir,uciekać,to escape,el,presente_progresivo,está hu<em>y</em>endo,,true,,
@@ -360,12 +379,12 @@
 "huir, usted, imperativo",huir,uciekać,to escape,ud,imperativo,hu<em>y</em>a,,true,,
 "huir, ns, imperativo",huir,uciekać,to escape,ns,imperativo,hu<em>y</em>amos,,true,,
 "huir, ustedes, imperativo",huir,uciekać,to escape,uds,imperativo,hu<em>y</em>an,,true,,
-"influir, yo, presente",influir,wpływać,to influence,yo,presente,influ<em>y</em>o,,true,,conjugation::po-polsku
-"influir, tú, presente",influir,wpływać,to influence,tu,presente,influ<em>y</em>es,,true,,conjugation::po-polsku
-"influir, él, presente",influir,wpływać,to influence,el,presente,influ<em>y</em>e,,true,,conjugation::po-polsku
-"influir, ellos, presente",influir,wpływać,to influence,ellos,presente,influ<em>y</em>en,,true,,conjugation::po-polsku
-"influir, él, pret. indefinido",influir,wpływać,to influence,el,pret_indefinido,influ<em>y</em>ó,,true,,conjugation::po-polsku
-"influir, ellos, pret. indefinido",influir,wpływać,to influence,ellos,pret_indefinido,influ<em>y</em>eron,,true,,conjugation::po-polsku
+"influir, yo, presente",influir,wpływać,to influence,yo,presente,influ<em>y</em>o,,true,,
+"influir, tú, presente",influir,wpływać,to influence,tu,presente,influ<em>y</em>es,,true,,
+"influir, él, presente",influir,wpływać,to influence,el,presente,influ<em>y</em>e,,true,,
+"influir, ellos, presente",influir,wpływać,to influence,ellos,presente,influ<em>y</em>en,,true,,
+"influir, él, pret. indefinido",influir,wpływać,to influence,el,pret_indefinido,influ<em>y</em>ó,,true,,
+"influir, ellos, pret. indefinido",influir,wpływać,to influence,ellos,pret_indefinido,influ<em>y</em>eron,,true,,
 "influir, yo, presente progresivo",influir,wpływać,to influence,yo,presente_progresivo,estoy influ<em>y</em>endo,,true,,
 "influir, tú, presente progresivo",influir,wpływać,to influence,tu,presente_progresivo,estás influ<em>y</em>endo,,true,,
 "influir, él, presente progresivo",influir,wpływać,to influence,el,presente_progresivo,está influ<em>y</em>endo,,true,,
@@ -404,19 +423,32 @@
 "ir, usted, imperativo",ir,iść,to go,ud,imperativo,<em>vaya</em>,,true,ir,conjugation::basic-verb
 "ir, ns, imperativo",ir,iść,to go,ns,imperativo,<em>vamos</em>,,true,ir,conjugation::basic-verb
 "ir, ustedes, imperativo",ir,iść,to go,uds,imperativo,<em>vayan</em>,,true,ir,conjugation::basic-verb
-"llover, yo, presente",llover,padać,to rain,yo,presente,ll<em>ue</em>vo,,true,,conjugation::po-polsku
-"llover, tú, presente",llover,padać,to rain,tu,presente,ll<em>ue</em>ves,,true,,conjugation::po-polsku
-"llover, él, presente",llover,padać,to rain,el,presente,ll<em>ue</em>ve,,true,,conjugation::po-polsku
-"llover, ellos, presente",llover,padać,to rain,ellos,presente,ll<em>ue</em>ven,,true,,conjugation::po-polsku
+"jugar, yo, presente",jugar,grać,to play,yo,presente,ju<em>e</em>go,,true,,
+"jugar, tú, presente",jugar,grać,to play,tu,presente,ju<em>e</em>gas,,true,,
+"jugar, él, presente",jugar,grać,to play,el,presente,ju<em>e</em>ga,,true,,
+"jugar, ellos, presente",jugar,grać,to play,ellos,presente,ju<em>e</em>gan,,true,,
+"jugar, yo, pret. indefinido",jugar,grać,to play,yo,pret_indefinido,jug<em>u</em>é,,true,,
+"jugar, tú, imperativo",jugar,grać,to play,tu,imperativo,ju<em>e</em>ga,,true,,
+"jugar, usted, imperativo",jugar,grać,to play,ud,imperativo,ju<em>egu</em>e,,true,,
+"jugar, ns, imperativo",jugar,grać,to play,ns,imperativo,jug<em>u</em>emos,,true,,
+"jugar, ustedes, imperativo",jugar,grać,to play,uds,imperativo,ju<em>egu</em>en,,true,,
+"llover, yo, presente",llover,padać,to rain,yo,presente,ll<em>ue</em>vo,,true,,
+"llover, tú, presente",llover,padać,to rain,tu,presente,ll<em>ue</em>ves,,true,,
+"llover, él, presente",llover,padać,to rain,el,presente,ll<em>ue</em>ve,,true,,
+"llover, ellos, presente",llover,padać,to rain,ellos,presente,ll<em>ue</em>ven,,true,,
 "llover, tú, imperativo",llover,padać,to rain,tu,imperativo,ll<em>ue</em>ve,,true,,
 "llover, usted, imperativo",llover,padać,to rain,ud,imperativo,ll<em>ue</em>va,,true,,
 "llover, ustedes, imperativo",llover,padać,to rain,uds,imperativo,ll<em>ue</em>van,,true,,
-"medir, yo, presente",medir,mierzyć,to measure,yo,presente,m<em>i</em>do,,true,,conjugation::po-polsku
-"medir, tú, presente",medir,mierzyć,to measure,tu,presente,m<em>i</em>des,,true,,conjugation::po-polsku
-"medir, él, presente",medir,mierzyć,to measure,el,presente,m<em>i</em>de,,true,,conjugation::po-polsku
-"medir, ellos, presente",medir,mierzyć,to measure,ellos,presente,m<em>i</em>den,,true,,conjugation::po-polsku
-"medir, él, pret. indefinido",medir,mierzyć,to measure,el,pret_indefinido,m<em>i</em>dió,,true,,conjugation::po-polsku
-"medir, ellos, pret. indefinido",medir,mierzyć,to measure,ellos,pret_indefinido,m<em>i</em>dieron,,true,,conjugation::po-polsku
+"marcar, yo, pret. indefinido",marcar,zaznaczać,to mark,yo,pret_indefinido,mar<em>qu</em>é,,true,,
+"marcar, usted, imperativo",marcar,zaznaczać,to mark,ud,imperativo,mar<em>qu</em>e,,true,,
+"marcar, ns, imperativo",marcar,zaznaczać,to mark,ns,imperativo,mar<em>qu</em>emos,,true,,
+"marcar, ustedes, imperativo",marcar,zaznaczać,to mark,uds,imperativo,mar<em>qu</em>en,,true,,
+"medir, yo, presente",medir,mierzyć,to measure,yo,presente,m<em>i</em>do,,true,,
+"medir, tú, presente",medir,mierzyć,to measure,tu,presente,m<em>i</em>des,,true,,
+"medir, él, presente",medir,mierzyć,to measure,el,presente,m<em>i</em>de,,true,,
+"medir, ellos, presente",medir,mierzyć,to measure,ellos,presente,m<em>i</em>den,,true,,
+"medir, él, pret. indefinido",medir,mierzyć,to measure,el,pret_indefinido,m<em>i</em>dió,,true,,
+"medir, ellos, pret. indefinido",medir,mierzyć,to measure,ellos,pret_indefinido,m<em>i</em>dieron,,true,,
 "medir, yo, presente progresivo",medir,mierzyć,to measure,yo,presente_progresivo,estoy m<em>i</em>diendo,,true,,
 "medir, tú, presente progresivo",medir,mierzyć,to measure,tu,presente_progresivo,estás m<em>i</em>diendo,,true,,
 "medir, él, presente progresivo",medir,mierzyć,to measure,el,presente_progresivo,está m<em>i</em>diendo,,true,,
@@ -427,12 +459,12 @@
 "medir, usted, imperativo",medir,mierzyć,to measure,ud,imperativo,m<em>i</em>da,,true,,
 "medir, ns, imperativo",medir,mierzyć,to measure,ns,imperativo,m<em>i</em>damos,,true,,
 "medir, ustedes, imperativo",medir,mierzyć,to measure,uds,imperativo,m<em>i</em>dan,,true,,
-"morir, yo, presente",morir,umrzeć,to die,yo,presente,m<em>ue</em>ro,,true,,conjugation::po-polsku
-"morir, tú, presente",morir,umrzeć,to die,tu,presente,m<em>ue</em>res,,true,,conjugation::po-polsku
-"morir, él, presente",morir,umrzeć,to die,el,presente,m<em>ue</em>re,,true,,conjugation::po-polsku
-"morir, ellos, presente",morir,umrzeć,to die,ellos,presente,m<em>ue</em>ren,,true,,conjugation::po-polsku
-"morir, él, pret. indefinido",morir,umrzeć,to die,el,pret_indefinido,m<em>u</em>rió,,true,,conjugation::po-polsku
-"morir, ellos, pret. indefinido",morir,umrzeć,to die,ellos,pret_indefinido,m<em>u</em>rieron,,true,,conjugation::po-polsku
+"morir, yo, presente",morir,umrzeć,to die,yo,presente,m<em>ue</em>ro,,true,,
+"morir, tú, presente",morir,umrzeć,to die,tu,presente,m<em>ue</em>res,,true,,
+"morir, él, presente",morir,umrzeć,to die,el,presente,m<em>ue</em>re,,true,,
+"morir, ellos, presente",morir,umrzeć,to die,ellos,presente,m<em>ue</em>ren,,true,,
+"morir, él, pret. indefinido",morir,umrzeć,to die,el,pret_indefinido,m<em>u</em>rió,,true,,
+"morir, ellos, pret. indefinido",morir,umrzeć,to die,ellos,pret_indefinido,m<em>u</em>rieron,,true,,
 "morir, yo, pret. perfecto",morir,umrzeć,to die,yo,pret_perfecto,he m<em>uert</em>o,,true,,
 "morir, tú, pret. perfecto",morir,umrzeć,to die,tu,pret_perfecto,has m<em>uert</em>o,,true,,
 "morir, él, pret. perfecto",morir,umrzeć,to die,el,pret_perfecto,ha m<em>uert</em>o,,true,,
@@ -449,17 +481,17 @@
 "morir, usted, imperativo",morir,umrzeć,to die,ud,imperativo,m<em>ue</em>ra,,true,,
 "morir, ns, imperativo",morir,umrzeć,to die,ns,imperativo,m<em>u</em>ramos,,true,,
 "morir, ustedes, imperativo",morir,umrzeć,to die,uds,imperativo,m<em>ue</em>ran,,true,,
-"mostrar, yo, presente",mostrar,pokazywać,to show,yo,presente,m<em>ue</em>stro,,true,,conjugation::po-polsku
-"mostrar, tú, presente",mostrar,pokazywać,to show,tu,presente,m<em>ue</em>stras,,true,,conjugation::po-polsku
-"mostrar, él, presente",mostrar,pokazywać,to show,el,presente,m<em>ue</em>stra,,true,,conjugation::po-polsku
-"mostrar, ellos, presente",mostrar,pokazywać,to show,ellos,presente,m<em>ue</em>stran,,true,,conjugation::po-polsku
+"mostrar, yo, presente",mostrar,pokazywać,to show,yo,presente,m<em>ue</em>stro,,true,,
+"mostrar, tú, presente",mostrar,pokazywać,to show,tu,presente,m<em>ue</em>stras,,true,,
+"mostrar, él, presente",mostrar,pokazywać,to show,el,presente,m<em>ue</em>stra,,true,,
+"mostrar, ellos, presente",mostrar,pokazywać,to show,ellos,presente,m<em>ue</em>stran,,true,,
 "mostrar, tú, imperativo",mostrar,pokazywać,to show,tu,imperativo,m<em>ue</em>stra,,true,,
 "mostrar, usted, imperativo",mostrar,pokazywać,to show,ud,imperativo,m<em>ue</em>stre,,true,,
 "mostrar, ustedes, imperativo",mostrar,pokazywać,to show,uds,imperativo,m<em>ue</em>stren,,true,,
-"mover, yo, presente",mover,przenosić,to move,yo,presente,m<em>ue</em>vo,,true,,conjugation::po-polsku
-"mover, tú, presente",mover,przenosić,to move,tu,presente,m<em>ue</em>ves,,true,,conjugation::po-polsku
-"mover, él, presente",mover,przenosić,to move,el,presente,m<em>ue</em>ve,,true,,conjugation::po-polsku
-"mover, ellos, presente",mover,przenosić,to move,ellos,presente,m<em>ue</em>ven,,true,,conjugation::po-polsku
+"mover, yo, presente",mover,przenosić,to move,yo,presente,m<em>ue</em>vo,,true,,
+"mover, tú, presente",mover,przenosić,to move,tu,presente,m<em>ue</em>ves,,true,,
+"mover, él, presente",mover,przenosić,to move,el,presente,m<em>ue</em>ve,,true,,
+"mover, ellos, presente",mover,przenosić,to move,ellos,presente,m<em>ue</em>ven,,true,,
 "mover, tú, imperativo",mover,przenosić,to move,tu,imperativo,m<em>ue</em>ve,,true,,
 "mover, usted, imperativo",mover,przenosić,to move,ud,imperativo,m<em>ue</em>va,,true,,
 "mover, ustedes, imperativo",mover,przenosić,to move,uds,imperativo,m<em>ue</em>van,,true,,
@@ -473,16 +505,16 @@
 "nacer, usted, imperativo",nacer,urodzić się,to be born,ud,imperativo,na<em>z</em>ca,,true,,
 "nacer, ns, imperativo",nacer,urodzić się,to be born,ns,imperativo,na<em>z</em>camos,,true,,
 "nacer, ustedes, imperativo",nacer,urodzić się,to be born,uds,imperativo,na<em>z</em>can,,true,,
-"obtener, yo, presente",obtener,uzyskać,to get,yo,presente,obten<em>g</em>o,,true,,conjugation::po-polsku
-"obtener, tú, presente",obtener,uzyskać,to get,tu,presente,obt<em>i</em>enes,,true,,conjugation::po-polsku
-"obtener, él, presente",obtener,uzyskać,to get,el,presente,obt<em>i</em>ene,,true,,conjugation::po-polsku
-"obtener, ellos, presente",obtener,uzyskać,to get,ellos,presente,obt<em>i</em>enen,,true,,conjugation::po-polsku
-"obtener, yo, pret. indefinido",obtener,uzyskać,to get,yo,pret_indefinido,obt<em>uve</em>,,true,,conjugation::po-polsku
-"obtener, tú, pret. indefinido",obtener,uzyskać,to get,tu,pret_indefinido,obt<em>uv</em>iste,,true,,conjugation::po-polsku
-"obtener, él, pret. indefinido",obtener,uzyskać,to get,el,pret_indefinido,obt<em>uvo</em>,,true,,conjugation::po-polsku
-"obtener, ns, pret. indefinido",obtener,uzyskać,to get,ns,pret_indefinido,obt<em>uv</em>imos,,true,,conjugation::po-polsku
-"obtener, vs, pret. indefinido",obtener,uzyskać,to get,vs,pret_indefinido,obt<em>uv</em>isteis,,true,,conjugation::po-polsku
-"obtener, ellos, pret. indefinido",obtener,uzyskać,to get,ellos,pret_indefinido,obt<em>uv</em>ieron,,true,,conjugation::po-polsku
+"obtener, yo, presente",obtener,uzyskać,to get,yo,presente,obten<em>g</em>o,,true,,
+"obtener, tú, presente",obtener,uzyskać,to get,tu,presente,obt<em>i</em>enes,,true,,
+"obtener, él, presente",obtener,uzyskać,to get,el,presente,obt<em>i</em>ene,,true,,
+"obtener, ellos, presente",obtener,uzyskać,to get,ellos,presente,obt<em>i</em>enen,,true,,
+"obtener, yo, pret. indefinido",obtener,uzyskać,to get,yo,pret_indefinido,obt<em>uve</em>,,true,,
+"obtener, tú, pret. indefinido",obtener,uzyskać,to get,tu,pret_indefinido,obt<em>uv</em>iste,,true,,
+"obtener, él, pret. indefinido",obtener,uzyskać,to get,el,pret_indefinido,obt<em>uvo</em>,,true,,
+"obtener, ns, pret. indefinido",obtener,uzyskać,to get,ns,pret_indefinido,obt<em>uv</em>imos,,true,,
+"obtener, vs, pret. indefinido",obtener,uzyskać,to get,vs,pret_indefinido,obt<em>uv</em>isteis,,true,,
+"obtener, ellos, pret. indefinido",obtener,uzyskać,to get,ellos,pret_indefinido,obt<em>uv</em>ieron,,true,,
 "obtener, tú, imperativo",obtener,uzyskać,to get,tu,imperativo,obt<em>én</em>,,true,,
 "obtener, usted, imperativo",obtener,uzyskać,to get,ud,imperativo,obten<em>g</em>a,,true,,
 "obtener, ns, imperativo",obtener,uzyskać,to get,ns,imperativo,obten<em>g</em>amos,,true,,
@@ -493,16 +525,16 @@
 "obtener, ns, futuro",obtener,uzyskać,to get,ns,futuro_simple,obten<em>dr</em>emos,,true,,
 "obtener, vs, futuro",obtener,uzyskać,to get,vs,futuro_simple,obten<em>dr</em>éis,,true,,
 "obtener, ellos, futuro",obtener,uzyskać,to get,ellos,futuro_simple,obten<em>dr</em>án,,true,,
-"oír, yo, presente",oír,słyszeć,to hear,yo,presente,o<em>ig</em>o,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, tú, presente",oír,słyszeć,to hear,tu,presente,o<em>y</em>es,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, él, presente",oír,słyszeć,to hear,el,presente,o<em>y</em>e,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, ns, presente",oír,słyszeć,to hear,ns,presente,o<em>í</em>mos,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, ellos, presente",oír,słyszeć,to hear,ellos,presente,o<em>y</em>en,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, tú, pret. indefinido",oír,słyszeć,to hear,tu,pret_indefinido,o<em>í</em>ste,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, él, pret. indefinido",oír,słyszeć,to hear,el,pret_indefinido,o<em>y</em>ó,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, ns, pret. indefinido",oír,słyszeć,to hear,ns,pret_indefinido,o<em>í</em>mos,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, vs, pret. indefinido",oír,słyszeć,to hear,vs,pret_indefinido,o<em>í</em>steis,,true,,conjugation::po-polsku conjugation::basic-verb
-"oír, ellos, pret. indefinido",oír,słyszeć,to hear,ellos,pret_indefinido,o<em>y</em>eron,,true,,conjugation::po-polsku conjugation::basic-verb
+"oír, yo, presente",oír,słyszeć,to hear,yo,presente,o<em>ig</em>o,,true,,conjugation::basic-verb
+"oír, tú, presente",oír,słyszeć,to hear,tu,presente,o<em>y</em>es,,true,,conjugation::basic-verb
+"oír, él, presente",oír,słyszeć,to hear,el,presente,o<em>y</em>e,,true,,conjugation::basic-verb
+"oír, ns, presente",oír,słyszeć,to hear,ns,presente,o<em>í</em>mos,,true,,conjugation::basic-verb
+"oír, ellos, presente",oír,słyszeć,to hear,ellos,presente,o<em>y</em>en,,true,,conjugation::basic-verb
+"oír, tú, pret. indefinido",oír,słyszeć,to hear,tu,pret_indefinido,o<em>í</em>ste,,true,,conjugation::basic-verb
+"oír, él, pret. indefinido",oír,słyszeć,to hear,el,pret_indefinido,o<em>y</em>ó,,true,,conjugation::basic-verb
+"oír, ns, pret. indefinido",oír,słyszeć,to hear,ns,pret_indefinido,o<em>í</em>mos,,true,,conjugation::basic-verb
+"oír, vs, pret. indefinido",oír,słyszeć,to hear,vs,pret_indefinido,o<em>í</em>steis,,true,,conjugation::basic-verb
+"oír, ellos, pret. indefinido",oír,słyszeć,to hear,ellos,pret_indefinido,o<em>y</em>eron,,true,,conjugation::basic-verb
 "oír, yo, pret. perfecto",oír,słyszeć,to hear,yo,pret_perfecto,he o<em>í</em>do,,true,,conjugation::basic-verb
 "oír, tú, pret. perfecto",oír,słyszeć,to hear,tu,pret_perfecto,has o<em>í</em>do,,true,,conjugation::basic-verb
 "oír, él, pret. perfecto",oír,słyszeć,to hear,el,pret_perfecto,ha o<em>í</em>do,,true,,conjugation::basic-verb
@@ -519,23 +551,23 @@
 "oír, usted, imperativo",oír,słyszeć,to hear,ud,imperativo,o<em>ig</em>a,,true,,conjugation::basic-verb
 "oír, ns, imperativo",oír,słyszeć,to hear,ns,imperativo,o<em>ig</em>amos,,true,,conjugation::basic-verb
 "oír, ustedes, imperativo",oír,słyszeć,to hear,uds,imperativo,o<em>ig</em>an,,true,,conjugation::basic-verb
-"oler, yo, presente",oler,wąchać,to smell,yo,presente,<em>hue</em>lo,,true,,conjugation::po-polsku
-"oler, tú, presente",oler,wąchać,to smell,tu,presente,<em>hue</em>les,,true,,conjugation::po-polsku
-"oler, él, presente",oler,wąchać,to smell,el,presente,<em>hue</em>le,,true,,conjugation::po-polsku
-"oler, ellos, presente",oler,wąchać,to smell,ellos,presente,<em>hue</em>len,,true,,conjugation::po-polsku
+"oler, yo, presente",oler,wąchać,to smell,yo,presente,<em>hue</em>lo,,true,,
+"oler, tú, presente",oler,wąchać,to smell,tu,presente,<em>hue</em>les,,true,,
+"oler, él, presente",oler,wąchać,to smell,el,presente,<em>hue</em>le,,true,,
+"oler, ellos, presente",oler,wąchać,to smell,ellos,presente,<em>hue</em>len,,true,,
 "oler, tú, imperativo",oler,wąchać,to smell,tu,imperativo,<em>hue</em>le,,true,,
 "oler, usted, imperativo",oler,wąchać,to smell,ud,imperativo,<em>hue</em>la,,true,,
 "oler, ustedes, imperativo",oler,wąchać,to smell,uds,imperativo,<em>hue</em>lan,,true,,
-"parecer, yo, presente",parecer,przypominać,to seem,yo,presente,pare<em>z</em>co,,true,,conjugation::po-polsku
+"parecer, yo, presente",parecer,przypominać,to seem,yo,presente,pare<em>z</em>co,,true,,
 "parecer, usted, imperativo",parecer,przypominać,to seem,ud,imperativo,pare<em>z</em>ca,,true,,
 "parecer, ns, imperativo",parecer,przypominać,to seem,ns,imperativo,pare<em>z</em>camos,,true,,
 "parecer, ustedes, imperativo",parecer,przypominać,to seem,uds,imperativo,pare<em>z</em>can,,true,,
-"pedir, yo, presente",pedir,poprosić,to ask for,yo,presente,p<em>i</em>do,,true,,conjugation::po-polsku conjugation::basic-verb
-"pedir, tú, presente",pedir,poprosić,to ask for,tu,presente,p<em>i</em>des,,true,,conjugation::po-polsku conjugation::basic-verb
-"pedir, él, presente",pedir,poprosić,to ask for,el,presente,p<em>i</em>de,,true,,conjugation::po-polsku conjugation::basic-verb
-"pedir, ellos, presente",pedir,poprosić,to ask for,ellos,presente,p<em>i</em>den,,true,,conjugation::po-polsku conjugation::basic-verb
-"pedir, él, pret. indefinido",pedir,poprosić,to ask for,el,pret_indefinido,p<em>i</em>dió,,true,,conjugation::po-polsku conjugation::basic-verb
-"pedir, ellos, pret. indefinido",pedir,poprosić,to ask for,ellos,pret_indefinido,p<em>i</em>dieron,,true,,conjugation::po-polsku conjugation::basic-verb
+"pedir, yo, presente",pedir,poprosić,to ask for,yo,presente,p<em>i</em>do,,true,,conjugation::basic-verb
+"pedir, tú, presente",pedir,poprosić,to ask for,tu,presente,p<em>i</em>des,,true,,conjugation::basic-verb
+"pedir, él, presente",pedir,poprosić,to ask for,el,presente,p<em>i</em>de,,true,,conjugation::basic-verb
+"pedir, ellos, presente",pedir,poprosić,to ask for,ellos,presente,p<em>i</em>den,,true,,conjugation::basic-verb
+"pedir, él, pret. indefinido",pedir,poprosić,to ask for,el,pret_indefinido,p<em>i</em>dió,,true,,conjugation::basic-verb
+"pedir, ellos, pret. indefinido",pedir,poprosić,to ask for,ellos,pret_indefinido,p<em>i</em>dieron,,true,,conjugation::basic-verb
 "pedir, yo, presente progresivo",pedir,poprosić,to ask for,yo,presente_progresivo,estoy p<em>i</em>diendo,,true,,conjugation::basic-verb
 "pedir, tú, presente progresivo",pedir,poprosić,to ask for,tu,presente_progresivo,estás p<em>i</em>diendo,,true,,conjugation::basic-verb
 "pedir, él, presente progresivo",pedir,poprosić,to ask for,el,presente_progresivo,está p<em>i</em>diendo,,true,,conjugation::basic-verb
@@ -558,7 +590,7 @@
 "poder, él, presente",poder,móc,to be able to,el,presente,p<em>ue</em>de,może,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, ellos, presente",poder,móc,to be able to,ellos,presente,p<em>ue</em>den,możą,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, yo, pret. indefinido",poder,móc,to be able to,yo,pret_indefinido,p<em>ude</em>,mogłem,true,,conjugation::po-polsku conjugation::basic-verb
-"poder, tú, pret. indefinido",poder,móc,to be able to,tu,pret_indefinido,p<em>u</em>diste,mógłeś,true,,conjugation::po-polsku conjugation::basic-verb
+"poder, tú, pret. indefinido",poder,móc,to be able to,tu,pret_indefinido,p<em>u</em>diste,mogłeś,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, él, pret. indefinido",poder,móc,to be able to,el,pret_indefinido,p<em>udo</em>,mógł,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, ns, pret. indefinido",poder,móc,to be able to,ns,pret_indefinido,p<em>u</em>dimos,mogliśmy,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, vs, pret. indefinido",poder,móc,to be able to,vs,pret_indefinido,p<em>u</em>disteis,mogliście,true,,conjugation::po-polsku conjugation::basic-verb
@@ -578,13 +610,13 @@
 "poder, ns, futuro",poder,móc,to be able to,ns,futuro_simple,pod<em>r</em>emos,,true,,conjugation::basic-verb
 "poder, vs, futuro",poder,móc,to be able to,vs,futuro_simple,pod<em>r</em>éis,,true,,conjugation::basic-verb
 "poder, ellos, futuro",poder,móc,to be able to,ellos,futuro_simple,pod<em>r</em>án,,true,,conjugation::basic-verb
-"poner, yo, presente",poner,kłaść,to put,yo,presente,pon<em>g</em>o,,true,poner,conjugation::po-polsku conjugation::basic-verb
-"poner, yo, pret. indefinido",poner,kłaść,to put,yo,pret_indefinido,p<em>use</em>,,true,poner,conjugation::po-polsku conjugation::basic-verb
-"poner, tú, pret. indefinido",poner,kłaść,to put,tu,pret_indefinido,p<em>us</em>iste,,true,poner,conjugation::po-polsku conjugation::basic-verb
-"poner, él, pret. indefinido",poner,kłaść,to put,el,pret_indefinido,p<em>uso</em>,,true,poner,conjugation::po-polsku conjugation::basic-verb
-"poner, ns, pret. indefinido",poner,kłaść,to put,ns,pret_indefinido,p<em>us</em>imos,,true,poner,conjugation::po-polsku conjugation::basic-verb
-"poner, vs, pret. indefinido",poner,kłaść,to put,vs,pret_indefinido,p<em>us</em>isteis,,true,poner,conjugation::po-polsku conjugation::basic-verb
-"poner, ellos, pret. indefinido",poner,kłaść,to put,ellos,pret_indefinido,p<em>us</em>ieron,,true,poner,conjugation::po-polsku conjugation::basic-verb
+"poner, yo, presente",poner,kłaść,to put,yo,presente,pon<em>g</em>o,,true,poner,conjugation::basic-verb
+"poner, yo, pret. indefinido",poner,kłaść,to put,yo,pret_indefinido,p<em>use</em>,,true,poner,conjugation::basic-verb
+"poner, tú, pret. indefinido",poner,kłaść,to put,tu,pret_indefinido,p<em>us</em>iste,,true,poner,conjugation::basic-verb
+"poner, él, pret. indefinido",poner,kłaść,to put,el,pret_indefinido,p<em>uso</em>,,true,poner,conjugation::basic-verb
+"poner, ns, pret. indefinido",poner,kłaść,to put,ns,pret_indefinido,p<em>us</em>imos,,true,poner,conjugation::basic-verb
+"poner, vs, pret. indefinido",poner,kłaść,to put,vs,pret_indefinido,p<em>us</em>isteis,,true,poner,conjugation::basic-verb
+"poner, ellos, pret. indefinido",poner,kłaść,to put,ellos,pret_indefinido,p<em>us</em>ieron,,true,poner,conjugation::basic-verb
 "poner, yo, pret. perfecto",poner,kłaść,to put,yo,pret_perfecto,he p<em>uest</em>o,,true,poner,conjugation::basic-verb
 "poner, tú, pret. perfecto",poner,kłaść,to put,tu,pret_perfecto,has p<em>uest</em>o,,true,poner,conjugation::basic-verb
 "poner, él, pret. perfecto",poner,kłaść,to put,el,pret_perfecto,ha p<em>uest</em>o,,true,poner,conjugation::basic-verb
@@ -617,10 +649,20 @@
 "preferir, usted, imperativo",preferir,preferować,to prefer,ud,imperativo,pref<em>i</em>era,,true,,
 "preferir, ns, imperativo",preferir,preferować,to prefer,ns,imperativo,pref<em>i</em>ramos,,true,,
 "preferir, ustedes, imperativo",preferir,preferować,to prefer,uds,imperativo,pref<em>i</em>eran,,true,,
-"prohibir, yo, presente",prohibir,zabronić,to prohibit,yo,presente,proh<em>í</em>bo,,true,,conjugation::po-polsku
-"prohibir, tú, presente",prohibir,zabronić,to prohibit,tu,presente,proh<em>í</em>bes,,true,,conjugation::po-polsku
-"prohibir, él, presente",prohibir,zabronić,to prohibit,el,presente,proh<em>í</em>be,,true,,conjugation::po-polsku
-"prohibir, ellos, presente",prohibir,zabronić,to prohibit,ellos,presente,proh<em>í</em>ben,,true,,conjugation::po-polsku
+"producir, yo, presente",producir,produkować,to produce,yo,presente,produ<em>z</em>co,,true,,
+"producir, yo, pret. indefinido",producir,produkować,to produce,yo,pret_indefinido,produ<em>je</em>,,true,,
+"producir, tú, pret. indefinido",producir,produkować,to produce,tu,pret_indefinido,produ<em>j</em>iste,,true,,
+"producir, él, pret. indefinido",producir,produkować,to produce,el,pret_indefinido,produ<em>jo</em>,,true,,
+"producir, ns, pret. indefinido",producir,produkować,to produce,ns,pret_indefinido,produ<em>j</em>imos,,true,,
+"producir, vs, pret. indefinido",producir,produkować,to produce,vs,pret_indefinido,produ<em>j</em>isteis,,true,,
+"producir, ellos, pret. indefinido",producir,produkować,to produce,ellos,pret_indefinido,produ<em>j</em>eron,,true,,
+"producir, usted, imperativo",producir,produkować,to produce,ud,imperativo,produ<em>z</em>ca,,true,,
+"producir, ns, imperativo",producir,produkować,to produce,ns,imperativo,produ<em>z</em>camos,,true,,
+"producir, ustedes, imperativo",producir,produkować,to produce,uds,imperativo,produ<em>z</em>can,,true,,
+"prohibir, yo, presente",prohibir,zabronić,to prohibit,yo,presente,proh<em>í</em>bo,,true,,
+"prohibir, tú, presente",prohibir,zabronić,to prohibit,tu,presente,proh<em>í</em>bes,,true,,
+"prohibir, él, presente",prohibir,zabronić,to prohibit,el,presente,proh<em>í</em>be,,true,,
+"prohibir, ellos, presente",prohibir,zabronić,to prohibit,ellos,presente,proh<em>í</em>ben,,true,,
 "prohibir, tú, imperativo",prohibir,zabronić,to prohibit,tu,imperativo,proh<em>í</em>be,,true,,
 "prohibir, usted, imperativo",prohibir,zabronić,to prohibit,ud,imperativo,proh<em>í</em>ba,,true,,
 "prohibir, ustedes, imperativo",prohibir,zabronić,to prohibit,uds,imperativo,proh<em>í</em>ban,,true,,
@@ -643,6 +685,10 @@
 "querer, ns, futuro",querer,chcieć,to want,ns,futuro_simple,quer<em>r</em>emos,,true,,conjugation::basic-verb
 "querer, vs, futuro",querer,chcieć,to want,vs,futuro_simple,quer<em>r</em>éis,,true,,conjugation::basic-verb
 "querer, ellos, futuro",querer,chcieć,to want,ellos,futuro_simple,quer<em>r</em>án,,true,,conjugation::basic-verb
+"rechazar, yo, pret. indefinido",rechazar,odrzucać,to reject,yo,pret_indefinido,recha<em>c</em>é,,true,,
+"rechazar, usted, imperativo",rechazar,odrzucać,to reject,ud,imperativo,recha<em>c</em>e,,true,,
+"rechazar, ns, imperativo",rechazar,odrzucać,to reject,ns,imperativo,recha<em>c</em>emos,,true,,
+"rechazar, ustedes, imperativo",rechazar,odrzucać,to reject,uds,imperativo,recha<em>c</em>en,,true,,
 "repetir, yo, presente",repetir,powtarzać,to do again,yo,presente,rep<em>i</em>to,powtarzam,true,,conjugation::po-polsku
 "repetir, tú, presente",repetir,powtarzać,to do again,tu,presente,rep<em>i</em>tes,powtarzasz,true,,conjugation::po-polsku
 "repetir, él, presente",repetir,powtarzać,to do again,el,presente,rep<em>i</em>te,powtarza,true,,conjugation::po-polsku
@@ -687,7 +733,7 @@
 "saber, ns, futuro",saber,wiedzieć,to know,ns,futuro_simple,sab<em>r</em>emos,,true,,conjugation::basic-verb
 "saber, vs, futuro",saber,wiedzieć,to know,vs,futuro_simple,sab<em>r</em>éis,,true,,conjugation::basic-verb
 "saber, ellos, futuro",saber,wiedzieć,to know,ellos,futuro_simple,sab<em>r</em>án,,true,,conjugation::basic-verb
-"sacarse, yo, pret. indefinido",sacarse,dostać,to take off,yo,pret_indefinido,me sa<em>qu</em>é,,true,,conjugation::po-polsku
+"sacarse, yo, pret. indefinido",sacarse,dostać,to take off,yo,pret_indefinido,me sa<em>qu</em>é,,true,,
 "sacarse, usted, imperativo",sacarse,dostać,to take off,ud,imperativo,sá<em>qu</em>ese,,true,,
 "sacarse, ns, imperativo",sacarse,dostać,to take off,ns,imperativo,sa<em>qu</em>émonos,,true,,
 "sacarse, ustedes, imperativo",sacarse,dostać,to take off,uds,imperativo,sá<em>qu</em>ense,,true,,
@@ -702,12 +748,12 @@
 "salir, ns, futuro",salir,wychodzić,to go out,ns,futuro_simple,sal<em>dr</em>emos,,true,,conjugation::basic-verb
 "salir, vs, futuro",salir,wychodzić,to go out,vs,futuro_simple,sal<em>dr</em>éis,,true,,conjugation::basic-verb
 "salir, ellos, futuro",salir,wychodzić,to go out,ellos,futuro_simple,sal<em>dr</em>án,,true,,conjugation::basic-verb
-"seguir, yo, presente",seguir,kontynuować,to follow,yo,presente,s<em>ig</em>o,,true,,conjugation::po-polsku conjugation::basic-verb
-"seguir, tú, presente",seguir,kontynuować,to follow,tu,presente,s<em>i</em>gues,,true,,conjugation::po-polsku conjugation::basic-verb
-"seguir, él, presente",seguir,kontynuować,to follow,el,presente,s<em>i</em>gue,,true,,conjugation::po-polsku conjugation::basic-verb
-"seguir, ellos, presente",seguir,kontynuować,to follow,ellos,presente,s<em>i</em>guen,,true,,conjugation::po-polsku conjugation::basic-verb
-"seguir, él, pret. indefinido",seguir,kontynuować,to follow,el,pret_indefinido,s<em>i</em>guió,,true,,conjugation::po-polsku conjugation::basic-verb
-"seguir, ellos, pret. indefinido",seguir,kontynuować,to follow,ellos,pret_indefinido,s<em>i</em>guieron,,true,,conjugation::po-polsku conjugation::basic-verb
+"seguir, yo, presente",seguir,kontynuować,to follow,yo,presente,s<em>ig</em>o,,true,,conjugation::basic-verb
+"seguir, tú, presente",seguir,kontynuować,to follow,tu,presente,s<em>i</em>gues,,true,,conjugation::basic-verb
+"seguir, él, presente",seguir,kontynuować,to follow,el,presente,s<em>i</em>gue,,true,,conjugation::basic-verb
+"seguir, ellos, presente",seguir,kontynuować,to follow,ellos,presente,s<em>i</em>guen,,true,,conjugation::basic-verb
+"seguir, él, pret. indefinido",seguir,kontynuować,to follow,el,pret_indefinido,s<em>i</em>guió,,true,,conjugation::basic-verb
+"seguir, ellos, pret. indefinido",seguir,kontynuować,to follow,ellos,pret_indefinido,s<em>i</em>guieron,,true,,conjugation::basic-verb
 "seguir, yo, presente progresivo",seguir,kontynuować,to follow,yo,presente_progresivo,estoy s<em>i</em>guiendo,,true,,conjugation::basic-verb
 "seguir, tú, presente progresivo",seguir,kontynuować,to follow,tu,presente_progresivo,estás s<em>i</em>guiendo,,true,,conjugation::basic-verb
 "seguir, él, presente progresivo",seguir,kontynuować,to follow,el,presente_progresivo,está s<em>i</em>guiendo,,true,,conjugation::basic-verb
@@ -756,20 +802,20 @@
 "ser, usted, imperativo",ser,być,to be,ud,imperativo,s<em>e</em>a,,true,ser,conjugation::basic-verb
 "ser, ns, imperativo",ser,być,to be,ns,imperativo,s<em>e</em>amos,,true,ser,conjugation::basic-verb
 "ser, ustedes, imperativo",ser,być,to be,uds,imperativo,s<em>e</em>an,,true,ser,conjugation::basic-verb
-"soler, yo, presente",soler,mieć w zwyczaju,to use to,yo,presente,s<em>ue</em>lo,,true,,conjugation::po-polsku
-"soler, tú, presente",soler,mieć w zwyczaju,to use to,tu,presente,s<em>ue</em>les,,true,,conjugation::po-polsku
-"soler, él, presente",soler,mieć w zwyczaju,to use to,el,presente,s<em>ue</em>le,,true,,conjugation::po-polsku
-"soler, ellos, presente",soler,mieć w zwyczaju,to use to,ellos,presente,s<em>ue</em>len,,true,,conjugation::po-polsku
+"soler, yo, presente",soler,mieć w zwyczaju,to use to,yo,presente,s<em>ue</em>lo,,true,,
+"soler, tú, presente",soler,mieć w zwyczaju,to use to,tu,presente,s<em>ue</em>les,,true,,
+"soler, él, presente",soler,mieć w zwyczaju,to use to,el,presente,s<em>ue</em>le,,true,,
+"soler, ellos, presente",soler,mieć w zwyczaju,to use to,ellos,presente,s<em>ue</em>len,,true,,
 "soler, tú, imperativo",soler,mieć w zwyczaju,to use to,tu,imperativo,s<em>ue</em>le,,true,,
 "soler, usted, imperativo",soler,mieć w zwyczaju,to use to,ud,imperativo,s<em>ue</em>la,,true,,
 "soler, ustedes, imperativo",soler,mieć w zwyczaju,to use to,uds,imperativo,s<em>ue</em>lan,,true,,
-"suponer, yo, presente",suponer,przypuszczać,to suppose,yo,presente,supon<em>g</em>o,,true,,conjugation::po-polsku
-"suponer, yo, pret. indefinido",suponer,przypuszczać,to suppose,yo,pret_indefinido,sup<em>use</em>,,true,,conjugation::po-polsku
-"suponer, tú, pret. indefinido",suponer,przypuszczać,to suppose,tu,pret_indefinido,sup<em>us</em>iste,,true,,conjugation::po-polsku
-"suponer, él, pret. indefinido",suponer,przypuszczać,to suppose,el,pret_indefinido,sup<em>uso</em>,,true,,conjugation::po-polsku
-"suponer, ns, pret. indefinido",suponer,przypuszczać,to suppose,ns,pret_indefinido,sup<em>us</em>imos,,true,,conjugation::po-polsku
-"suponer, vs, pret. indefinido",suponer,przypuszczać,to suppose,vs,pret_indefinido,sup<em>us</em>isteis,,true,,conjugation::po-polsku
-"suponer, ellos, pret. indefinido",suponer,przypuszczać,to suppose,ellos,pret_indefinido,sup<em>us</em>ieron,,true,,conjugation::po-polsku
+"suponer, yo, presente",suponer,przypuszczać,to suppose,yo,presente,supon<em>g</em>o,,true,,
+"suponer, yo, pret. indefinido",suponer,przypuszczać,to suppose,yo,pret_indefinido,sup<em>use</em>,,true,,
+"suponer, tú, pret. indefinido",suponer,przypuszczać,to suppose,tu,pret_indefinido,sup<em>us</em>iste,,true,,
+"suponer, él, pret. indefinido",suponer,przypuszczać,to suppose,el,pret_indefinido,sup<em>uso</em>,,true,,
+"suponer, ns, pret. indefinido",suponer,przypuszczać,to suppose,ns,pret_indefinido,sup<em>us</em>imos,,true,,
+"suponer, vs, pret. indefinido",suponer,przypuszczać,to suppose,vs,pret_indefinido,sup<em>us</em>isteis,,true,,
+"suponer, ellos, pret. indefinido",suponer,przypuszczać,to suppose,ellos,pret_indefinido,sup<em>us</em>ieron,,true,,
 "suponer, yo, pret. perfecto",suponer,przypuszczać,to suppose,yo,pret_perfecto,he sup<em>uest</em>o,,true,,
 "suponer, tú, pret. perfecto",suponer,przypuszczać,to suppose,tu,pret_perfecto,has sup<em>uest</em>o,,true,,
 "suponer, él, pret. perfecto",suponer,przypuszczać,to suppose,el,pret_perfecto,ha sup<em>uest</em>o,,true,,
@@ -786,6 +832,22 @@
 "suponer, ns, futuro",suponer,przypuszczać,to suppose,ns,futuro_simple,supon<em>dr</em>emos,,true,,
 "suponer, vs, futuro",suponer,przypuszczać,to suppose,vs,futuro_simple,supon<em>dr</em>éis,,true,,
 "suponer, ellos, futuro",suponer,przypuszczać,to suppose,ellos,futuro_simple,supon<em>dr</em>án,,true,,
+"sustituir, yo, presente",sustituir,zastępować,to substitute,yo,presente,sustitu<em>y</em>o,,true,,
+"sustituir, tú, presente",sustituir,zastępować,to substitute,tu,presente,sustitu<em>y</em>es,,true,,
+"sustituir, él, presente",sustituir,zastępować,to substitute,el,presente,sustitu<em>y</em>e,,true,,
+"sustituir, ellos, presente",sustituir,zastępować,to substitute,ellos,presente,sustitu<em>y</em>en,,true,,
+"sustituir, él, pret. indefinido",sustituir,zastępować,to substitute,el,pret_indefinido,sustitu<em>y</em>ó,,true,,
+"sustituir, ellos, pret. indefinido",sustituir,zastępować,to substitute,ellos,pret_indefinido,sustitu<em>y</em>eron,,true,,
+"sustituir, yo, presente progresivo",sustituir,zastępować,to substitute,yo,presente_progresivo,estoy sustitu<em>y</em>endo,,true,,
+"sustituir, tú, presente progresivo",sustituir,zastępować,to substitute,tu,presente_progresivo,estás sustitu<em>y</em>endo,,true,,
+"sustituir, él, presente progresivo",sustituir,zastępować,to substitute,el,presente_progresivo,está sustitu<em>y</em>endo,,true,,
+"sustituir, ns, presente progresivo",sustituir,zastępować,to substitute,ns,presente_progresivo,estamos sustitu<em>y</em>endo,,true,,
+"sustituir, vs, presente progresivo",sustituir,zastępować,to substitute,vs,presente_progresivo,estáis sustitu<em>y</em>endo,,true,,
+"sustituir, ellos, presente progresivo",sustituir,zastępować,to substitute,ellos,presente_progresivo,están sustitu<em>y</em>endo,,true,,
+"sustituir, tú, imperativo",sustituir,zastępować,to substitute,tu,imperativo,sustitu<em>y</em>e,,true,,
+"sustituir, usted, imperativo",sustituir,zastępować,to substitute,ud,imperativo,sustitu<em>y</em>a,,true,,
+"sustituir, ns, imperativo",sustituir,zastępować,to substitute,ns,imperativo,sustitu<em>y</em>amos,,true,,
+"sustituir, ustedes, imperativo",sustituir,zastępować,to substitute,uds,imperativo,sustitu<em>y</em>an,,true,,
 "tener, yo, presente",tener,mieć,to have,yo,presente,ten<em>g</em>o,mam,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, tú, presente",tener,mieć,to have,tu,presente,t<em>i</em>enes,masz,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, él, presente",tener,mieć,to have,el,presente,t<em>i</em>ene,ma,true,,conjugation::po-polsku conjugation::basic-verb
@@ -806,23 +868,27 @@
 "tener, ns, futuro",tener,mieć,to have,ns,futuro_simple,ten<em>dr</em>emos,,true,,conjugation::basic-verb
 "tener, vs, futuro",tener,mieć,to have,vs,futuro_simple,ten<em>dr</em>éis,,true,,conjugation::basic-verb
 "tener, ellos, futuro",tener,mieć,to have,ellos,futuro_simple,ten<em>dr</em>án,,true,,conjugation::basic-verb
-"traducir, yo, presente",traducir,tłumaczyć,to translate,yo,presente,tradu<em>z</em>co,,true,,conjugation::po-polsku
-"traducir, yo, pret. indefinido",traducir,tłumaczyć,to translate,yo,pret_indefinido,tradu<em>je</em>,,true,,conjugation::po-polsku
-"traducir, tú, pret. indefinido",traducir,tłumaczyć,to translate,tu,pret_indefinido,tradu<em>j</em>iste,,true,,conjugation::po-polsku
-"traducir, él, pret. indefinido",traducir,tłumaczyć,to translate,el,pret_indefinido,tradu<em>jo</em>,,true,,conjugation::po-polsku
-"traducir, ns, pret. indefinido",traducir,tłumaczyć,to translate,ns,pret_indefinido,tradu<em>j</em>imos,,true,,conjugation::po-polsku
-"traducir, vs, pret. indefinido",traducir,tłumaczyć,to translate,vs,pret_indefinido,tradu<em>j</em>isteis,,true,,conjugation::po-polsku
-"traducir, ellos, pret. indefinido",traducir,tłumaczyć,to translate,ellos,pret_indefinido,tradu<em>j</em>eron,,true,,conjugation::po-polsku
+"tocar, yo, pret. indefinido",tocar,dotykać,to touch,yo,pret_indefinido,to<em>qu</em>é,,true,,
+"tocar, usted, imperativo",tocar,dotykać,to touch,ud,imperativo,to<em>qu</em>e,,true,,
+"tocar, ns, imperativo",tocar,dotykać,to touch,ns,imperativo,to<em>qu</em>emos,,true,,
+"tocar, ustedes, imperativo",tocar,dotykać,to touch,uds,imperativo,to<em>qu</em>en,,true,,
+"traducir, yo, presente",traducir,tłumaczyć,to translate,yo,presente,tradu<em>z</em>co,,true,,
+"traducir, yo, pret. indefinido",traducir,tłumaczyć,to translate,yo,pret_indefinido,tradu<em>je</em>,,true,,
+"traducir, tú, pret. indefinido",traducir,tłumaczyć,to translate,tu,pret_indefinido,tradu<em>j</em>iste,,true,,
+"traducir, él, pret. indefinido",traducir,tłumaczyć,to translate,el,pret_indefinido,tradu<em>jo</em>,,true,,
+"traducir, ns, pret. indefinido",traducir,tłumaczyć,to translate,ns,pret_indefinido,tradu<em>j</em>imos,,true,,
+"traducir, vs, pret. indefinido",traducir,tłumaczyć,to translate,vs,pret_indefinido,tradu<em>j</em>isteis,,true,,
+"traducir, ellos, pret. indefinido",traducir,tłumaczyć,to translate,ellos,pret_indefinido,tradu<em>j</em>eron,,true,,
 "traducir, usted, imperativo",traducir,tłumaczyć,to translate,ud,imperativo,tradu<em>z</em>ca,,true,,
 "traducir, ns, imperativo",traducir,tłumaczyć,to translate,ns,imperativo,tradu<em>z</em>camos,,true,,
 "traducir, ustedes, imperativo",traducir,tłumaczyć,to translate,uds,imperativo,tradu<em>z</em>can,,true,,
-"traer, yo, presente",traer,przynieść,to bring,yo,presente,tra<em>ig</em>o,,true,,conjugation::po-polsku
-"traer, yo, pret. indefinido",traer,przynieść,to bring,yo,pret_indefinido,tra<em>je</em>,,true,,conjugation::po-polsku
-"traer, tú, pret. indefinido",traer,przynieść,to bring,tu,pret_indefinido,tra<em>j</em>iste,,true,,conjugation::po-polsku
-"traer, él, pret. indefinido",traer,przynieść,to bring,el,pret_indefinido,tra<em>jo</em>,,true,,conjugation::po-polsku
-"traer, ns, pret. indefinido",traer,przynieść,to bring,ns,pret_indefinido,tra<em>j</em>imos,,true,,conjugation::po-polsku
-"traer, vs, pret. indefinido",traer,przynieść,to bring,vs,pret_indefinido,tra<em>j</em>isteis,,true,,conjugation::po-polsku
-"traer, ellos, pret. indefinido",traer,przynieść,to bring,ellos,pret_indefinido,tra<em>j</em>eron,,true,,conjugation::po-polsku
+"traer, yo, presente",traer,przynieść,to bring,yo,presente,tra<em>ig</em>o,,true,,
+"traer, yo, pret. indefinido",traer,przynieść,to bring,yo,pret_indefinido,tra<em>je</em>,,true,,
+"traer, tú, pret. indefinido",traer,przynieść,to bring,tu,pret_indefinido,tra<em>j</em>iste,,true,,
+"traer, él, pret. indefinido",traer,przynieść,to bring,el,pret_indefinido,tra<em>jo</em>,,true,,
+"traer, ns, pret. indefinido",traer,przynieść,to bring,ns,pret_indefinido,tra<em>j</em>imos,,true,,
+"traer, vs, pret. indefinido",traer,przynieść,to bring,vs,pret_indefinido,tra<em>j</em>isteis,,true,,
+"traer, ellos, pret. indefinido",traer,przynieść,to bring,ellos,pret_indefinido,tra<em>j</em>eron,,true,,
 "traer, yo, pret. perfecto",traer,przynieść,to bring,yo,pret_perfecto,he tra<em>í</em>do,,true,,
 "traer, tú, pret. perfecto",traer,przynieść,to bring,tu,pret_perfecto,has tra<em>í</em>do,,true,,
 "traer, él, pret. perfecto",traer,przynieść,to bring,el,pret_perfecto,ha tra<em>í</em>do,,true,,
@@ -838,20 +904,24 @@
 "traer, usted, imperativo",traer,przynieść,to bring,ud,imperativo,tra<em>ig</em>a,,true,,
 "traer, ns, imperativo",traer,przynieść,to bring,ns,imperativo,tra<em>ig</em>amos,,true,,
 "traer, ustedes, imperativo",traer,przynieść,to bring,uds,imperativo,tra<em>ig</em>an,,true,,
-"vencer, yo, presente",vencer,pokonać,to defeat,yo,presente,ven<em>z</em>o,,true,,conjugation::po-polsku
+"utilizar, yo, pret. indefinido",utilizar,używać,to use,yo,pret_indefinido,utili<em>c</em>é,,true,,
+"utilizar, usted, imperativo",utilizar,używać,to use,ud,imperativo,utili<em>c</em>e,,true,,
+"utilizar, ns, imperativo",utilizar,używać,to use,ns,imperativo,utili<em>c</em>emos,,true,,
+"utilizar, ustedes, imperativo",utilizar,używać,to use,uds,imperativo,utili<em>c</em>en,,true,,
+"vencer, yo, presente",vencer,pokonać,to defeat,yo,presente,ven<em>z</em>o,,true,,
 "vencer, usted, imperativo",vencer,pokonać,to defeat,ud,imperativo,ven<em>z</em>a,,true,,
 "vencer, ns, imperativo",vencer,pokonać,to defeat,ns,imperativo,ven<em>z</em>amos,,true,,
 "vencer, ustedes, imperativo",vencer,pokonać,to defeat,uds,imperativo,ven<em>z</em>an,,true,,
-"venir, yo, presente",venir,przychodzić,to come,yo,presente,ven<em>g</em>o,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, tú, presente",venir,przychodzić,to come,tu,presente,v<em>i</em>enes,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, él, presente",venir,przychodzić,to come,el,presente,v<em>i</em>ene,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, ellos, presente",venir,przychodzić,to come,ellos,presente,v<em>i</em>enen,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, yo, pret. indefinido",venir,przychodzić,to come,yo,pret_indefinido,v<em>ine</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, tú, pret. indefinido",venir,przychodzić,to come,tu,pret_indefinido,v<em>i</em>niste,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, él, pret. indefinido",venir,przychodzić,to come,el,pret_indefinido,v<em>ino</em>,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, ns, pret. indefinido",venir,przychodzić,to come,ns,pret_indefinido,v<em>i</em>nimos,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, vs, pret. indefinido",venir,przychodzić,to come,vs,pret_indefinido,v<em>i</em>nisteis,,true,,conjugation::po-polsku conjugation::basic-verb
-"venir, ellos, pret. indefinido",venir,przychodzić,to come,ellos,pret_indefinido,v<em>i</em>nieron,,true,,conjugation::po-polsku conjugation::basic-verb
+"venir, yo, presente",venir,przychodzić,to come,yo,presente,ven<em>g</em>o,,true,,conjugation::basic-verb
+"venir, tú, presente",venir,przychodzić,to come,tu,presente,v<em>i</em>enes,,true,,conjugation::basic-verb
+"venir, él, presente",venir,przychodzić,to come,el,presente,v<em>i</em>ene,,true,,conjugation::basic-verb
+"venir, ellos, presente",venir,przychodzić,to come,ellos,presente,v<em>i</em>enen,,true,,conjugation::basic-verb
+"venir, yo, pret. indefinido",venir,przychodzić,to come,yo,pret_indefinido,v<em>ine</em>,,true,,conjugation::basic-verb
+"venir, tú, pret. indefinido",venir,przychodzić,to come,tu,pret_indefinido,v<em>i</em>niste,,true,,conjugation::basic-verb
+"venir, él, pret. indefinido",venir,przychodzić,to come,el,pret_indefinido,v<em>ino</em>,,true,,conjugation::basic-verb
+"venir, ns, pret. indefinido",venir,przychodzić,to come,ns,pret_indefinido,v<em>i</em>nimos,,true,,conjugation::basic-verb
+"venir, vs, pret. indefinido",venir,przychodzić,to come,vs,pret_indefinido,v<em>i</em>nisteis,,true,,conjugation::basic-verb
+"venir, ellos, pret. indefinido",venir,przychodzić,to come,ellos,pret_indefinido,v<em>i</em>nieron,,true,,conjugation::basic-verb
 "venir, yo, presente progresivo",venir,przychodzić,to come,yo,presente_progresivo,estoy v<em>i</em>niendo,,true,,conjugation::basic-verb
 "venir, tú, presente progresivo",venir,przychodzić,to come,tu,presente_progresivo,estás v<em>i</em>niendo,,true,,conjugation::basic-verb
 "venir, él, presente progresivo",venir,przychodzić,to come,el,presente_progresivo,está v<em>i</em>niendo,,true,,conjugation::basic-verb
@@ -919,10 +989,10 @@
 "vestirse, usted, imperativo",vestirse,ubierać się,to get dressed,ud,imperativo,v<em>í</em>stase,,true,,
 "vestirse, ns, imperativo",vestirse,ubierać się,to get dressed,ns,imperativo,v<em>i</em>stámonos,,true,,
 "vestirse, ustedes, imperativo",vestirse,ubierać się,to get dressed,uds,imperativo,v<em>í</em>stanse,,true,,
-"volar, yo, presente",volar,latać,to fly,yo,presente,v<em>ue</em>lo,,true,,conjugation::po-polsku
-"volar, tú, presente",volar,latać,to fly,tu,presente,v<em>ue</em>las,,true,,conjugation::po-polsku
-"volar, él, presente",volar,latać,to fly,el,presente,v<em>ue</em>la,,true,,conjugation::po-polsku
-"volar, ellos, presente",volar,latać,to fly,ellos,presente,v<em>ue</em>lan,,true,,conjugation::po-polsku
+"volar, yo, presente",volar,latać,to fly,yo,presente,v<em>ue</em>lo,,true,,
+"volar, tú, presente",volar,latać,to fly,tu,presente,v<em>ue</em>las,,true,,
+"volar, él, presente",volar,latać,to fly,el,presente,v<em>ue</em>la,,true,,
+"volar, ellos, presente",volar,latać,to fly,ellos,presente,v<em>ue</em>lan,,true,,
 "volar, tú, imperativo",volar,latać,to fly,tu,imperativo,v<em>ue</em>la,,true,,
 "volar, usted, imperativo",volar,latać,to fly,ud,imperativo,v<em>ue</em>le,,true,,
 "volar, ustedes, imperativo",volar,latać,to fly,uds,imperativo,v<em>ue</em>len,,true,,
@@ -939,69 +1009,3 @@
 "volver, tú, imperativo",volver,wracać,to return,tu,imperativo,v<em>ue</em>lve,,true,,conjugation::basic-verb
 "volver, usted, imperativo",volver,wracać,to return,ud,imperativo,v<em>ue</em>lva,,true,,conjugation::basic-verb
 "volver, ustedes, imperativo",volver,wracać,to return,uds,imperativo,v<em>ue</em>lvan,,true,,conjugation::basic-verb
-"jugar, yo, presente",jugar,grać,to play,yo,presente,ju<em>e</em>go,,true,,conjugation::po-polsku
-"jugar, tú, presente",jugar,grać,to play,tu,presente,ju<em>e</em>gas,,true,,conjugation::po-polsku
-"jugar, él, presente",jugar,grać,to play,el,presente,ju<em>e</em>ga,,true,,conjugation::po-polsku
-"jugar, ellos, presente",jugar,grać,to play,ellos,presente,ju<em>e</em>gan,,true,,conjugation::po-polsku
-"jugar, yo, pret. indefinido",jugar,grać,to play,yo,pret_indefinido,jug<em>u</em>é,,true,,conjugation::po-polsku
-"jugar, tú, imperativo",jugar,grać,to play,tu,imperativo,ju<em>e</em>ga,,true,,
-"jugar, usted, imperativo",jugar,grać,to play,ud,imperativo,ju<em>egu</em>e,,true,,
-"jugar, ns, imperativo",jugar,grać,to play,ns,imperativo,jug<em>u</em>emos,,true,,
-"jugar, ustedes, imperativo",jugar,grać,to play,uds,imperativo,ju<em>egu</em>en,,true,,
-"utilizar, yo, pret. indefinido",utilizar,używać,to use,yo,pret_indefinido,utili<em>c</em>é,,true,,conjugation::po-polsku
-"utilizar, usted, imperativo",utilizar,używać,to use,ud,imperativo,utili<em>c</em>e,,true,,
-"utilizar, ns, imperativo",utilizar,używać,to use,ns,imperativo,utili<em>c</em>emos,,true,,
-"utilizar, ustedes, imperativo",utilizar,używać,to use,uds,imperativo,utili<em>c</em>en,,true,,
-"marcar, yo, pret. indefinido",marcar,zaznaczać,to mark,yo,pret_indefinido,mar<em>qu</em>é,,true,,conjugation::po-polsku
-"marcar, usted, imperativo",marcar,zaznaczać,to mark,ud,imperativo,mar<em>qu</em>e,,true,,
-"marcar, ns, imperativo",marcar,zaznaczać,to mark,ns,imperativo,mar<em>qu</em>emos,,true,,
-"marcar, ustedes, imperativo",marcar,zaznaczać,to mark,uds,imperativo,mar<em>qu</em>en,,true,,
-"rechazar, yo, pret. indefinido",rechazar,odrzucać,to reject,yo,pret_indefinido,recha<em>c</em>é,,true,,conjugation::po-polsku
-"rechazar, usted, imperativo",rechazar,odrzucać,to reject,ud,imperativo,recha<em>c</em>e,,true,,
-"rechazar, ns, imperativo",rechazar,odrzucać,to reject,ns,imperativo,recha<em>c</em>emos,,true,,
-"rechazar, ustedes, imperativo",rechazar,odrzucać,to reject,uds,imperativo,recha<em>c</em>en,,true,,
-"aparcar, yo, pret. indefinido",aparcar,parkować,to park,yo,pret_indefinido,apar<em>qu</em>é,,true,,conjugation::po-polsku
-"aparcar, usted, imperativo",aparcar,parkować,to park,ud,imperativo,apar<em>qu</em>e,,true,,
-"aparcar, ns, imperativo",aparcar,parkować,to park,ns,imperativo,apar<em>qu</em>emos,,true,,
-"aparcar, ustedes, imperativo",aparcar,parkować,to park,uds,imperativo,apar<em>qu</em>en,,true,,
-"tocar, yo, pret. indefinido",tocar,dotykać,to touch,yo,pret_indefinido,to<em>qu</em>é,,true,,conjugation::po-polsku
-"tocar, usted, imperativo",tocar,dotykać,to touch,ud,imperativo,to<em>qu</em>e,,true,,
-"tocar, ns, imperativo",tocar,dotykać,to touch,ns,imperativo,to<em>qu</em>emos,,true,,
-"tocar, ustedes, imperativo",tocar,dotykać,to touch,uds,imperativo,to<em>qu</em>en,,true,,
-"alcanzar, yo, pret. indefinido",alcanzar,sięgać,to reach,yo,pret_indefinido,alcan<em>c</em>é,,true,,conjugation::po-polsku
-"alcanzar, usted, imperativo",alcanzar,sięgać,to reach,ud,imperativo,alcan<em>c</em>e,,true,,
-"alcanzar, ns, imperativo",alcanzar,sięgać,to reach,ns,imperativo,alcan<em>c</em>emos,,true,,
-"alcanzar, ustedes, imperativo",alcanzar,sięgać,to reach,uds,imperativo,alcan<em>c</em>en,,true,,
-"producir, yo, presente",producir,produkować,to produce,yo,presente,produ<em>z</em>co,,true,,conjugation::po-polsku
-"producir, yo, pret. indefinido",producir,produkować,to produce,yo,pret_indefinido,produ<em>je</em>,,true,,conjugation::po-polsku
-"producir, tú, pret. indefinido",producir,produkować,to produce,tu,pret_indefinido,produ<em>j</em>iste,,true,,conjugation::po-polsku
-"producir, él, pret. indefinido",producir,produkować,to produce,el,pret_indefinido,produ<em>jo</em>,,true,,conjugation::po-polsku
-"producir, ns, pret. indefinido",producir,produkować,to produce,ns,pret_indefinido,produ<em>j</em>imos,,true,,conjugation::po-polsku
-"producir, vs, pret. indefinido",producir,produkować,to produce,vs,pret_indefinido,produ<em>j</em>isteis,,true,,conjugation::po-polsku
-"producir, ellos, pret. indefinido",producir,produkować,to produce,ellos,pret_indefinido,produ<em>j</em>eron,,true,,conjugation::po-polsku
-"producir, usted, imperativo",producir,produkować,to produce,ud,imperativo,produ<em>z</em>ca,,true,,
-"producir, ns, imperativo",producir,produkować,to produce,ns,imperativo,produ<em>z</em>camos,,true,,
-"producir, ustedes, imperativo",producir,produkować,to produce,uds,imperativo,produ<em>z</em>can,,true,,
-"sustituir, yo, presente",sustituir,zastępować,to substitute,yo,presente,sustitu<em>y</em>o,,true,,conjugation::po-polsku
-"sustituir, tú, presente",sustituir,zastępować,to substitute,tu,presente,sustitu<em>y</em>es,,true,,conjugation::po-polsku
-"sustituir, él, presente",sustituir,zastępować,to substitute,el,presente,sustitu<em>y</em>e,,true,,conjugation::po-polsku
-"sustituir, ellos, presente",sustituir,zastępować,to substitute,ellos,presente,sustitu<em>y</em>en,,true,,conjugation::po-polsku
-"sustituir, él, pret. indefinido",sustituir,zastępować,to substitute,el,pret_indefinido,sustitu<em>y</em>ó,,true,,conjugation::po-polsku
-"sustituir, ellos, pret. indefinido",sustituir,zastępować,to substitute,ellos,pret_indefinido,sustitu<em>y</em>eron,,true,,conjugation::po-polsku
-"sustituir, yo, presente progresivo",sustituir,zastępować,to substitute,yo,presente_progresivo,estoy sustitu<em>y</em>endo,,true,,
-"sustituir, tú, presente progresivo",sustituir,zastępować,to substitute,tu,presente_progresivo,estás sustitu<em>y</em>endo,,true,,
-"sustituir, él, presente progresivo",sustituir,zastępować,to substitute,el,presente_progresivo,está sustitu<em>y</em>endo,,true,,
-"sustituir, ns, presente progresivo",sustituir,zastępować,to substitute,ns,presente_progresivo,estamos sustitu<em>y</em>endo,,true,,
-"sustituir, vs, presente progresivo",sustituir,zastępować,to substitute,vs,presente_progresivo,estáis sustitu<em>y</em>endo,,true,,
-"sustituir, ellos, presente progresivo",sustituir,zastępować,to substitute,ellos,presente_progresivo,están sustitu<em>y</em>endo,,true,,
-"sustituir, tú, imperativo",sustituir,zastępować,to substitute,tu,imperativo,sustitu<em>y</em>e,,true,,
-"sustituir, usted, imperativo",sustituir,zastępować,to substitute,ud,imperativo,sustitu<em>y</em>a,,true,,
-"sustituir, ns, imperativo",sustituir,zastępować,to substitute,ns,imperativo,sustitu<em>y</em>amos,,true,,
-"sustituir, ustedes, imperativo",sustituir,zastępować,to substitute,uds,imperativo,sustitu<em>y</em>an,,true,,
-"aprobarse, yo, presente",aprobarse,aprobować,to pass,yo,presente,me apr<em>ue</em>bo,,true,,conjugation::po-polsku
-"aprobarse, tú, presente",aprobarse,aprobować,to pass,tu,presente,te apr<em>ue</em>bas,,true,,conjugation::po-polsku
-"aprobarse, él, presente",aprobarse,aprobować,to pass,el,presente,se apr<em>ue</em>ba,,true,,conjugation::po-polsku
-"aprobarse, ellos, presente",aprobarse,aprobować,to pass,ellos,presente,se apr<em>ue</em>ban,,true,,conjugation::po-polsku
-"aprobarse, tú, imperativo",aprobarse,aprobować,to pass,tu,imperativo,apr<em>ué</em>bate,,true,,
-"aprobarse, usted, imperativo",aprobarse,aprobować,to pass,ud,imperativo,apr<em>ué</em>bese,,true,,
-"aprobarse, ustedes, imperativo",aprobarse,aprobować,to pass,uds,imperativo,apr<em>ué</em>bense,,true,,

@@ -16,12 +16,21 @@
 "acostarse, yo, pretérito imperfecto",acostarse,położyć się,to go to bed,yo,pret_imperfecto,me acostaba,,false,,conjugation::basic-verb
 "acostarse, tú, pretérito imperfecto",acostarse,położyć się,to go to bed,tu,pret_imperfecto,te acostabas,,false,,conjugation::basic-verb
 "acostarse, él, pretérito imperfecto",acostarse,położyć się,to go to bed,el,pret_imperfecto,se acostaba,,false,,conjugation::basic-verb
+"alcanzar, yo, pretérito imperfecto",alcanzar,sięgać,to reach,yo,pret_imperfecto,alcanzaba,,false,,
+"alcanzar, tú, pretérito imperfecto",alcanzar,sięgać,to reach,tu,pret_imperfecto,alcanzabas,,false,,
+"alcanzar, él, pretérito imperfecto",alcanzar,sięgać,to reach,el,pret_imperfecto,alcanzaba,,false,,
 "alquilar, yo, pretérito imperfecto",alquilar,wynajmować,to rent,yo,pret_imperfecto,alquilaba,,false,,
 "alquilar, tú, pretérito imperfecto",alquilar,wynajmować,to rent,tu,pret_imperfecto,alquilabas,,false,,
 "alquilar, él, pretérito imperfecto",alquilar,wynajmować,to rent,el,pret_imperfecto,alquilaba,,false,,
 "andar, yo, pretérito imperfecto",andar,chodzić,to walk,yo,pret_imperfecto,andaba,,false,,conjugation::basic-verb
 "andar, tú, pretérito imperfecto",andar,chodzić,to walk,tu,pret_imperfecto,andabas,,false,,conjugation::basic-verb
 "andar, él, pretérito imperfecto",andar,chodzić,to walk,el,pret_imperfecto,andaba,,false,,conjugation::basic-verb
+"aparcar, yo, pretérito imperfecto",aparcar,parkować,to park,yo,pret_imperfecto,aparcaba,,false,,
+"aparcar, tú, pretérito imperfecto",aparcar,parkować,to park,tu,pret_imperfecto,aparcabas,,false,,
+"aparcar, él, pretérito imperfecto",aparcar,parkować,to park,el,pret_imperfecto,aparcaba,,false,,
+"aprobarse, yo, pretérito imperfecto",aprobarse,aprobować,to pass,yo,pret_imperfecto,me aprobaba,,false,,
+"aprobarse, tú, pretérito imperfecto",aprobarse,aprobować,to pass,tu,pret_imperfecto,te aprobabas,,false,,
+"aprobarse, él, pretérito imperfecto",aprobarse,aprobować,to pass,el,pret_imperfecto,se aprobaba,,false,,
 "beber, yo, pretérito imperfecto",beber,pić,to drink,yo,pret_imperfecto,bebía,,false,,
 "beber, tú, pretérito imperfecto",beber,pić,to drink,tu,pret_imperfecto,bebías,,false,,
 "beber, él, pretérito imperfecto",beber,pić,to drink,el,pret_imperfecto,bebía,,false,,
@@ -64,6 +73,9 @@
 "contar, yo, pretérito imperfecto",contar,liczyć,to count,yo,pret_imperfecto,contaba,,false,,
 "contar, tú, pretérito imperfecto",contar,liczyć,to count,tu,pret_imperfecto,contabas,,false,,
 "contar, él, pretérito imperfecto",contar,liczyć,to count,el,pret_imperfecto,contaba,,false,,
+"crecer, yo, pretérito imperfecto",crecer,rosnąć,to grow,yo,pret_imperfecto,crecía,,false,,
+"crecer, tú, pretérito imperfecto",crecer,rosnąć,to grow,tu,pret_imperfecto,crecías,,false,,
+"crecer, él, pretérito imperfecto",crecer,rosnąć,to grow,el,pret_imperfecto,crecía,,false,,
 "dar, yo, pretérito imperfecto",dar,dać,to give,yo,pret_imperfecto,daba,,false,,conjugation::basic-verb
 "dar, tú, pretérito imperfecto",dar,dać,to give,tu,pret_imperfecto,dabas,,false,,conjugation::basic-verb
 "dar, él, pretérito imperfecto",dar,dać,to give,el,pret_imperfecto,daba,,false,,conjugation::basic-verb
@@ -133,6 +145,9 @@
 "ir, yo, pretérito imperfecto",ir,iść,to go,yo,pret_imperfecto,<em>iba</em>,,true,ir,conjugation::basic-verb
 "ir, tú, pretérito imperfecto",ir,iść,to go,tu,pret_imperfecto,<em>ibas</em>,,true,ir,conjugation::basic-verb
 "ir, él, pretérito imperfecto",ir,iść,to go,el,pret_imperfecto,<em>iba</em>,,true,ir,conjugation::basic-verb
+"jugar, yo, pretérito imperfecto",jugar,grać,to play,yo,pret_imperfecto,jugaba,,false,,
+"jugar, tú, pretérito imperfecto",jugar,grać,to play,tu,pret_imperfecto,jugabas,,false,,
+"jugar, él, pretérito imperfecto",jugar,grać,to play,el,pret_imperfecto,jugaba,,false,,
 "lavarse, yo, pretérito imperfecto",lavarse,myć się,to wash,yo,pret_imperfecto,me lavaba,,false,,
 "lavarse, tú, pretérito imperfecto",lavarse,myć się,to wash,tu,pret_imperfecto,te lavabas,,false,,
 "lavarse, él, pretérito imperfecto",lavarse,myć się,to wash,el,pret_imperfecto,se lavaba,,false,,
@@ -154,6 +169,12 @@
 "llover, yo, pretérito imperfecto",llover,padać,to rain,yo,pret_imperfecto,llovía,,false,,
 "llover, tú, pretérito imperfecto",llover,padać,to rain,tu,pret_imperfecto,llovías,,false,,
 "llover, él, pretérito imperfecto",llover,padać,to rain,el,pret_imperfecto,llovía,,false,,
+"luchar, yo, pretérito imperfecto",luchar,walczyć,to fight,yo,pret_imperfecto,luchaba,,false,,
+"luchar, tú, pretérito imperfecto",luchar,walczyć,to fight,tu,pret_imperfecto,luchabas,,false,,
+"luchar, él, pretérito imperfecto",luchar,walczyć,to fight,el,pret_imperfecto,luchaba,,false,,
+"marcar, yo, pretérito imperfecto",marcar,zaznaczać,to mark,yo,pret_imperfecto,marcaba,,false,,
+"marcar, tú, pretérito imperfecto",marcar,zaznaczać,to mark,tu,pret_imperfecto,marcabas,,false,,
+"marcar, él, pretérito imperfecto",marcar,zaznaczać,to mark,el,pret_imperfecto,marcaba,,false,,
 "medir, yo, pretérito imperfecto",medir,mierzyć,to measure,yo,pret_imperfecto,medía,,false,,
 "medir, tú, pretérito imperfecto",medir,mierzyć,to measure,tu,pret_imperfecto,medías,,false,,
 "medir, él, pretérito imperfecto",medir,mierzyć,to measure,el,pret_imperfecto,medía,,false,,
@@ -199,12 +220,18 @@
 "preparar, yo, pretérito imperfecto",preparar,przygotować,to prepare,yo,pret_imperfecto,preparaba,,false,,
 "preparar, tú, pretérito imperfecto",preparar,przygotować,to prepare,tu,pret_imperfecto,preparabas,,false,,
 "preparar, él, pretérito imperfecto",preparar,przygotować,to prepare,el,pret_imperfecto,preparaba,,false,,
+"producir, yo, pretérito imperfecto",producir,produkować,to produce,yo,pret_imperfecto,producía,,false,,
+"producir, tú, pretérito imperfecto",producir,produkować,to produce,tu,pret_imperfecto,producías,,false,,
+"producir, él, pretérito imperfecto",producir,produkować,to produce,el,pret_imperfecto,producía,,false,,
 "prohibir, yo, pretérito imperfecto",prohibir,zabronić,to prohibit,yo,pret_imperfecto,prohibía,,false,,
 "prohibir, tú, pretérito imperfecto",prohibir,zabronić,to prohibit,tu,pret_imperfecto,prohibías,,false,,
 "prohibir, él, pretérito imperfecto",prohibir,zabronić,to prohibit,el,pret_imperfecto,prohibía,,false,,
 "querer, yo, pretérito imperfecto",querer,chcieć,to want,yo,pret_imperfecto,quería,,false,,conjugation::basic-verb
 "querer, tú, pretérito imperfecto",querer,chcieć,to want,tu,pret_imperfecto,querías,,false,,conjugation::basic-verb
 "querer, él, pretérito imperfecto",querer,chcieć,to want,el,pret_imperfecto,quería,,false,,conjugation::basic-verb
+"rechazar, yo, pretérito imperfecto",rechazar,odrzucać,to reject,yo,pret_imperfecto,rechazaba,,false,,
+"rechazar, tú, pretérito imperfecto",rechazar,odrzucać,to reject,tu,pret_imperfecto,rechazabas,,false,,
+"rechazar, él, pretérito imperfecto",rechazar,odrzucać,to reject,el,pret_imperfecto,rechazaba,,false,,
 "repetir, yo, pretérito imperfecto",repetir,powtarzać,to do again,yo,pret_imperfecto,repetía,,false,,
 "repetir, tú, pretérito imperfecto",repetir,powtarzać,to do again,tu,pret_imperfecto,repetías,,false,,
 "repetir, él, pretérito imperfecto",repetir,powtarzać,to do again,el,pret_imperfecto,repetía,,false,,
@@ -238,9 +265,15 @@
 "suponer, yo, pretérito imperfecto",suponer,przypuszczać,to suppose,yo,pret_imperfecto,suponía,,false,,
 "suponer, tú, pretérito imperfecto",suponer,przypuszczać,to suppose,tu,pret_imperfecto,suponías,,false,,
 "suponer, él, pretérito imperfecto",suponer,przypuszczać,to suppose,el,pret_imperfecto,suponía,,false,,
+"sustituir, yo, pretérito imperfecto",sustituir,zastępować,to substitute,yo,pret_imperfecto,sustituía,,false,,
+"sustituir, tú, pretérito imperfecto",sustituir,zastępować,to substitute,tu,pret_imperfecto,sustituías,,false,,
+"sustituir, él, pretérito imperfecto",sustituir,zastępować,to substitute,el,pret_imperfecto,sustituía,,false,,
 "tener, yo, pretérito imperfecto",tener,mieć,to have,yo,pret_imperfecto,tenía,,false,,conjugation::basic-verb
 "tener, tú, pretérito imperfecto",tener,mieć,to have,tu,pret_imperfecto,tenías,,false,,conjugation::basic-verb
 "tener, él, pretérito imperfecto",tener,mieć,to have,el,pret_imperfecto,tenía,,false,,conjugation::basic-verb
+"tocar, yo, pretérito imperfecto",tocar,dotykać,to touch,yo,pret_imperfecto,tocaba,,false,,
+"tocar, tú, pretérito imperfecto",tocar,dotykać,to touch,tu,pret_imperfecto,tocabas,,false,,
+"tocar, él, pretérito imperfecto",tocar,dotykać,to touch,el,pret_imperfecto,tocaba,,false,,
 "traducir, yo, pretérito imperfecto",traducir,tłumaczyć,to translate,yo,pret_imperfecto,traducía,,false,,
 "traducir, tú, pretérito imperfecto",traducir,tłumaczyć,to translate,tu,pret_imperfecto,traducías,,false,,
 "traducir, él, pretérito imperfecto",traducir,tłumaczyć,to translate,el,pret_imperfecto,traducía,,false,,
@@ -250,6 +283,9 @@
 "tratar, yo, pretérito imperfecto",tratar,próbować,to treat,yo,pret_imperfecto,trataba,,false,,
 "tratar, tú, pretérito imperfecto",tratar,próbować,to treat,tu,pret_imperfecto,tratabas,,false,,
 "tratar, él, pretérito imperfecto",tratar,próbować,to treat,el,pret_imperfecto,trataba,,false,,
+"utilizar, yo, pretérito imperfecto",utilizar,używać,to use,yo,pret_imperfecto,utilizaba,,false,,
+"utilizar, tú, pretérito imperfecto",utilizar,używać,to use,tu,pret_imperfecto,utilizabas,,false,,
+"utilizar, él, pretérito imperfecto",utilizar,używać,to use,el,pret_imperfecto,utilizaba,,false,,
 "vencer, yo, pretérito imperfecto",vencer,pokonać,to defeat,yo,pret_imperfecto,vencía,,false,,
 "vencer, tú, pretérito imperfecto",vencer,pokonać,to defeat,tu,pret_imperfecto,vencías,,false,,
 "vencer, él, pretérito imperfecto",vencer,pokonać,to defeat,el,pret_imperfecto,vencía,,false,,
@@ -271,36 +307,3 @@
 "volver, yo, pretérito imperfecto",volver,wracać,to return,yo,pret_imperfecto,volvía,,false,,conjugation::basic-verb
 "volver, tú, pretérito imperfecto",volver,wracać,to return,tu,pret_imperfecto,volvías,,false,,conjugation::basic-verb
 "volver, él, pretérito imperfecto",volver,wracać,to return,el,pret_imperfecto,volvía,,false,,conjugation::basic-verb
-"jugar, yo, pretérito imperfecto",jugar,grać,to play,yo,pret_imperfecto,jugaba,,false,,
-"jugar, tú, pretérito imperfecto",jugar,grać,to play,tu,pret_imperfecto,jugabas,,false,,
-"jugar, él, pretérito imperfecto",jugar,grać,to play,el,pret_imperfecto,jugaba,,false,,
-"utilizar, yo, pretérito imperfecto",utilizar,używać,to use,yo,pret_imperfecto,utilizaba,,false,,
-"utilizar, tú, pretérito imperfecto",utilizar,używać,to use,tu,pret_imperfecto,utilizabas,,false,,
-"utilizar, él, pretérito imperfecto",utilizar,używać,to use,el,pret_imperfecto,utilizaba,,false,,
-"marcar, yo, pretérito imperfecto",marcar,zaznaczać,to mark,yo,pret_imperfecto,marcaba,,false,,
-"marcar, tú, pretérito imperfecto",marcar,zaznaczać,to mark,tu,pret_imperfecto,marcabas,,false,,
-"marcar, él, pretérito imperfecto",marcar,zaznaczać,to mark,el,pret_imperfecto,marcaba,,false,,
-"rechazar, yo, pretérito imperfecto",rechazar,odrzucać,to reject,yo,pret_imperfecto,rechazaba,,false,,
-"rechazar, tú, pretérito imperfecto",rechazar,odrzucać,to reject,tu,pret_imperfecto,rechazabas,,false,,
-"rechazar, él, pretérito imperfecto",rechazar,odrzucać,to reject,el,pret_imperfecto,rechazaba,,false,,
-"aparcar, yo, pretérito imperfecto",aparcar,parkować,to park,yo,pret_imperfecto,aparcaba,,false,,
-"aparcar, tú, pretérito imperfecto",aparcar,parkować,to park,tu,pret_imperfecto,aparcabas,,false,,
-"aparcar, él, pretérito imperfecto",aparcar,parkować,to park,el,pret_imperfecto,aparcaba,,false,,
-"tocar, yo, pretérito imperfecto",tocar,dotykać,to touch,yo,pret_imperfecto,tocaba,,false,,
-"tocar, tú, pretérito imperfecto",tocar,dotykać,to touch,tu,pret_imperfecto,tocabas,,false,,
-"tocar, él, pretérito imperfecto",tocar,dotykać,to touch,el,pret_imperfecto,tocaba,,false,,
-"alcanzar, yo, pretérito imperfecto",alcanzar,sięgać,to reach,yo,pret_imperfecto,alcanzaba,,false,,
-"alcanzar, tú, pretérito imperfecto",alcanzar,sięgać,to reach,tu,pret_imperfecto,alcanzabas,,false,,
-"alcanzar, él, pretérito imperfecto",alcanzar,sięgać,to reach,el,pret_imperfecto,alcanzaba,,false,,
-"producir, yo, pretérito imperfecto",producir,produkować,to produce,yo,pret_imperfecto,producía,,false,,
-"producir, tú, pretérito imperfecto",producir,produkować,to produce,tu,pret_imperfecto,producías,,false,,
-"producir, él, pretérito imperfecto",producir,produkować,to produce,el,pret_imperfecto,producía,,false,,
-"sustituir, yo, pretérito imperfecto",sustituir,zastępować,to substitute,yo,pret_imperfecto,sustituía,,false,,
-"sustituir, tú, pretérito imperfecto",sustituir,zastępować,to substitute,tu,pret_imperfecto,sustituías,,false,,
-"sustituir, él, pretérito imperfecto",sustituir,zastępować,to substitute,el,pret_imperfecto,sustituía,,false,,
-"aprobarse, yo, pretérito imperfecto",aprobarse,aprobować,to pass,yo,pret_imperfecto,me aprobaba,,false,,
-"aprobarse, tú, pretérito imperfecto",aprobarse,aprobować,to pass,tu,pret_imperfecto,te aprobabas,,false,,
-"aprobarse, él, pretérito imperfecto",aprobarse,aprobować,to pass,el,pret_imperfecto,se aprobaba,,false,,
-"luchar, yo, pretérito imperfecto",luchar,walczyć,to fight,yo,pret_imperfecto,luchaba,,false,,
-"luchar, tú, pretérito imperfecto",luchar,walczyć,to fight,tu,pret_imperfecto,luchabas,,false,,
-"luchar, él, pretérito imperfecto",luchar,walczyć,to fight,el,pret_imperfecto,luchaba,,false,,

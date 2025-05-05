@@ -119,10 +119,14 @@ class Translator:
         def sg_2(): return root_sg + f"eś" + się if root_sg else ''
 
         def sg_3():
-            return (
-                    substitute(root_sg, 'mogł', 'mógł') or
-                    append(root_sg, '', '')
-            ) + się
+            match root_pl:
+                case '':
+                    return ''
+                case _:
+                    return (
+                            substitute(root_sg, 'mogł', 'mógł') or
+                            append(root_sg, '', '')
+                    ) + się
 
         def pl_1(): return root_pl + f"śmy" + się if root_pl else ''
 

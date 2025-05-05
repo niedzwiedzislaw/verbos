@@ -90,10 +90,10 @@ class Card:
         for (tense, translations) in verb.translated_tenses().items():
             for c in fields(translations):
                 person = c.name
-                tags = [Card.Tags.polish_translation]
+                conj = getattr(translations, person)
+                tags = [Card.Tags.polish_translation] if conj.pl else []
                 if verb.infinitivo in list_of_basic_words:
                     tags.append(Card.Tags.basic_verb)
-                conj = getattr(translations, person)
                 card = Card(verb.infinitivo, verb.polish, verb.english, person, tense, conj.es, conj.pl, conj.irregular,
                             verb.infinitivo if verb.infinitivo in hints else '', tags)
                 cards.append(card)

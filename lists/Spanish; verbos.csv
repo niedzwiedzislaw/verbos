@@ -4,8 +4,11 @@ abrir,to open,otwierać,verbos
 acabar,to finish,kończyć,verbos
 acercarse,to approach,podejść,verbos
 acostarse,to go to bed,położyć się,verbos
+alcanzar,to reach,sięgać,verbos
 alquilar,to rent,wynajmować,verbos
 andar,to walk,chodzić,verbos
+aparcar,to park,parkować,verbos
+aprobarse,to pass,aprobować,verbos
 beber,to drink,pić,verbos
 caerse,to fall,upaść,verbos
 causar,to cause,powodować,verbos
@@ -20,6 +23,7 @@ conocer,to know,znać,verbos
 conseguir,to get,zyskać,verbos
 construir,to build,budować,verbos
 contar,to count,liczyć,verbos
+crecer,to grow,rosnąć,verbos
 dar,to give,dać,verbos
 deber,to owe,musieć,verbos
 decir,to say,mówić,verbos
@@ -43,6 +47,7 @@ hervir,to boil,gotować,verbos
 huir,to escape,uciekać,verbos
 influir,to influence,wpływać,verbos
 ir,to go,iść,verbos
+jugar,to play,grać,verbos
 lavarse,to wash,myć się,verbos
 levantarse,to get up,wstać; obudzić się,verbos
 limpiar,to clean,czyścić,verbos
@@ -50,6 +55,8 @@ llamarse,to be called,nazywać się,verbos
 llevar,to take,nosić,verbos
 llevarse,to take,dogadywać się,verbos
 llover,to rain,padać,verbos
+luchar,to fight,walczyć,verbos
+marcar,to mark,zaznaczać,verbos
 medir,to measure,mierzyć,verbos
 morir,to die,umrzeć,verbos
 mostrar,to show,pokazywać,verbos
@@ -65,8 +72,10 @@ poder,to be able to,móc,verbos
 poner,to put,kłaść,verbos
 preferir,to prefer,preferować,verbos
 preparar,to prepare,przygotować,verbos
+producir,to produce,produkować,verbos
 prohibir,to prohibit,zabronić,verbos
 querer,to want,chcieć,verbos
+rechazar,to reject,odrzucać,verbos
 repetir,to do again,powtarzać,verbos
 romperse,to break,złamać,verbos
 romper,to break,łamać,verbos
@@ -78,10 +87,13 @@ sentir,to feel,czuć,verbos
 ser,to be,być,verbos
 soler,to use to,mieć w zwyczaju,verbos
 suponer,to suppose,przypuszczać,verbos
+sustituir,to substitute,zastępować,verbos
 tener,to have,mieć,verbos
+tocar,to touch,dotykać,verbos
 traducir,to translate,tłumaczyć,verbos
 traer,to bring,przynieść,verbos
 tratar,to treat,próbować,verbos
+utilizar,to use,używać,verbos
 vencer,to defeat,pokonać,verbos
 venir,to come,przychodzić,verbos
 ver,to see,oglądać,verbos
@@ -89,14 +101,3 @@ vestir,to wear,nosić,verbos
 vestirse,to get dressed,ubierać się,verbos
 volar,to fly,latać,verbos
 volver,to return,wracać,verbos
-jugar,to play,grać,verbos
-utilizar,to use,używać,verbos
-marcar,to mark,zaznaczać,verbos
-rechazar,to reject,odrzucać,verbos
-aparcar,to park,parkować,verbos
-tocar,to touch,dotykać,verbos
-alcanzar,to reach,sięgać,verbos
-producir,to produce,produkować,verbos
-sustituir,to substitute,zastępować,verbos
-aprobarse,to pass,aprobować,verbos
-luchar,to fight,walczyć,verbos

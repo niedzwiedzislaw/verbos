@@ -1,6 +1,7 @@
 import requests
 import tqdm
 from bs4 import BeautifulSoup
+from numpy.f2py.crackfortran import privatepattern
 
 from extractor import *
 
@@ -12,17 +13,43 @@ class SpanishDictExtractor:
 
     @classmethod
     def parse_conjugation(cls, item) -> ConjugationData:
-        irregular = item.find('span', {'class': 'conj-irregular'})
-        if cls.use_em_irregular:
-            if irregular:
-                tag = BeautifulSoup().new_tag("em")
-                tag.string = irregular.text
-                item.find('span', {'class': 'conj-irregular'}).replaceWith(tag)
-            inner = item.find('div').find('div').find('div').find('a').find('div')
-            text = inner.decode_contents().replace("\n", "").strip()
+        def parse_v1():
+            irregular = item.find('span', {'class': 'conj-irregular'})
+            if cls.use_em_irregular:
+                if irregular:
+                    tag = BeautifulSoup().new_tag("em")
+                    tag.string = irregular.text
+                    item.find('span', {'class': 'conj-irregular'}).replaceWith(tag)
+                inner = item.find('div').find('div').find('div').find('a').find('div')
+                text = inner.decode_contents().replace("\n", "").strip()
+            else:
+                text = item.text.replace("\n", "").strip()
+            return ConjugationData(text, irregular is not None)
+
+        def parse_v2():
+            irregular = item.find('span', {'class': 'conj-irregular'})
+            if cls.use_em_irregular:
+                if irregular:
+                    text = ''
+                    for s in item.find('span', {'data-testid': 'conjugationForm'}).select('span'):
+                        if s.get("class") and "conj-irregular" in s.get("class"):
+                            tag = BeautifulSoup().new_tag("em")
+                            tag.string = irregular.text
+                            text += str(tag)
+                        else:
+                            text += s.text
+                else:
+                    inner = item.find('span', {'data-testid': 'conjugationForm'})
+                    text = inner.decode_contents().replace("\n", "").strip()
+            else:
+                text = item.text.replace("\n", "").strip()
+            return ConjugationData(text, irregular is not None)
+
+        if not item.find('span', {'data-testid': 'conjugationForm'}):
+            return parse_v1()
         else:
-            text = item.text.replace("\n", "").strip()
-        return ConjugationData(text, irregular is not None)
+            return parse_v2()
+
 
     @classmethod
     def extract_presente(cls, soup: BeautifulSoup) -> Tense:

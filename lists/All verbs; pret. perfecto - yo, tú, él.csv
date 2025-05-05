@@ -16,12 +16,21 @@
 "acostarse, yo, pret. perfecto",acostarse,położyć się,to go to bed,yo,pret_perfecto,me he acostado,,false,,conjugation::basic-verb
 "acostarse, tú, pret. perfecto",acostarse,położyć się,to go to bed,tu,pret_perfecto,te has acostado,,false,,conjugation::basic-verb
 "acostarse, él, pret. perfecto",acostarse,położyć się,to go to bed,el,pret_perfecto,se ha acostado,,false,,conjugation::basic-verb
+"alcanzar, yo, pret. perfecto",alcanzar,sięgać,to reach,yo,pret_perfecto,he alcanzado,,false,,
+"alcanzar, tú, pret. perfecto",alcanzar,sięgać,to reach,tu,pret_perfecto,has alcanzado,,false,,
+"alcanzar, él, pret. perfecto",alcanzar,sięgać,to reach,el,pret_perfecto,ha alcanzado,,false,,
 "alquilar, yo, pret. perfecto",alquilar,wynajmować,to rent,yo,pret_perfecto,he alquilado,,false,,
 "alquilar, tú, pret. perfecto",alquilar,wynajmować,to rent,tu,pret_perfecto,has alquilado,,false,,
 "alquilar, él, pret. perfecto",alquilar,wynajmować,to rent,el,pret_perfecto,ha alquilado,,false,,
 "andar, yo, pret. perfecto",andar,chodzić,to walk,yo,pret_perfecto,he andado,,false,,conjugation::basic-verb
 "andar, tú, pret. perfecto",andar,chodzić,to walk,tu,pret_perfecto,has andado,,false,,conjugation::basic-verb
 "andar, él, pret. perfecto",andar,chodzić,to walk,el,pret_perfecto,ha andado,,false,,conjugation::basic-verb
+"aparcar, yo, pret. perfecto",aparcar,parkować,to park,yo,pret_perfecto,he aparcado,,false,,
+"aparcar, tú, pret. perfecto",aparcar,parkować,to park,tu,pret_perfecto,has aparcado,,false,,
+"aparcar, él, pret. perfecto",aparcar,parkować,to park,el,pret_perfecto,ha aparcado,,false,,
+"aprobarse, yo, pret. perfecto",aprobarse,aprobować,to pass,yo,pret_perfecto,me he aprobado,,false,,
+"aprobarse, tú, pret. perfecto",aprobarse,aprobować,to pass,tu,pret_perfecto,te has aprobado,,false,,
+"aprobarse, él, pret. perfecto",aprobarse,aprobować,to pass,el,pret_perfecto,se ha aprobado,,false,,
 "beber, yo, pret. perfecto",beber,pić,to drink,yo,pret_perfecto,he bebido,,false,,
 "beber, tú, pret. perfecto",beber,pić,to drink,tu,pret_perfecto,has bebido,,false,,
 "beber, él, pret. perfecto",beber,pić,to drink,el,pret_perfecto,ha bebido,,false,,
@@ -64,6 +73,9 @@
 "contar, yo, pret. perfecto",contar,liczyć,to count,yo,pret_perfecto,he contado,,false,,
 "contar, tú, pret. perfecto",contar,liczyć,to count,tu,pret_perfecto,has contado,,false,,
 "contar, él, pret. perfecto",contar,liczyć,to count,el,pret_perfecto,ha contado,,false,,
+"crecer, yo, pret. perfecto",crecer,rosnąć,to grow,yo,pret_perfecto,he crecido,,false,,
+"crecer, tú, pret. perfecto",crecer,rosnąć,to grow,tu,pret_perfecto,has crecido,,false,,
+"crecer, él, pret. perfecto",crecer,rosnąć,to grow,el,pret_perfecto,ha crecido,,false,,
 "dar, yo, pret. perfecto",dar,dać,to give,yo,pret_perfecto,he dado,,false,,conjugation::basic-verb
 "dar, tú, pret. perfecto",dar,dać,to give,tu,pret_perfecto,has dado,,false,,conjugation::basic-verb
 "dar, él, pret. perfecto",dar,dać,to give,el,pret_perfecto,ha dado,,false,,conjugation::basic-verb
@@ -133,6 +145,9 @@
 "ir, yo, pret. perfecto",ir,iść,to go,yo,pret_perfecto,he ido,,false,ir,conjugation::basic-verb
 "ir, tú, pret. perfecto",ir,iść,to go,tu,pret_perfecto,has ido,,false,ir,conjugation::basic-verb
 "ir, él, pret. perfecto",ir,iść,to go,el,pret_perfecto,ha ido,,false,ir,conjugation::basic-verb
+"jugar, yo, pret. perfecto",jugar,grać,to play,yo,pret_perfecto,he jugado,,false,,
+"jugar, tú, pret. perfecto",jugar,grać,to play,tu,pret_perfecto,has jugado,,false,,
+"jugar, él, pret. perfecto",jugar,grać,to play,el,pret_perfecto,ha jugado,,false,,
 "lavarse, yo, pret. perfecto",lavarse,myć się,to wash,yo,pret_perfecto,me he lavado,,false,,
 "lavarse, tú, pret. perfecto",lavarse,myć się,to wash,tu,pret_perfecto,te has lavado,,false,,
 "lavarse, él, pret. perfecto",lavarse,myć się,to wash,el,pret_perfecto,se ha lavado,,false,,
@@ -154,6 +169,12 @@
 "llover, yo, pret. perfecto",llover,padać,to rain,yo,pret_perfecto,he llovido,,false,,
 "llover, tú, pret. perfecto",llover,padać,to rain,tu,pret_perfecto,has llovido,,false,,
 "llover, él, pret. perfecto",llover,padać,to rain,el,pret_perfecto,ha llovido,,false,,
+"luchar, yo, pret. perfecto",luchar,walczyć,to fight,yo,pret_perfecto,he luchado,,false,,
+"luchar, tú, pret. perfecto",luchar,walczyć,to fight,tu,pret_perfecto,has luchado,,false,,
+"luchar, él, pret. perfecto",luchar,walczyć,to fight,el,pret_perfecto,ha luchado,,false,,
+"marcar, yo, pret. perfecto",marcar,zaznaczać,to mark,yo,pret_perfecto,he marcado,,false,,
+"marcar, tú, pret. perfecto",marcar,zaznaczać,to mark,tu,pret_perfecto,has marcado,,false,,
+"marcar, él, pret. perfecto",marcar,zaznaczać,to mark,el,pret_perfecto,ha marcado,,false,,
 "medir, yo, pret. perfecto",medir,mierzyć,to measure,yo,pret_perfecto,he medido,,false,,
 "medir, tú, pret. perfecto",medir,mierzyć,to measure,tu,pret_perfecto,has medido,,false,,
 "medir, él, pret. perfecto",medir,mierzyć,to measure,el,pret_perfecto,ha medido,,false,,
@@ -199,12 +220,18 @@
 "preparar, yo, pret. perfecto",preparar,przygotować,to prepare,yo,pret_perfecto,he preparado,,false,,
 "preparar, tú, pret. perfecto",preparar,przygotować,to prepare,tu,pret_perfecto,has preparado,,false,,
 "preparar, él, pret. perfecto",preparar,przygotować,to prepare,el,pret_perfecto,ha preparado,,false,,
+"producir, yo, pret. perfecto",producir,produkować,to produce,yo,pret_perfecto,he producido,,false,,
+"producir, tú, pret. perfecto",producir,produkować,to produce,tu,pret_perfecto,has producido,,false,,
+"producir, él, pret. perfecto",producir,produkować,to produce,el,pret_perfecto,ha producido,,false,,
 "prohibir, yo, pret. perfecto",prohibir,zabronić,to prohibit,yo,pret_perfecto,he prohibido,,false,,
 "prohibir, tú, pret. perfecto",prohibir,zabronić,to prohibit,tu,pret_perfecto,has prohibido,,false,,
 "prohibir, él, pret. perfecto",prohibir,zabronić,to prohibit,el,pret_perfecto,ha prohibido,,false,,
 "querer, yo, pret. perfecto",querer,chcieć,to want,yo,pret_perfecto,he querido,,false,,conjugation::basic-verb
 "querer, tú, pret. perfecto",querer,chcieć,to want,tu,pret_perfecto,has querido,,false,,conjugation::basic-verb
 "querer, él, pret. perfecto",querer,chcieć,to want,el,pret_perfecto,ha querido,,false,,conjugation::basic-verb
+"rechazar, yo, pret. perfecto",rechazar,odrzucać,to reject,yo,pret_perfecto,he rechazado,,false,,
+"rechazar, tú, pret. perfecto",rechazar,odrzucać,to reject,tu,pret_perfecto,has rechazado,,false,,
+"rechazar, él, pret. perfecto",rechazar,odrzucać,to reject,el,pret_perfecto,ha rechazado,,false,,
 "repetir, yo, pret. perfecto",repetir,powtarzać,to do again,yo,pret_perfecto,he repetido,,false,,
 "repetir, tú, pret. perfecto",repetir,powtarzać,to do again,tu,pret_perfecto,has repetido,,false,,
 "repetir, él, pret. perfecto",repetir,powtarzać,to do again,el,pret_perfecto,ha repetido,,false,,
@@ -238,9 +265,15 @@
 "suponer, yo, pret. perfecto",suponer,przypuszczać,to suppose,yo,pret_perfecto,he sup<em>uest</em>o,,true,,
 "suponer, tú, pret. perfecto",suponer,przypuszczać,to suppose,tu,pret_perfecto,has sup<em>uest</em>o,,true,,
 "suponer, él, pret. perfecto",suponer,przypuszczać,to suppose,el,pret_perfecto,ha sup<em>uest</em>o,,true,,
+"sustituir, yo, pret. perfecto",sustituir,zastępować,to substitute,yo,pret_perfecto,he sustituido,,false,,
+"sustituir, tú, pret. perfecto",sustituir,zastępować,to substitute,tu,pret_perfecto,has sustituido,,false,,
+"sustituir, él, pret. perfecto",sustituir,zastępować,to substitute,el,pret_perfecto,ha sustituido,,false,,
 "tener, yo, pret. perfecto",tener,mieć,to have,yo,pret_perfecto,he tenido,,false,,conjugation::basic-verb
 "tener, tú, pret. perfecto",tener,mieć,to have,tu,pret_perfecto,has tenido,,false,,conjugation::basic-verb
 "tener, él, pret. perfecto",tener,mieć,to have,el,pret_perfecto,ha tenido,,false,,conjugation::basic-verb
+"tocar, yo, pret. perfecto",tocar,dotykać,to touch,yo,pret_perfecto,he tocado,,false,,
+"tocar, tú, pret. perfecto",tocar,dotykać,to touch,tu,pret_perfecto,has tocado,,false,,
+"tocar, él, pret. perfecto",tocar,dotykać,to touch,el,pret_perfecto,ha tocado,,false,,
 "traducir, yo, pret. perfecto",traducir,tłumaczyć,to translate,yo,pret_perfecto,he traducido,,false,,
 "traducir, tú, pret. perfecto",traducir,tłumaczyć,to translate,tu,pret_perfecto,has traducido,,false,,
 "traducir, él, pret. perfecto",traducir,tłumaczyć,to translate,el,pret_perfecto,ha traducido,,false,,
@@ -250,6 +283,9 @@
 "tratar, yo, pret. perfecto",tratar,próbować,to treat,yo,pret_perfecto,he tratado,,false,,
 "tratar, tú, pret. perfecto",tratar,próbować,to treat,tu,pret_perfecto,has tratado,,false,,
 "tratar, él, pret. perfecto",tratar,próbować,to treat,el,pret_perfecto,ha tratado,,false,,
+"utilizar, yo, pret. perfecto",utilizar,używać,to use,yo,pret_perfecto,he utilizado,,false,,
+"utilizar, tú, pret. perfecto",utilizar,używać,to use,tu,pret_perfecto,has utilizado,,false,,
+"utilizar, él, pret. perfecto",utilizar,używać,to use,el,pret_perfecto,ha utilizado,,false,,
 "vencer, yo, pret. perfecto",vencer,pokonać,to defeat,yo,pret_perfecto,he vencido,,false,,
 "vencer, tú, pret. perfecto",vencer,pokonać,to defeat,tu,pret_perfecto,has vencido,,false,,
 "vencer, él, pret. perfecto",vencer,pokonać,to defeat,el,pret_perfecto,ha vencido,,false,,
@@ -271,36 +307,3 @@
 "volver, yo, pret. perfecto",volver,wracać,to return,yo,pret_perfecto,he v<em>uelt</em>o,,true,,conjugation::basic-verb
 "volver, tú, pret. perfecto",volver,wracać,to return,tu,pret_perfecto,has v<em>uelt</em>o,,true,,conjugation::basic-verb
 "volver, él, pret. perfecto",volver,wracać,to return,el,pret_perfecto,ha v<em>uelt</em>o,,true,,conjugation::basic-verb
-"jugar, yo, pret. perfecto",jugar,grać,to play,yo,pret_perfecto,he jugado,,false,,
-"jugar, tú, pret. perfecto",jugar,grać,to play,tu,pret_perfecto,has jugado,,false,,
-"jugar, él, pret. perfecto",jugar,grać,to play,el,pret_perfecto,ha jugado,,false,,
-"utilizar, yo, pret. perfecto",utilizar,używać,to use,yo,pret_perfecto,he utilizado,,false,,
-"utilizar, tú, pret. perfecto",utilizar,używać,to use,tu,pret_perfecto,has utilizado,,false,,
-"utilizar, él, pret. perfecto",utilizar,używać,to use,el,pret_perfecto,ha utilizado,,false,,
-"marcar, yo, pret. perfecto",marcar,zaznaczać,to mark,yo,pret_perfecto,he marcado,,false,,
-"marcar, tú, pret. perfecto",marcar,zaznaczać,to mark,tu,pret_perfecto,has marcado,,false,,
-"marcar, él, pret. perfecto",marcar,zaznaczać,to mark,el,pret_perfecto,ha marcado,,false,,
-"rechazar, yo, pret. perfecto",rechazar,odrzucać,to reject,yo,pret_perfecto,he rechazado,,false,,
-"rechazar, tú, pret. perfecto",rechazar,odrzucać,to reject,tu,pret_perfecto,has rechazado,,false,,
-"rechazar, él, pret. perfecto",rechazar,odrzucać,to reject,el,pret_perfecto,ha rechazado,,false,,
-"aparcar, yo, pret. perfecto",aparcar,parkować,to park,yo,pret_perfecto,he aparcado,,false,,
-"aparcar, tú, pret. perfecto",aparcar,parkować,to park,tu,pret_perfecto,has aparcado,,false,,
-"aparcar, él, pret. perfecto",aparcar,parkować,to park,el,pret_perfecto,ha aparcado,,false,,
-"tocar, yo, pret. perfecto",tocar,dotykać,to touch,yo,pret_perfecto,he tocado,,false,,
-"tocar, tú, pret. perfecto",tocar,dotykać,to touch,tu,pret_perfecto,has tocado,,false,,
-"tocar, él, pret. perfecto",tocar,dotykać,to touch,el,pret_perfecto,ha tocado,,false,,
-"alcanzar, yo, pret. perfecto",alcanzar,sięgać,to reach,yo,pret_perfecto,he alcanzado,,false,,
-"alcanzar, tú, pret. perfecto",alcanzar,sięgać,to reach,tu,pret_perfecto,has alcanzado,,false,,
-"alcanzar, él, pret. perfecto",alcanzar,sięgać,to reach,el,pret_perfecto,ha alcanzado,,false,,
-"producir, yo, pret. perfecto",producir,produkować,to produce,yo,pret_perfecto,he producido,,false,,
-"producir, tú, pret. perfecto",producir,produkować,to produce,tu,pret_perfecto,has producido,,false,,
-"producir, él, pret. perfecto",producir,produkować,to produce,el,pret_perfecto,ha producido,,false,,
-"sustituir, yo, pret. perfecto",sustituir,zastępować,to substitute,yo,pret_perfecto,he sustituido,,false,,
-"sustituir, tú, pret. perfecto",sustituir,zastępować,to substitute,tu,pret_perfecto,has sustituido,,false,,
-"sustituir, él, pret. perfecto",sustituir,zastępować,to substitute,el,pret_perfecto,ha sustituido,,false,,
-"aprobarse, yo, pret. perfecto",aprobarse,aprobować,to pass,yo,pret_perfecto,me he aprobado,,false,,
-"aprobarse, tú, pret. perfecto",aprobarse,aprobować,to pass,tu,pret_perfecto,te has aprobado,,false,,
-"aprobarse, él, pret. perfecto",aprobarse,aprobować,to pass,el,pret_perfecto,se ha aprobado,,false,,
-"luchar, yo, pret. perfecto",luchar,walczyć,to fight,yo,pret_perfecto,he luchado,,false,,
-"luchar, tú, pret. perfecto",luchar,walczyć,to fight,tu,pret_perfecto,has luchado,,false,,
-"luchar, él, pret. perfecto",luchar,walczyć,to fight,el,pret_perfecto,ha luchado,,false,,

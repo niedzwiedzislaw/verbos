@@ -16,12 +16,21 @@
 "acostarse, yo, futuro",acostarse,położyć się,to go to bed,yo,futuro_simple,me acostaré,,false,,conjugation::basic-verb
 "acostarse, tú, futuro",acostarse,położyć się,to go to bed,tu,futuro_simple,te acostarás,,false,,conjugation::basic-verb
 "acostarse, él, futuro",acostarse,położyć się,to go to bed,el,futuro_simple,se acostará,,false,,conjugation::basic-verb
+"alcanzar, yo, futuro",alcanzar,sięgać,to reach,yo,futuro_simple,alcanzaré,,false,,
+"alcanzar, tú, futuro",alcanzar,sięgać,to reach,tu,futuro_simple,alcanzarás,,false,,
+"alcanzar, él, futuro",alcanzar,sięgać,to reach,el,futuro_simple,alcanzará,,false,,
 "alquilar, yo, futuro",alquilar,wynajmować,to rent,yo,futuro_simple,alquilaré,,false,,
 "alquilar, tú, futuro",alquilar,wynajmować,to rent,tu,futuro_simple,alquilarás,,false,,
 "alquilar, él, futuro",alquilar,wynajmować,to rent,el,futuro_simple,alquilará,,false,,
 "andar, yo, futuro",andar,chodzić,to walk,yo,futuro_simple,andaré,,false,,conjugation::basic-verb
 "andar, tú, futuro",andar,chodzić,to walk,tu,futuro_simple,andarás,,false,,conjugation::basic-verb
 "andar, él, futuro",andar,chodzić,to walk,el,futuro_simple,andará,,false,,conjugation::basic-verb
+"aparcar, yo, futuro",aparcar,parkować,to park,yo,futuro_simple,aparcaré,,false,,
+"aparcar, tú, futuro",aparcar,parkować,to park,tu,futuro_simple,aparcarás,,false,,
+"aparcar, él, futuro",aparcar,parkować,to park,el,futuro_simple,aparcará,,false,,
+"aprobarse, yo, futuro",aprobarse,aprobować,to pass,yo,futuro_simple,me aprobaré,,false,,
+"aprobarse, tú, futuro",aprobarse,aprobować,to pass,tu,futuro_simple,te aprobarás,,false,,
+"aprobarse, él, futuro",aprobarse,aprobować,to pass,el,futuro_simple,se aprobará,,false,,
 "beber, yo, futuro",beber,pić,to drink,yo,futuro_simple,beberé,,false,,
 "beber, tú, futuro",beber,pić,to drink,tu,futuro_simple,beberás,,false,,
 "beber, él, futuro",beber,pić,to drink,el,futuro_simple,beberá,,false,,
@@ -64,6 +73,9 @@
 "contar, yo, futuro",contar,liczyć,to count,yo,futuro_simple,contaré,,false,,
 "contar, tú, futuro",contar,liczyć,to count,tu,futuro_simple,contarás,,false,,
 "contar, él, futuro",contar,liczyć,to count,el,futuro_simple,contará,,false,,
+"crecer, yo, futuro",crecer,rosnąć,to grow,yo,futuro_simple,creceré,,false,,
+"crecer, tú, futuro",crecer,rosnąć,to grow,tu,futuro_simple,crecerás,,false,,
+"crecer, él, futuro",crecer,rosnąć,to grow,el,futuro_simple,crecerá,,false,,
 "dar, yo, futuro",dar,dać,to give,yo,futuro_simple,daré,,false,,conjugation::basic-verb
 "dar, tú, futuro",dar,dać,to give,tu,futuro_simple,darás,,false,,conjugation::basic-verb
 "dar, él, futuro",dar,dać,to give,el,futuro_simple,dará,,false,,conjugation::basic-verb
@@ -133,6 +145,9 @@
 "ir, yo, futuro",ir,iść,to go,yo,futuro_simple,iré,,false,ir,conjugation::basic-verb
 "ir, tú, futuro",ir,iść,to go,tu,futuro_simple,irás,,false,ir,conjugation::basic-verb
 "ir, él, futuro",ir,iść,to go,el,futuro_simple,irá,,false,ir,conjugation::basic-verb
+"jugar, yo, futuro",jugar,grać,to play,yo,futuro_simple,jugaré,,false,,
+"jugar, tú, futuro",jugar,grać,to play,tu,futuro_simple,jugarás,,false,,
+"jugar, él, futuro",jugar,grać,to play,el,futuro_simple,jugará,,false,,
 "lavarse, yo, futuro",lavarse,myć się,to wash,yo,futuro_simple,me lavaré,,false,,
 "lavarse, tú, futuro",lavarse,myć się,to wash,tu,futuro_simple,te lavarás,,false,,
 "lavarse, él, futuro",lavarse,myć się,to wash,el,futuro_simple,se lavará,,false,,
@@ -154,6 +169,12 @@
 "llover, yo, futuro",llover,padać,to rain,yo,futuro_simple,lloveré,,false,,
 "llover, tú, futuro",llover,padać,to rain,tu,futuro_simple,lloverás,,false,,
 "llover, él, futuro",llover,padać,to rain,el,futuro_simple,lloverá,,false,,
+"luchar, yo, futuro",luchar,walczyć,to fight,yo,futuro_simple,lucharé,,false,,
+"luchar, tú, futuro",luchar,walczyć,to fight,tu,futuro_simple,lucharás,,false,,
+"luchar, él, futuro",luchar,walczyć,to fight,el,futuro_simple,luchará,,false,,
+"marcar, yo, futuro",marcar,zaznaczać,to mark,yo,futuro_simple,marcaré,,false,,
+"marcar, tú, futuro",marcar,zaznaczać,to mark,tu,futuro_simple,marcarás,,false,,
+"marcar, él, futuro",marcar,zaznaczać,to mark,el,futuro_simple,marcará,,false,,
 "medir, yo, futuro",medir,mierzyć,to measure,yo,futuro_simple,mediré,,false,,
 "medir, tú, futuro",medir,mierzyć,to measure,tu,futuro_simple,medirás,,false,,
 "medir, él, futuro",medir,mierzyć,to measure,el,futuro_simple,medirá,,false,,
@@ -199,12 +220,18 @@
 "preparar, yo, futuro",preparar,przygotować,to prepare,yo,futuro_simple,prepararé,,false,,
 "preparar, tú, futuro",preparar,przygotować,to prepare,tu,futuro_simple,prepararás,,false,,
 "preparar, él, futuro",preparar,przygotować,to prepare,el,futuro_simple,preparará,,false,,
+"producir, yo, futuro",producir,produkować,to produce,yo,futuro_simple,produciré,,false,,
+"producir, tú, futuro",producir,produkować,to produce,tu,futuro_simple,producirás,,false,,
+"producir, él, futuro",producir,produkować,to produce,el,futuro_simple,producirá,,false,,
 "prohibir, yo, futuro",prohibir,zabronić,to prohibit,yo,futuro_simple,prohibiré,,false,,
 "prohibir, tú, futuro",prohibir,zabronić,to prohibit,tu,futuro_simple,prohibirás,,false,,
 "prohibir, él, futuro",prohibir,zabronić,to prohibit,el,futuro_simple,prohibirá,,false,,
 "querer, yo, futuro",querer,chcieć,to want,yo,futuro_simple,quer<em>r</em>é,,true,,conjugation::basic-verb
 "querer, tú, futuro",querer,chcieć,to want,tu,futuro_simple,quer<em>r</em>ás,,true,,conjugation::basic-verb
 "querer, él, futuro",querer,chcieć,to want,el,futuro_simple,quer<em>r</em>á,,true,,conjugation::basic-verb
+"rechazar, yo, futuro",rechazar,odrzucać,to reject,yo,futuro_simple,rechazaré,,false,,
+"rechazar, tú, futuro",rechazar,odrzucać,to reject,tu,futuro_simple,rechazarás,,false,,
+"rechazar, él, futuro",rechazar,odrzucać,to reject,el,futuro_simple,rechazará,,false,,
 "repetir, yo, futuro",repetir,powtarzać,to do again,yo,futuro_simple,repetiré,,false,,
 "repetir, tú, futuro",repetir,powtarzać,to do again,tu,futuro_simple,repetirás,,false,,
 "repetir, él, futuro",repetir,powtarzać,to do again,el,futuro_simple,repetirá,,false,,
@@ -238,9 +265,15 @@
 "suponer, yo, futuro",suponer,przypuszczać,to suppose,yo,futuro_simple,supon<em>dr</em>é,,true,,
 "suponer, tú, futuro",suponer,przypuszczać,to suppose,tu,futuro_simple,supon<em>dr</em>ás,,true,,
 "suponer, él, futuro",suponer,przypuszczać,to suppose,el,futuro_simple,supon<em>dr</em>á,,true,,
+"sustituir, yo, futuro",sustituir,zastępować,to substitute,yo,futuro_simple,sustituiré,,false,,
+"sustituir, tú, futuro",sustituir,zastępować,to substitute,tu,futuro_simple,sustituirás,,false,,
+"sustituir, él, futuro",sustituir,zastępować,to substitute,el,futuro_simple,sustituirá,,false,,
 "tener, yo, futuro",tener,mieć,to have,yo,futuro_simple,ten<em>dr</em>é,,true,,conjugation::basic-verb
 "tener, tú, futuro",tener,mieć,to have,tu,futuro_simple,ten<em>dr</em>ás,,true,,conjugation::basic-verb
 "tener, él, futuro",tener,mieć,to have,el,futuro_simple,ten<em>dr</em>á,,true,,conjugation::basic-verb
+"tocar, yo, futuro",tocar,dotykać,to touch,yo,futuro_simple,tocaré,,false,,
+"tocar, tú, futuro",tocar,dotykać,to touch,tu,futuro_simple,tocarás,,false,,
+"tocar, él, futuro",tocar,dotykać,to touch,el,futuro_simple,tocará,,false,,
 "traducir, yo, futuro",traducir,tłumaczyć,to translate,yo,futuro_simple,traduciré,,false,,
 "traducir, tú, futuro",traducir,tłumaczyć,to translate,tu,futuro_simple,traducirás,,false,,
 "traducir, él, futuro",traducir,tłumaczyć,to translate,el,futuro_simple,traducirá,,false,,
@@ -250,6 +283,9 @@
 "tratar, yo, futuro",tratar,próbować,to treat,yo,futuro_simple,trataré,,false,,
 "tratar, tú, futuro",tratar,próbować,to treat,tu,futuro_simple,tratarás,,false,,
 "tratar, él, futuro",tratar,próbować,to treat,el,futuro_simple,tratará,,false,,
+"utilizar, yo, futuro",utilizar,używać,to use,yo,futuro_simple,utilizaré,,false,,
+"utilizar, tú, futuro",utilizar,używać,to use,tu,futuro_simple,utilizarás,,false,,
+"utilizar, él, futuro",utilizar,używać,to use,el,futuro_simple,utilizará,,false,,
 "vencer, yo, futuro",vencer,pokonać,to defeat,yo,futuro_simple,venceré,,false,,
 "vencer, tú, futuro",vencer,pokonać,to defeat,tu,futuro_simple,vencerás,,false,,
 "vencer, él, futuro",vencer,pokonać,to defeat,el,futuro_simple,vencerá,,false,,
@@ -271,36 +307,3 @@
 "volver, yo, futuro",volver,wracać,to return,yo,futuro_simple,volveré,,false,,conjugation::basic-verb
 "volver, tú, futuro",volver,wracać,to return,tu,futuro_simple,volverás,,false,,conjugation::basic-verb
 "volver, él, futuro",volver,wracać,to return,el,futuro_simple,volverá,,false,,conjugation::basic-verb
-"jugar, yo, futuro",jugar,grać,to play,yo,futuro_simple,jugaré,,false,,
-"jugar, tú, futuro",jugar,grać,to play,tu,futuro_simple,jugarás,,false,,
-"jugar, él, futuro",jugar,grać,to play,el,futuro_simple,jugará,,false,,
-"utilizar, yo, futuro",utilizar,używać,to use,yo,futuro_simple,utilizaré,,false,,
-"utilizar, tú, futuro",utilizar,używać,to use,tu,futuro_simple,utilizarás,,false,,
-"utilizar, él, futuro",utilizar,używać,to use,el,futuro_simple,utilizará,,false,,
-"marcar, yo, futuro",marcar,zaznaczać,to mark,yo,futuro_simple,marcaré,,false,,
-"marcar, tú, futuro",marcar,zaznaczać,to mark,tu,futuro_simple,marcarás,,false,,
-"marcar, él, futuro",marcar,zaznaczać,to mark,el,futuro_simple,marcará,,false,,
-"rechazar, yo, futuro",rechazar,odrzucać,to reject,yo,futuro_simple,rechazaré,,false,,
-"rechazar, tú, futuro",rechazar,odrzucać,to reject,tu,futuro_simple,rechazarás,,false,,
-"rechazar, él, futuro",rechazar,odrzucać,to reject,el,futuro_simple,rechazará,,false,,
-"aparcar, yo, futuro",aparcar,parkować,to park,yo,futuro_simple,aparcaré,,false,,
-"aparcar, tú, futuro",aparcar,parkować,to park,tu,futuro_simple,aparcarás,,false,,
-"aparcar, él, futuro",aparcar,parkować,to park,el,futuro_simple,aparcará,,false,,
-"tocar, yo, futuro",tocar,dotykać,to touch,yo,futuro_simple,tocaré,,false,,
-"tocar, tú, futuro",tocar,dotykać,to touch,tu,futuro_simple,tocarás,,false,,
-"tocar, él, futuro",tocar,dotykać,to touch,el,futuro_simple,tocará,,false,,
-"alcanzar, yo, futuro",alcanzar,sięgać,to reach,yo,futuro_simple,alcanzaré,,false,,
-"alcanzar, tú, futuro",alcanzar,sięgać,to reach,tu,futuro_simple,alcanzarás,,false,,
-"alcanzar, él, futuro",alcanzar,sięgać,to reach,el,futuro_simple,alcanzará,,false,,
-"producir, yo, futuro",producir,produkować,to produce,yo,futuro_simple,produciré,,false,,
-"producir, tú, futuro",producir,produkować,to produce,tu,futuro_simple,producirás,,false,,
-"producir, él, futuro",producir,produkować,to produce,el,futuro_simple,producirá,,false,,
-"sustituir, yo, futuro",sustituir,zastępować,to substitute,yo,futuro_simple,sustituiré,,false,,
-"sustituir, tú, futuro",sustituir,zastępować,to substitute,tu,futuro_simple,sustituirás,,false,,
-"sustituir, él, futuro",sustituir,zastępować,to substitute,el,futuro_simple,sustituirá,,false,,
-"aprobarse, yo, futuro",aprobarse,aprobować,to pass,yo,futuro_simple,me aprobaré,,false,,
-"aprobarse, tú, futuro",aprobarse,aprobować,to pass,tu,futuro_simple,te aprobarás,,false,,
-"aprobarse, él, futuro",aprobarse,aprobować,to pass,el,futuro_simple,se aprobará,,false,,
-"luchar, yo, futuro",luchar,walczyć,to fight,yo,futuro_simple,lucharé,,false,,
-"luchar, tú, futuro",luchar,walczyć,to fight,tu,futuro_simple,lucharás,,false,,
-"luchar, él, futuro",luchar,walczyć,to fight,el,futuro_simple,luchará,,false,,
