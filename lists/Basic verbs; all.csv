@@ -912,7 +912,7 @@
 "poder, ns, presente",poder,móc,to be able to,ns,presente,podemos,możemy,false,,conjugation::po-polsku conjugation::basic-verb
 "poder, vs, presente",poder,móc,to be able to,vs,presente,podéis,możecie,false,,conjugation::po-polsku conjugation::basic-verb
 "poder, ellos, presente",poder,móc,to be able to,ellos,presente,p<em>ue</em>den,możą,true,,conjugation::po-polsku conjugation::basic-verb
-"poder, yo, pret. indefinido",poder,móc,to be able to,yo,pret_indefinido,p<em>ude</em>,mógłem,true,,conjugation::po-polsku conjugation::basic-verb
+"poder, yo, pret. indefinido",poder,móc,to be able to,yo,pret_indefinido,p<em>ude</em>,mogłem,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, tú, pret. indefinido",poder,móc,to be able to,tu,pret_indefinido,p<em>u</em>diste,mógłeś,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, él, pret. indefinido",poder,móc,to be able to,el,pret_indefinido,p<em>udo</em>,mógł,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, ns, pret. indefinido",poder,móc,to be able to,ns,pret_indefinido,p<em>u</em>dimos,mogliśmy,true,,conjugation::po-polsku conjugation::basic-verb
