@@ -86,6 +86,47 @@
 "andar, ns, futuro",andar,chodzić,to walk,ns,futuro_simple,andaremos,,false,,conjugation::basic-verb
 "andar, vs, futuro",andar,chodzić,to walk,vs,futuro_simple,andaréis,,false,,conjugation::basic-verb
 "andar, ellos, futuro",andar,chodzić,to walk,ellos,futuro_simple,andarán,,false,,conjugation::basic-verb
+"buscar, yo, presente",buscar,szukać,to look for,yo,presente,busco,,false,,conjugation::basic-verb
+"buscar, tú, presente",buscar,szukać,to look for,tu,presente,buscas,,false,,conjugation::basic-verb
+"buscar, él, presente",buscar,szukać,to look for,el,presente,busca,,false,,conjugation::basic-verb
+"buscar, ns, presente",buscar,szukać,to look for,ns,presente,buscamos,,false,,conjugation::basic-verb
+"buscar, vs, presente",buscar,szukać,to look for,vs,presente,buscáis,,false,,conjugation::basic-verb
+"buscar, ellos, presente",buscar,szukać,to look for,ellos,presente,buscan,,false,,conjugation::basic-verb
+"buscar, yo, pret. indefinido",buscar,szukać,to look for,yo,pret_indefinido,bus<em>qu</em>é,,true,,conjugation::basic-verb
+"buscar, tú, pret. indefinido",buscar,szukać,to look for,tu,pret_indefinido,buscaste,,false,,conjugation::basic-verb
+"buscar, él, pret. indefinido",buscar,szukać,to look for,el,pret_indefinido,buscó,,false,,conjugation::basic-verb
+"buscar, ns, pret. indefinido",buscar,szukać,to look for,ns,pret_indefinido,buscamos,,false,,conjugation::basic-verb
+"buscar, vs, pret. indefinido",buscar,szukać,to look for,vs,pret_indefinido,buscasteis,,false,,conjugation::basic-verb
+"buscar, ellos, pret. indefinido",buscar,szukać,to look for,ellos,pret_indefinido,buscaron,,false,,conjugation::basic-verb
+"buscar, yo, pret. perfecto",buscar,szukać,to look for,yo,pret_perfecto,he buscado,,false,,conjugation::basic-verb
+"buscar, tú, pret. perfecto",buscar,szukać,to look for,tu,pret_perfecto,has buscado,,false,,conjugation::basic-verb
+"buscar, él, pret. perfecto",buscar,szukać,to look for,el,pret_perfecto,ha buscado,,false,,conjugation::basic-verb
+"buscar, ns, pret. perfecto",buscar,szukać,to look for,ns,pret_perfecto,hemos buscado,,false,,conjugation::basic-verb
+"buscar, vs, pret. perfecto",buscar,szukać,to look for,vs,pret_perfecto,habéis buscado,,false,,conjugation::basic-verb
+"buscar, ellos, pret. perfecto",buscar,szukać,to look for,ellos,pret_perfecto,han buscado,,false,,conjugation::basic-verb
+"buscar, yo, presente progresivo",buscar,szukać,to look for,yo,presente_progresivo,estoy buscando,,false,,conjugation::basic-verb
+"buscar, tú, presente progresivo",buscar,szukać,to look for,tu,presente_progresivo,estás buscando,,false,,conjugation::basic-verb
+"buscar, él, presente progresivo",buscar,szukać,to look for,el,presente_progresivo,está buscando,,false,,conjugation::basic-verb
+"buscar, ns, presente progresivo",buscar,szukać,to look for,ns,presente_progresivo,estamos buscando,,false,,conjugation::basic-verb
+"buscar, vs, presente progresivo",buscar,szukać,to look for,vs,presente_progresivo,estáis buscando,,false,,conjugation::basic-verb
+"buscar, ellos, presente progresivo",buscar,szukać,to look for,ellos,presente_progresivo,están buscando,,false,,conjugation::basic-verb
+"buscar, yo, pretérito imperfecto",buscar,szukać,to look for,yo,pret_imperfecto,buscaba,,false,,conjugation::basic-verb
+"buscar, tú, pretérito imperfecto",buscar,szukać,to look for,tu,pret_imperfecto,buscabas,,false,,conjugation::basic-verb
+"buscar, él, pretérito imperfecto",buscar,szukać,to look for,el,pret_imperfecto,buscaba,,false,,conjugation::basic-verb
+"buscar, ns, pretérito imperfecto",buscar,szukać,to look for,ns,pret_imperfecto,buscábamos,,false,,conjugation::basic-verb
+"buscar, vs, pretérito imperfecto",buscar,szukać,to look for,vs,pret_imperfecto,buscabais,,false,,conjugation::basic-verb
+"buscar, ellos, pretérito imperfecto",buscar,szukać,to look for,ellos,pret_imperfecto,buscaban,,false,,conjugation::basic-verb
+"buscar, tú, imperativo",buscar,szukać,to look for,tu,imperativo,busca,,false,,conjugation::basic-verb
+"buscar, usted, imperativo",buscar,szukać,to look for,ud,imperativo,bus<em>qu</em>e,,true,,conjugation::basic-verb
+"buscar, ns, imperativo",buscar,szukać,to look for,ns,imperativo,bus<em>qu</em>emos,,true,,conjugation::basic-verb
+"buscar, vs, imperativo",buscar,szukać,to look for,vs,imperativo,buscad,,false,,conjugation::basic-verb
+"buscar, ustedes, imperativo",buscar,szukać,to look for,uds,imperativo,bus<em>qu</em>en,,true,,conjugation::basic-verb
+"buscar, yo, futuro",buscar,szukać,to look for,yo,futuro_simple,buscaré,,false,,conjugation::basic-verb
+"buscar, tú, futuro",buscar,szukać,to look for,tu,futuro_simple,buscarás,,false,,conjugation::basic-verb
+"buscar, él, futuro",buscar,szukać,to look for,el,futuro_simple,buscará,,false,,conjugation::basic-verb
+"buscar, ns, futuro",buscar,szukać,to look for,ns,futuro_simple,buscaremos,,false,,conjugation::basic-verb
+"buscar, vs, futuro",buscar,szukać,to look for,vs,futuro_simple,buscaréis,,false,,conjugation::basic-verb
+"buscar, ellos, futuro",buscar,szukać,to look for,ellos,futuro_simple,buscarán,,false,,conjugation::basic-verb
 "comer, yo, presente",comer,jeść,to eat,yo,presente,como,jem,false,,conjugation::po-polsku conjugation::basic-verb
 "comer, tú, presente",comer,jeść,to eat,tu,presente,comes,jesz,false,,conjugation::po-polsku conjugation::basic-verb
 "comer, él, presente",comer,jeść,to eat,el,presente,come,je,false,,conjugation::po-polsku conjugation::basic-verb
@@ -496,6 +537,47 @@
 "empezar, ns, futuro",empezar,zaczynać,to start,ns,futuro_simple,empezaremos,,false,,conjugation::basic-verb
 "empezar, vs, futuro",empezar,zaczynać,to start,vs,futuro_simple,empezaréis,,false,,conjugation::basic-verb
 "empezar, ellos, futuro",empezar,zaczynać,to start,ellos,futuro_simple,empezarán,,false,,conjugation::basic-verb
+"encontrar, yo, presente",encontrar,znaleźć,to find,yo,presente,enc<em>ue</em>ntro,,true,,conjugation::basic-verb
+"encontrar, tú, presente",encontrar,znaleźć,to find,tu,presente,enc<em>ue</em>ntras,,true,,conjugation::basic-verb
+"encontrar, él, presente",encontrar,znaleźć,to find,el,presente,enc<em>ue</em>ntra,,true,,conjugation::basic-verb
+"encontrar, ns, presente",encontrar,znaleźć,to find,ns,presente,encontramos,,false,,conjugation::basic-verb
+"encontrar, vs, presente",encontrar,znaleźć,to find,vs,presente,encontráis,,false,,conjugation::basic-verb
+"encontrar, ellos, presente",encontrar,znaleźć,to find,ellos,presente,enc<em>ue</em>ntran,,true,,conjugation::basic-verb
+"encontrar, yo, pret. indefinido",encontrar,znaleźć,to find,yo,pret_indefinido,encontré,,false,,conjugation::basic-verb
+"encontrar, tú, pret. indefinido",encontrar,znaleźć,to find,tu,pret_indefinido,encontraste,,false,,conjugation::basic-verb
+"encontrar, él, pret. indefinido",encontrar,znaleźć,to find,el,pret_indefinido,encontró,,false,,conjugation::basic-verb
+"encontrar, ns, pret. indefinido",encontrar,znaleźć,to find,ns,pret_indefinido,encontramos,,false,,conjugation::basic-verb
+"encontrar, vs, pret. indefinido",encontrar,znaleźć,to find,vs,pret_indefinido,encontrasteis,,false,,conjugation::basic-verb
+"encontrar, ellos, pret. indefinido",encontrar,znaleźć,to find,ellos,pret_indefinido,encontraron,,false,,conjugation::basic-verb
+"encontrar, yo, pret. perfecto",encontrar,znaleźć,to find,yo,pret_perfecto,he encontrado,,false,,conjugation::basic-verb
+"encontrar, tú, pret. perfecto",encontrar,znaleźć,to find,tu,pret_perfecto,has encontrado,,false,,conjugation::basic-verb
+"encontrar, él, pret. perfecto",encontrar,znaleźć,to find,el,pret_perfecto,ha encontrado,,false,,conjugation::basic-verb
+"encontrar, ns, pret. perfecto",encontrar,znaleźć,to find,ns,pret_perfecto,hemos encontrado,,false,,conjugation::basic-verb
+"encontrar, vs, pret. perfecto",encontrar,znaleźć,to find,vs,pret_perfecto,habéis encontrado,,false,,conjugation::basic-verb
+"encontrar, ellos, pret. perfecto",encontrar,znaleźć,to find,ellos,pret_perfecto,han encontrado,,false,,conjugation::basic-verb
+"encontrar, yo, presente progresivo",encontrar,znaleźć,to find,yo,presente_progresivo,estoy encontrando,,false,,conjugation::basic-verb
+"encontrar, tú, presente progresivo",encontrar,znaleźć,to find,tu,presente_progresivo,estás encontrando,,false,,conjugation::basic-verb
+"encontrar, él, presente progresivo",encontrar,znaleźć,to find,el,presente_progresivo,está encontrando,,false,,conjugation::basic-verb
+"encontrar, ns, presente progresivo",encontrar,znaleźć,to find,ns,presente_progresivo,estamos encontrando,,false,,conjugation::basic-verb
+"encontrar, vs, presente progresivo",encontrar,znaleźć,to find,vs,presente_progresivo,estáis encontrando,,false,,conjugation::basic-verb
+"encontrar, ellos, presente progresivo",encontrar,znaleźć,to find,ellos,presente_progresivo,están encontrando,,false,,conjugation::basic-verb
+"encontrar, yo, pretérito imperfecto",encontrar,znaleźć,to find,yo,pret_imperfecto,encontraba,,false,,conjugation::basic-verb
+"encontrar, tú, pretérito imperfecto",encontrar,znaleźć,to find,tu,pret_imperfecto,encontrabas,,false,,conjugation::basic-verb
+"encontrar, él, pretérito imperfecto",encontrar,znaleźć,to find,el,pret_imperfecto,encontraba,,false,,conjugation::basic-verb
+"encontrar, ns, pretérito imperfecto",encontrar,znaleźć,to find,ns,pret_imperfecto,encontrábamos,,false,,conjugation::basic-verb
+"encontrar, vs, pretérito imperfecto",encontrar,znaleźć,to find,vs,pret_imperfecto,encontrabais,,false,,conjugation::basic-verb
+"encontrar, ellos, pretérito imperfecto",encontrar,znaleźć,to find,ellos,pret_imperfecto,encontraban,,false,,conjugation::basic-verb
+"encontrar, tú, imperativo",encontrar,znaleźć,to find,tu,imperativo,enc<em>ue</em>ntra,,true,,conjugation::basic-verb
+"encontrar, usted, imperativo",encontrar,znaleźć,to find,ud,imperativo,enc<em>ue</em>ntre,,true,,conjugation::basic-verb
+"encontrar, ns, imperativo",encontrar,znaleźć,to find,ns,imperativo,encontremos,,false,,conjugation::basic-verb
+"encontrar, vs, imperativo",encontrar,znaleźć,to find,vs,imperativo,encontrad,,false,,conjugation::basic-verb
+"encontrar, ustedes, imperativo",encontrar,znaleźć,to find,uds,imperativo,enc<em>ue</em>ntren,,true,,conjugation::basic-verb
+"encontrar, yo, futuro",encontrar,znaleźć,to find,yo,futuro_simple,encontraré,,false,,conjugation::basic-verb
+"encontrar, tú, futuro",encontrar,znaleźć,to find,tu,futuro_simple,encontrarás,,false,,conjugation::basic-verb
+"encontrar, él, futuro",encontrar,znaleźć,to find,el,futuro_simple,encontrará,,false,,conjugation::basic-verb
+"encontrar, ns, futuro",encontrar,znaleźć,to find,ns,futuro_simple,encontraremos,,false,,conjugation::basic-verb
+"encontrar, vs, futuro",encontrar,znaleźć,to find,vs,futuro_simple,encontraréis,,false,,conjugation::basic-verb
+"encontrar, ellos, futuro",encontrar,znaleźć,to find,ellos,futuro_simple,encontrarán,,false,,conjugation::basic-verb
 "entender, yo, presente",entender,rozumieć,to understand,yo,presente,ent<em>i</em>endo,,true,,conjugation::basic-verb
 "entender, tú, presente",entender,rozumieć,to understand,tu,presente,ent<em>i</em>endes,,true,,conjugation::basic-verb
 "entender, él, presente",entender,rozumieć,to understand,el,presente,ent<em>i</em>ende,,true,,conjugation::basic-verb
@@ -537,6 +619,47 @@
 "entender, ns, futuro",entender,rozumieć,to understand,ns,futuro_simple,entenderemos,,false,,conjugation::basic-verb
 "entender, vs, futuro",entender,rozumieć,to understand,vs,futuro_simple,entenderéis,,false,,conjugation::basic-verb
 "entender, ellos, futuro",entender,rozumieć,to understand,ellos,futuro_simple,entenderán,,false,,conjugation::basic-verb
+"escuchar, yo, presente",escuchar,słuchać,to listen to,yo,presente,escucho,,false,,conjugation::basic-verb
+"escuchar, tú, presente",escuchar,słuchać,to listen to,tu,presente,escuchas,,false,,conjugation::basic-verb
+"escuchar, él, presente",escuchar,słuchać,to listen to,el,presente,escucha,,false,,conjugation::basic-verb
+"escuchar, ns, presente",escuchar,słuchać,to listen to,ns,presente,escuchamos,,false,,conjugation::basic-verb
+"escuchar, vs, presente",escuchar,słuchać,to listen to,vs,presente,escucháis,,false,,conjugation::basic-verb
+"escuchar, ellos, presente",escuchar,słuchać,to listen to,ellos,presente,escuchan,,false,,conjugation::basic-verb
+"escuchar, yo, pret. indefinido",escuchar,słuchać,to listen to,yo,pret_indefinido,escuché,,false,,conjugation::basic-verb
+"escuchar, tú, pret. indefinido",escuchar,słuchać,to listen to,tu,pret_indefinido,escuchaste,,false,,conjugation::basic-verb
+"escuchar, él, pret. indefinido",escuchar,słuchać,to listen to,el,pret_indefinido,escuchó,,false,,conjugation::basic-verb
+"escuchar, ns, pret. indefinido",escuchar,słuchać,to listen to,ns,pret_indefinido,escuchamos,,false,,conjugation::basic-verb
+"escuchar, vs, pret. indefinido",escuchar,słuchać,to listen to,vs,pret_indefinido,escuchasteis,,false,,conjugation::basic-verb
+"escuchar, ellos, pret. indefinido",escuchar,słuchać,to listen to,ellos,pret_indefinido,escucharon,,false,,conjugation::basic-verb
+"escuchar, yo, pret. perfecto",escuchar,słuchać,to listen to,yo,pret_perfecto,he escuchado,,false,,conjugation::basic-verb
+"escuchar, tú, pret. perfecto",escuchar,słuchać,to listen to,tu,pret_perfecto,has escuchado,,false,,conjugation::basic-verb
+"escuchar, él, pret. perfecto",escuchar,słuchać,to listen to,el,pret_perfecto,ha escuchado,,false,,conjugation::basic-verb
+"escuchar, ns, pret. perfecto",escuchar,słuchać,to listen to,ns,pret_perfecto,hemos escuchado,,false,,conjugation::basic-verb
+"escuchar, vs, pret. perfecto",escuchar,słuchać,to listen to,vs,pret_perfecto,habéis escuchado,,false,,conjugation::basic-verb
+"escuchar, ellos, pret. perfecto",escuchar,słuchać,to listen to,ellos,pret_perfecto,han escuchado,,false,,conjugation::basic-verb
+"escuchar, yo, presente progresivo",escuchar,słuchać,to listen to,yo,presente_progresivo,estoy escuchando,,false,,conjugation::basic-verb
+"escuchar, tú, presente progresivo",escuchar,słuchać,to listen to,tu,presente_progresivo,estás escuchando,,false,,conjugation::basic-verb
+"escuchar, él, presente progresivo",escuchar,słuchać,to listen to,el,presente_progresivo,está escuchando,,false,,conjugation::basic-verb
+"escuchar, ns, presente progresivo",escuchar,słuchać,to listen to,ns,presente_progresivo,estamos escuchando,,false,,conjugation::basic-verb
+"escuchar, vs, presente progresivo",escuchar,słuchać,to listen to,vs,presente_progresivo,estáis escuchando,,false,,conjugation::basic-verb
+"escuchar, ellos, presente progresivo",escuchar,słuchać,to listen to,ellos,presente_progresivo,están escuchando,,false,,conjugation::basic-verb
+"escuchar, yo, pretérito imperfecto",escuchar,słuchać,to listen to,yo,pret_imperfecto,escuchaba,,false,,conjugation::basic-verb
+"escuchar, tú, pretérito imperfecto",escuchar,słuchać,to listen to,tu,pret_imperfecto,escuchabas,,false,,conjugation::basic-verb
+"escuchar, él, pretérito imperfecto",escuchar,słuchać,to listen to,el,pret_imperfecto,escuchaba,,false,,conjugation::basic-verb
+"escuchar, ns, pretérito imperfecto",escuchar,słuchać,to listen to,ns,pret_imperfecto,escuchábamos,,false,,conjugation::basic-verb
+"escuchar, vs, pretérito imperfecto",escuchar,słuchać,to listen to,vs,pret_imperfecto,escuchabais,,false,,conjugation::basic-verb
+"escuchar, ellos, pretérito imperfecto",escuchar,słuchać,to listen to,ellos,pret_imperfecto,escuchaban,,false,,conjugation::basic-verb
+"escuchar, tú, imperativo",escuchar,słuchać,to listen to,tu,imperativo,escucha,,false,,conjugation::basic-verb
+"escuchar, usted, imperativo",escuchar,słuchać,to listen to,ud,imperativo,escuche,,false,,conjugation::basic-verb
+"escuchar, ns, imperativo",escuchar,słuchać,to listen to,ns,imperativo,escuchemos,,false,,conjugation::basic-verb
+"escuchar, vs, imperativo",escuchar,słuchać,to listen to,vs,imperativo,escuchad,,false,,conjugation::basic-verb
+"escuchar, ustedes, imperativo",escuchar,słuchać,to listen to,uds,imperativo,escuchen,,false,,conjugation::basic-verb
+"escuchar, yo, futuro",escuchar,słuchać,to listen to,yo,futuro_simple,escucharé,,false,,conjugation::basic-verb
+"escuchar, tú, futuro",escuchar,słuchać,to listen to,tu,futuro_simple,escucharás,,false,,conjugation::basic-verb
+"escuchar, él, futuro",escuchar,słuchać,to listen to,el,futuro_simple,escuchará,,false,,conjugation::basic-verb
+"escuchar, ns, futuro",escuchar,słuchać,to listen to,ns,futuro_simple,escucharemos,,false,,conjugation::basic-verb
+"escuchar, vs, futuro",escuchar,słuchać,to listen to,vs,futuro_simple,escucharéis,,false,,conjugation::basic-verb
+"escuchar, ellos, futuro",escuchar,słuchać,to listen to,ellos,futuro_simple,escucharán,,false,,conjugation::basic-verb
 "estar, yo, presente",estar,być,to be,yo,presente,esto<em>y</em>,jestem,true,estar,conjugation::po-polsku conjugation::basic-verb
 "estar, tú, presente",estar,być,to be,tu,presente,est<em>á</em>s,jesteś,true,estar,conjugation::po-polsku conjugation::basic-verb
 "estar, él, presente",estar,być,to be,el,presente,est<em>á</em>,jest,true,estar,conjugation::po-polsku conjugation::basic-verb
@@ -701,6 +824,47 @@
 "ir, ns, futuro",ir,iść,to go,ns,futuro_simple,iremos,,false,ir,conjugation::basic-verb
 "ir, vs, futuro",ir,iść,to go,vs,futuro_simple,iréis,,false,ir,conjugation::basic-verb
 "ir, ellos, futuro",ir,iść,to go,ellos,futuro_simple,irán,,false,ir,conjugation::basic-verb
+"lavar, yo, presente",lavar,myć,to wash,yo,presente,lavo,,false,,conjugation::basic-verb
+"lavar, tú, presente",lavar,myć,to wash,tu,presente,lavas,,false,,conjugation::basic-verb
+"lavar, él, presente",lavar,myć,to wash,el,presente,lava,,false,,conjugation::basic-verb
+"lavar, ns, presente",lavar,myć,to wash,ns,presente,lavamos,,false,,conjugation::basic-verb
+"lavar, vs, presente",lavar,myć,to wash,vs,presente,laváis,,false,,conjugation::basic-verb
+"lavar, ellos, presente",lavar,myć,to wash,ellos,presente,lavan,,false,,conjugation::basic-verb
+"lavar, yo, pret. indefinido",lavar,myć,to wash,yo,pret_indefinido,lavé,,false,,conjugation::basic-verb
+"lavar, tú, pret. indefinido",lavar,myć,to wash,tu,pret_indefinido,lavaste,,false,,conjugation::basic-verb
+"lavar, él, pret. indefinido",lavar,myć,to wash,el,pret_indefinido,lavó,,false,,conjugation::basic-verb
+"lavar, ns, pret. indefinido",lavar,myć,to wash,ns,pret_indefinido,lavamos,,false,,conjugation::basic-verb
+"lavar, vs, pret. indefinido",lavar,myć,to wash,vs,pret_indefinido,lavasteis,,false,,conjugation::basic-verb
+"lavar, ellos, pret. indefinido",lavar,myć,to wash,ellos,pret_indefinido,lavaron,,false,,conjugation::basic-verb
+"lavar, yo, pret. perfecto",lavar,myć,to wash,yo,pret_perfecto,he lavado,,false,,conjugation::basic-verb
+"lavar, tú, pret. perfecto",lavar,myć,to wash,tu,pret_perfecto,has lavado,,false,,conjugation::basic-verb
+"lavar, él, pret. perfecto",lavar,myć,to wash,el,pret_perfecto,ha lavado,,false,,conjugation::basic-verb
+"lavar, ns, pret. perfecto",lavar,myć,to wash,ns,pret_perfecto,hemos lavado,,false,,conjugation::basic-verb
+"lavar, vs, pret. perfecto",lavar,myć,to wash,vs,pret_perfecto,habéis lavado,,false,,conjugation::basic-verb
+"lavar, ellos, pret. perfecto",lavar,myć,to wash,ellos,pret_perfecto,han lavado,,false,,conjugation::basic-verb
+"lavar, yo, presente progresivo",lavar,myć,to wash,yo,presente_progresivo,estoy lavando,,false,,conjugation::basic-verb
+"lavar, tú, presente progresivo",lavar,myć,to wash,tu,presente_progresivo,estás lavando,,false,,conjugation::basic-verb
+"lavar, él, presente progresivo",lavar,myć,to wash,el,presente_progresivo,está lavando,,false,,conjugation::basic-verb
+"lavar, ns, presente progresivo",lavar,myć,to wash,ns,presente_progresivo,estamos lavando,,false,,conjugation::basic-verb
+"lavar, vs, presente progresivo",lavar,myć,to wash,vs,presente_progresivo,estáis lavando,,false,,conjugation::basic-verb
+"lavar, ellos, presente progresivo",lavar,myć,to wash,ellos,presente_progresivo,están lavando,,false,,conjugation::basic-verb
+"lavar, yo, pretérito imperfecto",lavar,myć,to wash,yo,pret_imperfecto,lavaba,,false,,conjugation::basic-verb
+"lavar, tú, pretérito imperfecto",lavar,myć,to wash,tu,pret_imperfecto,lavabas,,false,,conjugation::basic-verb
+"lavar, él, pretérito imperfecto",lavar,myć,to wash,el,pret_imperfecto,lavaba,,false,,conjugation::basic-verb
+"lavar, ns, pretérito imperfecto",lavar,myć,to wash,ns,pret_imperfecto,lavábamos,,false,,conjugation::basic-verb
+"lavar, vs, pretérito imperfecto",lavar,myć,to wash,vs,pret_imperfecto,lavabais,,false,,conjugation::basic-verb
+"lavar, ellos, pretérito imperfecto",lavar,myć,to wash,ellos,pret_imperfecto,lavaban,,false,,conjugation::basic-verb
+"lavar, tú, imperativo",lavar,myć,to wash,tu,imperativo,lava,,false,,conjugation::basic-verb
+"lavar, usted, imperativo",lavar,myć,to wash,ud,imperativo,lave,,false,,conjugation::basic-verb
+"lavar, ns, imperativo",lavar,myć,to wash,ns,imperativo,lavemos,,false,,conjugation::basic-verb
+"lavar, vs, imperativo",lavar,myć,to wash,vs,imperativo,lavad,,false,,conjugation::basic-verb
+"lavar, ustedes, imperativo",lavar,myć,to wash,uds,imperativo,laven,,false,,conjugation::basic-verb
+"lavar, yo, futuro",lavar,myć,to wash,yo,futuro_simple,lavaré,,false,,conjugation::basic-verb
+"lavar, tú, futuro",lavar,myć,to wash,tu,futuro_simple,lavarás,,false,,conjugation::basic-verb
+"lavar, él, futuro",lavar,myć,to wash,el,futuro_simple,lavará,,false,,conjugation::basic-verb
+"lavar, ns, futuro",lavar,myć,to wash,ns,futuro_simple,lavaremos,,false,,conjugation::basic-verb
+"lavar, vs, futuro",lavar,myć,to wash,vs,futuro_simple,lavaréis,,false,,conjugation::basic-verb
+"lavar, ellos, futuro",lavar,myć,to wash,ellos,futuro_simple,lavarán,,false,,conjugation::basic-verb
 "levantarse, yo, presente",levantarse,wstać; obudzić się,to get up,yo,presente,me levanto,wstaję,false,,conjugation::po-polsku conjugation::basic-verb
 "levantarse, tú, presente",levantarse,wstać; obudzić się,to get up,tu,presente,te levantas,wstajesz,false,,conjugation::po-polsku conjugation::basic-verb
 "levantarse, él, presente",levantarse,wstać; obudzić się,to get up,el,presente,se levanta,wstaje,false,,conjugation::po-polsku conjugation::basic-verb
@@ -783,6 +947,47 @@
 "llevar, ns, futuro",llevar,nosić,to take,ns,futuro_simple,llevaremos,,false,,conjugation::basic-verb
 "llevar, vs, futuro",llevar,nosić,to take,vs,futuro_simple,llevaréis,,false,,conjugation::basic-verb
 "llevar, ellos, futuro",llevar,nosić,to take,ellos,futuro_simple,llevarán,,false,,conjugation::basic-verb
+"mirar, yo, presente",mirar,spojrzeć,to look at,yo,presente,miro,,false,,conjugation::basic-verb
+"mirar, tú, presente",mirar,spojrzeć,to look at,tu,presente,miras,,false,,conjugation::basic-verb
+"mirar, él, presente",mirar,spojrzeć,to look at,el,presente,mira,,false,,conjugation::basic-verb
+"mirar, ns, presente",mirar,spojrzeć,to look at,ns,presente,miramos,,false,,conjugation::basic-verb
+"mirar, vs, presente",mirar,spojrzeć,to look at,vs,presente,miráis,,false,,conjugation::basic-verb
+"mirar, ellos, presente",mirar,spojrzeć,to look at,ellos,presente,miran,,false,,conjugation::basic-verb
+"mirar, yo, pret. indefinido",mirar,spojrzeć,to look at,yo,pret_indefinido,miré,,false,,conjugation::basic-verb
+"mirar, tú, pret. indefinido",mirar,spojrzeć,to look at,tu,pret_indefinido,miraste,,false,,conjugation::basic-verb
+"mirar, él, pret. indefinido",mirar,spojrzeć,to look at,el,pret_indefinido,miró,,false,,conjugation::basic-verb
+"mirar, ns, pret. indefinido",mirar,spojrzeć,to look at,ns,pret_indefinido,miramos,,false,,conjugation::basic-verb
+"mirar, vs, pret. indefinido",mirar,spojrzeć,to look at,vs,pret_indefinido,mirasteis,,false,,conjugation::basic-verb
+"mirar, ellos, pret. indefinido",mirar,spojrzeć,to look at,ellos,pret_indefinido,miraron,,false,,conjugation::basic-verb
+"mirar, yo, pret. perfecto",mirar,spojrzeć,to look at,yo,pret_perfecto,he mirado,,false,,conjugation::basic-verb
+"mirar, tú, pret. perfecto",mirar,spojrzeć,to look at,tu,pret_perfecto,has mirado,,false,,conjugation::basic-verb
+"mirar, él, pret. perfecto",mirar,spojrzeć,to look at,el,pret_perfecto,ha mirado,,false,,conjugation::basic-verb
+"mirar, ns, pret. perfecto",mirar,spojrzeć,to look at,ns,pret_perfecto,hemos mirado,,false,,conjugation::basic-verb
+"mirar, vs, pret. perfecto",mirar,spojrzeć,to look at,vs,pret_perfecto,habéis mirado,,false,,conjugation::basic-verb
+"mirar, ellos, pret. perfecto",mirar,spojrzeć,to look at,ellos,pret_perfecto,han mirado,,false,,conjugation::basic-verb
+"mirar, yo, presente progresivo",mirar,spojrzeć,to look at,yo,presente_progresivo,estoy mirando,,false,,conjugation::basic-verb
+"mirar, tú, presente progresivo",mirar,spojrzeć,to look at,tu,presente_progresivo,estás mirando,,false,,conjugation::basic-verb
+"mirar, él, presente progresivo",mirar,spojrzeć,to look at,el,presente_progresivo,está mirando,,false,,conjugation::basic-verb
+"mirar, ns, presente progresivo",mirar,spojrzeć,to look at,ns,presente_progresivo,estamos mirando,,false,,conjugation::basic-verb
+"mirar, vs, presente progresivo",mirar,spojrzeć,to look at,vs,presente_progresivo,estáis mirando,,false,,conjugation::basic-verb
+"mirar, ellos, presente progresivo",mirar,spojrzeć,to look at,ellos,presente_progresivo,están mirando,,false,,conjugation::basic-verb
+"mirar, yo, pretérito imperfecto",mirar,spojrzeć,to look at,yo,pret_imperfecto,miraba,,false,,conjugation::basic-verb
+"mirar, tú, pretérito imperfecto",mirar,spojrzeć,to look at,tu,pret_imperfecto,mirabas,,false,,conjugation::basic-verb
+"mirar, él, pretérito imperfecto",mirar,spojrzeć,to look at,el,pret_imperfecto,miraba,,false,,conjugation::basic-verb
+"mirar, ns, pretérito imperfecto",mirar,spojrzeć,to look at,ns,pret_imperfecto,mirábamos,,false,,conjugation::basic-verb
+"mirar, vs, pretérito imperfecto",mirar,spojrzeć,to look at,vs,pret_imperfecto,mirabais,,false,,conjugation::basic-verb
+"mirar, ellos, pretérito imperfecto",mirar,spojrzeć,to look at,ellos,pret_imperfecto,miraban,,false,,conjugation::basic-verb
+"mirar, tú, imperativo",mirar,spojrzeć,to look at,tu,imperativo,mira,,false,,conjugation::basic-verb
+"mirar, usted, imperativo",mirar,spojrzeć,to look at,ud,imperativo,mire,,false,,conjugation::basic-verb
+"mirar, ns, imperativo",mirar,spojrzeć,to look at,ns,imperativo,miremos,,false,,conjugation::basic-verb
+"mirar, vs, imperativo",mirar,spojrzeć,to look at,vs,imperativo,mirad,,false,,conjugation::basic-verb
+"mirar, ustedes, imperativo",mirar,spojrzeć,to look at,uds,imperativo,miren,,false,,conjugation::basic-verb
+"mirar, yo, futuro",mirar,spojrzeć,to look at,yo,futuro_simple,miraré,,false,,conjugation::basic-verb
+"mirar, tú, futuro",mirar,spojrzeć,to look at,tu,futuro_simple,mirarás,,false,,conjugation::basic-verb
+"mirar, él, futuro",mirar,spojrzeć,to look at,el,futuro_simple,mirará,,false,,conjugation::basic-verb
+"mirar, ns, futuro",mirar,spojrzeć,to look at,ns,futuro_simple,miraremos,,false,,conjugation::basic-verb
+"mirar, vs, futuro",mirar,spojrzeć,to look at,vs,futuro_simple,miraréis,,false,,conjugation::basic-verb
+"mirar, ellos, futuro",mirar,spojrzeć,to look at,ellos,futuro_simple,mirarán,,false,,conjugation::basic-verb
 "oír, yo, presente",oír,słyszeć,to hear,yo,presente,o<em>ig</em>o,,true,,conjugation::basic-verb
 "oír, tú, presente",oír,słyszeć,to hear,tu,presente,o<em>y</em>es,,true,,conjugation::basic-verb
 "oír, él, presente",oír,słyszeć,to hear,el,presente,o<em>y</em>e,,true,,conjugation::basic-verb
@@ -824,6 +1029,47 @@
 "oír, ns, futuro",oír,słyszeć,to hear,ns,futuro_simple,oiremos,,false,,conjugation::basic-verb
 "oír, vs, futuro",oír,słyszeć,to hear,vs,futuro_simple,oiréis,,false,,conjugation::basic-verb
 "oír, ellos, futuro",oír,słyszeć,to hear,ellos,futuro_simple,oirán,,false,,conjugation::basic-verb
+"pagar, yo, presente",pagar,płacić,to pay,yo,presente,pago,,false,,conjugation::basic-verb
+"pagar, tú, presente",pagar,płacić,to pay,tu,presente,pagas,,false,,conjugation::basic-verb
+"pagar, él, presente",pagar,płacić,to pay,el,presente,paga,,false,,conjugation::basic-verb
+"pagar, ns, presente",pagar,płacić,to pay,ns,presente,pagamos,,false,,conjugation::basic-verb
+"pagar, vs, presente",pagar,płacić,to pay,vs,presente,pagáis,,false,,conjugation::basic-verb
+"pagar, ellos, presente",pagar,płacić,to pay,ellos,presente,pagan,,false,,conjugation::basic-verb
+"pagar, yo, pret. indefinido",pagar,płacić,to pay,yo,pret_indefinido,pag<em>u</em>é,,true,,conjugation::basic-verb
+"pagar, tú, pret. indefinido",pagar,płacić,to pay,tu,pret_indefinido,pagaste,,false,,conjugation::basic-verb
+"pagar, él, pret. indefinido",pagar,płacić,to pay,el,pret_indefinido,pagó,,false,,conjugation::basic-verb
+"pagar, ns, pret. indefinido",pagar,płacić,to pay,ns,pret_indefinido,pagamos,,false,,conjugation::basic-verb
+"pagar, vs, pret. indefinido",pagar,płacić,to pay,vs,pret_indefinido,pagasteis,,false,,conjugation::basic-verb
+"pagar, ellos, pret. indefinido",pagar,płacić,to pay,ellos,pret_indefinido,pagaron,,false,,conjugation::basic-verb
+"pagar, yo, pret. perfecto",pagar,płacić,to pay,yo,pret_perfecto,he pagado,,false,,conjugation::basic-verb
+"pagar, tú, pret. perfecto",pagar,płacić,to pay,tu,pret_perfecto,has pagado,,false,,conjugation::basic-verb
+"pagar, él, pret. perfecto",pagar,płacić,to pay,el,pret_perfecto,ha pagado,,false,,conjugation::basic-verb
+"pagar, ns, pret. perfecto",pagar,płacić,to pay,ns,pret_perfecto,hemos pagado,,false,,conjugation::basic-verb
+"pagar, vs, pret. perfecto",pagar,płacić,to pay,vs,pret_perfecto,habéis pagado,,false,,conjugation::basic-verb
+"pagar, ellos, pret. perfecto",pagar,płacić,to pay,ellos,pret_perfecto,han pagado,,false,,conjugation::basic-verb
+"pagar, yo, presente progresivo",pagar,płacić,to pay,yo,presente_progresivo,estoy pagando,,false,,conjugation::basic-verb
+"pagar, tú, presente progresivo",pagar,płacić,to pay,tu,presente_progresivo,estás pagando,,false,,conjugation::basic-verb
+"pagar, él, presente progresivo",pagar,płacić,to pay,el,presente_progresivo,está pagando,,false,,conjugation::basic-verb
+"pagar, ns, presente progresivo",pagar,płacić,to pay,ns,presente_progresivo,estamos pagando,,false,,conjugation::basic-verb
+"pagar, vs, presente progresivo",pagar,płacić,to pay,vs,presente_progresivo,estáis pagando,,false,,conjugation::basic-verb
+"pagar, ellos, presente progresivo",pagar,płacić,to pay,ellos,presente_progresivo,están pagando,,false,,conjugation::basic-verb
+"pagar, yo, pretérito imperfecto",pagar,płacić,to pay,yo,pret_imperfecto,pagaba,,false,,conjugation::basic-verb
+"pagar, tú, pretérito imperfecto",pagar,płacić,to pay,tu,pret_imperfecto,pagabas,,false,,conjugation::basic-verb
+"pagar, él, pretérito imperfecto",pagar,płacić,to pay,el,pret_imperfecto,pagaba,,false,,conjugation::basic-verb
+"pagar, ns, pretérito imperfecto",pagar,płacić,to pay,ns,pret_imperfecto,pagábamos,,false,,conjugation::basic-verb
+"pagar, vs, pretérito imperfecto",pagar,płacić,to pay,vs,pret_imperfecto,pagabais,,false,,conjugation::basic-verb
+"pagar, ellos, pretérito imperfecto",pagar,płacić,to pay,ellos,pret_imperfecto,pagaban,,false,,conjugation::basic-verb
+"pagar, tú, imperativo",pagar,płacić,to pay,tu,imperativo,paga,,false,,conjugation::basic-verb
+"pagar, usted, imperativo",pagar,płacić,to pay,ud,imperativo,pag<em>u</em>e,,true,,conjugation::basic-verb
+"pagar, ns, imperativo",pagar,płacić,to pay,ns,imperativo,pag<em>u</em>emos,,true,,conjugation::basic-verb
+"pagar, vs, imperativo",pagar,płacić,to pay,vs,imperativo,pagad,,false,,conjugation::basic-verb
+"pagar, ustedes, imperativo",pagar,płacić,to pay,uds,imperativo,pag<em>u</em>en,,true,,conjugation::basic-verb
+"pagar, yo, futuro",pagar,płacić,to pay,yo,futuro_simple,pagaré,,false,,conjugation::basic-verb
+"pagar, tú, futuro",pagar,płacić,to pay,tu,futuro_simple,pagarás,,false,,conjugation::basic-verb
+"pagar, él, futuro",pagar,płacić,to pay,el,futuro_simple,pagará,,false,,conjugation::basic-verb
+"pagar, ns, futuro",pagar,płacić,to pay,ns,futuro_simple,pagaremos,,false,,conjugation::basic-verb
+"pagar, vs, futuro",pagar,płacić,to pay,vs,futuro_simple,pagaréis,,false,,conjugation::basic-verb
+"pagar, ellos, futuro",pagar,płacić,to pay,ellos,futuro_simple,pagarán,,false,,conjugation::basic-verb
 "pedir, yo, presente",pedir,poprosić,to ask for,yo,presente,p<em>i</em>do,,true,,conjugation::basic-verb
 "pedir, tú, presente",pedir,poprosić,to ask for,tu,presente,p<em>i</em>des,,true,,conjugation::basic-verb
 "pedir, él, presente",pedir,poprosić,to ask for,el,presente,p<em>i</em>de,,true,,conjugation::basic-verb
@@ -1234,6 +1480,47 @@
 "tener, ns, futuro",tener,mieć,to have,ns,futuro_simple,ten<em>dr</em>emos,,true,,conjugation::basic-verb
 "tener, vs, futuro",tener,mieć,to have,vs,futuro_simple,ten<em>dr</em>éis,,true,,conjugation::basic-verb
 "tener, ellos, futuro",tener,mieć,to have,ellos,futuro_simple,ten<em>dr</em>án,,true,,conjugation::basic-verb
+"trabajar, yo, presente",trabajar,pracować,to work,yo,presente,trabajo,,false,,conjugation::basic-verb
+"trabajar, tú, presente",trabajar,pracować,to work,tu,presente,trabajas,,false,,conjugation::basic-verb
+"trabajar, él, presente",trabajar,pracować,to work,el,presente,trabaja,,false,,conjugation::basic-verb
+"trabajar, ns, presente",trabajar,pracować,to work,ns,presente,trabajamos,,false,,conjugation::basic-verb
+"trabajar, vs, presente",trabajar,pracować,to work,vs,presente,trabajáis,,false,,conjugation::basic-verb
+"trabajar, ellos, presente",trabajar,pracować,to work,ellos,presente,trabajan,,false,,conjugation::basic-verb
+"trabajar, yo, pret. indefinido",trabajar,pracować,to work,yo,pret_indefinido,trabajé,,false,,conjugation::basic-verb
+"trabajar, tú, pret. indefinido",trabajar,pracować,to work,tu,pret_indefinido,trabajaste,,false,,conjugation::basic-verb
+"trabajar, él, pret. indefinido",trabajar,pracować,to work,el,pret_indefinido,trabajó,,false,,conjugation::basic-verb
+"trabajar, ns, pret. indefinido",trabajar,pracować,to work,ns,pret_indefinido,trabajamos,,false,,conjugation::basic-verb
+"trabajar, vs, pret. indefinido",trabajar,pracować,to work,vs,pret_indefinido,trabajasteis,,false,,conjugation::basic-verb
+"trabajar, ellos, pret. indefinido",trabajar,pracować,to work,ellos,pret_indefinido,trabajaron,,false,,conjugation::basic-verb
+"trabajar, yo, pret. perfecto",trabajar,pracować,to work,yo,pret_perfecto,he trabajado,,false,,conjugation::basic-verb
+"trabajar, tú, pret. perfecto",trabajar,pracować,to work,tu,pret_perfecto,has trabajado,,false,,conjugation::basic-verb
+"trabajar, él, pret. perfecto",trabajar,pracować,to work,el,pret_perfecto,ha trabajado,,false,,conjugation::basic-verb
+"trabajar, ns, pret. perfecto",trabajar,pracować,to work,ns,pret_perfecto,hemos trabajado,,false,,conjugation::basic-verb
+"trabajar, vs, pret. perfecto",trabajar,pracować,to work,vs,pret_perfecto,habéis trabajado,,false,,conjugation::basic-verb
+"trabajar, ellos, pret. perfecto",trabajar,pracować,to work,ellos,pret_perfecto,han trabajado,,false,,conjugation::basic-verb
+"trabajar, yo, presente progresivo",trabajar,pracować,to work,yo,presente_progresivo,estoy trabajando,,false,,conjugation::basic-verb
+"trabajar, tú, presente progresivo",trabajar,pracować,to work,tu,presente_progresivo,estás trabajando,,false,,conjugation::basic-verb
+"trabajar, él, presente progresivo",trabajar,pracować,to work,el,presente_progresivo,está trabajando,,false,,conjugation::basic-verb
+"trabajar, ns, presente progresivo",trabajar,pracować,to work,ns,presente_progresivo,estamos trabajando,,false,,conjugation::basic-verb
+"trabajar, vs, presente progresivo",trabajar,pracować,to work,vs,presente_progresivo,estáis trabajando,,false,,conjugation::basic-verb
+"trabajar, ellos, presente progresivo",trabajar,pracować,to work,ellos,presente_progresivo,están trabajando,,false,,conjugation::basic-verb
+"trabajar, yo, pretérito imperfecto",trabajar,pracować,to work,yo,pret_imperfecto,trabajaba,,false,,conjugation::basic-verb
+"trabajar, tú, pretérito imperfecto",trabajar,pracować,to work,tu,pret_imperfecto,trabajabas,,false,,conjugation::basic-verb
+"trabajar, él, pretérito imperfecto",trabajar,pracować,to work,el,pret_imperfecto,trabajaba,,false,,conjugation::basic-verb
+"trabajar, ns, pretérito imperfecto",trabajar,pracować,to work,ns,pret_imperfecto,trabajábamos,,false,,conjugation::basic-verb
+"trabajar, vs, pretérito imperfecto",trabajar,pracować,to work,vs,pret_imperfecto,trabajabais,,false,,conjugation::basic-verb
+"trabajar, ellos, pretérito imperfecto",trabajar,pracować,to work,ellos,pret_imperfecto,trabajaban,,false,,conjugation::basic-verb
+"trabajar, tú, imperativo",trabajar,pracować,to work,tu,imperativo,trabaja,,false,,conjugation::basic-verb
+"trabajar, usted, imperativo",trabajar,pracować,to work,ud,imperativo,trabaje,,false,,conjugation::basic-verb
+"trabajar, ns, imperativo",trabajar,pracować,to work,ns,imperativo,trabajemos,,false,,conjugation::basic-verb
+"trabajar, vs, imperativo",trabajar,pracować,to work,vs,imperativo,trabajad,,false,,conjugation::basic-verb
+"trabajar, ustedes, imperativo",trabajar,pracować,to work,uds,imperativo,trabajen,,false,,conjugation::basic-verb
+"trabajar, yo, futuro",trabajar,pracować,to work,yo,futuro_simple,trabajaré,,false,,conjugation::basic-verb
+"trabajar, tú, futuro",trabajar,pracować,to work,tu,futuro_simple,trabajarás,,false,,conjugation::basic-verb
+"trabajar, él, futuro",trabajar,pracować,to work,el,futuro_simple,trabajará,,false,,conjugation::basic-verb
+"trabajar, ns, futuro",trabajar,pracować,to work,ns,futuro_simple,trabajaremos,,false,,conjugation::basic-verb
+"trabajar, vs, futuro",trabajar,pracować,to work,vs,futuro_simple,trabajaréis,,false,,conjugation::basic-verb
+"trabajar, ellos, futuro",trabajar,pracować,to work,ellos,futuro_simple,trabajarán,,false,,conjugation::basic-verb
 "venir, yo, presente",venir,przychodzić,to come,yo,presente,ven<em>g</em>o,,true,,conjugation::basic-verb
 "venir, tú, presente",venir,przychodzić,to come,tu,presente,v<em>i</em>enes,,true,,conjugation::basic-verb
 "venir, él, presente",venir,przychodzić,to come,el,presente,v<em>i</em>ene,,true,,conjugation::basic-verb
@@ -1316,6 +1603,47 @@
 "ver, ns, futuro",ver,oglądać,to see,ns,futuro_simple,veremos,,false,,conjugation::basic-verb
 "ver, vs, futuro",ver,oglądać,to see,vs,futuro_simple,veréis,,false,,conjugation::basic-verb
 "ver, ellos, futuro",ver,oglądać,to see,ellos,futuro_simple,verán,,false,,conjugation::basic-verb
+"vivir, yo, presente",vivir,żyć,to live,yo,presente,vivo,,false,,conjugation::basic-verb
+"vivir, tú, presente",vivir,żyć,to live,tu,presente,vives,,false,,conjugation::basic-verb
+"vivir, él, presente",vivir,żyć,to live,el,presente,vive,,false,,conjugation::basic-verb
+"vivir, ns, presente",vivir,żyć,to live,ns,presente,vivimos,,false,,conjugation::basic-verb
+"vivir, vs, presente",vivir,żyć,to live,vs,presente,vivís,,false,,conjugation::basic-verb
+"vivir, ellos, presente",vivir,żyć,to live,ellos,presente,viven,,false,,conjugation::basic-verb
+"vivir, yo, pret. indefinido",vivir,żyć,to live,yo,pret_indefinido,viví,,false,,conjugation::basic-verb
+"vivir, tú, pret. indefinido",vivir,żyć,to live,tu,pret_indefinido,viviste,,false,,conjugation::basic-verb
+"vivir, él, pret. indefinido",vivir,żyć,to live,el,pret_indefinido,vivió,,false,,conjugation::basic-verb
+"vivir, ns, pret. indefinido",vivir,żyć,to live,ns,pret_indefinido,vivimos,,false,,conjugation::basic-verb
+"vivir, vs, pret. indefinido",vivir,żyć,to live,vs,pret_indefinido,vivisteis,,false,,conjugation::basic-verb
+"vivir, ellos, pret. indefinido",vivir,żyć,to live,ellos,pret_indefinido,vivieron,,false,,conjugation::basic-verb
+"vivir, yo, pret. perfecto",vivir,żyć,to live,yo,pret_perfecto,he vivido,,false,,conjugation::basic-verb
+"vivir, tú, pret. perfecto",vivir,żyć,to live,tu,pret_perfecto,has vivido,,false,,conjugation::basic-verb
+"vivir, él, pret. perfecto",vivir,żyć,to live,el,pret_perfecto,ha vivido,,false,,conjugation::basic-verb
+"vivir, ns, pret. perfecto",vivir,żyć,to live,ns,pret_perfecto,hemos vivido,,false,,conjugation::basic-verb
+"vivir, vs, pret. perfecto",vivir,żyć,to live,vs,pret_perfecto,habéis vivido,,false,,conjugation::basic-verb
+"vivir, ellos, pret. perfecto",vivir,żyć,to live,ellos,pret_perfecto,han vivido,,false,,conjugation::basic-verb
+"vivir, yo, presente progresivo",vivir,żyć,to live,yo,presente_progresivo,estoy viviendo,,false,,conjugation::basic-verb
+"vivir, tú, presente progresivo",vivir,żyć,to live,tu,presente_progresivo,estás viviendo,,false,,conjugation::basic-verb
+"vivir, él, presente progresivo",vivir,żyć,to live,el,presente_progresivo,está viviendo,,false,,conjugation::basic-verb
+"vivir, ns, presente progresivo",vivir,żyć,to live,ns,presente_progresivo,estamos viviendo,,false,,conjugation::basic-verb
+"vivir, vs, presente progresivo",vivir,żyć,to live,vs,presente_progresivo,estáis viviendo,,false,,conjugation::basic-verb
+"vivir, ellos, presente progresivo",vivir,żyć,to live,ellos,presente_progresivo,están viviendo,,false,,conjugation::basic-verb
+"vivir, yo, pretérito imperfecto",vivir,żyć,to live,yo,pret_imperfecto,vivía,,false,,conjugation::basic-verb
+"vivir, tú, pretérito imperfecto",vivir,żyć,to live,tu,pret_imperfecto,vivías,,false,,conjugation::basic-verb
+"vivir, él, pretérito imperfecto",vivir,żyć,to live,el,pret_imperfecto,vivía,,false,,conjugation::basic-verb
+"vivir, ns, pretérito imperfecto",vivir,żyć,to live,ns,pret_imperfecto,vivíamos,,false,,conjugation::basic-verb
+"vivir, vs, pretérito imperfecto",vivir,żyć,to live,vs,pret_imperfecto,vivíais,,false,,conjugation::basic-verb
+"vivir, ellos, pretérito imperfecto",vivir,żyć,to live,ellos,pret_imperfecto,vivían,,false,,conjugation::basic-verb
+"vivir, tú, imperativo",vivir,żyć,to live,tu,imperativo,vive,,false,,conjugation::basic-verb
+"vivir, usted, imperativo",vivir,żyć,to live,ud,imperativo,viva,,false,,conjugation::basic-verb
+"vivir, ns, imperativo",vivir,żyć,to live,ns,imperativo,vivamos,,false,,conjugation::basic-verb
+"vivir, vs, imperativo",vivir,żyć,to live,vs,imperativo,vivid,,false,,conjugation::basic-verb
+"vivir, ustedes, imperativo",vivir,żyć,to live,uds,imperativo,vivan,,false,,conjugation::basic-verb
+"vivir, yo, futuro",vivir,żyć,to live,yo,futuro_simple,viviré,,false,,conjugation::basic-verb
+"vivir, tú, futuro",vivir,żyć,to live,tu,futuro_simple,vivirás,,false,,conjugation::basic-verb
+"vivir, él, futuro",vivir,żyć,to live,el,futuro_simple,vivirá,,false,,conjugation::basic-verb
+"vivir, ns, futuro",vivir,żyć,to live,ns,futuro_simple,viviremos,,false,,conjugation::basic-verb
+"vivir, vs, futuro",vivir,żyć,to live,vs,futuro_simple,viviréis,,false,,conjugation::basic-verb
+"vivir, ellos, futuro",vivir,żyć,to live,ellos,futuro_simple,vivirán,,false,,conjugation::basic-verb
 "volver, yo, presente",volver,wracać,to return,yo,presente,v<em>ue</em>lvo,wracam,true,,conjugation::po-polsku conjugation::basic-verb
 "volver, tú, presente",volver,wracać,to return,tu,presente,v<em>ue</em>lves,wracasz,true,,conjugation::po-polsku conjugation::basic-verb
 "volver, él, presente",volver,wracać,to return,el,presente,v<em>ue</em>lve,wraca,true,,conjugation::po-polsku conjugation::basic-verb

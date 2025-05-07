@@ -20,6 +20,7 @@ def prepare_conjugation(row: list[str]) -> TranslatedVerbConjugation:
     return Translator.add_translations(verb_data, params.translation_params)
 
 
+
 def main():
     with ThreadPoolExecutor(8) as p:
         with open('input/verbs.csv', encoding='utf-8') as f:

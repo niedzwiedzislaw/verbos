@@ -4,12 +4,14 @@ abrir,to open,otwierać,verbos
 acabar,to finish,kończyć,verbos
 acercarse,to approach,podejść,verbos
 acostarse,to go to bed,położyć się,verbos
+adivinar,to guess,zgadywać,verbos
 alcanzar,to reach,sięgać,verbos
 alquilar,to rent,wynajmować,verbos
 andar,to walk,chodzić,verbos
 aparcar,to park,parkować,verbos
 aprobarse,to pass,aprobować,verbos
 beber,to drink,pić,verbos
+buscar,to look for,szukać,verbos
 caerse,to fall,upaść,verbos
 causar,to cause,powodować,verbos
 cenar,to have dinner,jeść kolację,verbos
@@ -33,10 +35,13 @@ descubrir,to discover,odkryć,verbos
 despertarse,to wake up,budzić się,verbos
 doler,to hurt,boleć,verbos
 dormir,to sleep,spać,verbos
+dudar,to doubt,wątpić,verbos
 empezar,to start,zaczynać,verbos
+encontrar,to find,znaleźć,verbos
 entender,to understand,rozumieć,verbos
 equivocarse,to make a mistake,pomylić się,verbos
 escribir,to write,pisać,verbos
+escuchar,to listen to,słuchać,verbos
 esperar,to wait for,czekać,verbos
 estar,to be,być,verbos
 fregar,to wash,szorować,verbos
@@ -45,9 +50,11 @@ haber,to have,egzystować,verbos
 hacer,to do,robić,verbos
 hervir,to boil,gotować,verbos
 huir,to escape,uciekać,verbos
+imaginar,to imagine,wyobrażać sobie,verbos
 influir,to influence,wpływać,verbos
 ir,to go,iść,verbos
 jugar,to play,grać,verbos
+lavar,to wash,myć,verbos
 lavarse,to wash,myć się,verbos
 levantarse,to get up,wstać; obudzić się,verbos
 limpiar,to clean,czyścić,verbos
@@ -58,6 +65,7 @@ llover,to rain,padać,verbos
 luchar,to fight,walczyć,verbos
 marcar,to mark,zaznaczać,verbos
 medir,to measure,mierzyć,verbos
+mirar,to look at,spojrzeć,verbos
 morir,to die,umrzeć,verbos
 mostrar,to show,pokazywać,verbos
 mover,to move,przenosić,verbos
@@ -65,6 +73,7 @@ nacer,to be born,urodzić się,verbos
 obtener,to get,uzyskać,verbos
 oír,to hear,słyszeć,verbos
 oler,to smell,wąchać,verbos
+pagar,to pay,płacić,verbos
 parecer,to seem,przypominać,verbos
 pedir,to ask for,poprosić,verbos
 pensar,to think,myśleć,verbos
@@ -90,6 +99,7 @@ suponer,to suppose,przypuszczać,verbos
 sustituir,to substitute,zastępować,verbos
 tener,to have,mieć,verbos
 tocar,to touch,dotykać,verbos
+trabajar,to work,pracować,verbos
 traducir,to translate,tłumaczyć,verbos
 traer,to bring,przynieść,verbos
 tratar,to treat,próbować,verbos
@@ -99,5 +109,6 @@ venir,to come,przychodzić,verbos
 ver,to see,oglądać,verbos
 vestir,to wear,nosić,verbos
 vestirse,to get dressed,ubierać się,verbos
+vivir,to live,żyć,verbos
 volar,to fly,latać,verbos
 volver,to return,wracać,verbos

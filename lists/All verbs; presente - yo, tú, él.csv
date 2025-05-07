@@ -16,6 +16,9 @@
 "acostarse, yo, presente",acostarse,położyć się,to go to bed,yo,presente,me ac<em>ue</em>sto,kładę się,true,,conjugation::po-polsku conjugation::basic-verb
 "acostarse, tú, presente",acostarse,położyć się,to go to bed,tu,presente,te ac<em>ue</em>stas,kładziesz się,true,,conjugation::po-polsku conjugation::basic-verb
 "acostarse, él, presente",acostarse,położyć się,to go to bed,el,presente,se ac<em>ue</em>sta,kładzie się,true,,conjugation::po-polsku conjugation::basic-verb
+"adivinar, yo, presente",adivinar,zgadywać,to guess,yo,presente,adivino,,false,,
+"adivinar, tú, presente",adivinar,zgadywać,to guess,tu,presente,adivinas,,false,,
+"adivinar, él, presente",adivinar,zgadywać,to guess,el,presente,adivina,,false,,
 "alcanzar, yo, presente",alcanzar,sięgać,to reach,yo,presente,alcanzo,,false,,
 "alcanzar, tú, presente",alcanzar,sięgać,to reach,tu,presente,alcanzas,,false,,
 "alcanzar, él, presente",alcanzar,sięgać,to reach,el,presente,alcanza,,false,,
@@ -34,6 +37,9 @@
 "beber, yo, presente",beber,pić,to drink,yo,presente,bebo,,false,,
 "beber, tú, presente",beber,pić,to drink,tu,presente,bebes,,false,,
 "beber, él, presente",beber,pić,to drink,el,presente,bebe,,false,,
+"buscar, yo, presente",buscar,szukać,to look for,yo,presente,busco,,false,,conjugation::basic-verb
+"buscar, tú, presente",buscar,szukać,to look for,tu,presente,buscas,,false,,conjugation::basic-verb
+"buscar, él, presente",buscar,szukać,to look for,el,presente,busca,,false,,conjugation::basic-verb
 "caerse, yo, presente",caerse,upaść,to fall,yo,presente,me ca<em>ig</em>o,,true,,
 "caerse, tú, presente",caerse,upaść,to fall,tu,presente,te caes,,false,,
 "caerse, él, presente",caerse,upaść,to fall,el,presente,se cae,,false,,
@@ -103,9 +109,15 @@
 "dormir, yo, presente",dormir,spać,to sleep,yo,presente,d<em>ue</em>rmo,śpię,true,,conjugation::po-polsku conjugation::basic-verb
 "dormir, tú, presente",dormir,spać,to sleep,tu,presente,d<em>ue</em>rmes,śpisz,true,,conjugation::po-polsku conjugation::basic-verb
 "dormir, él, presente",dormir,spać,to sleep,el,presente,d<em>ue</em>rme,śpi,true,,conjugation::po-polsku conjugation::basic-verb
+"dudar, yo, presente",dudar,wątpić,to doubt,yo,presente,dudo,,false,,
+"dudar, tú, presente",dudar,wątpić,to doubt,tu,presente,dudas,,false,,
+"dudar, él, presente",dudar,wątpić,to doubt,el,presente,duda,,false,,
 "empezar, yo, presente",empezar,zaczynać,to start,yo,presente,emp<em>i</em>ezo,zaczynam,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, tú, presente",empezar,zaczynać,to start,tu,presente,emp<em>i</em>ezas,zaczynasz,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, él, presente",empezar,zaczynać,to start,el,presente,emp<em>i</em>eza,zaczyna,true,,conjugation::po-polsku conjugation::basic-verb
+"encontrar, yo, presente",encontrar,znaleźć,to find,yo,presente,enc<em>ue</em>ntro,,true,,conjugation::basic-verb
+"encontrar, tú, presente",encontrar,znaleźć,to find,tu,presente,enc<em>ue</em>ntras,,true,,conjugation::basic-verb
+"encontrar, él, presente",encontrar,znaleźć,to find,el,presente,enc<em>ue</em>ntra,,true,,conjugation::basic-verb
 "entender, yo, presente",entender,rozumieć,to understand,yo,presente,ent<em>i</em>endo,,true,,conjugation::basic-verb
 "entender, tú, presente",entender,rozumieć,to understand,tu,presente,ent<em>i</em>endes,,true,,conjugation::basic-verb
 "entender, él, presente",entender,rozumieć,to understand,el,presente,ent<em>i</em>ende,,true,,conjugation::basic-verb
@@ -115,6 +127,9 @@
 "escribir, yo, presente",escribir,pisać,to write,yo,presente,escribo,piszę,false,,conjugation::po-polsku
 "escribir, tú, presente",escribir,pisać,to write,tu,presente,escribes,piszesz,false,,conjugation::po-polsku
 "escribir, él, presente",escribir,pisać,to write,el,presente,escribe,pisze,false,,conjugation::po-polsku
+"escuchar, yo, presente",escuchar,słuchać,to listen to,yo,presente,escucho,,false,,conjugation::basic-verb
+"escuchar, tú, presente",escuchar,słuchać,to listen to,tu,presente,escuchas,,false,,conjugation::basic-verb
+"escuchar, él, presente",escuchar,słuchać,to listen to,el,presente,escucha,,false,,conjugation::basic-verb
 "esperar, yo, presente",esperar,czekać,to wait for,yo,presente,espero,czekam,false,,conjugation::po-polsku
 "esperar, tú, presente",esperar,czekać,to wait for,tu,presente,esperas,czekasz,false,,conjugation::po-polsku
 "esperar, él, presente",esperar,czekać,to wait for,el,presente,espera,czeka,false,,conjugation::po-polsku
@@ -139,6 +154,9 @@
 "huir, yo, presente",huir,uciekać,to escape,yo,presente,hu<em>y</em>o,,true,,
 "huir, tú, presente",huir,uciekać,to escape,tu,presente,hu<em>y</em>es,,true,,
 "huir, él, presente",huir,uciekać,to escape,el,presente,hu<em>y</em>e,,true,,
+"imaginar, yo, presente",imaginar,wyobrażać sobie,to imagine,yo,presente,imagino,,false,,
+"imaginar, tú, presente",imaginar,wyobrażać sobie,to imagine,tu,presente,imaginas,,false,,
+"imaginar, él, presente",imaginar,wyobrażać sobie,to imagine,el,presente,imagina,,false,,
 "influir, yo, presente",influir,wpływać,to influence,yo,presente,influ<em>y</em>o,,true,,
 "influir, tú, presente",influir,wpływać,to influence,tu,presente,influ<em>y</em>es,,true,,
 "influir, él, presente",influir,wpływać,to influence,el,presente,influ<em>y</em>e,,true,,
@@ -148,6 +166,9 @@
 "jugar, yo, presente",jugar,grać,to play,yo,presente,ju<em>e</em>go,,true,,
 "jugar, tú, presente",jugar,grać,to play,tu,presente,ju<em>e</em>gas,,true,,
 "jugar, él, presente",jugar,grać,to play,el,presente,ju<em>e</em>ga,,true,,
+"lavar, yo, presente",lavar,myć,to wash,yo,presente,lavo,,false,,conjugation::basic-verb
+"lavar, tú, presente",lavar,myć,to wash,tu,presente,lavas,,false,,conjugation::basic-verb
+"lavar, él, presente",lavar,myć,to wash,el,presente,lava,,false,,conjugation::basic-verb
 "lavarse, yo, presente",lavarse,myć się,to wash,yo,presente,me lavo,myję się,false,,conjugation::po-polsku
 "lavarse, tú, presente",lavarse,myć się,to wash,tu,presente,te lavas,myjesz się,false,,conjugation::po-polsku
 "lavarse, él, presente",lavarse,myć się,to wash,el,presente,se lava,myje się,false,,conjugation::po-polsku
@@ -178,6 +199,9 @@
 "medir, yo, presente",medir,mierzyć,to measure,yo,presente,m<em>i</em>do,,true,,
 "medir, tú, presente",medir,mierzyć,to measure,tu,presente,m<em>i</em>des,,true,,
 "medir, él, presente",medir,mierzyć,to measure,el,presente,m<em>i</em>de,,true,,
+"mirar, yo, presente",mirar,spojrzeć,to look at,yo,presente,miro,,false,,conjugation::basic-verb
+"mirar, tú, presente",mirar,spojrzeć,to look at,tu,presente,miras,,false,,conjugation::basic-verb
+"mirar, él, presente",mirar,spojrzeć,to look at,el,presente,mira,,false,,conjugation::basic-verb
 "morir, yo, presente",morir,umrzeć,to die,yo,presente,m<em>ue</em>ro,,true,,
 "morir, tú, presente",morir,umrzeć,to die,tu,presente,m<em>ue</em>res,,true,,
 "morir, él, presente",morir,umrzeć,to die,el,presente,m<em>ue</em>re,,true,,
@@ -199,6 +223,9 @@
 "oler, yo, presente",oler,wąchać,to smell,yo,presente,<em>hue</em>lo,,true,,
 "oler, tú, presente",oler,wąchać,to smell,tu,presente,<em>hue</em>les,,true,,
 "oler, él, presente",oler,wąchać,to smell,el,presente,<em>hue</em>le,,true,,
+"pagar, yo, presente",pagar,płacić,to pay,yo,presente,pago,,false,,conjugation::basic-verb
+"pagar, tú, presente",pagar,płacić,to pay,tu,presente,pagas,,false,,conjugation::basic-verb
+"pagar, él, presente",pagar,płacić,to pay,el,presente,paga,,false,,conjugation::basic-verb
 "parecer, yo, presente",parecer,przypominać,to seem,yo,presente,pare<em>z</em>co,,true,,
 "parecer, tú, presente",parecer,przypominać,to seem,tu,presente,pareces,,false,,
 "parecer, él, presente",parecer,przypominać,to seem,el,presente,parece,,false,,
@@ -274,6 +301,9 @@
 "tocar, yo, presente",tocar,dotykać,to touch,yo,presente,toco,,false,,
 "tocar, tú, presente",tocar,dotykać,to touch,tu,presente,tocas,,false,,
 "tocar, él, presente",tocar,dotykać,to touch,el,presente,toca,,false,,
+"trabajar, yo, presente",trabajar,pracować,to work,yo,presente,trabajo,,false,,conjugation::basic-verb
+"trabajar, tú, presente",trabajar,pracować,to work,tu,presente,trabajas,,false,,conjugation::basic-verb
+"trabajar, él, presente",trabajar,pracować,to work,el,presente,trabaja,,false,,conjugation::basic-verb
 "traducir, yo, presente",traducir,tłumaczyć,to translate,yo,presente,tradu<em>z</em>co,,true,,
 "traducir, tú, presente",traducir,tłumaczyć,to translate,tu,presente,traduces,,false,,
 "traducir, él, presente",traducir,tłumaczyć,to translate,el,presente,traduce,,false,,
@@ -301,6 +331,9 @@
 "vestirse, yo, presente",vestirse,ubierać się,to get dressed,yo,presente,me v<em>i</em>sto,ubieram się,true,,conjugation::po-polsku
 "vestirse, tú, presente",vestirse,ubierać się,to get dressed,tu,presente,te v<em>i</em>stes,ubierasz się,true,,conjugation::po-polsku
 "vestirse, él, presente",vestirse,ubierać się,to get dressed,el,presente,se v<em>i</em>ste,ubiera się,true,,conjugation::po-polsku
+"vivir, yo, presente",vivir,żyć,to live,yo,presente,vivo,,false,,conjugation::basic-verb
+"vivir, tú, presente",vivir,żyć,to live,tu,presente,vives,,false,,conjugation::basic-verb
+"vivir, él, presente",vivir,żyć,to live,el,presente,vive,,false,,conjugation::basic-verb
 "volar, yo, presente",volar,latać,to fly,yo,presente,v<em>ue</em>lo,,true,,
 "volar, tú, presente",volar,latać,to fly,tu,presente,v<em>ue</em>las,,true,,
 "volar, él, presente",volar,latać,to fly,el,presente,v<em>ue</em>la,,true,,

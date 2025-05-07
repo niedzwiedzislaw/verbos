@@ -42,6 +42,10 @@
 "aprobarse, tú, imperativo",aprobarse,aprobować,to pass,tu,imperativo,apr<em>ué</em>bate,,true,,
 "aprobarse, usted, imperativo",aprobarse,aprobować,to pass,ud,imperativo,apr<em>ué</em>bese,,true,,
 "aprobarse, ustedes, imperativo",aprobarse,aprobować,to pass,uds,imperativo,apr<em>ué</em>bense,,true,,
+"buscar, yo, pret. indefinido",buscar,szukać,to look for,yo,pret_indefinido,bus<em>qu</em>é,,true,,conjugation::basic-verb
+"buscar, usted, imperativo",buscar,szukać,to look for,ud,imperativo,bus<em>qu</em>e,,true,,conjugation::basic-verb
+"buscar, ns, imperativo",buscar,szukać,to look for,ns,imperativo,bus<em>qu</em>emos,,true,,conjugation::basic-verb
+"buscar, ustedes, imperativo",buscar,szukać,to look for,uds,imperativo,bus<em>qu</em>en,,true,,conjugation::basic-verb
 "caerse, yo, presente",caerse,upaść,to fall,yo,presente,me ca<em>ig</em>o,,true,,
 "caerse, tú, pret. indefinido",caerse,upaść,to fall,tu,pret_indefinido,te ca<em>í</em>ste,,true,,
 "caerse, él, pret. indefinido",caerse,upaść,to fall,el,pret_indefinido,se ca<em>y</em>ó,,true,,
@@ -236,6 +240,13 @@
 "empezar, usted, imperativo",empezar,zaczynać,to start,ud,imperativo,emp<em>iec</em>e,,true,,conjugation::basic-verb
 "empezar, ns, imperativo",empezar,zaczynać,to start,ns,imperativo,empe<em>c</em>emos,,true,,conjugation::basic-verb
 "empezar, ustedes, imperativo",empezar,zaczynać,to start,uds,imperativo,emp<em>iec</em>en,,true,,conjugation::basic-verb
+"encontrar, yo, presente",encontrar,znaleźć,to find,yo,presente,enc<em>ue</em>ntro,,true,,conjugation::basic-verb
+"encontrar, tú, presente",encontrar,znaleźć,to find,tu,presente,enc<em>ue</em>ntras,,true,,conjugation::basic-verb
+"encontrar, él, presente",encontrar,znaleźć,to find,el,presente,enc<em>ue</em>ntra,,true,,conjugation::basic-verb
+"encontrar, ellos, presente",encontrar,znaleźć,to find,ellos,presente,enc<em>ue</em>ntran,,true,,conjugation::basic-verb
+"encontrar, tú, imperativo",encontrar,znaleźć,to find,tu,imperativo,enc<em>ue</em>ntra,,true,,conjugation::basic-verb
+"encontrar, usted, imperativo",encontrar,znaleźć,to find,ud,imperativo,enc<em>ue</em>ntre,,true,,conjugation::basic-verb
+"encontrar, ustedes, imperativo",encontrar,znaleźć,to find,uds,imperativo,enc<em>ue</em>ntren,,true,,conjugation::basic-verb
 "entender, yo, presente",entender,rozumieć,to understand,yo,presente,ent<em>i</em>endo,,true,,conjugation::basic-verb
 "entender, tú, presente",entender,rozumieć,to understand,tu,presente,ent<em>i</em>endes,,true,,conjugation::basic-verb
 "entender, él, presente",entender,rozumieć,to understand,el,presente,ent<em>i</em>ende,,true,,conjugation::basic-verb
@@ -558,6 +569,10 @@
 "oler, tú, imperativo",oler,wąchać,to smell,tu,imperativo,<em>hue</em>le,,true,,
 "oler, usted, imperativo",oler,wąchać,to smell,ud,imperativo,<em>hue</em>la,,true,,
 "oler, ustedes, imperativo",oler,wąchać,to smell,uds,imperativo,<em>hue</em>lan,,true,,
+"pagar, yo, pret. indefinido",pagar,płacić,to pay,yo,pret_indefinido,pag<em>u</em>é,,true,,conjugation::basic-verb
+"pagar, usted, imperativo",pagar,płacić,to pay,ud,imperativo,pag<em>u</em>e,,true,,conjugation::basic-verb
+"pagar, ns, imperativo",pagar,płacić,to pay,ns,imperativo,pag<em>u</em>emos,,true,,conjugation::basic-verb
+"pagar, ustedes, imperativo",pagar,płacić,to pay,uds,imperativo,pag<em>u</em>en,,true,,conjugation::basic-verb
 "parecer, yo, presente",parecer,przypominać,to seem,yo,presente,pare<em>z</em>co,,true,,
 "parecer, usted, imperativo",parecer,przypominać,to seem,ud,imperativo,pare<em>z</em>ca,,true,,
 "parecer, ns, imperativo",parecer,przypominać,to seem,ns,imperativo,pare<em>z</em>camos,,true,,

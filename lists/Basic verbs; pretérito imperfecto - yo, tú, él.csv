@@ -10,6 +10,9 @@
 "andar, yo, pretérito imperfecto",andar,chodzić,to walk,yo,pret_imperfecto,andaba,,false,,conjugation::basic-verb
 "andar, tú, pretérito imperfecto",andar,chodzić,to walk,tu,pret_imperfecto,andabas,,false,,conjugation::basic-verb
 "andar, él, pretérito imperfecto",andar,chodzić,to walk,el,pret_imperfecto,andaba,,false,,conjugation::basic-verb
+"buscar, yo, pretérito imperfecto",buscar,szukać,to look for,yo,pret_imperfecto,buscaba,,false,,conjugation::basic-verb
+"buscar, tú, pretérito imperfecto",buscar,szukać,to look for,tu,pret_imperfecto,buscabas,,false,,conjugation::basic-verb
+"buscar, él, pretérito imperfecto",buscar,szukać,to look for,el,pret_imperfecto,buscaba,,false,,conjugation::basic-verb
 "comer, yo, pretérito imperfecto",comer,jeść,to eat,yo,pret_imperfecto,comía,,false,,conjugation::basic-verb
 "comer, tú, pretérito imperfecto",comer,jeść,to eat,tu,pret_imperfecto,comías,,false,,conjugation::basic-verb
 "comer, él, pretérito imperfecto",comer,jeść,to eat,el,pret_imperfecto,comía,,false,,conjugation::basic-verb
@@ -40,9 +43,15 @@
 "empezar, yo, pretérito imperfecto",empezar,zaczynać,to start,yo,pret_imperfecto,empezaba,,false,,conjugation::basic-verb
 "empezar, tú, pretérito imperfecto",empezar,zaczynać,to start,tu,pret_imperfecto,empezabas,,false,,conjugation::basic-verb
 "empezar, él, pretérito imperfecto",empezar,zaczynać,to start,el,pret_imperfecto,empezaba,,false,,conjugation::basic-verb
+"encontrar, yo, pretérito imperfecto",encontrar,znaleźć,to find,yo,pret_imperfecto,encontraba,,false,,conjugation::basic-verb
+"encontrar, tú, pretérito imperfecto",encontrar,znaleźć,to find,tu,pret_imperfecto,encontrabas,,false,,conjugation::basic-verb
+"encontrar, él, pretérito imperfecto",encontrar,znaleźć,to find,el,pret_imperfecto,encontraba,,false,,conjugation::basic-verb
 "entender, yo, pretérito imperfecto",entender,rozumieć,to understand,yo,pret_imperfecto,entendía,,false,,conjugation::basic-verb
 "entender, tú, pretérito imperfecto",entender,rozumieć,to understand,tu,pret_imperfecto,entendías,,false,,conjugation::basic-verb
 "entender, él, pretérito imperfecto",entender,rozumieć,to understand,el,pret_imperfecto,entendía,,false,,conjugation::basic-verb
+"escuchar, yo, pretérito imperfecto",escuchar,słuchać,to listen to,yo,pret_imperfecto,escuchaba,,false,,conjugation::basic-verb
+"escuchar, tú, pretérito imperfecto",escuchar,słuchać,to listen to,tu,pret_imperfecto,escuchabas,,false,,conjugation::basic-verb
+"escuchar, él, pretérito imperfecto",escuchar,słuchać,to listen to,el,pret_imperfecto,escuchaba,,false,,conjugation::basic-verb
 "estar, yo, pretérito imperfecto",estar,być,to be,yo,pret_imperfecto,estaba,,false,estar,conjugation::basic-verb
 "estar, tú, pretérito imperfecto",estar,być,to be,tu,pret_imperfecto,estabas,,false,estar,conjugation::basic-verb
 "estar, él, pretérito imperfecto",estar,być,to be,el,pret_imperfecto,estaba,,false,estar,conjugation::basic-verb
@@ -55,15 +64,24 @@
 "ir, yo, pretérito imperfecto",ir,iść,to go,yo,pret_imperfecto,<em>iba</em>,,true,ir,conjugation::basic-verb
 "ir, tú, pretérito imperfecto",ir,iść,to go,tu,pret_imperfecto,<em>ibas</em>,,true,ir,conjugation::basic-verb
 "ir, él, pretérito imperfecto",ir,iść,to go,el,pret_imperfecto,<em>iba</em>,,true,ir,conjugation::basic-verb
+"lavar, yo, pretérito imperfecto",lavar,myć,to wash,yo,pret_imperfecto,lavaba,,false,,conjugation::basic-verb
+"lavar, tú, pretérito imperfecto",lavar,myć,to wash,tu,pret_imperfecto,lavabas,,false,,conjugation::basic-verb
+"lavar, él, pretérito imperfecto",lavar,myć,to wash,el,pret_imperfecto,lavaba,,false,,conjugation::basic-verb
 "levantarse, yo, pretérito imperfecto",levantarse,wstać; obudzić się,to get up,yo,pret_imperfecto,me levantaba,,false,,conjugation::basic-verb
 "levantarse, tú, pretérito imperfecto",levantarse,wstać; obudzić się,to get up,tu,pret_imperfecto,te levantabas,,false,,conjugation::basic-verb
 "levantarse, él, pretérito imperfecto",levantarse,wstać; obudzić się,to get up,el,pret_imperfecto,se levantaba,,false,,conjugation::basic-verb
 "llevar, yo, pretérito imperfecto",llevar,nosić,to take,yo,pret_imperfecto,llevaba,,false,,conjugation::basic-verb
 "llevar, tú, pretérito imperfecto",llevar,nosić,to take,tu,pret_imperfecto,llevabas,,false,,conjugation::basic-verb
 "llevar, él, pretérito imperfecto",llevar,nosić,to take,el,pret_imperfecto,llevaba,,false,,conjugation::basic-verb
+"mirar, yo, pretérito imperfecto",mirar,spojrzeć,to look at,yo,pret_imperfecto,miraba,,false,,conjugation::basic-verb
+"mirar, tú, pretérito imperfecto",mirar,spojrzeć,to look at,tu,pret_imperfecto,mirabas,,false,,conjugation::basic-verb
+"mirar, él, pretérito imperfecto",mirar,spojrzeć,to look at,el,pret_imperfecto,miraba,,false,,conjugation::basic-verb
 "oír, yo, pretérito imperfecto",oír,słyszeć,to hear,yo,pret_imperfecto,oía,,false,,conjugation::basic-verb
 "oír, tú, pretérito imperfecto",oír,słyszeć,to hear,tu,pret_imperfecto,oías,,false,,conjugation::basic-verb
 "oír, él, pretérito imperfecto",oír,słyszeć,to hear,el,pret_imperfecto,oía,,false,,conjugation::basic-verb
+"pagar, yo, pretérito imperfecto",pagar,płacić,to pay,yo,pret_imperfecto,pagaba,,false,,conjugation::basic-verb
+"pagar, tú, pretérito imperfecto",pagar,płacić,to pay,tu,pret_imperfecto,pagabas,,false,,conjugation::basic-verb
+"pagar, él, pretérito imperfecto",pagar,płacić,to pay,el,pret_imperfecto,pagaba,,false,,conjugation::basic-verb
 "pedir, yo, pretérito imperfecto",pedir,poprosić,to ask for,yo,pret_imperfecto,pedía,,false,,conjugation::basic-verb
 "pedir, tú, pretérito imperfecto",pedir,poprosić,to ask for,tu,pret_imperfecto,pedías,,false,,conjugation::basic-verb
 "pedir, él, pretérito imperfecto",pedir,poprosić,to ask for,el,pret_imperfecto,pedía,,false,,conjugation::basic-verb
@@ -94,12 +112,18 @@
 "tener, yo, pretérito imperfecto",tener,mieć,to have,yo,pret_imperfecto,tenía,,false,,conjugation::basic-verb
 "tener, tú, pretérito imperfecto",tener,mieć,to have,tu,pret_imperfecto,tenías,,false,,conjugation::basic-verb
 "tener, él, pretérito imperfecto",tener,mieć,to have,el,pret_imperfecto,tenía,,false,,conjugation::basic-verb
+"trabajar, yo, pretérito imperfecto",trabajar,pracować,to work,yo,pret_imperfecto,trabajaba,,false,,conjugation::basic-verb
+"trabajar, tú, pretérito imperfecto",trabajar,pracować,to work,tu,pret_imperfecto,trabajabas,,false,,conjugation::basic-verb
+"trabajar, él, pretérito imperfecto",trabajar,pracować,to work,el,pret_imperfecto,trabajaba,,false,,conjugation::basic-verb
 "venir, yo, pretérito imperfecto",venir,przychodzić,to come,yo,pret_imperfecto,venía,,false,,conjugation::basic-verb
 "venir, tú, pretérito imperfecto",venir,przychodzić,to come,tu,pret_imperfecto,venías,,false,,conjugation::basic-verb
 "venir, él, pretérito imperfecto",venir,przychodzić,to come,el,pret_imperfecto,venía,,false,,conjugation::basic-verb
 "ver, yo, pretérito imperfecto",ver,oglądać,to see,yo,pret_imperfecto,v<em>e</em>ía,,true,,conjugation::basic-verb
 "ver, tú, pretérito imperfecto",ver,oglądać,to see,tu,pret_imperfecto,v<em>e</em>ías,,true,,conjugation::basic-verb
 "ver, él, pretérito imperfecto",ver,oglądać,to see,el,pret_imperfecto,v<em>e</em>ía,,true,,conjugation::basic-verb
+"vivir, yo, pretérito imperfecto",vivir,żyć,to live,yo,pret_imperfecto,vivía,,false,,conjugation::basic-verb
+"vivir, tú, pretérito imperfecto",vivir,żyć,to live,tu,pret_imperfecto,vivías,,false,,conjugation::basic-verb
+"vivir, él, pretérito imperfecto",vivir,żyć,to live,el,pret_imperfecto,vivía,,false,,conjugation::basic-verb
 "volver, yo, pretérito imperfecto",volver,wracać,to return,yo,pret_imperfecto,volvía,,false,,conjugation::basic-verb
 "volver, tú, pretérito imperfecto",volver,wracać,to return,tu,pret_imperfecto,volvías,,false,,conjugation::basic-verb
 "volver, él, pretérito imperfecto",volver,wracać,to return,el,pret_imperfecto,volvía,,false,,conjugation::basic-verb

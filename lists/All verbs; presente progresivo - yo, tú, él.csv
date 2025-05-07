@@ -16,6 +16,9 @@
 "acostarse, yo, presente progresivo",acostarse,położyć się,to go to bed,yo,presente_progresivo,me estoy acostando,,false,,conjugation::basic-verb
 "acostarse, tú, presente progresivo",acostarse,położyć się,to go to bed,tu,presente_progresivo,te estás acostando,,false,,conjugation::basic-verb
 "acostarse, él, presente progresivo",acostarse,położyć się,to go to bed,el,presente_progresivo,se está acostando,,false,,conjugation::basic-verb
+"adivinar, yo, presente progresivo",adivinar,zgadywać,to guess,yo,presente_progresivo,estoy adivinando,,false,,
+"adivinar, tú, presente progresivo",adivinar,zgadywać,to guess,tu,presente_progresivo,estás adivinando,,false,,
+"adivinar, él, presente progresivo",adivinar,zgadywać,to guess,el,presente_progresivo,está adivinando,,false,,
 "alcanzar, yo, presente progresivo",alcanzar,sięgać,to reach,yo,presente_progresivo,estoy alcanzando,,false,,
 "alcanzar, tú, presente progresivo",alcanzar,sięgać,to reach,tu,presente_progresivo,estás alcanzando,,false,,
 "alcanzar, él, presente progresivo",alcanzar,sięgać,to reach,el,presente_progresivo,está alcanzando,,false,,
@@ -34,6 +37,9 @@
 "beber, yo, presente progresivo",beber,pić,to drink,yo,presente_progresivo,estoy bebiendo,,false,,
 "beber, tú, presente progresivo",beber,pić,to drink,tu,presente_progresivo,estás bebiendo,,false,,
 "beber, él, presente progresivo",beber,pić,to drink,el,presente_progresivo,está bebiendo,,false,,
+"buscar, yo, presente progresivo",buscar,szukać,to look for,yo,presente_progresivo,estoy buscando,,false,,conjugation::basic-verb
+"buscar, tú, presente progresivo",buscar,szukać,to look for,tu,presente_progresivo,estás buscando,,false,,conjugation::basic-verb
+"buscar, él, presente progresivo",buscar,szukać,to look for,el,presente_progresivo,está buscando,,false,,conjugation::basic-verb
 "caerse, yo, presente progresivo",caerse,upaść,to fall,yo,presente_progresivo,me estoy ca<em>y</em>endo,,true,,
 "caerse, tú, presente progresivo",caerse,upaść,to fall,tu,presente_progresivo,te estás ca<em>y</em>endo,,true,,
 "caerse, él, presente progresivo",caerse,upaść,to fall,el,presente_progresivo,se está ca<em>y</em>endo,,true,,
@@ -103,9 +109,15 @@
 "dormir, yo, presente progresivo",dormir,spać,to sleep,yo,presente_progresivo,estoy d<em>u</em>rmiendo,,true,,conjugation::basic-verb
 "dormir, tú, presente progresivo",dormir,spać,to sleep,tu,presente_progresivo,estás d<em>u</em>rmiendo,,true,,conjugation::basic-verb
 "dormir, él, presente progresivo",dormir,spać,to sleep,el,presente_progresivo,está d<em>u</em>rmiendo,,true,,conjugation::basic-verb
+"dudar, yo, presente progresivo",dudar,wątpić,to doubt,yo,presente_progresivo,estoy dudando,,false,,
+"dudar, tú, presente progresivo",dudar,wątpić,to doubt,tu,presente_progresivo,estás dudando,,false,,
+"dudar, él, presente progresivo",dudar,wątpić,to doubt,el,presente_progresivo,está dudando,,false,,
 "empezar, yo, presente progresivo",empezar,zaczynać,to start,yo,presente_progresivo,estoy empezando,,false,,conjugation::basic-verb
 "empezar, tú, presente progresivo",empezar,zaczynać,to start,tu,presente_progresivo,estás empezando,,false,,conjugation::basic-verb
 "empezar, él, presente progresivo",empezar,zaczynać,to start,el,presente_progresivo,está empezando,,false,,conjugation::basic-verb
+"encontrar, yo, presente progresivo",encontrar,znaleźć,to find,yo,presente_progresivo,estoy encontrando,,false,,conjugation::basic-verb
+"encontrar, tú, presente progresivo",encontrar,znaleźć,to find,tu,presente_progresivo,estás encontrando,,false,,conjugation::basic-verb
+"encontrar, él, presente progresivo",encontrar,znaleźć,to find,el,presente_progresivo,está encontrando,,false,,conjugation::basic-verb
 "entender, yo, presente progresivo",entender,rozumieć,to understand,yo,presente_progresivo,estoy entendiendo,,false,,conjugation::basic-verb
 "entender, tú, presente progresivo",entender,rozumieć,to understand,tu,presente_progresivo,estás entendiendo,,false,,conjugation::basic-verb
 "entender, él, presente progresivo",entender,rozumieć,to understand,el,presente_progresivo,está entendiendo,,false,,conjugation::basic-verb
@@ -115,6 +127,9 @@
 "escribir, yo, presente progresivo",escribir,pisać,to write,yo,presente_progresivo,estoy escribiendo,,false,,
 "escribir, tú, presente progresivo",escribir,pisać,to write,tu,presente_progresivo,estás escribiendo,,false,,
 "escribir, él, presente progresivo",escribir,pisać,to write,el,presente_progresivo,está escribiendo,,false,,
+"escuchar, yo, presente progresivo",escuchar,słuchać,to listen to,yo,presente_progresivo,estoy escuchando,,false,,conjugation::basic-verb
+"escuchar, tú, presente progresivo",escuchar,słuchać,to listen to,tu,presente_progresivo,estás escuchando,,false,,conjugation::basic-verb
+"escuchar, él, presente progresivo",escuchar,słuchać,to listen to,el,presente_progresivo,está escuchando,,false,,conjugation::basic-verb
 "esperar, yo, presente progresivo",esperar,czekać,to wait for,yo,presente_progresivo,estoy esperando,,false,,
 "esperar, tú, presente progresivo",esperar,czekać,to wait for,tu,presente_progresivo,estás esperando,,false,,
 "esperar, él, presente progresivo",esperar,czekać,to wait for,el,presente_progresivo,está esperando,,false,,
@@ -139,6 +154,9 @@
 "huir, yo, presente progresivo",huir,uciekać,to escape,yo,presente_progresivo,estoy hu<em>y</em>endo,,true,,
 "huir, tú, presente progresivo",huir,uciekać,to escape,tu,presente_progresivo,estás hu<em>y</em>endo,,true,,
 "huir, él, presente progresivo",huir,uciekać,to escape,el,presente_progresivo,está hu<em>y</em>endo,,true,,
+"imaginar, yo, presente progresivo",imaginar,wyobrażać sobie,to imagine,yo,presente_progresivo,estoy imaginando,,false,,
+"imaginar, tú, presente progresivo",imaginar,wyobrażać sobie,to imagine,tu,presente_progresivo,estás imaginando,,false,,
+"imaginar, él, presente progresivo",imaginar,wyobrażać sobie,to imagine,el,presente_progresivo,está imaginando,,false,,
 "influir, yo, presente progresivo",influir,wpływać,to influence,yo,presente_progresivo,estoy influ<em>y</em>endo,,true,,
 "influir, tú, presente progresivo",influir,wpływać,to influence,tu,presente_progresivo,estás influ<em>y</em>endo,,true,,
 "influir, él, presente progresivo",influir,wpływać,to influence,el,presente_progresivo,está influ<em>y</em>endo,,true,,
@@ -148,6 +166,9 @@
 "jugar, yo, presente progresivo",jugar,grać,to play,yo,presente_progresivo,estoy jugando,,false,,
 "jugar, tú, presente progresivo",jugar,grać,to play,tu,presente_progresivo,estás jugando,,false,,
 "jugar, él, presente progresivo",jugar,grać,to play,el,presente_progresivo,está jugando,,false,,
+"lavar, yo, presente progresivo",lavar,myć,to wash,yo,presente_progresivo,estoy lavando,,false,,conjugation::basic-verb
+"lavar, tú, presente progresivo",lavar,myć,to wash,tu,presente_progresivo,estás lavando,,false,,conjugation::basic-verb
+"lavar, él, presente progresivo",lavar,myć,to wash,el,presente_progresivo,está lavando,,false,,conjugation::basic-verb
 "lavarse, yo, presente progresivo",lavarse,myć się,to wash,yo,presente_progresivo,me estoy lavando,,false,,
 "lavarse, tú, presente progresivo",lavarse,myć się,to wash,tu,presente_progresivo,te estás lavando,,false,,
 "lavarse, él, presente progresivo",lavarse,myć się,to wash,el,presente_progresivo,se está lavando,,false,,
@@ -178,6 +199,9 @@
 "medir, yo, presente progresivo",medir,mierzyć,to measure,yo,presente_progresivo,estoy m<em>i</em>diendo,,true,,
 "medir, tú, presente progresivo",medir,mierzyć,to measure,tu,presente_progresivo,estás m<em>i</em>diendo,,true,,
 "medir, él, presente progresivo",medir,mierzyć,to measure,el,presente_progresivo,está m<em>i</em>diendo,,true,,
+"mirar, yo, presente progresivo",mirar,spojrzeć,to look at,yo,presente_progresivo,estoy mirando,,false,,conjugation::basic-verb
+"mirar, tú, presente progresivo",mirar,spojrzeć,to look at,tu,presente_progresivo,estás mirando,,false,,conjugation::basic-verb
+"mirar, él, presente progresivo",mirar,spojrzeć,to look at,el,presente_progresivo,está mirando,,false,,conjugation::basic-verb
 "morir, yo, presente progresivo",morir,umrzeć,to die,yo,presente_progresivo,estoy m<em>u</em>riendo,,true,,
 "morir, tú, presente progresivo",morir,umrzeć,to die,tu,presente_progresivo,estás m<em>u</em>riendo,,true,,
 "morir, él, presente progresivo",morir,umrzeć,to die,el,presente_progresivo,está m<em>u</em>riendo,,true,,
@@ -199,6 +223,9 @@
 "oler, yo, presente progresivo",oler,wąchać,to smell,yo,presente_progresivo,estoy oliendo,,false,,
 "oler, tú, presente progresivo",oler,wąchać,to smell,tu,presente_progresivo,estás oliendo,,false,,
 "oler, él, presente progresivo",oler,wąchać,to smell,el,presente_progresivo,está oliendo,,false,,
+"pagar, yo, presente progresivo",pagar,płacić,to pay,yo,presente_progresivo,estoy pagando,,false,,conjugation::basic-verb
+"pagar, tú, presente progresivo",pagar,płacić,to pay,tu,presente_progresivo,estás pagando,,false,,conjugation::basic-verb
+"pagar, él, presente progresivo",pagar,płacić,to pay,el,presente_progresivo,está pagando,,false,,conjugation::basic-verb
 "parecer, yo, presente progresivo",parecer,przypominać,to seem,yo,presente_progresivo,estoy pareciendo,,false,,
 "parecer, tú, presente progresivo",parecer,przypominać,to seem,tu,presente_progresivo,estás pareciendo,,false,,
 "parecer, él, presente progresivo",parecer,przypominać,to seem,el,presente_progresivo,está pareciendo,,false,,
@@ -274,6 +301,9 @@
 "tocar, yo, presente progresivo",tocar,dotykać,to touch,yo,presente_progresivo,estoy tocando,,false,,
 "tocar, tú, presente progresivo",tocar,dotykać,to touch,tu,presente_progresivo,estás tocando,,false,,
 "tocar, él, presente progresivo",tocar,dotykać,to touch,el,presente_progresivo,está tocando,,false,,
+"trabajar, yo, presente progresivo",trabajar,pracować,to work,yo,presente_progresivo,estoy trabajando,,false,,conjugation::basic-verb
+"trabajar, tú, presente progresivo",trabajar,pracować,to work,tu,presente_progresivo,estás trabajando,,false,,conjugation::basic-verb
+"trabajar, él, presente progresivo",trabajar,pracować,to work,el,presente_progresivo,está trabajando,,false,,conjugation::basic-verb
 "traducir, yo, presente progresivo",traducir,tłumaczyć,to translate,yo,presente_progresivo,estoy traduciendo,,false,,
 "traducir, tú, presente progresivo",traducir,tłumaczyć,to translate,tu,presente_progresivo,estás traduciendo,,false,,
 "traducir, él, presente progresivo",traducir,tłumaczyć,to translate,el,presente_progresivo,está traduciendo,,false,,
@@ -301,6 +331,9 @@
 "vestirse, yo, presente progresivo",vestirse,ubierać się,to get dressed,yo,presente_progresivo,me estoy v<em>i</em>stiendo,,true,,
 "vestirse, tú, presente progresivo",vestirse,ubierać się,to get dressed,tu,presente_progresivo,te estás v<em>i</em>stiendo,,true,,
 "vestirse, él, presente progresivo",vestirse,ubierać się,to get dressed,el,presente_progresivo,se está v<em>i</em>stiendo,,true,,
+"vivir, yo, presente progresivo",vivir,żyć,to live,yo,presente_progresivo,estoy viviendo,,false,,conjugation::basic-verb
+"vivir, tú, presente progresivo",vivir,żyć,to live,tu,presente_progresivo,estás viviendo,,false,,conjugation::basic-verb
+"vivir, él, presente progresivo",vivir,żyć,to live,el,presente_progresivo,está viviendo,,false,,conjugation::basic-verb
 "volar, yo, presente progresivo",volar,latać,to fly,yo,presente_progresivo,estoy volando,,false,,
 "volar, tú, presente progresivo",volar,latać,to fly,tu,presente_progresivo,estás volando,,false,,
 "volar, él, presente progresivo",volar,latać,to fly,el,presente_progresivo,está volando,,false,,
