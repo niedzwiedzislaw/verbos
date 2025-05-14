@@ -94,8 +94,9 @@ class Translator:
                             substitute_end(root_pl, 'da', 'dają') or
                             substitute_end(root_pl, 'je', 'ją') or
                             substitute_end(root_pl, 'e', 'ą') or
-                            substitute_end(root_pl, 'wa', 'wają') or
-                            substitute_end(root_pl, 'a', 'ją') or
+                            # substitute_end(root_pl, 'wa', 'wają') or
+                            # substitute_end(root_pl, 'cza', 'czają') or
+                            substitute_end(root_pl, 'a', 'ają') or
                             append(root_pl, '', 'ą')
                     ) + się
 

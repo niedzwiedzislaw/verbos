@@ -94,6 +94,9 @@
 "poner, yo, pret. perfecto",poner,kłaść,to put,yo,pret_perfecto,he p<em>uest</em>o,,true,poner,conjugation::basic-verb
 "poner, tú, pret. perfecto",poner,kłaść,to put,tu,pret_perfecto,has p<em>uest</em>o,,true,poner,conjugation::basic-verb
 "poner, él, pret. perfecto",poner,kłaść,to put,el,pret_perfecto,ha p<em>uest</em>o,,true,poner,conjugation::basic-verb
+"prestar, yo, pret. perfecto",prestar,pożyczyć,to lend,yo,pret_perfecto,he prestado,,false,,conjugation::basic-verb
+"prestar, tú, pret. perfecto",prestar,pożyczyć,to lend,tu,pret_perfecto,has prestado,,false,,conjugation::basic-verb
+"prestar, él, pret. perfecto",prestar,pożyczyć,to lend,el,pret_perfecto,ha prestado,,false,,conjugation::basic-verb
 "querer, yo, pret. perfecto",querer,chcieć,to want,yo,pret_perfecto,he querido,,false,,conjugation::basic-verb
 "querer, tú, pret. perfecto",querer,chcieć,to want,tu,pret_perfecto,has querido,,false,,conjugation::basic-verb
 "querer, él, pret. perfecto",querer,chcieć,to want,el,pret_perfecto,ha querido,,false,,conjugation::basic-verb
@@ -115,6 +118,9 @@
 "trabajar, yo, pret. perfecto",trabajar,pracować,to work,yo,pret_perfecto,he trabajado,,false,,conjugation::basic-verb
 "trabajar, tú, pret. perfecto",trabajar,pracować,to work,tu,pret_perfecto,has trabajado,,false,,conjugation::basic-verb
 "trabajar, él, pret. perfecto",trabajar,pracować,to work,el,pret_perfecto,ha trabajado,,false,,conjugation::basic-verb
+"vender, yo, pret. perfecto",vender,sprzedawać,to sell,yo,pret_perfecto,he vendido,,false,,conjugation::basic-verb
+"vender, tú, pret. perfecto",vender,sprzedawać,to sell,tu,pret_perfecto,has vendido,,false,,conjugation::basic-verb
+"vender, él, pret. perfecto",vender,sprzedawać,to sell,el,pret_perfecto,ha vendido,,false,,conjugation::basic-verb
 "venir, yo, pret. perfecto",venir,przychodzić,to come,yo,pret_perfecto,he venido,,false,,conjugation::basic-verb
 "venir, tú, pret. perfecto",venir,przychodzić,to come,tu,pret_perfecto,has venido,,false,,conjugation::basic-verb
 "venir, él, pret. perfecto",venir,przychodzić,to come,el,pret_perfecto,ha venido,,false,,conjugation::basic-verb

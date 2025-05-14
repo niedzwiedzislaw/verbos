@@ -104,7 +104,7 @@
 "empezar, yo, presente",empezar,zaczynać,to start,yo,presente,emp<em>i</em>ezo,zaczynam,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, tú, presente",empezar,zaczynać,to start,tu,presente,emp<em>i</em>ezas,zaczynasz,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, él, presente",empezar,zaczynać,to start,el,presente,emp<em>i</em>eza,zaczyna,true,,conjugation::po-polsku conjugation::basic-verb
-"empezar, ellos, presente",empezar,zaczynać,to start,ellos,presente,emp<em>i</em>ezan,zaczynją,true,,conjugation::po-polsku conjugation::basic-verb
+"empezar, ellos, presente",empezar,zaczynać,to start,ellos,presente,emp<em>i</em>ezan,zaczynają,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, yo, pret. indefinido",empezar,zaczynać,to start,yo,pret_indefinido,empe<em>c</em>é,zaczynałem,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, tú, imperativo",empezar,zaczynać,to start,tu,imperativo,emp<em>i</em>eza,,true,,conjugation::basic-verb
 "empezar, usted, imperativo",empezar,zaczynać,to start,ud,imperativo,emp<em>iec</em>e,,true,,conjugation::basic-verb
@@ -397,7 +397,7 @@
 "tener, yo, presente",tener,mieć,to have,yo,presente,ten<em>g</em>o,mam,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, tú, presente",tener,mieć,to have,tu,presente,t<em>i</em>enes,masz,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, él, presente",tener,mieć,to have,el,presente,t<em>i</em>ene,ma,true,,conjugation::po-polsku conjugation::basic-verb
-"tener, ellos, presente",tener,mieć,to have,ellos,presente,t<em>i</em>enen,mją,true,,conjugation::po-polsku conjugation::basic-verb
+"tener, ellos, presente",tener,mieć,to have,ellos,presente,t<em>i</em>enen,mają,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, yo, pret. indefinido",tener,mieć,to have,yo,pret_indefinido,t<em>uve</em>,miałem,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, tú, pret. indefinido",tener,mieć,to have,tu,pret_indefinido,t<em>uv</em>iste,miałeś,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, él, pret. indefinido",tener,mieć,to have,el,pret_indefinido,t<em>uvo</em>,miał,true,,conjugation::po-polsku conjugation::basic-verb
@@ -462,7 +462,7 @@
 "volver, yo, presente",volver,wracać,to return,yo,presente,v<em>ue</em>lvo,wracam,true,,conjugation::po-polsku conjugation::basic-verb
 "volver, tú, presente",volver,wracać,to return,tu,presente,v<em>ue</em>lves,wracasz,true,,conjugation::po-polsku conjugation::basic-verb
 "volver, él, presente",volver,wracać,to return,el,presente,v<em>ue</em>lve,wraca,true,,conjugation::po-polsku conjugation::basic-verb
-"volver, ellos, presente",volver,wracać,to return,ellos,presente,v<em>ue</em>lven,wracją,true,,conjugation::po-polsku conjugation::basic-verb
+"volver, ellos, presente",volver,wracać,to return,ellos,presente,v<em>ue</em>lven,wracają,true,,conjugation::po-polsku conjugation::basic-verb
 "volver, yo, pret. perfecto",volver,wracać,to return,yo,pret_perfecto,he v<em>uelt</em>o,,true,,conjugation::basic-verb
 "volver, tú, pret. perfecto",volver,wracać,to return,tu,pret_perfecto,has v<em>uelt</em>o,,true,,conjugation::basic-verb
 "volver, él, pret. perfecto",volver,wracać,to return,el,pret_perfecto,ha v<em>uelt</em>o,,true,,conjugation::basic-verb

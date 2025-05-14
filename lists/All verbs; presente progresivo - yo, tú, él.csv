@@ -217,12 +217,12 @@
 "obtener, yo, presente progresivo",obtener,uzyskać,to get,yo,presente_progresivo,estoy obteniendo,,false,,
 "obtener, tú, presente progresivo",obtener,uzyskać,to get,tu,presente_progresivo,estás obteniendo,,false,,
 "obtener, él, presente progresivo",obtener,uzyskać,to get,el,presente_progresivo,está obteniendo,,false,,
-"oír, yo, presente progresivo",oír,słyszeć,to hear,yo,presente_progresivo,estoy o<em>y</em>endo,,true,,conjugation::basic-verb
-"oír, tú, presente progresivo",oír,słyszeć,to hear,tu,presente_progresivo,estás o<em>y</em>endo,,true,,conjugation::basic-verb
-"oír, él, presente progresivo",oír,słyszeć,to hear,el,presente_progresivo,está o<em>y</em>endo,,true,,conjugation::basic-verb
 "oler, yo, presente progresivo",oler,wąchać,to smell,yo,presente_progresivo,estoy oliendo,,false,,
 "oler, tú, presente progresivo",oler,wąchać,to smell,tu,presente_progresivo,estás oliendo,,false,,
 "oler, él, presente progresivo",oler,wąchać,to smell,el,presente_progresivo,está oliendo,,false,,
+"oír, yo, presente progresivo",oír,słyszeć,to hear,yo,presente_progresivo,estoy o<em>y</em>endo,,true,,conjugation::basic-verb
+"oír, tú, presente progresivo",oír,słyszeć,to hear,tu,presente_progresivo,estás o<em>y</em>endo,,true,,conjugation::basic-verb
+"oír, él, presente progresivo",oír,słyszeć,to hear,el,presente_progresivo,está o<em>y</em>endo,,true,,conjugation::basic-verb
 "pagar, yo, presente progresivo",pagar,płacić,to pay,yo,presente_progresivo,estoy pagando,,false,,conjugation::basic-verb
 "pagar, tú, presente progresivo",pagar,płacić,to pay,tu,presente_progresivo,estás pagando,,false,,conjugation::basic-verb
 "pagar, él, presente progresivo",pagar,płacić,to pay,el,presente_progresivo,está pagando,,false,,conjugation::basic-verb
@@ -247,6 +247,9 @@
 "preparar, yo, presente progresivo",preparar,przygotować,to prepare,yo,presente_progresivo,estoy preparando,,false,,
 "preparar, tú, presente progresivo",preparar,przygotować,to prepare,tu,presente_progresivo,estás preparando,,false,,
 "preparar, él, presente progresivo",preparar,przygotować,to prepare,el,presente_progresivo,está preparando,,false,,
+"prestar, yo, presente progresivo",prestar,pożyczyć,to lend,yo,presente_progresivo,estoy prestando,,false,,conjugation::basic-verb
+"prestar, tú, presente progresivo",prestar,pożyczyć,to lend,tu,presente_progresivo,estás prestando,,false,,conjugation::basic-verb
+"prestar, él, presente progresivo",prestar,pożyczyć,to lend,el,presente_progresivo,está prestando,,false,,conjugation::basic-verb
 "producir, yo, presente progresivo",producir,produkować,to produce,yo,presente_progresivo,estoy produciendo,,false,,
 "producir, tú, presente progresivo",producir,produkować,to produce,tu,presente_progresivo,estás produciendo,,false,,
 "producir, él, presente progresivo",producir,produkować,to produce,el,presente_progresivo,está produciendo,,false,,
@@ -319,6 +322,9 @@
 "vencer, yo, presente progresivo",vencer,pokonać,to defeat,yo,presente_progresivo,estoy venciendo,,false,,
 "vencer, tú, presente progresivo",vencer,pokonać,to defeat,tu,presente_progresivo,estás venciendo,,false,,
 "vencer, él, presente progresivo",vencer,pokonać,to defeat,el,presente_progresivo,está venciendo,,false,,
+"vender, yo, presente progresivo",vender,sprzedawać,to sell,yo,presente_progresivo,estoy vendiendo,,false,,conjugation::basic-verb
+"vender, tú, presente progresivo",vender,sprzedawać,to sell,tu,presente_progresivo,estás vendiendo,,false,,conjugation::basic-verb
+"vender, él, presente progresivo",vender,sprzedawać,to sell,el,presente_progresivo,está vendiendo,,false,,conjugation::basic-verb
 "venir, yo, presente progresivo",venir,przychodzić,to come,yo,presente_progresivo,estoy v<em>i</em>niendo,,true,,conjugation::basic-verb
 "venir, tú, presente progresivo",venir,przychodzić,to come,tu,presente_progresivo,estás v<em>i</em>niendo,,true,,conjugation::basic-verb
 "venir, él, presente progresivo",venir,przychodzić,to come,el,presente_progresivo,está v<em>i</em>niendo,,true,,conjugation::basic-verb

@@ -217,12 +217,12 @@
 "obtener, yo, presente",obtener,uzyskać,to get,yo,presente,obten<em>g</em>o,,true,,
 "obtener, tú, presente",obtener,uzyskać,to get,tu,presente,obt<em>i</em>enes,,true,,
 "obtener, él, presente",obtener,uzyskać,to get,el,presente,obt<em>i</em>ene,,true,,
-"oír, yo, presente",oír,słyszeć,to hear,yo,presente,o<em>ig</em>o,,true,,conjugation::basic-verb
-"oír, tú, presente",oír,słyszeć,to hear,tu,presente,o<em>y</em>es,,true,,conjugation::basic-verb
-"oír, él, presente",oír,słyszeć,to hear,el,presente,o<em>y</em>e,,true,,conjugation::basic-verb
 "oler, yo, presente",oler,wąchać,to smell,yo,presente,<em>hue</em>lo,,true,,
 "oler, tú, presente",oler,wąchać,to smell,tu,presente,<em>hue</em>les,,true,,
 "oler, él, presente",oler,wąchać,to smell,el,presente,<em>hue</em>le,,true,,
+"oír, yo, presente",oír,słyszeć,to hear,yo,presente,o<em>ig</em>o,,true,,conjugation::basic-verb
+"oír, tú, presente",oír,słyszeć,to hear,tu,presente,o<em>y</em>es,,true,,conjugation::basic-verb
+"oír, él, presente",oír,słyszeć,to hear,el,presente,o<em>y</em>e,,true,,conjugation::basic-verb
 "pagar, yo, presente",pagar,płacić,to pay,yo,presente,pago,,false,,conjugation::basic-verb
 "pagar, tú, presente",pagar,płacić,to pay,tu,presente,pagas,,false,,conjugation::basic-verb
 "pagar, él, presente",pagar,płacić,to pay,el,presente,paga,,false,,conjugation::basic-verb
@@ -247,6 +247,9 @@
 "preparar, yo, presente",preparar,przygotować,to prepare,yo,presente,preparo,przygotowuję,false,,conjugation::po-polsku
 "preparar, tú, presente",preparar,przygotować,to prepare,tu,presente,preparas,przygotowujesz,false,,conjugation::po-polsku
 "preparar, él, presente",preparar,przygotować,to prepare,el,presente,prepara,przygotowuje,false,,conjugation::po-polsku
+"prestar, yo, presente",prestar,pożyczyć,to lend,yo,presente,presto,pożyczam,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, tú, presente",prestar,pożyczyć,to lend,tu,presente,prestas,pożyczasz,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, él, presente",prestar,pożyczyć,to lend,el,presente,presta,pożycza,false,,conjugation::po-polsku conjugation::basic-verb
 "producir, yo, presente",producir,produkować,to produce,yo,presente,produ<em>z</em>co,,true,,
 "producir, tú, presente",producir,produkować,to produce,tu,presente,produces,,false,,
 "producir, él, presente",producir,produkować,to produce,el,presente,produce,,false,,
@@ -319,6 +322,9 @@
 "vencer, yo, presente",vencer,pokonać,to defeat,yo,presente,ven<em>z</em>o,,true,,
 "vencer, tú, presente",vencer,pokonać,to defeat,tu,presente,vences,,false,,
 "vencer, él, presente",vencer,pokonać,to defeat,el,presente,vence,,false,,
+"vender, yo, presente",vender,sprzedawać,to sell,yo,presente,vendo,sprzedaję,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, tú, presente",vender,sprzedawać,to sell,tu,presente,vendes,sprzedajesz,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, él, presente",vender,sprzedawać,to sell,el,presente,vende,sprzedaje,false,,conjugation::po-polsku conjugation::basic-verb
 "venir, yo, presente",venir,przychodzić,to come,yo,presente,ven<em>g</em>o,,true,,conjugation::basic-verb
 "venir, tú, presente",venir,przychodzić,to come,tu,presente,v<em>i</em>enes,,true,,conjugation::basic-verb
 "venir, él, presente",venir,przychodzić,to come,el,presente,v<em>i</em>ene,,true,,conjugation::basic-verb

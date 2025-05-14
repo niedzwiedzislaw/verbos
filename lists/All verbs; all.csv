@@ -624,7 +624,7 @@
 "cerrar, él, presente",cerrar,zamykać,to close,el,presente,c<em>i</em>erra,zamyka,true,,conjugation::po-polsku
 "cerrar, ns, presente",cerrar,zamykać,to close,ns,presente,cerramos,zamykamy,false,,conjugation::po-polsku
 "cerrar, vs, presente",cerrar,zamykać,to close,vs,presente,cerráis,zamykacie,false,,conjugation::po-polsku
-"cerrar, ellos, presente",cerrar,zamykać,to close,ellos,presente,c<em>i</em>erran,zamykją,true,,conjugation::po-polsku
+"cerrar, ellos, presente",cerrar,zamykać,to close,ellos,presente,c<em>i</em>erran,zamykają,true,,conjugation::po-polsku
 "cerrar, yo, pret. indefinido",cerrar,zamykać,to close,yo,pret_indefinido,cerré,zamykałem,false,,conjugation::po-polsku
 "cerrar, tú, pret. indefinido",cerrar,zamykać,to close,tu,pret_indefinido,cerraste,zamykałeś,false,,conjugation::po-polsku
 "cerrar, él, pret. indefinido",cerrar,zamykać,to close,el,pret_indefinido,cerró,zamykał,false,,conjugation::po-polsku
@@ -870,7 +870,7 @@
 "conocer, él, presente",conocer,znać,to know,el,presente,conoce,zna,false,,conjugation::po-polsku
 "conocer, ns, presente",conocer,znać,to know,ns,presente,conocemos,znamy,false,,conjugation::po-polsku
 "conocer, vs, presente",conocer,znać,to know,vs,presente,conocéis,znacie,false,,conjugation::po-polsku
-"conocer, ellos, presente",conocer,znać,to know,ellos,presente,conocen,znją,false,,conjugation::po-polsku
+"conocer, ellos, presente",conocer,znać,to know,ellos,presente,conocen,znają,false,,conjugation::po-polsku
 "conocer, yo, pret. indefinido",conocer,znać,to know,yo,pret_indefinido,conocí,znałem,false,,conjugation::po-polsku
 "conocer, tú, pret. indefinido",conocer,znać,to know,tu,pret_indefinido,conociste,znałeś,false,,conjugation::po-polsku
 "conocer, él, pret. indefinido",conocer,znać,to know,el,pret_indefinido,conoció,znał,false,,conjugation::po-polsku
@@ -1485,7 +1485,7 @@
 "empezar, él, presente",empezar,zaczynać,to start,el,presente,emp<em>i</em>eza,zaczyna,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, ns, presente",empezar,zaczynać,to start,ns,presente,empezamos,zaczynamy,false,,conjugation::po-polsku conjugation::basic-verb
 "empezar, vs, presente",empezar,zaczynać,to start,vs,presente,empezáis,zaczynacie,false,,conjugation::po-polsku conjugation::basic-verb
-"empezar, ellos, presente",empezar,zaczynać,to start,ellos,presente,emp<em>i</em>ezan,zaczynją,true,,conjugation::po-polsku conjugation::basic-verb
+"empezar, ellos, presente",empezar,zaczynać,to start,ellos,presente,emp<em>i</em>ezan,zaczynają,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, yo, pret. indefinido",empezar,zaczynać,to start,yo,pret_indefinido,empe<em>c</em>é,zaczynałem,true,,conjugation::po-polsku conjugation::basic-verb
 "empezar, tú, pret. indefinido",empezar,zaczynać,to start,tu,pret_indefinido,empezaste,zaczynałeś,false,,conjugation::po-polsku conjugation::basic-verb
 "empezar, él, pret. indefinido",empezar,zaczynać,to start,el,pret_indefinido,empezó,zaczynał,false,,conjugation::po-polsku conjugation::basic-verb
@@ -1731,7 +1731,7 @@
 "esperar, él, presente",esperar,czekać,to wait for,el,presente,espera,czeka,false,,conjugation::po-polsku
 "esperar, ns, presente",esperar,czekać,to wait for,ns,presente,esperamos,czekamy,false,,conjugation::po-polsku
 "esperar, vs, presente",esperar,czekać,to wait for,vs,presente,esperáis,czekacie,false,,conjugation::po-polsku
-"esperar, ellos, presente",esperar,czekać,to wait for,ellos,presente,esperan,czekją,false,,conjugation::po-polsku
+"esperar, ellos, presente",esperar,czekać,to wait for,ellos,presente,esperan,czekają,false,,conjugation::po-polsku
 "esperar, yo, pret. indefinido",esperar,czekać,to wait for,yo,pret_indefinido,esperé,czekałem,false,,conjugation::po-polsku
 "esperar, tú, pret. indefinido",esperar,czekać,to wait for,tu,pret_indefinido,esperaste,czekałeś,false,,conjugation::po-polsku
 "esperar, él, pret. indefinido",esperar,czekać,to wait for,el,pret_indefinido,esperó,czekał,false,,conjugation::po-polsku
@@ -2915,47 +2915,6 @@
 "obtener, ns, futuro",obtener,uzyskać,to get,ns,futuro_simple,obten<em>dr</em>emos,,true,,
 "obtener, vs, futuro",obtener,uzyskać,to get,vs,futuro_simple,obten<em>dr</em>éis,,true,,
 "obtener, ellos, futuro",obtener,uzyskać,to get,ellos,futuro_simple,obten<em>dr</em>án,,true,,
-"oír, yo, presente",oír,słyszeć,to hear,yo,presente,o<em>ig</em>o,,true,,conjugation::basic-verb
-"oír, tú, presente",oír,słyszeć,to hear,tu,presente,o<em>y</em>es,,true,,conjugation::basic-verb
-"oír, él, presente",oír,słyszeć,to hear,el,presente,o<em>y</em>e,,true,,conjugation::basic-verb
-"oír, ns, presente",oír,słyszeć,to hear,ns,presente,o<em>í</em>mos,,true,,conjugation::basic-verb
-"oír, vs, presente",oír,słyszeć,to hear,vs,presente,oís,,false,,conjugation::basic-verb
-"oír, ellos, presente",oír,słyszeć,to hear,ellos,presente,o<em>y</em>en,,true,,conjugation::basic-verb
-"oír, yo, pret. indefinido",oír,słyszeć,to hear,yo,pret_indefinido,oí,,false,,conjugation::basic-verb
-"oír, tú, pret. indefinido",oír,słyszeć,to hear,tu,pret_indefinido,o<em>í</em>ste,,true,,conjugation::basic-verb
-"oír, él, pret. indefinido",oír,słyszeć,to hear,el,pret_indefinido,o<em>y</em>ó,,true,,conjugation::basic-verb
-"oír, ns, pret. indefinido",oír,słyszeć,to hear,ns,pret_indefinido,o<em>í</em>mos,,true,,conjugation::basic-verb
-"oír, vs, pret. indefinido",oír,słyszeć,to hear,vs,pret_indefinido,o<em>í</em>steis,,true,,conjugation::basic-verb
-"oír, ellos, pret. indefinido",oír,słyszeć,to hear,ellos,pret_indefinido,o<em>y</em>eron,,true,,conjugation::basic-verb
-"oír, yo, pret. perfecto",oír,słyszeć,to hear,yo,pret_perfecto,he o<em>í</em>do,,true,,conjugation::basic-verb
-"oír, tú, pret. perfecto",oír,słyszeć,to hear,tu,pret_perfecto,has o<em>í</em>do,,true,,conjugation::basic-verb
-"oír, él, pret. perfecto",oír,słyszeć,to hear,el,pret_perfecto,ha o<em>í</em>do,,true,,conjugation::basic-verb
-"oír, ns, pret. perfecto",oír,słyszeć,to hear,ns,pret_perfecto,hemos o<em>í</em>do,,true,,conjugation::basic-verb
-"oír, vs, pret. perfecto",oír,słyszeć,to hear,vs,pret_perfecto,habéis o<em>í</em>do,,true,,conjugation::basic-verb
-"oír, ellos, pret. perfecto",oír,słyszeć,to hear,ellos,pret_perfecto,han o<em>í</em>do,,true,,conjugation::basic-verb
-"oír, yo, presente progresivo",oír,słyszeć,to hear,yo,presente_progresivo,estoy o<em>y</em>endo,,true,,conjugation::basic-verb
-"oír, tú, presente progresivo",oír,słyszeć,to hear,tu,presente_progresivo,estás o<em>y</em>endo,,true,,conjugation::basic-verb
-"oír, él, presente progresivo",oír,słyszeć,to hear,el,presente_progresivo,está o<em>y</em>endo,,true,,conjugation::basic-verb
-"oír, ns, presente progresivo",oír,słyszeć,to hear,ns,presente_progresivo,estamos o<em>y</em>endo,,true,,conjugation::basic-verb
-"oír, vs, presente progresivo",oír,słyszeć,to hear,vs,presente_progresivo,estáis o<em>y</em>endo,,true,,conjugation::basic-verb
-"oír, ellos, presente progresivo",oír,słyszeć,to hear,ellos,presente_progresivo,están o<em>y</em>endo,,true,,conjugation::basic-verb
-"oír, yo, pretérito imperfecto",oír,słyszeć,to hear,yo,pret_imperfecto,oía,,false,,conjugation::basic-verb
-"oír, tú, pretérito imperfecto",oír,słyszeć,to hear,tu,pret_imperfecto,oías,,false,,conjugation::basic-verb
-"oír, él, pretérito imperfecto",oír,słyszeć,to hear,el,pret_imperfecto,oía,,false,,conjugation::basic-verb
-"oír, ns, pretérito imperfecto",oír,słyszeć,to hear,ns,pret_imperfecto,oíamos,,false,,conjugation::basic-verb
-"oír, vs, pretérito imperfecto",oír,słyszeć,to hear,vs,pret_imperfecto,oíais,,false,,conjugation::basic-verb
-"oír, ellos, pretérito imperfecto",oír,słyszeć,to hear,ellos,pret_imperfecto,oían,,false,,conjugation::basic-verb
-"oír, tú, imperativo",oír,słyszeć,to hear,tu,imperativo,o<em>y</em>e,,true,,conjugation::basic-verb
-"oír, usted, imperativo",oír,słyszeć,to hear,ud,imperativo,o<em>ig</em>a,,true,,conjugation::basic-verb
-"oír, ns, imperativo",oír,słyszeć,to hear,ns,imperativo,o<em>ig</em>amos,,true,,conjugation::basic-verb
-"oír, vs, imperativo",oír,słyszeć,to hear,vs,imperativo,oíd,,false,,conjugation::basic-verb
-"oír, ustedes, imperativo",oír,słyszeć,to hear,uds,imperativo,o<em>ig</em>an,,true,,conjugation::basic-verb
-"oír, yo, futuro",oír,słyszeć,to hear,yo,futuro_simple,oiré,,false,,conjugation::basic-verb
-"oír, tú, futuro",oír,słyszeć,to hear,tu,futuro_simple,oirás,,false,,conjugation::basic-verb
-"oír, él, futuro",oír,słyszeć,to hear,el,futuro_simple,oirá,,false,,conjugation::basic-verb
-"oír, ns, futuro",oír,słyszeć,to hear,ns,futuro_simple,oiremos,,false,,conjugation::basic-verb
-"oír, vs, futuro",oír,słyszeć,to hear,vs,futuro_simple,oiréis,,false,,conjugation::basic-verb
-"oír, ellos, futuro",oír,słyszeć,to hear,ellos,futuro_simple,oirán,,false,,conjugation::basic-verb
 "oler, yo, presente",oler,wąchać,to smell,yo,presente,<em>hue</em>lo,,true,,
 "oler, tú, presente",oler,wąchać,to smell,tu,presente,<em>hue</em>les,,true,,
 "oler, él, presente",oler,wąchać,to smell,el,presente,<em>hue</em>le,,true,,
@@ -2997,6 +2956,47 @@
 "oler, ns, futuro",oler,wąchać,to smell,ns,futuro_simple,oleremos,,false,,
 "oler, vs, futuro",oler,wąchać,to smell,vs,futuro_simple,oleréis,,false,,
 "oler, ellos, futuro",oler,wąchać,to smell,ellos,futuro_simple,olerán,,false,,
+"oír, yo, presente",oír,słyszeć,to hear,yo,presente,o<em>ig</em>o,,true,,conjugation::basic-verb
+"oír, tú, presente",oír,słyszeć,to hear,tu,presente,o<em>y</em>es,,true,,conjugation::basic-verb
+"oír, él, presente",oír,słyszeć,to hear,el,presente,o<em>y</em>e,,true,,conjugation::basic-verb
+"oír, ns, presente",oír,słyszeć,to hear,ns,presente,o<em>í</em>mos,,true,,conjugation::basic-verb
+"oír, vs, presente",oír,słyszeć,to hear,vs,presente,oís,,false,,conjugation::basic-verb
+"oír, ellos, presente",oír,słyszeć,to hear,ellos,presente,o<em>y</em>en,,true,,conjugation::basic-verb
+"oír, yo, pret. indefinido",oír,słyszeć,to hear,yo,pret_indefinido,oí,,false,,conjugation::basic-verb
+"oír, tú, pret. indefinido",oír,słyszeć,to hear,tu,pret_indefinido,o<em>í</em>ste,,true,,conjugation::basic-verb
+"oír, él, pret. indefinido",oír,słyszeć,to hear,el,pret_indefinido,o<em>y</em>ó,,true,,conjugation::basic-verb
+"oír, ns, pret. indefinido",oír,słyszeć,to hear,ns,pret_indefinido,o<em>í</em>mos,,true,,conjugation::basic-verb
+"oír, vs, pret. indefinido",oír,słyszeć,to hear,vs,pret_indefinido,o<em>í</em>steis,,true,,conjugation::basic-verb
+"oír, ellos, pret. indefinido",oír,słyszeć,to hear,ellos,pret_indefinido,o<em>y</em>eron,,true,,conjugation::basic-verb
+"oír, yo, pret. perfecto",oír,słyszeć,to hear,yo,pret_perfecto,he o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, tú, pret. perfecto",oír,słyszeć,to hear,tu,pret_perfecto,has o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, él, pret. perfecto",oír,słyszeć,to hear,el,pret_perfecto,ha o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, ns, pret. perfecto",oír,słyszeć,to hear,ns,pret_perfecto,hemos o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, vs, pret. perfecto",oír,słyszeć,to hear,vs,pret_perfecto,habéis o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, ellos, pret. perfecto",oír,słyszeć,to hear,ellos,pret_perfecto,han o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, yo, presente progresivo",oír,słyszeć,to hear,yo,presente_progresivo,estoy o<em>y</em>endo,,true,,conjugation::basic-verb
+"oír, tú, presente progresivo",oír,słyszeć,to hear,tu,presente_progresivo,estás o<em>y</em>endo,,true,,conjugation::basic-verb
+"oír, él, presente progresivo",oír,słyszeć,to hear,el,presente_progresivo,está o<em>y</em>endo,,true,,conjugation::basic-verb
+"oír, ns, presente progresivo",oír,słyszeć,to hear,ns,presente_progresivo,estamos o<em>y</em>endo,,true,,conjugation::basic-verb
+"oír, vs, presente progresivo",oír,słyszeć,to hear,vs,presente_progresivo,estáis o<em>y</em>endo,,true,,conjugation::basic-verb
+"oír, ellos, presente progresivo",oír,słyszeć,to hear,ellos,presente_progresivo,están o<em>y</em>endo,,true,,conjugation::basic-verb
+"oír, yo, pretérito imperfecto",oír,słyszeć,to hear,yo,pret_imperfecto,oía,,false,,conjugation::basic-verb
+"oír, tú, pretérito imperfecto",oír,słyszeć,to hear,tu,pret_imperfecto,oías,,false,,conjugation::basic-verb
+"oír, él, pretérito imperfecto",oír,słyszeć,to hear,el,pret_imperfecto,oía,,false,,conjugation::basic-verb
+"oír, ns, pretérito imperfecto",oír,słyszeć,to hear,ns,pret_imperfecto,oíamos,,false,,conjugation::basic-verb
+"oír, vs, pretérito imperfecto",oír,słyszeć,to hear,vs,pret_imperfecto,oíais,,false,,conjugation::basic-verb
+"oír, ellos, pretérito imperfecto",oír,słyszeć,to hear,ellos,pret_imperfecto,oían,,false,,conjugation::basic-verb
+"oír, tú, imperativo",oír,słyszeć,to hear,tu,imperativo,o<em>y</em>e,,true,,conjugation::basic-verb
+"oír, usted, imperativo",oír,słyszeć,to hear,ud,imperativo,o<em>ig</em>a,,true,,conjugation::basic-verb
+"oír, ns, imperativo",oír,słyszeć,to hear,ns,imperativo,o<em>ig</em>amos,,true,,conjugation::basic-verb
+"oír, vs, imperativo",oír,słyszeć,to hear,vs,imperativo,oíd,,false,,conjugation::basic-verb
+"oír, ustedes, imperativo",oír,słyszeć,to hear,uds,imperativo,o<em>ig</em>an,,true,,conjugation::basic-verb
+"oír, yo, futuro",oír,słyszeć,to hear,yo,futuro_simple,oiré,,false,,conjugation::basic-verb
+"oír, tú, futuro",oír,słyszeć,to hear,tu,futuro_simple,oirás,,false,,conjugation::basic-verb
+"oír, él, futuro",oír,słyszeć,to hear,el,futuro_simple,oirá,,false,,conjugation::basic-verb
+"oír, ns, futuro",oír,słyszeć,to hear,ns,futuro_simple,oiremos,,false,,conjugation::basic-verb
+"oír, vs, futuro",oír,słyszeć,to hear,vs,futuro_simple,oiréis,,false,,conjugation::basic-verb
+"oír, ellos, futuro",oír,słyszeć,to hear,ellos,futuro_simple,oirán,,false,,conjugation::basic-verb
 "pagar, yo, presente",pagar,płacić,to pay,yo,presente,pago,,false,,conjugation::basic-verb
 "pagar, tú, presente",pagar,płacić,to pay,tu,presente,pagas,,false,,conjugation::basic-verb
 "pagar, él, presente",pagar,płacić,to pay,el,presente,paga,,false,,conjugation::basic-verb
@@ -3325,6 +3325,47 @@
 "preparar, ns, futuro",preparar,przygotować,to prepare,ns,futuro_simple,prepararemos,,false,,
 "preparar, vs, futuro",preparar,przygotować,to prepare,vs,futuro_simple,prepararéis,,false,,
 "preparar, ellos, futuro",preparar,przygotować,to prepare,ellos,futuro_simple,prepararán,,false,,
+"prestar, yo, presente",prestar,pożyczyć,to lend,yo,presente,presto,pożyczam,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, tú, presente",prestar,pożyczyć,to lend,tu,presente,prestas,pożyczasz,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, él, presente",prestar,pożyczyć,to lend,el,presente,presta,pożycza,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, ns, presente",prestar,pożyczyć,to lend,ns,presente,prestamos,pożyczamy,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, vs, presente",prestar,pożyczyć,to lend,vs,presente,prestáis,pożyczacie,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, ellos, presente",prestar,pożyczyć,to lend,ellos,presente,prestan,pożyczają,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, yo, pret. indefinido",prestar,pożyczyć,to lend,yo,pret_indefinido,presté,pożyczyłem,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, tú, pret. indefinido",prestar,pożyczyć,to lend,tu,pret_indefinido,prestaste,pożyczyłeś,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, él, pret. indefinido",prestar,pożyczyć,to lend,el,pret_indefinido,prestó,pożyczył,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, ns, pret. indefinido",prestar,pożyczyć,to lend,ns,pret_indefinido,prestamos,pożyczyliśmy,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, vs, pret. indefinido",prestar,pożyczyć,to lend,vs,pret_indefinido,prestasteis,pożyczyliście,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, ellos, pret. indefinido",prestar,pożyczyć,to lend,ellos,pret_indefinido,prestaron,pożyczyli,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, yo, pret. perfecto",prestar,pożyczyć,to lend,yo,pret_perfecto,he prestado,,false,,conjugation::basic-verb
+"prestar, tú, pret. perfecto",prestar,pożyczyć,to lend,tu,pret_perfecto,has prestado,,false,,conjugation::basic-verb
+"prestar, él, pret. perfecto",prestar,pożyczyć,to lend,el,pret_perfecto,ha prestado,,false,,conjugation::basic-verb
+"prestar, ns, pret. perfecto",prestar,pożyczyć,to lend,ns,pret_perfecto,hemos prestado,,false,,conjugation::basic-verb
+"prestar, vs, pret. perfecto",prestar,pożyczyć,to lend,vs,pret_perfecto,habéis prestado,,false,,conjugation::basic-verb
+"prestar, ellos, pret. perfecto",prestar,pożyczyć,to lend,ellos,pret_perfecto,han prestado,,false,,conjugation::basic-verb
+"prestar, yo, presente progresivo",prestar,pożyczyć,to lend,yo,presente_progresivo,estoy prestando,,false,,conjugation::basic-verb
+"prestar, tú, presente progresivo",prestar,pożyczyć,to lend,tu,presente_progresivo,estás prestando,,false,,conjugation::basic-verb
+"prestar, él, presente progresivo",prestar,pożyczyć,to lend,el,presente_progresivo,está prestando,,false,,conjugation::basic-verb
+"prestar, ns, presente progresivo",prestar,pożyczyć,to lend,ns,presente_progresivo,estamos prestando,,false,,conjugation::basic-verb
+"prestar, vs, presente progresivo",prestar,pożyczyć,to lend,vs,presente_progresivo,estáis prestando,,false,,conjugation::basic-verb
+"prestar, ellos, presente progresivo",prestar,pożyczyć,to lend,ellos,presente_progresivo,están prestando,,false,,conjugation::basic-verb
+"prestar, yo, pretérito imperfecto",prestar,pożyczyć,to lend,yo,pret_imperfecto,prestaba,,false,,conjugation::basic-verb
+"prestar, tú, pretérito imperfecto",prestar,pożyczyć,to lend,tu,pret_imperfecto,prestabas,,false,,conjugation::basic-verb
+"prestar, él, pretérito imperfecto",prestar,pożyczyć,to lend,el,pret_imperfecto,prestaba,,false,,conjugation::basic-verb
+"prestar, ns, pretérito imperfecto",prestar,pożyczyć,to lend,ns,pret_imperfecto,prestábamos,,false,,conjugation::basic-verb
+"prestar, vs, pretérito imperfecto",prestar,pożyczyć,to lend,vs,pret_imperfecto,prestabais,,false,,conjugation::basic-verb
+"prestar, ellos, pretérito imperfecto",prestar,pożyczyć,to lend,ellos,pret_imperfecto,prestaban,,false,,conjugation::basic-verb
+"prestar, tú, imperativo",prestar,pożyczyć,to lend,tu,imperativo,presta,,false,,conjugation::basic-verb
+"prestar, usted, imperativo",prestar,pożyczyć,to lend,ud,imperativo,preste,,false,,conjugation::basic-verb
+"prestar, ns, imperativo",prestar,pożyczyć,to lend,ns,imperativo,prestemos,,false,,conjugation::basic-verb
+"prestar, vs, imperativo",prestar,pożyczyć,to lend,vs,imperativo,prestad,,false,,conjugation::basic-verb
+"prestar, ustedes, imperativo",prestar,pożyczyć,to lend,uds,imperativo,presten,,false,,conjugation::basic-verb
+"prestar, yo, futuro",prestar,pożyczyć,to lend,yo,futuro_simple,prestaré,,false,,conjugation::basic-verb
+"prestar, tú, futuro",prestar,pożyczyć,to lend,tu,futuro_simple,prestarás,,false,,conjugation::basic-verb
+"prestar, él, futuro",prestar,pożyczyć,to lend,el,futuro_simple,prestará,,false,,conjugation::basic-verb
+"prestar, ns, futuro",prestar,pożyczyć,to lend,ns,futuro_simple,prestaremos,,false,,conjugation::basic-verb
+"prestar, vs, futuro",prestar,pożyczyć,to lend,vs,futuro_simple,prestaréis,,false,,conjugation::basic-verb
+"prestar, ellos, futuro",prestar,pożyczyć,to lend,ellos,futuro_simple,prestarán,,false,,conjugation::basic-verb
 "producir, yo, presente",producir,produkować,to produce,yo,presente,produ<em>z</em>co,,true,,
 "producir, tú, presente",producir,produkować,to produce,tu,presente,produces,,false,,
 "producir, él, presente",producir,produkować,to produce,el,presente,produce,,false,,
@@ -3494,7 +3535,7 @@
 "repetir, él, presente",repetir,powtarzać,to do again,el,presente,rep<em>i</em>te,powtarza,true,,conjugation::po-polsku
 "repetir, ns, presente",repetir,powtarzać,to do again,ns,presente,repetimos,powtarzamy,false,,conjugation::po-polsku
 "repetir, vs, presente",repetir,powtarzać,to do again,vs,presente,repetís,powtarzacie,false,,conjugation::po-polsku
-"repetir, ellos, presente",repetir,powtarzać,to do again,ellos,presente,rep<em>i</em>ten,powtarzją,true,,conjugation::po-polsku
+"repetir, ellos, presente",repetir,powtarzać,to do again,ellos,presente,rep<em>i</em>ten,powtarzają,true,,conjugation::po-polsku
 "repetir, yo, pret. indefinido",repetir,powtarzać,to do again,yo,pret_indefinido,repetí,powtarzałem,false,,conjugation::po-polsku
 "repetir, tú, pret. indefinido",repetir,powtarzać,to do again,tu,pret_indefinido,repetiste,powtarzałeś,false,,conjugation::po-polsku
 "repetir, él, pret. indefinido",repetir,powtarzać,to do again,el,pret_indefinido,rep<em>i</em>tió,powtarzał,true,,conjugation::po-polsku
@@ -3986,7 +4027,7 @@
 "tener, él, presente",tener,mieć,to have,el,presente,t<em>i</em>ene,ma,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, ns, presente",tener,mieć,to have,ns,presente,tenemos,mamy,false,,conjugation::po-polsku conjugation::basic-verb
 "tener, vs, presente",tener,mieć,to have,vs,presente,tenéis,macie,false,,conjugation::po-polsku conjugation::basic-verb
-"tener, ellos, presente",tener,mieć,to have,ellos,presente,t<em>i</em>enen,mją,true,,conjugation::po-polsku conjugation::basic-verb
+"tener, ellos, presente",tener,mieć,to have,ellos,presente,t<em>i</em>enen,mają,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, yo, pret. indefinido",tener,mieć,to have,yo,pret_indefinido,t<em>uve</em>,miałem,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, tú, pret. indefinido",tener,mieć,to have,tu,pret_indefinido,t<em>uv</em>iste,miałeś,true,,conjugation::po-polsku conjugation::basic-verb
 "tener, él, pret. indefinido",tener,mieć,to have,el,pret_indefinido,t<em>uvo</em>,miał,true,,conjugation::po-polsku conjugation::basic-verb
@@ -4309,6 +4350,47 @@
 "vencer, ns, futuro",vencer,pokonać,to defeat,ns,futuro_simple,venceremos,,false,,
 "vencer, vs, futuro",vencer,pokonać,to defeat,vs,futuro_simple,venceréis,,false,,
 "vencer, ellos, futuro",vencer,pokonać,to defeat,ellos,futuro_simple,vencerán,,false,,
+"vender, yo, presente",vender,sprzedawać,to sell,yo,presente,vendo,sprzedaję,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, tú, presente",vender,sprzedawać,to sell,tu,presente,vendes,sprzedajesz,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, él, presente",vender,sprzedawać,to sell,el,presente,vende,sprzedaje,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, ns, presente",vender,sprzedawać,to sell,ns,presente,vendemos,sprzedajemy,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, vs, presente",vender,sprzedawać,to sell,vs,presente,vendéis,sprzedajecie,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, ellos, presente",vender,sprzedawać,to sell,ellos,presente,venden,sprzedają,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, yo, pret. indefinido",vender,sprzedawać,to sell,yo,pret_indefinido,vendí,sprzedałem,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, tú, pret. indefinido",vender,sprzedawać,to sell,tu,pret_indefinido,vendiste,sprzedałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, él, pret. indefinido",vender,sprzedawać,to sell,el,pret_indefinido,vendió,sprzedał,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, ns, pret. indefinido",vender,sprzedawać,to sell,ns,pret_indefinido,vendimos,sprzedaliśmy,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, vs, pret. indefinido",vender,sprzedawać,to sell,vs,pret_indefinido,vendisteis,sprzedaliście,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, ellos, pret. indefinido",vender,sprzedawać,to sell,ellos,pret_indefinido,vendieron,sprzedali,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, yo, pret. perfecto",vender,sprzedawać,to sell,yo,pret_perfecto,he vendido,,false,,conjugation::basic-verb
+"vender, tú, pret. perfecto",vender,sprzedawać,to sell,tu,pret_perfecto,has vendido,,false,,conjugation::basic-verb
+"vender, él, pret. perfecto",vender,sprzedawać,to sell,el,pret_perfecto,ha vendido,,false,,conjugation::basic-verb
+"vender, ns, pret. perfecto",vender,sprzedawać,to sell,ns,pret_perfecto,hemos vendido,,false,,conjugation::basic-verb
+"vender, vs, pret. perfecto",vender,sprzedawać,to sell,vs,pret_perfecto,habéis vendido,,false,,conjugation::basic-verb
+"vender, ellos, pret. perfecto",vender,sprzedawać,to sell,ellos,pret_perfecto,han vendido,,false,,conjugation::basic-verb
+"vender, yo, presente progresivo",vender,sprzedawać,to sell,yo,presente_progresivo,estoy vendiendo,,false,,conjugation::basic-verb
+"vender, tú, presente progresivo",vender,sprzedawać,to sell,tu,presente_progresivo,estás vendiendo,,false,,conjugation::basic-verb
+"vender, él, presente progresivo",vender,sprzedawać,to sell,el,presente_progresivo,está vendiendo,,false,,conjugation::basic-verb
+"vender, ns, presente progresivo",vender,sprzedawać,to sell,ns,presente_progresivo,estamos vendiendo,,false,,conjugation::basic-verb
+"vender, vs, presente progresivo",vender,sprzedawać,to sell,vs,presente_progresivo,estáis vendiendo,,false,,conjugation::basic-verb
+"vender, ellos, presente progresivo",vender,sprzedawać,to sell,ellos,presente_progresivo,están vendiendo,,false,,conjugation::basic-verb
+"vender, yo, pretérito imperfecto",vender,sprzedawać,to sell,yo,pret_imperfecto,vendía,,false,,conjugation::basic-verb
+"vender, tú, pretérito imperfecto",vender,sprzedawać,to sell,tu,pret_imperfecto,vendías,,false,,conjugation::basic-verb
+"vender, él, pretérito imperfecto",vender,sprzedawać,to sell,el,pret_imperfecto,vendía,,false,,conjugation::basic-verb
+"vender, ns, pretérito imperfecto",vender,sprzedawać,to sell,ns,pret_imperfecto,vendíamos,,false,,conjugation::basic-verb
+"vender, vs, pretérito imperfecto",vender,sprzedawać,to sell,vs,pret_imperfecto,vendíais,,false,,conjugation::basic-verb
+"vender, ellos, pretérito imperfecto",vender,sprzedawać,to sell,ellos,pret_imperfecto,vendían,,false,,conjugation::basic-verb
+"vender, tú, imperativo",vender,sprzedawać,to sell,tu,imperativo,vende,,false,,conjugation::basic-verb
+"vender, usted, imperativo",vender,sprzedawać,to sell,ud,imperativo,venda,,false,,conjugation::basic-verb
+"vender, ns, imperativo",vender,sprzedawać,to sell,ns,imperativo,vendamos,,false,,conjugation::basic-verb
+"vender, vs, imperativo",vender,sprzedawać,to sell,vs,imperativo,vended,,false,,conjugation::basic-verb
+"vender, ustedes, imperativo",vender,sprzedawać,to sell,uds,imperativo,vendan,,false,,conjugation::basic-verb
+"vender, yo, futuro",vender,sprzedawać,to sell,yo,futuro_simple,venderé,,false,,conjugation::basic-verb
+"vender, tú, futuro",vender,sprzedawać,to sell,tu,futuro_simple,venderás,,false,,conjugation::basic-verb
+"vender, él, futuro",vender,sprzedawać,to sell,el,futuro_simple,venderá,,false,,conjugation::basic-verb
+"vender, ns, futuro",vender,sprzedawać,to sell,ns,futuro_simple,venderemos,,false,,conjugation::basic-verb
+"vender, vs, futuro",vender,sprzedawać,to sell,vs,futuro_simple,venderéis,,false,,conjugation::basic-verb
+"vender, ellos, futuro",vender,sprzedawać,to sell,ellos,futuro_simple,venderán,,false,,conjugation::basic-verb
 "venir, yo, presente",venir,przychodzić,to come,yo,presente,ven<em>g</em>o,,true,,conjugation::basic-verb
 "venir, tú, presente",venir,przychodzić,to come,tu,presente,v<em>i</em>enes,,true,,conjugation::basic-verb
 "venir, él, presente",venir,przychodzić,to come,el,presente,v<em>i</em>ene,,true,,conjugation::basic-verb
@@ -4437,7 +4519,7 @@
 "vestirse, él, presente",vestirse,ubierać się,to get dressed,el,presente,se v<em>i</em>ste,ubiera się,true,,conjugation::po-polsku
 "vestirse, ns, presente",vestirse,ubierać się,to get dressed,ns,presente,nos vestimos,ubieramy się,false,,conjugation::po-polsku
 "vestirse, vs, presente",vestirse,ubierać się,to get dressed,vs,presente,os vestís,ubieracie się,false,,conjugation::po-polsku
-"vestirse, ellos, presente",vestirse,ubierać się,to get dressed,ellos,presente,se v<em>i</em>sten,ubierją się,true,,conjugation::po-polsku
+"vestirse, ellos, presente",vestirse,ubierać się,to get dressed,ellos,presente,se v<em>i</em>sten,ubierają się,true,,conjugation::po-polsku
 "vestirse, yo, pret. indefinido",vestirse,ubierać się,to get dressed,yo,pret_indefinido,me vestí,ubierałem się,false,,conjugation::po-polsku
 "vestirse, tú, pret. indefinido",vestirse,ubierać się,to get dressed,tu,pret_indefinido,te vestiste,ubierałeś się,false,,conjugation::po-polsku
 "vestirse, él, pret. indefinido",vestirse,ubierać się,to get dressed,el,pret_indefinido,se v<em>i</em>stió,ubierał się,true,,conjugation::po-polsku
@@ -4560,7 +4642,7 @@
 "volver, él, presente",volver,wracać,to return,el,presente,v<em>ue</em>lve,wraca,true,,conjugation::po-polsku conjugation::basic-verb
 "volver, ns, presente",volver,wracać,to return,ns,presente,volvemos,wracamy,false,,conjugation::po-polsku conjugation::basic-verb
 "volver, vs, presente",volver,wracać,to return,vs,presente,volvéis,wracacie,false,,conjugation::po-polsku conjugation::basic-verb
-"volver, ellos, presente",volver,wracać,to return,ellos,presente,v<em>ue</em>lven,wracją,true,,conjugation::po-polsku conjugation::basic-verb
+"volver, ellos, presente",volver,wracać,to return,ellos,presente,v<em>ue</em>lven,wracają,true,,conjugation::po-polsku conjugation::basic-verb
 "volver, yo, pret. indefinido",volver,wracać,to return,yo,pret_indefinido,volví,wracałem,false,,conjugation::po-polsku conjugation::basic-verb
 "volver, tú, pret. indefinido",volver,wracać,to return,tu,pret_indefinido,volviste,wracałeś,false,,conjugation::po-polsku conjugation::basic-verb
 "volver, él, pret. indefinido",volver,wracać,to return,el,pret_indefinido,volvió,wracał,false,,conjugation::po-polsku conjugation::basic-verb

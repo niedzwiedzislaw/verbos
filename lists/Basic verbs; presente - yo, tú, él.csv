@@ -94,6 +94,9 @@
 "poner, yo, presente",poner,kłaść,to put,yo,presente,pon<em>g</em>o,,true,poner,conjugation::basic-verb
 "poner, tú, presente",poner,kłaść,to put,tu,presente,pones,,false,poner,conjugation::basic-verb
 "poner, él, presente",poner,kłaść,to put,el,presente,pone,,false,poner,conjugation::basic-verb
+"prestar, yo, presente",prestar,pożyczyć,to lend,yo,presente,presto,pożyczam,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, tú, presente",prestar,pożyczyć,to lend,tu,presente,prestas,pożyczasz,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, él, presente",prestar,pożyczyć,to lend,el,presente,presta,pożycza,false,,conjugation::po-polsku conjugation::basic-verb
 "querer, yo, presente",querer,chcieć,to want,yo,presente,qu<em>i</em>ero,chcę,true,,conjugation::po-polsku conjugation::basic-verb
 "querer, tú, presente",querer,chcieć,to want,tu,presente,qu<em>i</em>eres,chcesz,true,,conjugation::po-polsku conjugation::basic-verb
 "querer, él, presente",querer,chcieć,to want,el,presente,qu<em>i</em>ere,chce,true,,conjugation::po-polsku conjugation::basic-verb
@@ -115,6 +118,9 @@
 "trabajar, yo, presente",trabajar,pracować,to work,yo,presente,trabajo,,false,,conjugation::basic-verb
 "trabajar, tú, presente",trabajar,pracować,to work,tu,presente,trabajas,,false,,conjugation::basic-verb
 "trabajar, él, presente",trabajar,pracować,to work,el,presente,trabaja,,false,,conjugation::basic-verb
+"vender, yo, presente",vender,sprzedawać,to sell,yo,presente,vendo,sprzedaję,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, tú, presente",vender,sprzedawać,to sell,tu,presente,vendes,sprzedajesz,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, él, presente",vender,sprzedawać,to sell,el,presente,vende,sprzedaje,false,,conjugation::po-polsku conjugation::basic-verb
 "venir, yo, presente",venir,przychodzić,to come,yo,presente,ven<em>g</em>o,,true,,conjugation::basic-verb
 "venir, tú, presente",venir,przychodzić,to come,tu,presente,v<em>i</em>enes,,true,,conjugation::basic-verb
 "venir, él, presente",venir,przychodzić,to come,el,presente,v<em>i</em>ene,,true,,conjugation::basic-verb

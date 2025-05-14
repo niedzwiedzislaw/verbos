@@ -217,12 +217,12 @@
 "obtener, yo, pret. perfecto",obtener,uzyskać,to get,yo,pret_perfecto,he obtenido,,false,,
 "obtener, tú, pret. perfecto",obtener,uzyskać,to get,tu,pret_perfecto,has obtenido,,false,,
 "obtener, él, pret. perfecto",obtener,uzyskać,to get,el,pret_perfecto,ha obtenido,,false,,
-"oír, yo, pret. perfecto",oír,słyszeć,to hear,yo,pret_perfecto,he o<em>í</em>do,,true,,conjugation::basic-verb
-"oír, tú, pret. perfecto",oír,słyszeć,to hear,tu,pret_perfecto,has o<em>í</em>do,,true,,conjugation::basic-verb
-"oír, él, pret. perfecto",oír,słyszeć,to hear,el,pret_perfecto,ha o<em>í</em>do,,true,,conjugation::basic-verb
 "oler, yo, pret. perfecto",oler,wąchać,to smell,yo,pret_perfecto,he olido,,false,,
 "oler, tú, pret. perfecto",oler,wąchać,to smell,tu,pret_perfecto,has olido,,false,,
 "oler, él, pret. perfecto",oler,wąchać,to smell,el,pret_perfecto,ha olido,,false,,
+"oír, yo, pret. perfecto",oír,słyszeć,to hear,yo,pret_perfecto,he o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, tú, pret. perfecto",oír,słyszeć,to hear,tu,pret_perfecto,has o<em>í</em>do,,true,,conjugation::basic-verb
+"oír, él, pret. perfecto",oír,słyszeć,to hear,el,pret_perfecto,ha o<em>í</em>do,,true,,conjugation::basic-verb
 "pagar, yo, pret. perfecto",pagar,płacić,to pay,yo,pret_perfecto,he pagado,,false,,conjugation::basic-verb
 "pagar, tú, pret. perfecto",pagar,płacić,to pay,tu,pret_perfecto,has pagado,,false,,conjugation::basic-verb
 "pagar, él, pret. perfecto",pagar,płacić,to pay,el,pret_perfecto,ha pagado,,false,,conjugation::basic-verb
@@ -247,6 +247,9 @@
 "preparar, yo, pret. perfecto",preparar,przygotować,to prepare,yo,pret_perfecto,he preparado,,false,,
 "preparar, tú, pret. perfecto",preparar,przygotować,to prepare,tu,pret_perfecto,has preparado,,false,,
 "preparar, él, pret. perfecto",preparar,przygotować,to prepare,el,pret_perfecto,ha preparado,,false,,
+"prestar, yo, pret. perfecto",prestar,pożyczyć,to lend,yo,pret_perfecto,he prestado,,false,,conjugation::basic-verb
+"prestar, tú, pret. perfecto",prestar,pożyczyć,to lend,tu,pret_perfecto,has prestado,,false,,conjugation::basic-verb
+"prestar, él, pret. perfecto",prestar,pożyczyć,to lend,el,pret_perfecto,ha prestado,,false,,conjugation::basic-verb
 "producir, yo, pret. perfecto",producir,produkować,to produce,yo,pret_perfecto,he producido,,false,,
 "producir, tú, pret. perfecto",producir,produkować,to produce,tu,pret_perfecto,has producido,,false,,
 "producir, él, pret. perfecto",producir,produkować,to produce,el,pret_perfecto,ha producido,,false,,
@@ -319,6 +322,9 @@
 "vencer, yo, pret. perfecto",vencer,pokonać,to defeat,yo,pret_perfecto,he vencido,,false,,
 "vencer, tú, pret. perfecto",vencer,pokonać,to defeat,tu,pret_perfecto,has vencido,,false,,
 "vencer, él, pret. perfecto",vencer,pokonać,to defeat,el,pret_perfecto,ha vencido,,false,,
+"vender, yo, pret. perfecto",vender,sprzedawać,to sell,yo,pret_perfecto,he vendido,,false,,conjugation::basic-verb
+"vender, tú, pret. perfecto",vender,sprzedawać,to sell,tu,pret_perfecto,has vendido,,false,,conjugation::basic-verb
+"vender, él, pret. perfecto",vender,sprzedawać,to sell,el,pret_perfecto,ha vendido,,false,,conjugation::basic-verb
 "venir, yo, pret. perfecto",venir,przychodzić,to come,yo,pret_perfecto,he venido,,false,,conjugation::basic-verb
 "venir, tú, pret. perfecto",venir,przychodzić,to come,tu,pret_perfecto,has venido,,false,,conjugation::basic-verb
 "venir, él, pret. perfecto",venir,przychodzić,to come,el,pret_perfecto,ha venido,,false,,conjugation::basic-verb

@@ -24,7 +24,7 @@ def prepare_conjugation(row: list[str]) -> TranslatedVerbConjugation:
 def main():
     with ThreadPoolExecutor(8) as p:
         with open('input/verbs.csv', encoding='utf-8') as f:
-            rows = list(csv.reader(f, delimiter=',', quotechar='"'))
+            rows = list(filter(lambda x: not x[0].startswith('#'), csv.reader(f, delimiter=',', quotechar='"')))
             results = tqdm(p.map(prepare_conjugation, rows), desc='Gathering data', total=len(rows))
 
         with(open('input/basic_verbs_filter.csv', 'r', encoding='utf-8')) as f:

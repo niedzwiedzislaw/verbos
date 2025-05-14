@@ -94,6 +94,9 @@
 "poner, yo, presente progresivo",poner,kłaść,to put,yo,presente_progresivo,estoy poniendo,,false,poner,conjugation::basic-verb
 "poner, tú, presente progresivo",poner,kłaść,to put,tu,presente_progresivo,estás poniendo,,false,poner,conjugation::basic-verb
 "poner, él, presente progresivo",poner,kłaść,to put,el,presente_progresivo,está poniendo,,false,poner,conjugation::basic-verb
+"prestar, yo, presente progresivo",prestar,pożyczyć,to lend,yo,presente_progresivo,estoy prestando,,false,,conjugation::basic-verb
+"prestar, tú, presente progresivo",prestar,pożyczyć,to lend,tu,presente_progresivo,estás prestando,,false,,conjugation::basic-verb
+"prestar, él, presente progresivo",prestar,pożyczyć,to lend,el,presente_progresivo,está prestando,,false,,conjugation::basic-verb
 "querer, yo, presente progresivo",querer,chcieć,to want,yo,presente_progresivo,estoy queriendo,,false,,conjugation::basic-verb
 "querer, tú, presente progresivo",querer,chcieć,to want,tu,presente_progresivo,estás queriendo,,false,,conjugation::basic-verb
 "querer, él, presente progresivo",querer,chcieć,to want,el,presente_progresivo,está queriendo,,false,,conjugation::basic-verb
@@ -115,6 +118,9 @@
 "trabajar, yo, presente progresivo",trabajar,pracować,to work,yo,presente_progresivo,estoy trabajando,,false,,conjugation::basic-verb
 "trabajar, tú, presente progresivo",trabajar,pracować,to work,tu,presente_progresivo,estás trabajando,,false,,conjugation::basic-verb
 "trabajar, él, presente progresivo",trabajar,pracować,to work,el,presente_progresivo,está trabajando,,false,,conjugation::basic-verb
+"vender, yo, presente progresivo",vender,sprzedawać,to sell,yo,presente_progresivo,estoy vendiendo,,false,,conjugation::basic-verb
+"vender, tú, presente progresivo",vender,sprzedawać,to sell,tu,presente_progresivo,estás vendiendo,,false,,conjugation::basic-verb
+"vender, él, presente progresivo",vender,sprzedawać,to sell,el,presente_progresivo,está vendiendo,,false,,conjugation::basic-verb
 "venir, yo, presente progresivo",venir,przychodzić,to come,yo,presente_progresivo,estoy v<em>i</em>niendo,,true,,conjugation::basic-verb
 "venir, tú, presente progresivo",venir,przychodzić,to come,tu,presente_progresivo,estás v<em>i</em>niendo,,true,,conjugation::basic-verb
 "venir, él, presente progresivo",venir,przychodzić,to come,el,presente_progresivo,está v<em>i</em>niendo,,true,,conjugation::basic-verb

@@ -75,8 +75,8 @@
 "mover, tú, imperativo",mover,przenosić,to move,tu,imperativo,m<em>ue</em>ve,,true,,
 "nacer, tú, imperativo",nacer,urodzić się,to be born,tu,imperativo,nace,,false,,
 "obtener, tú, imperativo",obtener,uzyskać,to get,tu,imperativo,obt<em>én</em>,,true,,
-"oír, tú, imperativo",oír,słyszeć,to hear,tu,imperativo,o<em>y</em>e,,true,,conjugation::basic-verb
 "oler, tú, imperativo",oler,wąchać,to smell,tu,imperativo,<em>hue</em>le,,true,,
+"oír, tú, imperativo",oír,słyszeć,to hear,tu,imperativo,o<em>y</em>e,,true,,conjugation::basic-verb
 "pagar, tú, imperativo",pagar,płacić,to pay,tu,imperativo,paga,,false,,conjugation::basic-verb
 "parecer, tú, imperativo",parecer,przypominać,to seem,tu,imperativo,parece,,false,,
 "pedir, tú, imperativo",pedir,poprosić,to ask for,tu,imperativo,p<em>i</em>de,,true,,conjugation::basic-verb
@@ -85,6 +85,7 @@
 "poner, tú, imperativo",poner,kłaść,to put,tu,imperativo,po<em>n</em>,,true,poner,conjugation::basic-verb
 "preferir, tú, imperativo",preferir,preferować,to prefer,tu,imperativo,pref<em>i</em>ere,,true,,
 "preparar, tú, imperativo",preparar,przygotować,to prepare,tu,imperativo,prepara,,false,,
+"prestar, tú, imperativo",prestar,pożyczyć,to lend,tu,imperativo,presta,,false,,conjugation::basic-verb
 "producir, tú, imperativo",producir,produkować,to produce,tu,imperativo,produce,,false,,
 "prohibir, tú, imperativo",prohibir,zabronić,to prohibit,tu,imperativo,proh<em>í</em>be,,true,,
 "querer, tú, imperativo",querer,chcieć,to want,tu,imperativo,qu<em>i</em>ere,,true,,conjugation::basic-verb
@@ -109,6 +110,7 @@
 "tratar, tú, imperativo",tratar,próbować,to treat,tu,imperativo,trata,,false,,
 "utilizar, tú, imperativo",utilizar,używać,to use,tu,imperativo,utiliza,,false,,
 "vencer, tú, imperativo",vencer,pokonać,to defeat,tu,imperativo,vence,,false,,
+"vender, tú, imperativo",vender,sprzedawać,to sell,tu,imperativo,vende,,false,,conjugation::basic-verb
 "venir, tú, imperativo",venir,przychodzić,to come,tu,imperativo,ve<em>n</em>,,true,,conjugation::basic-verb
 "ver, tú, imperativo",ver,oglądać,to see,tu,imperativo,ve,,false,,conjugation::basic-verb
 "vestir, tú, imperativo",vestir,nosić,to wear,tu,imperativo,v<em>i</em>ste,,true,vestir,

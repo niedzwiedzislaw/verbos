@@ -71,8 +71,8 @@ mostrar,to show,pokazywać,verbos
 mover,to move,przenosić,verbos
 nacer,to be born,urodzić się,verbos
 obtener,to get,uzyskać,verbos
-oír,to hear,słyszeć,verbos
 oler,to smell,wąchać,verbos
+oír,to hear,słyszeć,verbos
 pagar,to pay,płacić,verbos
 parecer,to seem,przypominać,verbos
 pedir,to ask for,poprosić,verbos
@@ -81,6 +81,7 @@ poder,to be able to,móc,verbos
 poner,to put,kłaść,verbos
 preferir,to prefer,preferować,verbos
 preparar,to prepare,przygotować,verbos
+prestar,to lend,pożyczyć,verbos
 producir,to produce,produkować,verbos
 prohibir,to prohibit,zabronić,verbos
 querer,to want,chcieć,verbos
@@ -105,6 +106,7 @@ traer,to bring,przynieść,verbos
 tratar,to treat,próbować,verbos
 utilizar,to use,używać,verbos
 vencer,to defeat,pokonać,verbos
+vender,to sell,sprzedawać,verbos
 venir,to come,przychodzić,verbos
 ver,to see,oglądać,verbos
 vestir,to wear,nosić,verbos

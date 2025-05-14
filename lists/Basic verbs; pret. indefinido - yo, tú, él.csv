@@ -94,6 +94,9 @@
 "poner, yo, pret. indefinido",poner,kłaść,to put,yo,pret_indefinido,p<em>use</em>,,true,poner,conjugation::basic-verb
 "poner, tú, pret. indefinido",poner,kłaść,to put,tu,pret_indefinido,p<em>us</em>iste,,true,poner,conjugation::basic-verb
 "poner, él, pret. indefinido",poner,kłaść,to put,el,pret_indefinido,p<em>uso</em>,,true,poner,conjugation::basic-verb
+"prestar, yo, pret. indefinido",prestar,pożyczyć,to lend,yo,pret_indefinido,presté,pożyczyłem,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, tú, pret. indefinido",prestar,pożyczyć,to lend,tu,pret_indefinido,prestaste,pożyczyłeś,false,,conjugation::po-polsku conjugation::basic-verb
+"prestar, él, pret. indefinido",prestar,pożyczyć,to lend,el,pret_indefinido,prestó,pożyczył,false,,conjugation::po-polsku conjugation::basic-verb
 "querer, yo, pret. indefinido",querer,chcieć,to want,yo,pret_indefinido,qu<em>ise</em>,chciałem,true,,conjugation::po-polsku conjugation::basic-verb
 "querer, tú, pret. indefinido",querer,chcieć,to want,tu,pret_indefinido,qu<em>is</em>iste,chciałeś,true,,conjugation::po-polsku conjugation::basic-verb
 "querer, él, pret. indefinido",querer,chcieć,to want,el,pret_indefinido,qu<em>iso</em>,chciał,true,,conjugation::po-polsku conjugation::basic-verb
@@ -115,6 +118,9 @@
 "trabajar, yo, pret. indefinido",trabajar,pracować,to work,yo,pret_indefinido,trabajé,,false,,conjugation::basic-verb
 "trabajar, tú, pret. indefinido",trabajar,pracować,to work,tu,pret_indefinido,trabajaste,,false,,conjugation::basic-verb
 "trabajar, él, pret. indefinido",trabajar,pracować,to work,el,pret_indefinido,trabajó,,false,,conjugation::basic-verb
+"vender, yo, pret. indefinido",vender,sprzedawać,to sell,yo,pret_indefinido,vendí,sprzedałem,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, tú, pret. indefinido",vender,sprzedawać,to sell,tu,pret_indefinido,vendiste,sprzedałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"vender, él, pret. indefinido",vender,sprzedawać,to sell,el,pret_indefinido,vendió,sprzedał,false,,conjugation::po-polsku conjugation::basic-verb
 "venir, yo, pret. indefinido",venir,przychodzić,to come,yo,pret_indefinido,v<em>ine</em>,,true,,conjugation::basic-verb
 "venir, tú, pret. indefinido",venir,przychodzić,to come,tu,pret_indefinido,v<em>i</em>niste,,true,,conjugation::basic-verb
 "venir, él, pret. indefinido",venir,przychodzić,to come,el,pret_indefinido,v<em>ino</em>,,true,,conjugation::basic-verb

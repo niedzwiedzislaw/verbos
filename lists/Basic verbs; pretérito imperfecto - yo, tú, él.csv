@@ -94,6 +94,9 @@
 "poner, yo, pretérito imperfecto",poner,kłaść,to put,yo,pret_imperfecto,ponía,,false,poner,conjugation::basic-verb
 "poner, tú, pretérito imperfecto",poner,kłaść,to put,tu,pret_imperfecto,ponías,,false,poner,conjugation::basic-verb
 "poner, él, pretérito imperfecto",poner,kłaść,to put,el,pret_imperfecto,ponía,,false,poner,conjugation::basic-verb
+"prestar, yo, pretérito imperfecto",prestar,pożyczyć,to lend,yo,pret_imperfecto,prestaba,,false,,conjugation::basic-verb
+"prestar, tú, pretérito imperfecto",prestar,pożyczyć,to lend,tu,pret_imperfecto,prestabas,,false,,conjugation::basic-verb
+"prestar, él, pretérito imperfecto",prestar,pożyczyć,to lend,el,pret_imperfecto,prestaba,,false,,conjugation::basic-verb
 "querer, yo, pretérito imperfecto",querer,chcieć,to want,yo,pret_imperfecto,quería,,false,,conjugation::basic-verb
 "querer, tú, pretérito imperfecto",querer,chcieć,to want,tu,pret_imperfecto,querías,,false,,conjugation::basic-verb
 "querer, él, pretérito imperfecto",querer,chcieć,to want,el,pret_imperfecto,quería,,false,,conjugation::basic-verb
@@ -115,6 +118,9 @@
 "trabajar, yo, pretérito imperfecto",trabajar,pracować,to work,yo,pret_imperfecto,trabajaba,,false,,conjugation::basic-verb
 "trabajar, tú, pretérito imperfecto",trabajar,pracować,to work,tu,pret_imperfecto,trabajabas,,false,,conjugation::basic-verb
 "trabajar, él, pretérito imperfecto",trabajar,pracować,to work,el,pret_imperfecto,trabajaba,,false,,conjugation::basic-verb
+"vender, yo, pretérito imperfecto",vender,sprzedawać,to sell,yo,pret_imperfecto,vendía,,false,,conjugation::basic-verb
+"vender, tú, pretérito imperfecto",vender,sprzedawać,to sell,tu,pret_imperfecto,vendías,,false,,conjugation::basic-verb
+"vender, él, pretérito imperfecto",vender,sprzedawać,to sell,el,pret_imperfecto,vendía,,false,,conjugation::basic-verb
 "venir, yo, pretérito imperfecto",venir,przychodzić,to come,yo,pret_imperfecto,venía,,false,,conjugation::basic-verb
 "venir, tú, pretérito imperfecto",venir,przychodzić,to come,tu,pret_imperfecto,venías,,false,,conjugation::basic-verb
 "venir, él, pretérito imperfecto",venir,przychodzić,to come,el,pret_imperfecto,venía,,false,,conjugation::basic-verb

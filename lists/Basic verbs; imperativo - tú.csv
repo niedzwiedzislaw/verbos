@@ -34,6 +34,7 @@
 "pensar, tú, imperativo",pensar,myśleć,to think,tu,imperativo,p<em>i</em>ensa,,true,,conjugation::basic-verb
 "poder, tú, imperativo",poder,móc,to be able to,tu,imperativo,p<em>ue</em>de,,true,,conjugation::basic-verb
 "poner, tú, imperativo",poner,kłaść,to put,tu,imperativo,po<em>n</em>,,true,poner,conjugation::basic-verb
+"prestar, tú, imperativo",prestar,pożyczyć,to lend,tu,imperativo,presta,,false,,conjugation::basic-verb
 "querer, tú, imperativo",querer,chcieć,to want,tu,imperativo,qu<em>i</em>ere,,true,,conjugation::basic-verb
 "saber, tú, imperativo",saber,wiedzieć,to know,tu,imperativo,sabe,,false,,conjugation::basic-verb
 "salir, tú, imperativo",salir,wychodzić,to go out,tu,imperativo,sa<em>l</em>,,true,,conjugation::basic-verb
@@ -41,6 +42,7 @@
 "ser, tú, imperativo",ser,być,to be,tu,imperativo,s<em>é</em>,,true,ser,conjugation::basic-verb
 "tener, tú, imperativo",tener,mieć,to have,tu,imperativo,te<em>n</em>,,true,,conjugation::basic-verb
 "trabajar, tú, imperativo",trabajar,pracować,to work,tu,imperativo,trabaja,,false,,conjugation::basic-verb
+"vender, tú, imperativo",vender,sprzedawać,to sell,tu,imperativo,vende,,false,,conjugation::basic-verb
 "venir, tú, imperativo",venir,przychodzić,to come,tu,imperativo,ve<em>n</em>,,true,,conjugation::basic-verb
 "ver, tú, imperativo",ver,oglądać,to see,tu,imperativo,ve,,false,,conjugation::basic-verb
 "vivir, tú, imperativo",vivir,żyć,to live,tu,imperativo,vive,,false,,conjugation::basic-verb

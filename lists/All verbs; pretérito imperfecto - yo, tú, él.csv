@@ -217,12 +217,12 @@
 "obtener, yo, pretérito imperfecto",obtener,uzyskać,to get,yo,pret_imperfecto,obtenía,,false,,
 "obtener, tú, pretérito imperfecto",obtener,uzyskać,to get,tu,pret_imperfecto,obtenías,,false,,
 "obtener, él, pretérito imperfecto",obtener,uzyskać,to get,el,pret_imperfecto,obtenía,,false,,
-"oír, yo, pretérito imperfecto",oír,słyszeć,to hear,yo,pret_imperfecto,oía,,false,,conjugation::basic-verb
-"oír, tú, pretérito imperfecto",oír,słyszeć,to hear,tu,pret_imperfecto,oías,,false,,conjugation::basic-verb
-"oír, él, pretérito imperfecto",oír,słyszeć,to hear,el,pret_imperfecto,oía,,false,,conjugation::basic-verb
 "oler, yo, pretérito imperfecto",oler,wąchać,to smell,yo,pret_imperfecto,olía,,false,,
 "oler, tú, pretérito imperfecto",oler,wąchać,to smell,tu,pret_imperfecto,olías,,false,,
 "oler, él, pretérito imperfecto",oler,wąchać,to smell,el,pret_imperfecto,olía,,false,,
+"oír, yo, pretérito imperfecto",oír,słyszeć,to hear,yo,pret_imperfecto,oía,,false,,conjugation::basic-verb
+"oír, tú, pretérito imperfecto",oír,słyszeć,to hear,tu,pret_imperfecto,oías,,false,,conjugation::basic-verb
+"oír, él, pretérito imperfecto",oír,słyszeć,to hear,el,pret_imperfecto,oía,,false,,conjugation::basic-verb
 "pagar, yo, pretérito imperfecto",pagar,płacić,to pay,yo,pret_imperfecto,pagaba,,false,,conjugation::basic-verb
 "pagar, tú, pretérito imperfecto",pagar,płacić,to pay,tu,pret_imperfecto,pagabas,,false,,conjugation::basic-verb
 "pagar, él, pretérito imperfecto",pagar,płacić,to pay,el,pret_imperfecto,pagaba,,false,,conjugation::basic-verb
@@ -247,6 +247,9 @@
 "preparar, yo, pretérito imperfecto",preparar,przygotować,to prepare,yo,pret_imperfecto,preparaba,,false,,
 "preparar, tú, pretérito imperfecto",preparar,przygotować,to prepare,tu,pret_imperfecto,preparabas,,false,,
 "preparar, él, pretérito imperfecto",preparar,przygotować,to prepare,el,pret_imperfecto,preparaba,,false,,
+"prestar, yo, pretérito imperfecto",prestar,pożyczyć,to lend,yo,pret_imperfecto,prestaba,,false,,conjugation::basic-verb
+"prestar, tú, pretérito imperfecto",prestar,pożyczyć,to lend,tu,pret_imperfecto,prestabas,,false,,conjugation::basic-verb
+"prestar, él, pretérito imperfecto",prestar,pożyczyć,to lend,el,pret_imperfecto,prestaba,,false,,conjugation::basic-verb
 "producir, yo, pretérito imperfecto",producir,produkować,to produce,yo,pret_imperfecto,producía,,false,,
 "producir, tú, pretérito imperfecto",producir,produkować,to produce,tu,pret_imperfecto,producías,,false,,
 "producir, él, pretérito imperfecto",producir,produkować,to produce,el,pret_imperfecto,producía,,false,,
@@ -319,6 +322,9 @@
 "vencer, yo, pretérito imperfecto",vencer,pokonać,to defeat,yo,pret_imperfecto,vencía,,false,,
 "vencer, tú, pretérito imperfecto",vencer,pokonać,to defeat,tu,pret_imperfecto,vencías,,false,,
 "vencer, él, pretérito imperfecto",vencer,pokonać,to defeat,el,pret_imperfecto,vencía,,false,,
+"vender, yo, pretérito imperfecto",vender,sprzedawać,to sell,yo,pret_imperfecto,vendía,,false,,conjugation::basic-verb
+"vender, tú, pretérito imperfecto",vender,sprzedawać,to sell,tu,pret_imperfecto,vendías,,false,,conjugation::basic-verb
+"vender, él, pretérito imperfecto",vender,sprzedawać,to sell,el,pret_imperfecto,vendía,,false,,conjugation::basic-verb
 "venir, yo, pretérito imperfecto",venir,przychodzić,to come,yo,pret_imperfecto,venía,,false,,conjugation::basic-verb
 "venir, tú, pretérito imperfecto",venir,przychodzić,to come,tu,pret_imperfecto,venías,,false,,conjugation::basic-verb
 "venir, él, pretérito imperfecto",venir,przychodzić,to come,el,pret_imperfecto,venía,,false,,conjugation::basic-verb
