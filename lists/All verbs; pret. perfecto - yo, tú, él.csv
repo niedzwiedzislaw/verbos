@@ -88,9 +88,9 @@
 "deber, yo, pret. perfecto",deber,musieć,to owe,yo,pret_perfecto,he debido,,false,,
 "deber, tú, pret. perfecto",deber,musieć,to owe,tu,pret_perfecto,has debido,,false,,
 "deber, él, pret. perfecto",deber,musieć,to owe,el,pret_perfecto,ha debido,,false,,
-"decir, yo, pret. perfecto",decir,mówić,to say,yo,pret_perfecto,he d<em>ich</em>o,,true,,conjugation::basic-verb
-"decir, tú, pret. perfecto",decir,mówić,to say,tu,pret_perfecto,has d<em>ich</em>o,,true,,conjugation::basic-verb
-"decir, él, pret. perfecto",decir,mówić,to say,el,pret_perfecto,ha d<em>ich</em>o,,true,,conjugation::basic-verb
+"decir, yo, pret. perfecto",decir,mówić,to say,yo,pret_perfecto,he d<em>ich</em>o,,true,decir,conjugation::basic-verb
+"decir, tú, pret. perfecto",decir,mówić,to say,tu,pret_perfecto,has d<em>ich</em>o,,true,decir,conjugation::basic-verb
+"decir, él, pret. perfecto",decir,mówić,to say,el,pret_perfecto,ha d<em>ich</em>o,,true,decir,conjugation::basic-verb
 "dejar, yo, pret. perfecto",dejar,pozostawić,to leave,yo,pret_perfecto,he dejado,,false,,conjugation::basic-verb
 "dejar, tú, pret. perfecto",dejar,pozostawić,to leave,tu,pret_perfecto,has dejado,,false,,conjugation::basic-verb
 "dejar, él, pret. perfecto",dejar,pozostawić,to leave,el,pret_perfecto,ha dejado,,false,,conjugation::basic-verb
@@ -121,6 +121,9 @@
 "entender, yo, pret. perfecto",entender,rozumieć,to understand,yo,pret_perfecto,he entendido,,false,,conjugation::basic-verb
 "entender, tú, pret. perfecto",entender,rozumieć,to understand,tu,pret_perfecto,has entendido,,false,,conjugation::basic-verb
 "entender, él, pret. perfecto",entender,rozumieć,to understand,el,pret_perfecto,ha entendido,,false,,conjugation::basic-verb
+"enviar, yo, pret. perfecto",enviar,przesłać,to send,yo,pret_perfecto,he enviado,,false,,
+"enviar, tú, pret. perfecto",enviar,przesłać,to send,tu,pret_perfecto,has enviado,,false,,
+"enviar, él, pret. perfecto",enviar,przesłać,to send,el,pret_perfecto,ha enviado,,false,,
 "equivocarse, yo, pret. perfecto",equivocarse,pomylić się,to make a mistake,yo,pret_perfecto,me he equivocado,,false,,
 "equivocarse, tú, pret. perfecto",equivocarse,pomylić się,to make a mistake,tu,pret_perfecto,te has equivocado,,false,,
 "equivocarse, él, pret. perfecto",equivocarse,pomylić się,to make a mistake,el,pret_perfecto,se ha equivocado,,false,,
@@ -145,6 +148,9 @@
 "haber, yo, pret. perfecto",haber,egzystować,to have,yo,pret_perfecto,he habido,,false,,conjugation::basic-verb
 "haber, tú, pret. perfecto",haber,egzystować,to have,tu,pret_perfecto,has habido,,false,,conjugation::basic-verb
 "haber, él, pret. perfecto",haber,egzystować,to have,el,pret_perfecto,ha habido,,false,,conjugation::basic-verb
+"hablar, yo, pret. perfecto",hablar,mówić,to speak,yo,pret_perfecto,he hablado,,false,hablar,conjugation::basic-verb
+"hablar, tú, pret. perfecto",hablar,mówić,to speak,tu,pret_perfecto,has hablado,,false,hablar,conjugation::basic-verb
+"hablar, él, pret. perfecto",hablar,mówić,to speak,el,pret_perfecto,ha hablado,,false,hablar,conjugation::basic-verb
 "hacer, yo, pret. perfecto",hacer,robić,to do,yo,pret_perfecto,he h<em>ech</em>o,,true,,conjugation::basic-verb
 "hacer, tú, pret. perfecto",hacer,robić,to do,tu,pret_perfecto,has h<em>ech</em>o,,true,,conjugation::basic-verb
 "hacer, él, pret. perfecto",hacer,robić,to do,el,pret_perfecto,ha h<em>ech</em>o,,true,,conjugation::basic-verb

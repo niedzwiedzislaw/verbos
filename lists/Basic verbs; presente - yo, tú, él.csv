@@ -28,9 +28,9 @@
 "dar, yo, presente",dar,dać,to give,yo,presente,do<em>y</em>,daję,true,,conjugation::po-polsku conjugation::basic-verb
 "dar, tú, presente",dar,dać,to give,tu,presente,das,dajesz,false,,conjugation::po-polsku conjugation::basic-verb
 "dar, él, presente",dar,dać,to give,el,presente,da,daje,false,,conjugation::po-polsku conjugation::basic-verb
-"decir, yo, presente",decir,mówić,to say,yo,presente,d<em>ig</em>o,mówię,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, tú, presente",decir,mówić,to say,tu,presente,d<em>i</em>ces,mówisz,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, él, presente",decir,mówić,to say,el,presente,d<em>i</em>ce,mówi,true,,conjugation::po-polsku conjugation::basic-verb
+"decir, yo, presente",decir,mówić,to say,yo,presente,d<em>ig</em>o,mówię,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, tú, presente",decir,mówić,to say,tu,presente,d<em>i</em>ces,mówisz,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, él, presente",decir,mówić,to say,el,presente,d<em>i</em>ce,mówi,true,decir,conjugation::po-polsku conjugation::basic-verb
 "dejar, yo, presente",dejar,pozostawić,to leave,yo,presente,dejo,,false,,conjugation::basic-verb
 "dejar, tú, presente",dejar,pozostawić,to leave,tu,presente,dejas,,false,,conjugation::basic-verb
 "dejar, él, presente",dejar,pozostawić,to leave,el,presente,deja,,false,,conjugation::basic-verb
@@ -58,6 +58,9 @@
 "haber, yo, presente",haber,egzystować,to have,yo,presente,h<em>e</em>,,true,,conjugation::basic-verb
 "haber, tú, presente",haber,egzystować,to have,tu,presente,ha<em>s</em>,,true,,conjugation::basic-verb
 "haber, él, presente",haber,egzystować,to have,el,presente,h<em>a</em>,,true,,conjugation::basic-verb
+"hablar, yo, presente",hablar,mówić,to speak,yo,presente,hablo,mówię,false,hablar,conjugation::po-polsku conjugation::basic-verb
+"hablar, tú, presente",hablar,mówić,to speak,tu,presente,hablas,mówisz,false,hablar,conjugation::po-polsku conjugation::basic-verb
+"hablar, él, presente",hablar,mówić,to speak,el,presente,habla,mówi,false,hablar,conjugation::po-polsku conjugation::basic-verb
 "hacer, yo, presente",hacer,robić,to do,yo,presente,ha<em>g</em>o,,true,,conjugation::basic-verb
 "hacer, tú, presente",hacer,robić,to do,tu,presente,haces,,false,,conjugation::basic-verb
 "hacer, él, presente",hacer,robić,to do,el,presente,hace,,false,,conjugation::basic-verb

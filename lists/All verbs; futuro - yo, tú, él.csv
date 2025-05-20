@@ -88,9 +88,9 @@
 "deber, yo, futuro",deber,musieć,to owe,yo,futuro_simple,deberé,,false,,
 "deber, tú, futuro",deber,musieć,to owe,tu,futuro_simple,deberás,,false,,
 "deber, él, futuro",deber,musieć,to owe,el,futuro_simple,deberá,,false,,
-"decir, yo, futuro",decir,mówić,to say,yo,futuro_simple,d<em>ir</em>é,,true,,conjugation::basic-verb
-"decir, tú, futuro",decir,mówić,to say,tu,futuro_simple,d<em>ir</em>ás,,true,,conjugation::basic-verb
-"decir, él, futuro",decir,mówić,to say,el,futuro_simple,d<em>ir</em>á,,true,,conjugation::basic-verb
+"decir, yo, futuro",decir,mówić,to say,yo,futuro_simple,d<em>ir</em>é,,true,decir,conjugation::basic-verb
+"decir, tú, futuro",decir,mówić,to say,tu,futuro_simple,d<em>ir</em>ás,,true,decir,conjugation::basic-verb
+"decir, él, futuro",decir,mówić,to say,el,futuro_simple,d<em>ir</em>á,,true,decir,conjugation::basic-verb
 "dejar, yo, futuro",dejar,pozostawić,to leave,yo,futuro_simple,dejaré,,false,,conjugation::basic-verb
 "dejar, tú, futuro",dejar,pozostawić,to leave,tu,futuro_simple,dejarás,,false,,conjugation::basic-verb
 "dejar, él, futuro",dejar,pozostawić,to leave,el,futuro_simple,dejará,,false,,conjugation::basic-verb
@@ -121,6 +121,9 @@
 "entender, yo, futuro",entender,rozumieć,to understand,yo,futuro_simple,entenderé,,false,,conjugation::basic-verb
 "entender, tú, futuro",entender,rozumieć,to understand,tu,futuro_simple,entenderás,,false,,conjugation::basic-verb
 "entender, él, futuro",entender,rozumieć,to understand,el,futuro_simple,entenderá,,false,,conjugation::basic-verb
+"enviar, yo, futuro",enviar,przesłać,to send,yo,futuro_simple,enviaré,,false,,
+"enviar, tú, futuro",enviar,przesłać,to send,tu,futuro_simple,enviarás,,false,,
+"enviar, él, futuro",enviar,przesłać,to send,el,futuro_simple,enviará,,false,,
 "equivocarse, yo, futuro",equivocarse,pomylić się,to make a mistake,yo,futuro_simple,me equivocaré,,false,,
 "equivocarse, tú, futuro",equivocarse,pomylić się,to make a mistake,tu,futuro_simple,te equivocarás,,false,,
 "equivocarse, él, futuro",equivocarse,pomylić się,to make a mistake,el,futuro_simple,se equivocará,,false,,
@@ -145,6 +148,9 @@
 "haber, yo, futuro",haber,egzystować,to have,yo,futuro_simple,hab<em>r</em>é,,true,,conjugation::basic-verb
 "haber, tú, futuro",haber,egzystować,to have,tu,futuro_simple,hab<em>r</em>ás,,true,,conjugation::basic-verb
 "haber, él, futuro",haber,egzystować,to have,el,futuro_simple,hab<em>r</em>á,,true,,conjugation::basic-verb
+"hablar, yo, futuro",hablar,mówić,to speak,yo,futuro_simple,hablaré,,false,hablar,conjugation::basic-verb
+"hablar, tú, futuro",hablar,mówić,to speak,tu,futuro_simple,hablarás,,false,hablar,conjugation::basic-verb
+"hablar, él, futuro",hablar,mówić,to speak,el,futuro_simple,hablará,,false,hablar,conjugation::basic-verb
 "hacer, yo, futuro",hacer,robić,to do,yo,futuro_simple,ha<em>r</em>é,,true,,conjugation::basic-verb
 "hacer, tú, futuro",hacer,robić,to do,tu,futuro_simple,ha<em>r</em>ás,,true,,conjugation::basic-verb
 "hacer, él, futuro",hacer,robić,to do,el,futuro_simple,ha<em>r</em>á,,true,,conjugation::basic-verb

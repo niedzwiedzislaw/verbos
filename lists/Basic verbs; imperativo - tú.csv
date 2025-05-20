@@ -12,7 +12,7 @@
 "confundirse, tú, imperativo",confundirse,pomylić się,to make a mistake,tu,imperativo,confúndete,,false,,conjugation::basic-verb
 "conseguir, tú, imperativo",conseguir,zyskać,to get,tu,imperativo,cons<em>i</em>gue,,true,,conjugation::basic-verb
 "dar, tú, imperativo",dar,dać,to give,tu,imperativo,da,,false,,conjugation::basic-verb
-"decir, tú, imperativo",decir,mówić,to say,tu,imperativo,d<em>i</em>,,true,,conjugation::basic-verb
+"decir, tú, imperativo",decir,mówić,to say,tu,imperativo,d<em>i</em>,,true,decir,conjugation::basic-verb
 "dejar, tú, imperativo",dejar,pozostawić,to leave,tu,imperativo,deja,,false,,conjugation::basic-verb
 "despertarse, tú, imperativo",despertarse,budzić się,to wake up,tu,imperativo,desp<em>i</em>értate,,true,,conjugation::basic-verb
 "dormir, tú, imperativo",dormir,spać,to sleep,tu,imperativo,d<em>ue</em>rme,,true,,conjugation::basic-verb
@@ -22,6 +22,7 @@
 "escuchar, tú, imperativo",escuchar,słuchać,to listen to,tu,imperativo,escucha,,false,,conjugation::basic-verb
 "estar, tú, imperativo",estar,być,to be,tu,imperativo,est<em>á</em>,,true,estar,conjugation::basic-verb
 "haber, tú, imperativo",haber,egzystować,to have,tu,imperativo,h<em>e</em>,,true,,conjugation::basic-verb
+"hablar, tú, imperativo",hablar,mówić,to speak,tu,imperativo,habla,,false,hablar,conjugation::basic-verb
 "hacer, tú, imperativo",hacer,robić,to do,tu,imperativo,ha<em>z</em>,,true,,conjugation::basic-verb
 "ir, tú, imperativo",ir,iść,to go,tu,imperativo,<em>ve</em>,,true,ir,conjugation::basic-verb
 "lavar, tú, imperativo",lavar,myć,to wash,tu,imperativo,lava,,false,,conjugation::basic-verb

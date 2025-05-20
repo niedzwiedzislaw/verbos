@@ -88,9 +88,9 @@
 "deber, yo, presente",deber,musieć,to owe,yo,presente,debo,,false,,
 "deber, tú, presente",deber,musieć,to owe,tu,presente,debes,,false,,
 "deber, él, presente",deber,musieć,to owe,el,presente,debe,,false,,
-"decir, yo, presente",decir,mówić,to say,yo,presente,d<em>ig</em>o,mówię,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, tú, presente",decir,mówić,to say,tu,presente,d<em>i</em>ces,mówisz,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, él, presente",decir,mówić,to say,el,presente,d<em>i</em>ce,mówi,true,,conjugation::po-polsku conjugation::basic-verb
+"decir, yo, presente",decir,mówić,to say,yo,presente,d<em>ig</em>o,mówię,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, tú, presente",decir,mówić,to say,tu,presente,d<em>i</em>ces,mówisz,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, él, presente",decir,mówić,to say,el,presente,d<em>i</em>ce,mówi,true,decir,conjugation::po-polsku conjugation::basic-verb
 "dejar, yo, presente",dejar,pozostawić,to leave,yo,presente,dejo,,false,,conjugation::basic-verb
 "dejar, tú, presente",dejar,pozostawić,to leave,tu,presente,dejas,,false,,conjugation::basic-verb
 "dejar, él, presente",dejar,pozostawić,to leave,el,presente,deja,,false,,conjugation::basic-verb
@@ -121,6 +121,9 @@
 "entender, yo, presente",entender,rozumieć,to understand,yo,presente,ent<em>i</em>endo,,true,,conjugation::basic-verb
 "entender, tú, presente",entender,rozumieć,to understand,tu,presente,ent<em>i</em>endes,,true,,conjugation::basic-verb
 "entender, él, presente",entender,rozumieć,to understand,el,presente,ent<em>i</em>ende,,true,,conjugation::basic-verb
+"enviar, yo, presente",enviar,przesłać,to send,yo,presente,env<em>í</em>o,,true,,
+"enviar, tú, presente",enviar,przesłać,to send,tu,presente,env<em>í</em>as,,true,,
+"enviar, él, presente",enviar,przesłać,to send,el,presente,env<em>í</em>a,,true,,
 "equivocarse, yo, presente",equivocarse,pomylić się,to make a mistake,yo,presente,me equivoco,,false,,
 "equivocarse, tú, presente",equivocarse,pomylić się,to make a mistake,tu,presente,te equivocas,,false,,
 "equivocarse, él, presente",equivocarse,pomylić się,to make a mistake,el,presente,se equivoca,,false,,
@@ -145,6 +148,9 @@
 "haber, yo, presente",haber,egzystować,to have,yo,presente,h<em>e</em>,,true,,conjugation::basic-verb
 "haber, tú, presente",haber,egzystować,to have,tu,presente,ha<em>s</em>,,true,,conjugation::basic-verb
 "haber, él, presente",haber,egzystować,to have,el,presente,h<em>a</em>,,true,,conjugation::basic-verb
+"hablar, yo, presente",hablar,mówić,to speak,yo,presente,hablo,mówię,false,hablar,conjugation::po-polsku conjugation::basic-verb
+"hablar, tú, presente",hablar,mówić,to speak,tu,presente,hablas,mówisz,false,hablar,conjugation::po-polsku conjugation::basic-verb
+"hablar, él, presente",hablar,mówić,to speak,el,presente,habla,mówi,false,hablar,conjugation::po-polsku conjugation::basic-verb
 "hacer, yo, presente",hacer,robić,to do,yo,presente,ha<em>g</em>o,,true,,conjugation::basic-verb
 "hacer, tú, presente",hacer,robić,to do,tu,presente,haces,,false,,conjugation::basic-verb
 "hacer, él, presente",hacer,robić,to do,el,presente,hace,,false,,conjugation::basic-verb

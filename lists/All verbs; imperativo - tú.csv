@@ -32,7 +32,7 @@
 "crecer, tú, imperativo",crecer,rosnąć,to grow,tu,imperativo,crece,,false,,
 "dar, tú, imperativo",dar,dać,to give,tu,imperativo,da,,false,,conjugation::basic-verb
 "deber, tú, imperativo",deber,musieć,to owe,tu,imperativo,debe,,false,,
-"decir, tú, imperativo",decir,mówić,to say,tu,imperativo,d<em>i</em>,,true,,conjugation::basic-verb
+"decir, tú, imperativo",decir,mówić,to say,tu,imperativo,d<em>i</em>,,true,decir,conjugation::basic-verb
 "dejar, tú, imperativo",dejar,pozostawić,to leave,tu,imperativo,deja,,false,,conjugation::basic-verb
 "desayunar, tú, imperativo",desayunar,jeść śniadanie,to have breakfast,tu,imperativo,desayuna,,false,,
 "descubrir, tú, imperativo",descubrir,odkryć,to discover,tu,imperativo,descubre,,false,,
@@ -43,6 +43,7 @@
 "empezar, tú, imperativo",empezar,zaczynać,to start,tu,imperativo,emp<em>i</em>eza,,true,,conjugation::basic-verb
 "encontrar, tú, imperativo",encontrar,znaleźć,to find,tu,imperativo,enc<em>ue</em>ntra,,true,,conjugation::basic-verb
 "entender, tú, imperativo",entender,rozumieć,to understand,tu,imperativo,ent<em>i</em>ende,,true,,conjugation::basic-verb
+"enviar, tú, imperativo",enviar,przesłać,to send,tu,imperativo,env<em>í</em>a,,true,,
 "equivocarse, tú, imperativo",equivocarse,pomylić się,to make a mistake,tu,imperativo,equivócate,,false,,
 "escribir, tú, imperativo",escribir,pisać,to write,tu,imperativo,escribe,,false,,
 "escuchar, tú, imperativo",escuchar,słuchać,to listen to,tu,imperativo,escucha,,false,,conjugation::basic-verb
@@ -51,6 +52,7 @@
 "fregar, tú, imperativo",fregar,szorować,to wash,tu,imperativo,fr<em>i</em>ega,,true,,
 "freír, tú, imperativo",freír,smażyć,to fry,tu,imperativo,fr<em>í</em>e,,true,,
 "haber, tú, imperativo",haber,egzystować,to have,tu,imperativo,h<em>e</em>,,true,,conjugation::basic-verb
+"hablar, tú, imperativo",hablar,mówić,to speak,tu,imperativo,habla,,false,hablar,conjugation::basic-verb
 "hacer, tú, imperativo",hacer,robić,to do,tu,imperativo,ha<em>z</em>,,true,,conjugation::basic-verb
 "hervir, tú, imperativo",hervir,gotować,to boil,tu,imperativo,h<em>i</em>erve,,true,,
 "huir, tú, imperativo",huir,uciekać,to escape,tu,imperativo,hu<em>y</em>e,,true,,

@@ -28,9 +28,9 @@
 "dar, yo, pret. indefinido",dar,dać,to give,yo,pret_indefinido,d<em>i</em>,dałem,true,,conjugation::po-polsku conjugation::basic-verb
 "dar, tú, pret. indefinido",dar,dać,to give,tu,pret_indefinido,d<em>i</em>ste,dałeś,true,,conjugation::po-polsku conjugation::basic-verb
 "dar, él, pret. indefinido",dar,dać,to give,el,pret_indefinido,d<em>io</em>,dał,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, yo, pret. indefinido",decir,mówić,to say,yo,pret_indefinido,d<em>ije</em>,mówiłem,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, tú, pret. indefinido",decir,mówić,to say,tu,pret_indefinido,d<em>ij</em>iste,mówiłeś,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, él, pret. indefinido",decir,mówić,to say,el,pret_indefinido,d<em>ijo</em>,mówił,true,,conjugation::po-polsku conjugation::basic-verb
+"decir, yo, pret. indefinido",decir,mówić,to say,yo,pret_indefinido,d<em>ije</em>,mówiłem,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, tú, pret. indefinido",decir,mówić,to say,tu,pret_indefinido,d<em>ij</em>iste,mówiłeś,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, él, pret. indefinido",decir,mówić,to say,el,pret_indefinido,d<em>ijo</em>,mówił,true,decir,conjugation::po-polsku conjugation::basic-verb
 "dejar, yo, pret. indefinido",dejar,pozostawić,to leave,yo,pret_indefinido,dejé,,false,,conjugation::basic-verb
 "dejar, tú, pret. indefinido",dejar,pozostawić,to leave,tu,pret_indefinido,dejaste,,false,,conjugation::basic-verb
 "dejar, él, pret. indefinido",dejar,pozostawić,to leave,el,pret_indefinido,dejó,,false,,conjugation::basic-verb
@@ -58,6 +58,9 @@
 "haber, yo, pret. indefinido",haber,egzystować,to have,yo,pret_indefinido,h<em>ube</em>,,true,,conjugation::basic-verb
 "haber, tú, pret. indefinido",haber,egzystować,to have,tu,pret_indefinido,h<em>u</em>biste,,true,,conjugation::basic-verb
 "haber, él, pret. indefinido",haber,egzystować,to have,el,pret_indefinido,h<em>ubo</em>,,true,,conjugation::basic-verb
+"hablar, yo, pret. indefinido",hablar,mówić,to speak,yo,pret_indefinido,hablé,mówiłem,false,hablar,conjugation::po-polsku conjugation::basic-verb
+"hablar, tú, pret. indefinido",hablar,mówić,to speak,tu,pret_indefinido,hablaste,mówiłeś,false,hablar,conjugation::po-polsku conjugation::basic-verb
+"hablar, él, pret. indefinido",hablar,mówić,to speak,el,pret_indefinido,habló,mówił,false,hablar,conjugation::po-polsku conjugation::basic-verb
 "hacer, yo, pret. indefinido",hacer,robić,to do,yo,pret_indefinido,h<em>ice</em>,,true,,conjugation::basic-verb
 "hacer, tú, pret. indefinido",hacer,robić,to do,tu,pret_indefinido,h<em>i</em>ciste,,true,,conjugation::basic-verb
 "hacer, él, pret. indefinido",hacer,robić,to do,el,pret_indefinido,h<em>izo</em>,,true,,conjugation::basic-verb
@@ -85,9 +88,9 @@
 "pedir, yo, pret. indefinido",pedir,poprosić,to ask for,yo,pret_indefinido,pedí,,false,,conjugation::basic-verb
 "pedir, tú, pret. indefinido",pedir,poprosić,to ask for,tu,pret_indefinido,pediste,,false,,conjugation::basic-verb
 "pedir, él, pret. indefinido",pedir,poprosić,to ask for,el,pret_indefinido,p<em>i</em>dió,,true,,conjugation::basic-verb
-"pensar, yo, pret. indefinido",pensar,myśleć,to think,yo,pret_indefinido,pensé,myśllałem,false,,conjugation::po-polsku conjugation::basic-verb
-"pensar, tú, pret. indefinido",pensar,myśleć,to think,tu,pret_indefinido,pensaste,myśllałeś,false,,conjugation::po-polsku conjugation::basic-verb
-"pensar, él, pret. indefinido",pensar,myśleć,to think,el,pret_indefinido,pensó,myśllał,false,,conjugation::po-polsku conjugation::basic-verb
+"pensar, yo, pret. indefinido",pensar,myśleć,to think,yo,pret_indefinido,pensé,myślałem,false,,conjugation::po-polsku conjugation::basic-verb
+"pensar, tú, pret. indefinido",pensar,myśleć,to think,tu,pret_indefinido,pensaste,myślałeś,false,,conjugation::po-polsku conjugation::basic-verb
+"pensar, él, pret. indefinido",pensar,myśleć,to think,el,pret_indefinido,pensó,myślał,false,,conjugation::po-polsku conjugation::basic-verb
 "poder, yo, pret. indefinido",poder,móc,to be able to,yo,pret_indefinido,p<em>ude</em>,mogłem,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, tú, pret. indefinido",poder,móc,to be able to,tu,pret_indefinido,p<em>u</em>diste,mogłeś,true,,conjugation::po-polsku conjugation::basic-verb
 "poder, él, pret. indefinido",poder,móc,to be able to,el,pret_indefinido,p<em>udo</em>,mógł,true,,conjugation::po-polsku conjugation::basic-verb

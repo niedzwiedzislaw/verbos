@@ -28,9 +28,9 @@
 "dar, yo, presente progresivo",dar,dać,to give,yo,presente_progresivo,estoy dando,,false,,conjugation::basic-verb
 "dar, tú, presente progresivo",dar,dać,to give,tu,presente_progresivo,estás dando,,false,,conjugation::basic-verb
 "dar, él, presente progresivo",dar,dać,to give,el,presente_progresivo,está dando,,false,,conjugation::basic-verb
-"decir, yo, presente progresivo",decir,mówić,to say,yo,presente_progresivo,estoy d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, tú, presente progresivo",decir,mówić,to say,tu,presente_progresivo,estás d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, él, presente progresivo",decir,mówić,to say,el,presente_progresivo,está d<em>i</em>ciendo,,true,,conjugation::basic-verb
+"decir, yo, presente progresivo",decir,mówić,to say,yo,presente_progresivo,estoy d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, tú, presente progresivo",decir,mówić,to say,tu,presente_progresivo,estás d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, él, presente progresivo",decir,mówić,to say,el,presente_progresivo,está d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
 "dejar, yo, presente progresivo",dejar,pozostawić,to leave,yo,presente_progresivo,estoy dejando,,false,,conjugation::basic-verb
 "dejar, tú, presente progresivo",dejar,pozostawić,to leave,tu,presente_progresivo,estás dejando,,false,,conjugation::basic-verb
 "dejar, él, presente progresivo",dejar,pozostawić,to leave,el,presente_progresivo,está dejando,,false,,conjugation::basic-verb
@@ -58,6 +58,9 @@
 "haber, yo, presente progresivo",haber,egzystować,to have,yo,presente_progresivo,estoy habiendo,,false,,conjugation::basic-verb
 "haber, tú, presente progresivo",haber,egzystować,to have,tu,presente_progresivo,estás habiendo,,false,,conjugation::basic-verb
 "haber, él, presente progresivo",haber,egzystować,to have,el,presente_progresivo,está habiendo,,false,,conjugation::basic-verb
+"hablar, yo, presente progresivo",hablar,mówić,to speak,yo,presente_progresivo,estoy hablando,,false,hablar,conjugation::basic-verb
+"hablar, tú, presente progresivo",hablar,mówić,to speak,tu,presente_progresivo,estás hablando,,false,hablar,conjugation::basic-verb
+"hablar, él, presente progresivo",hablar,mówić,to speak,el,presente_progresivo,está hablando,,false,hablar,conjugation::basic-verb
 "hacer, yo, presente progresivo",hacer,robić,to do,yo,presente_progresivo,estoy haciendo,,false,,conjugation::basic-verb
 "hacer, tú, presente progresivo",hacer,robić,to do,tu,presente_progresivo,estás haciendo,,false,,conjugation::basic-verb
 "hacer, él, presente progresivo",hacer,robić,to do,el,presente_progresivo,está haciendo,,false,,conjugation::basic-verb

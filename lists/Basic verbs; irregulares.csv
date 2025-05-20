@@ -46,38 +46,38 @@
 "dar, vs, pret. indefinido",dar,dać,to give,vs,pret_indefinido,d<em>i</em>steis,daliście,true,,conjugation::po-polsku conjugation::basic-verb
 "dar, ellos, pret. indefinido",dar,dać,to give,ellos,pret_indefinido,d<em>ie</em>ron,dali,true,,conjugation::po-polsku conjugation::basic-verb
 "dar, usted, imperativo",dar,dać,to give,ud,imperativo,d<em>é</em>,,true,,conjugation::basic-verb
-"decir, yo, presente",decir,mówić,to say,yo,presente,d<em>ig</em>o,mówię,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, tú, presente",decir,mówić,to say,tu,presente,d<em>i</em>ces,mówisz,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, él, presente",decir,mówić,to say,el,presente,d<em>i</em>ce,mówi,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, ellos, presente",decir,mówić,to say,ellos,presente,d<em>i</em>cen,mówią,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, yo, pret. indefinido",decir,mówić,to say,yo,pret_indefinido,d<em>ije</em>,mówiłem,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, tú, pret. indefinido",decir,mówić,to say,tu,pret_indefinido,d<em>ij</em>iste,mówiłeś,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, él, pret. indefinido",decir,mówić,to say,el,pret_indefinido,d<em>ijo</em>,mówił,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, ns, pret. indefinido",decir,mówić,to say,ns,pret_indefinido,d<em>ij</em>imos,mówiliśmy,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, vs, pret. indefinido",decir,mówić,to say,vs,pret_indefinido,d<em>ij</em>isteis,mówiliście,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, ellos, pret. indefinido",decir,mówić,to say,ellos,pret_indefinido,d<em>ij</em>eron,mówili,true,,conjugation::po-polsku conjugation::basic-verb
-"decir, yo, pret. perfecto",decir,mówić,to say,yo,pret_perfecto,he d<em>ich</em>o,,true,,conjugation::basic-verb
-"decir, tú, pret. perfecto",decir,mówić,to say,tu,pret_perfecto,has d<em>ich</em>o,,true,,conjugation::basic-verb
-"decir, él, pret. perfecto",decir,mówić,to say,el,pret_perfecto,ha d<em>ich</em>o,,true,,conjugation::basic-verb
-"decir, ns, pret. perfecto",decir,mówić,to say,ns,pret_perfecto,hemos d<em>ich</em>o,,true,,conjugation::basic-verb
-"decir, vs, pret. perfecto",decir,mówić,to say,vs,pret_perfecto,habéis d<em>ich</em>o,,true,,conjugation::basic-verb
-"decir, ellos, pret. perfecto",decir,mówić,to say,ellos,pret_perfecto,han d<em>ich</em>o,,true,,conjugation::basic-verb
-"decir, yo, presente progresivo",decir,mówić,to say,yo,presente_progresivo,estoy d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, tú, presente progresivo",decir,mówić,to say,tu,presente_progresivo,estás d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, él, presente progresivo",decir,mówić,to say,el,presente_progresivo,está d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, ns, presente progresivo",decir,mówić,to say,ns,presente_progresivo,estamos d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, vs, presente progresivo",decir,mówić,to say,vs,presente_progresivo,estáis d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, ellos, presente progresivo",decir,mówić,to say,ellos,presente_progresivo,están d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, tú, imperativo",decir,mówić,to say,tu,imperativo,d<em>i</em>,,true,,conjugation::basic-verb
-"decir, usted, imperativo",decir,mówić,to say,ud,imperativo,d<em>ig</em>a,,true,,conjugation::basic-verb
-"decir, ns, imperativo",decir,mówić,to say,ns,imperativo,d<em>ig</em>amos,,true,,conjugation::basic-verb
-"decir, ustedes, imperativo",decir,mówić,to say,uds,imperativo,d<em>ig</em>an,,true,,conjugation::basic-verb
-"decir, yo, futuro",decir,mówić,to say,yo,futuro_simple,d<em>ir</em>é,,true,,conjugation::basic-verb
-"decir, tú, futuro",decir,mówić,to say,tu,futuro_simple,d<em>ir</em>ás,,true,,conjugation::basic-verb
-"decir, él, futuro",decir,mówić,to say,el,futuro_simple,d<em>ir</em>á,,true,,conjugation::basic-verb
-"decir, ns, futuro",decir,mówić,to say,ns,futuro_simple,d<em>ir</em>emos,,true,,conjugation::basic-verb
-"decir, vs, futuro",decir,mówić,to say,vs,futuro_simple,d<em>ir</em>éis,,true,,conjugation::basic-verb
-"decir, ellos, futuro",decir,mówić,to say,ellos,futuro_simple,d<em>ir</em>án,,true,,conjugation::basic-verb
+"decir, yo, presente",decir,mówić,to say,yo,presente,d<em>ig</em>o,mówię,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, tú, presente",decir,mówić,to say,tu,presente,d<em>i</em>ces,mówisz,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, él, presente",decir,mówić,to say,el,presente,d<em>i</em>ce,mówi,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, ellos, presente",decir,mówić,to say,ellos,presente,d<em>i</em>cen,mówią,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, yo, pret. indefinido",decir,mówić,to say,yo,pret_indefinido,d<em>ije</em>,mówiłem,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, tú, pret. indefinido",decir,mówić,to say,tu,pret_indefinido,d<em>ij</em>iste,mówiłeś,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, él, pret. indefinido",decir,mówić,to say,el,pret_indefinido,d<em>ijo</em>,mówił,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, ns, pret. indefinido",decir,mówić,to say,ns,pret_indefinido,d<em>ij</em>imos,mówiliśmy,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, vs, pret. indefinido",decir,mówić,to say,vs,pret_indefinido,d<em>ij</em>isteis,mówiliście,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, ellos, pret. indefinido",decir,mówić,to say,ellos,pret_indefinido,d<em>ij</em>eron,mówili,true,decir,conjugation::po-polsku conjugation::basic-verb
+"decir, yo, pret. perfecto",decir,mówić,to say,yo,pret_perfecto,he d<em>ich</em>o,,true,decir,conjugation::basic-verb
+"decir, tú, pret. perfecto",decir,mówić,to say,tu,pret_perfecto,has d<em>ich</em>o,,true,decir,conjugation::basic-verb
+"decir, él, pret. perfecto",decir,mówić,to say,el,pret_perfecto,ha d<em>ich</em>o,,true,decir,conjugation::basic-verb
+"decir, ns, pret. perfecto",decir,mówić,to say,ns,pret_perfecto,hemos d<em>ich</em>o,,true,decir,conjugation::basic-verb
+"decir, vs, pret. perfecto",decir,mówić,to say,vs,pret_perfecto,habéis d<em>ich</em>o,,true,decir,conjugation::basic-verb
+"decir, ellos, pret. perfecto",decir,mówić,to say,ellos,pret_perfecto,han d<em>ich</em>o,,true,decir,conjugation::basic-verb
+"decir, yo, presente progresivo",decir,mówić,to say,yo,presente_progresivo,estoy d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, tú, presente progresivo",decir,mówić,to say,tu,presente_progresivo,estás d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, él, presente progresivo",decir,mówić,to say,el,presente_progresivo,está d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, ns, presente progresivo",decir,mówić,to say,ns,presente_progresivo,estamos d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, vs, presente progresivo",decir,mówić,to say,vs,presente_progresivo,estáis d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, ellos, presente progresivo",decir,mówić,to say,ellos,presente_progresivo,están d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, tú, imperativo",decir,mówić,to say,tu,imperativo,d<em>i</em>,,true,decir,conjugation::basic-verb
+"decir, usted, imperativo",decir,mówić,to say,ud,imperativo,d<em>ig</em>a,,true,decir,conjugation::basic-verb
+"decir, ns, imperativo",decir,mówić,to say,ns,imperativo,d<em>ig</em>amos,,true,decir,conjugation::basic-verb
+"decir, ustedes, imperativo",decir,mówić,to say,uds,imperativo,d<em>ig</em>an,,true,decir,conjugation::basic-verb
+"decir, yo, futuro",decir,mówić,to say,yo,futuro_simple,d<em>ir</em>é,,true,decir,conjugation::basic-verb
+"decir, tú, futuro",decir,mówić,to say,tu,futuro_simple,d<em>ir</em>ás,,true,decir,conjugation::basic-verb
+"decir, él, futuro",decir,mówić,to say,el,futuro_simple,d<em>ir</em>á,,true,decir,conjugation::basic-verb
+"decir, ns, futuro",decir,mówić,to say,ns,futuro_simple,d<em>ir</em>emos,,true,decir,conjugation::basic-verb
+"decir, vs, futuro",decir,mówić,to say,vs,futuro_simple,d<em>ir</em>éis,,true,decir,conjugation::basic-verb
+"decir, ellos, futuro",decir,mówić,to say,ellos,futuro_simple,d<em>ir</em>án,,true,decir,conjugation::basic-verb
 "despertarse, yo, presente",despertarse,budzić się,to wake up,yo,presente,me desp<em>i</em>erto,budzę się,true,,conjugation::po-polsku conjugation::basic-verb
 "despertarse, tú, presente",despertarse,budzić się,to wake up,tu,presente,te desp<em>i</em>ertas,budzisz się,true,,conjugation::po-polsku conjugation::basic-verb
 "despertarse, él, presente",despertarse,budzić się,to wake up,el,presente,se desp<em>i</em>erta,budzi się,true,,conjugation::po-polsku conjugation::basic-verb

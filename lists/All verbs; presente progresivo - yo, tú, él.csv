@@ -88,9 +88,9 @@
 "deber, yo, presente progresivo",deber,musieć,to owe,yo,presente_progresivo,estoy debiendo,,false,,
 "deber, tú, presente progresivo",deber,musieć,to owe,tu,presente_progresivo,estás debiendo,,false,,
 "deber, él, presente progresivo",deber,musieć,to owe,el,presente_progresivo,está debiendo,,false,,
-"decir, yo, presente progresivo",decir,mówić,to say,yo,presente_progresivo,estoy d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, tú, presente progresivo",decir,mówić,to say,tu,presente_progresivo,estás d<em>i</em>ciendo,,true,,conjugation::basic-verb
-"decir, él, presente progresivo",decir,mówić,to say,el,presente_progresivo,está d<em>i</em>ciendo,,true,,conjugation::basic-verb
+"decir, yo, presente progresivo",decir,mówić,to say,yo,presente_progresivo,estoy d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, tú, presente progresivo",decir,mówić,to say,tu,presente_progresivo,estás d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
+"decir, él, presente progresivo",decir,mówić,to say,el,presente_progresivo,está d<em>i</em>ciendo,,true,decir,conjugation::basic-verb
 "dejar, yo, presente progresivo",dejar,pozostawić,to leave,yo,presente_progresivo,estoy dejando,,false,,conjugation::basic-verb
 "dejar, tú, presente progresivo",dejar,pozostawić,to leave,tu,presente_progresivo,estás dejando,,false,,conjugation::basic-verb
 "dejar, él, presente progresivo",dejar,pozostawić,to leave,el,presente_progresivo,está dejando,,false,,conjugation::basic-verb
@@ -121,6 +121,9 @@
 "entender, yo, presente progresivo",entender,rozumieć,to understand,yo,presente_progresivo,estoy entendiendo,,false,,conjugation::basic-verb
 "entender, tú, presente progresivo",entender,rozumieć,to understand,tu,presente_progresivo,estás entendiendo,,false,,conjugation::basic-verb
 "entender, él, presente progresivo",entender,rozumieć,to understand,el,presente_progresivo,está entendiendo,,false,,conjugation::basic-verb
+"enviar, yo, presente progresivo",enviar,przesłać,to send,yo,presente_progresivo,estoy enviando,,false,,
+"enviar, tú, presente progresivo",enviar,przesłać,to send,tu,presente_progresivo,estás enviando,,false,,
+"enviar, él, presente progresivo",enviar,przesłać,to send,el,presente_progresivo,está enviando,,false,,
 "equivocarse, yo, presente progresivo",equivocarse,pomylić się,to make a mistake,yo,presente_progresivo,me estoy equivocando,,false,,
 "equivocarse, tú, presente progresivo",equivocarse,pomylić się,to make a mistake,tu,presente_progresivo,te estás equivocando,,false,,
 "equivocarse, él, presente progresivo",equivocarse,pomylić się,to make a mistake,el,presente_progresivo,se está equivocando,,false,,
@@ -145,6 +148,9 @@
 "haber, yo, presente progresivo",haber,egzystować,to have,yo,presente_progresivo,estoy habiendo,,false,,conjugation::basic-verb
 "haber, tú, presente progresivo",haber,egzystować,to have,tu,presente_progresivo,estás habiendo,,false,,conjugation::basic-verb
 "haber, él, presente progresivo",haber,egzystować,to have,el,presente_progresivo,está habiendo,,false,,conjugation::basic-verb
+"hablar, yo, presente progresivo",hablar,mówić,to speak,yo,presente_progresivo,estoy hablando,,false,hablar,conjugation::basic-verb
+"hablar, tú, presente progresivo",hablar,mówić,to speak,tu,presente_progresivo,estás hablando,,false,hablar,conjugation::basic-verb
+"hablar, él, presente progresivo",hablar,mówić,to speak,el,presente_progresivo,está hablando,,false,hablar,conjugation::basic-verb
 "hacer, yo, presente progresivo",hacer,robić,to do,yo,presente_progresivo,estoy haciendo,,false,,conjugation::basic-verb
 "hacer, tú, presente progresivo",hacer,robić,to do,tu,presente_progresivo,estás haciendo,,false,,conjugation::basic-verb
 "hacer, él, presente progresivo",hacer,robić,to do,el,presente_progresivo,está haciendo,,false,,conjugation::basic-verb

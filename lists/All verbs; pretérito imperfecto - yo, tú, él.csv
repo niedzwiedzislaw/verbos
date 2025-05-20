@@ -88,9 +88,9 @@
 "deber, yo, pretérito imperfecto",deber,musieć,to owe,yo,pret_imperfecto,debía,,false,,
 "deber, tú, pretérito imperfecto",deber,musieć,to owe,tu,pret_imperfecto,debías,,false,,
 "deber, él, pretérito imperfecto",deber,musieć,to owe,el,pret_imperfecto,debía,,false,,
-"decir, yo, pretérito imperfecto",decir,mówić,to say,yo,pret_imperfecto,decía,,false,,conjugation::basic-verb
-"decir, tú, pretérito imperfecto",decir,mówić,to say,tu,pret_imperfecto,decías,,false,,conjugation::basic-verb
-"decir, él, pretérito imperfecto",decir,mówić,to say,el,pret_imperfecto,decía,,false,,conjugation::basic-verb
+"decir, yo, pretérito imperfecto",decir,mówić,to say,yo,pret_imperfecto,decía,,false,decir,conjugation::basic-verb
+"decir, tú, pretérito imperfecto",decir,mówić,to say,tu,pret_imperfecto,decías,,false,decir,conjugation::basic-verb
+"decir, él, pretérito imperfecto",decir,mówić,to say,el,pret_imperfecto,decía,,false,decir,conjugation::basic-verb
 "dejar, yo, pretérito imperfecto",dejar,pozostawić,to leave,yo,pret_imperfecto,dejaba,,false,,conjugation::basic-verb
 "dejar, tú, pretérito imperfecto",dejar,pozostawić,to leave,tu,pret_imperfecto,dejabas,,false,,conjugation::basic-verb
 "dejar, él, pretérito imperfecto",dejar,pozostawić,to leave,el,pret_imperfecto,dejaba,,false,,conjugation::basic-verb
@@ -121,6 +121,9 @@
 "entender, yo, pretérito imperfecto",entender,rozumieć,to understand,yo,pret_imperfecto,entendía,,false,,conjugation::basic-verb
 "entender, tú, pretérito imperfecto",entender,rozumieć,to understand,tu,pret_imperfecto,entendías,,false,,conjugation::basic-verb
 "entender, él, pretérito imperfecto",entender,rozumieć,to understand,el,pret_imperfecto,entendía,,false,,conjugation::basic-verb
+"enviar, yo, pretérito imperfecto",enviar,przesłać,to send,yo,pret_imperfecto,enviaba,,false,,
+"enviar, tú, pretérito imperfecto",enviar,przesłać,to send,tu,pret_imperfecto,enviabas,,false,,
+"enviar, él, pretérito imperfecto",enviar,przesłać,to send,el,pret_imperfecto,enviaba,,false,,
 "equivocarse, yo, pretérito imperfecto",equivocarse,pomylić się,to make a mistake,yo,pret_imperfecto,me equivocaba,,false,,
 "equivocarse, tú, pretérito imperfecto",equivocarse,pomylić się,to make a mistake,tu,pret_imperfecto,te equivocabas,,false,,
 "equivocarse, él, pretérito imperfecto",equivocarse,pomylić się,to make a mistake,el,pret_imperfecto,se equivocaba,,false,,
@@ -145,6 +148,9 @@
 "haber, yo, pretérito imperfecto",haber,egzystować,to have,yo,pret_imperfecto,había,,false,,conjugation::basic-verb
 "haber, tú, pretérito imperfecto",haber,egzystować,to have,tu,pret_imperfecto,habías,,false,,conjugation::basic-verb
 "haber, él, pretérito imperfecto",haber,egzystować,to have,el,pret_imperfecto,había,,false,,conjugation::basic-verb
+"hablar, yo, pretérito imperfecto",hablar,mówić,to speak,yo,pret_imperfecto,hablaba,,false,hablar,conjugation::basic-verb
+"hablar, tú, pretérito imperfecto",hablar,mówić,to speak,tu,pret_imperfecto,hablabas,,false,hablar,conjugation::basic-verb
+"hablar, él, pretérito imperfecto",hablar,mówić,to speak,el,pret_imperfecto,hablaba,,false,hablar,conjugation::basic-verb
 "hacer, yo, pretérito imperfecto",hacer,robić,to do,yo,pret_imperfecto,hacía,,false,,conjugation::basic-verb
 "hacer, tú, pretérito imperfecto",hacer,robić,to do,tu,pret_imperfecto,hacías,,false,,conjugation::basic-verb
 "hacer, él, pretérito imperfecto",hacer,robić,to do,el,pret_imperfecto,hacía,,false,,conjugation::basic-verb
