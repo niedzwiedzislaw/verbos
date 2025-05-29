@@ -7,12 +7,18 @@
 "acostarse, yo, pret. indefinido",acostarse,położyć się,to go to bed,yo,pret_indefinido,me acosté,położyłem się,false,,conjugation::po-polsku conjugation::basic-verb
 "acostarse, tú, pret. indefinido",acostarse,położyć się,to go to bed,tu,pret_indefinido,te acostaste,położyłeś się,false,,conjugation::po-polsku conjugation::basic-verb
 "acostarse, él, pret. indefinido",acostarse,położyć się,to go to bed,el,pret_indefinido,se acostó,położył się,false,,conjugation::po-polsku conjugation::basic-verb
+"adivinar, yo, pret. indefinido",adivinar,zgadywać,to guess,yo,pret_indefinido,adiviné,,false,,conjugation::basic-verb
+"adivinar, tú, pret. indefinido",adivinar,zgadywać,to guess,tu,pret_indefinido,adivinaste,,false,,conjugation::basic-verb
+"adivinar, él, pret. indefinido",adivinar,zgadywać,to guess,el,pret_indefinido,adivinó,,false,,conjugation::basic-verb
 "andar, yo, pret. indefinido",andar,chodzić,to walk,yo,pret_indefinido,and<em>uve</em>,,true,,conjugation::basic-verb
 "andar, tú, pret. indefinido",andar,chodzić,to walk,tu,pret_indefinido,and<em>uvi</em>ste,,true,,conjugation::basic-verb
 "andar, él, pret. indefinido",andar,chodzić,to walk,el,pret_indefinido,and<em>uvo</em>,,true,,conjugation::basic-verb
 "buscar, yo, pret. indefinido",buscar,szukać,to look for,yo,pret_indefinido,bus<em>qu</em>é,,true,,conjugation::basic-verb
 "buscar, tú, pret. indefinido",buscar,szukać,to look for,tu,pret_indefinido,buscaste,,false,,conjugation::basic-verb
 "buscar, él, pret. indefinido",buscar,szukać,to look for,el,pret_indefinido,buscó,,false,,conjugation::basic-verb
+"callarse, yo, pret. indefinido",callarse,zamknąć się,to be quiet,yo,pret_indefinido,me callé,,false,,conjugation::basic-verb
+"callarse, tú, pret. indefinido",callarse,zamknąć się,to be quiet,tu,pret_indefinido,te callaste,,false,,conjugation::basic-verb
+"callarse, él, pret. indefinido",callarse,zamknąć się,to be quiet,el,pret_indefinido,se calló,,false,,conjugation::basic-verb
 "comer, yo, pret. indefinido",comer,jeść,to eat,yo,pret_indefinido,comí,jadłem,false,,conjugation::po-polsku conjugation::basic-verb
 "comer, tú, pret. indefinido",comer,jeść,to eat,tu,pret_indefinido,comiste,jadłeś,false,,conjugation::po-polsku conjugation::basic-verb
 "comer, él, pret. indefinido",comer,jeść,to eat,el,pret_indefinido,comió,jadł,false,,conjugation::po-polsku conjugation::basic-verb

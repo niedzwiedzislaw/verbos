@@ -16,9 +16,9 @@
 "acostarse, yo, futuro",acostarse,położyć się,to go to bed,yo,futuro_simple,me acostaré,,false,,conjugation::basic-verb
 "acostarse, tú, futuro",acostarse,położyć się,to go to bed,tu,futuro_simple,te acostarás,,false,,conjugation::basic-verb
 "acostarse, él, futuro",acostarse,położyć się,to go to bed,el,futuro_simple,se acostará,,false,,conjugation::basic-verb
-"adivinar, yo, futuro",adivinar,zgadywać,to guess,yo,futuro_simple,adivinaré,,false,,
-"adivinar, tú, futuro",adivinar,zgadywać,to guess,tu,futuro_simple,adivinarás,,false,,
-"adivinar, él, futuro",adivinar,zgadywać,to guess,el,futuro_simple,adivinará,,false,,
+"adivinar, yo, futuro",adivinar,zgadywać,to guess,yo,futuro_simple,adivinaré,,false,,conjugation::basic-verb
+"adivinar, tú, futuro",adivinar,zgadywać,to guess,tu,futuro_simple,adivinarás,,false,,conjugation::basic-verb
+"adivinar, él, futuro",adivinar,zgadywać,to guess,el,futuro_simple,adivinará,,false,,conjugation::basic-verb
 "alcanzar, yo, futuro",alcanzar,sięgać,to reach,yo,futuro_simple,alcanzaré,,false,,
 "alcanzar, tú, futuro",alcanzar,sięgać,to reach,tu,futuro_simple,alcanzarás,,false,,
 "alcanzar, él, futuro",alcanzar,sięgać,to reach,el,futuro_simple,alcanzará,,false,,
@@ -43,6 +43,9 @@
 "caerse, yo, futuro",caerse,upaść,to fall,yo,futuro_simple,me caeré,,false,,
 "caerse, tú, futuro",caerse,upaść,to fall,tu,futuro_simple,te caerás,,false,,
 "caerse, él, futuro",caerse,upaść,to fall,el,futuro_simple,se caerá,,false,,
+"callarse, yo, futuro",callarse,zamknąć się,to be quiet,yo,futuro_simple,me callaré,,false,,conjugation::basic-verb
+"callarse, tú, futuro",callarse,zamknąć się,to be quiet,tu,futuro_simple,te callarás,,false,,conjugation::basic-verb
+"callarse, él, futuro",callarse,zamknąć się,to be quiet,el,futuro_simple,se callará,,false,,conjugation::basic-verb
 "causar, yo, futuro",causar,powodować,to cause,yo,futuro_simple,causaré,,false,,
 "causar, tú, futuro",causar,powodować,to cause,tu,futuro_simple,causarás,,false,,
 "causar, él, futuro",causar,powodować,to cause,el,futuro_simple,causará,,false,,
@@ -55,6 +58,9 @@
 "comer, yo, futuro",comer,jeść,to eat,yo,futuro_simple,comeré,,false,,conjugation::basic-verb
 "comer, tú, futuro",comer,jeść,to eat,tu,futuro_simple,comerás,,false,,conjugation::basic-verb
 "comer, él, futuro",comer,jeść,to eat,el,futuro_simple,comerá,,false,,conjugation::basic-verb
+"competir, yo, futuro",competir,współzawodniczyć,to compete,yo,futuro_simple,competiré,,false,,
+"competir, tú, futuro",competir,współzawodniczyć,to compete,tu,futuro_simple,competirás,,false,,
+"competir, él, futuro",competir,współzawodniczyć,to compete,el,futuro_simple,competirá,,false,,
 "componer, yo, futuro",componer,skomponować,to make up,yo,futuro_simple,compon<em>dr</em>é,,true,,
 "componer, tú, futuro",componer,skomponować,to make up,tu,futuro_simple,compon<em>dr</em>ás,,true,,
 "componer, él, futuro",componer,skomponować,to make up,el,futuro_simple,compon<em>dr</em>á,,true,,
@@ -127,12 +133,18 @@
 "equivocarse, yo, futuro",equivocarse,pomylić się,to make a mistake,yo,futuro_simple,me equivocaré,,false,,
 "equivocarse, tú, futuro",equivocarse,pomylić się,to make a mistake,tu,futuro_simple,te equivocarás,,false,,
 "equivocarse, él, futuro",equivocarse,pomylić się,to make a mistake,el,futuro_simple,se equivocará,,false,,
+"eructar, yo, futuro",eructar,bekać,to belch,yo,futuro_simple,eructaré,,false,,
+"eructar, tú, futuro",eructar,bekać,to belch,tu,futuro_simple,eructarás,,false,,
+"eructar, él, futuro",eructar,bekać,to belch,el,futuro_simple,eructará,,false,,
 "escribir, yo, futuro",escribir,pisać,to write,yo,futuro_simple,escribiré,,false,,
 "escribir, tú, futuro",escribir,pisać,to write,tu,futuro_simple,escribirás,,false,,
 "escribir, él, futuro",escribir,pisać,to write,el,futuro_simple,escribirá,,false,,
 "escuchar, yo, futuro",escuchar,słuchać,to listen to,yo,futuro_simple,escucharé,,false,,conjugation::basic-verb
 "escuchar, tú, futuro",escuchar,słuchać,to listen to,tu,futuro_simple,escucharás,,false,,conjugation::basic-verb
 "escuchar, él, futuro",escuchar,słuchać,to listen to,el,futuro_simple,escuchará,,false,,conjugation::basic-verb
+"escupir, yo, futuro",escupir,wypluwać,to spit,yo,futuro_simple,escupiré,,false,,
+"escupir, tú, futuro",escupir,wypluwać,to spit,tu,futuro_simple,escupirás,,false,,
+"escupir, él, futuro",escupir,wypluwać,to spit,el,futuro_simple,escupirá,,false,,
 "esperar, yo, futuro",esperar,czekać,to wait for,yo,futuro_simple,esperaré,,false,,
 "esperar, tú, futuro",esperar,czekać,to wait for,tu,futuro_simple,esperarás,,false,,
 "esperar, él, futuro",esperar,czekać,to wait for,el,futuro_simple,esperará,,false,,

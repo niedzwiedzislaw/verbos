@@ -5,8 +5,10 @@
 #deck:Spanish::conjugación::Basic verbs::imperativo: tú
 #columns:question,infinitivo,polski,english,person,case,conj_espanol,conj_polski,irregular,hint,tags
 "acostarse, tú, imperativo",acostarse,położyć się,to go to bed,tu,imperativo,ac<em>ué</em>state,,true,,conjugation::basic-verb
+"adivinar, tú, imperativo",adivinar,zgadywać,to guess,tu,imperativo,adivina,,false,,conjugation::basic-verb
 "andar, tú, imperativo",andar,chodzić,to walk,tu,imperativo,anda,,false,,conjugation::basic-verb
 "buscar, tú, imperativo",buscar,szukać,to look for,tu,imperativo,busca,,false,,conjugation::basic-verb
+"callarse, tú, imperativo",callarse,zamknąć się,to be quiet,tu,imperativo,cállate,,false,,conjugation::basic-verb
 "comer, tú, imperativo",comer,jeść,to eat,tu,imperativo,come,,false,,conjugation::basic-verb
 "comprar, tú, imperativo",comprar,kupować,to buy,tu,imperativo,compra,,false,,conjugation::basic-verb
 "confundirse, tú, imperativo",confundirse,pomylić się,to make a mistake,tu,imperativo,confúndete,,false,,conjugation::basic-verb

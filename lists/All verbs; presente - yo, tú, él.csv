@@ -16,9 +16,9 @@
 "acostarse, yo, presente",acostarse,położyć się,to go to bed,yo,presente,me ac<em>ue</em>sto,kładę się,true,,conjugation::po-polsku conjugation::basic-verb
 "acostarse, tú, presente",acostarse,położyć się,to go to bed,tu,presente,te ac<em>ue</em>stas,kładziesz się,true,,conjugation::po-polsku conjugation::basic-verb
 "acostarse, él, presente",acostarse,położyć się,to go to bed,el,presente,se ac<em>ue</em>sta,kładzie się,true,,conjugation::po-polsku conjugation::basic-verb
-"adivinar, yo, presente",adivinar,zgadywać,to guess,yo,presente,adivino,,false,,
-"adivinar, tú, presente",adivinar,zgadywać,to guess,tu,presente,adivinas,,false,,
-"adivinar, él, presente",adivinar,zgadywać,to guess,el,presente,adivina,,false,,
+"adivinar, yo, presente",adivinar,zgadywać,to guess,yo,presente,adivino,,false,,conjugation::basic-verb
+"adivinar, tú, presente",adivinar,zgadywać,to guess,tu,presente,adivinas,,false,,conjugation::basic-verb
+"adivinar, él, presente",adivinar,zgadywać,to guess,el,presente,adivina,,false,,conjugation::basic-verb
 "alcanzar, yo, presente",alcanzar,sięgać,to reach,yo,presente,alcanzo,,false,,
 "alcanzar, tú, presente",alcanzar,sięgać,to reach,tu,presente,alcanzas,,false,,
 "alcanzar, él, presente",alcanzar,sięgać,to reach,el,presente,alcanza,,false,,
@@ -43,6 +43,9 @@
 "caerse, yo, presente",caerse,upaść,to fall,yo,presente,me ca<em>ig</em>o,,true,,
 "caerse, tú, presente",caerse,upaść,to fall,tu,presente,te caes,,false,,
 "caerse, él, presente",caerse,upaść,to fall,el,presente,se cae,,false,,
+"callarse, yo, presente",callarse,zamknąć się,to be quiet,yo,presente,me callo,,false,,conjugation::basic-verb
+"callarse, tú, presente",callarse,zamknąć się,to be quiet,tu,presente,te callas,,false,,conjugation::basic-verb
+"callarse, él, presente",callarse,zamknąć się,to be quiet,el,presente,se calla,,false,,conjugation::basic-verb
 "causar, yo, presente",causar,powodować,to cause,yo,presente,causo,,false,,
 "causar, tú, presente",causar,powodować,to cause,tu,presente,causas,,false,,
 "causar, él, presente",causar,powodować,to cause,el,presente,causa,,false,,
@@ -55,6 +58,9 @@
 "comer, yo, presente",comer,jeść,to eat,yo,presente,como,jem,false,,conjugation::po-polsku conjugation::basic-verb
 "comer, tú, presente",comer,jeść,to eat,tu,presente,comes,jesz,false,,conjugation::po-polsku conjugation::basic-verb
 "comer, él, presente",comer,jeść,to eat,el,presente,come,je,false,,conjugation::po-polsku conjugation::basic-verb
+"competir, yo, presente",competir,współzawodniczyć,to compete,yo,presente,comp<em>i</em>to,,true,,
+"competir, tú, presente",competir,współzawodniczyć,to compete,tu,presente,comp<em>i</em>tes,,true,,
+"competir, él, presente",competir,współzawodniczyć,to compete,el,presente,comp<em>i</em>te,,true,,
 "componer, yo, presente",componer,skomponować,to make up,yo,presente,compon<em>g</em>o,,true,,
 "componer, tú, presente",componer,skomponować,to make up,tu,presente,compones,,false,,
 "componer, él, presente",componer,skomponować,to make up,el,presente,compone,,false,,
@@ -127,12 +133,18 @@
 "equivocarse, yo, presente",equivocarse,pomylić się,to make a mistake,yo,presente,me equivoco,,false,,
 "equivocarse, tú, presente",equivocarse,pomylić się,to make a mistake,tu,presente,te equivocas,,false,,
 "equivocarse, él, presente",equivocarse,pomylić się,to make a mistake,el,presente,se equivoca,,false,,
+"eructar, yo, presente",eructar,bekać,to belch,yo,presente,eructo,,false,,
+"eructar, tú, presente",eructar,bekać,to belch,tu,presente,eructas,,false,,
+"eructar, él, presente",eructar,bekać,to belch,el,presente,eructa,,false,,
 "escribir, yo, presente",escribir,pisać,to write,yo,presente,escribo,piszę,false,,conjugation::po-polsku
 "escribir, tú, presente",escribir,pisać,to write,tu,presente,escribes,piszesz,false,,conjugation::po-polsku
 "escribir, él, presente",escribir,pisać,to write,el,presente,escribe,pisze,false,,conjugation::po-polsku
 "escuchar, yo, presente",escuchar,słuchać,to listen to,yo,presente,escucho,,false,,conjugation::basic-verb
 "escuchar, tú, presente",escuchar,słuchać,to listen to,tu,presente,escuchas,,false,,conjugation::basic-verb
 "escuchar, él, presente",escuchar,słuchać,to listen to,el,presente,escucha,,false,,conjugation::basic-verb
+"escupir, yo, presente",escupir,wypluwać,to spit,yo,presente,escupo,,false,,
+"escupir, tú, presente",escupir,wypluwać,to spit,tu,presente,escupes,,false,,
+"escupir, él, presente",escupir,wypluwać,to spit,el,presente,escupe,,false,,
 "esperar, yo, presente",esperar,czekać,to wait for,yo,presente,espero,czekam,false,,conjugation::po-polsku
 "esperar, tú, presente",esperar,czekać,to wait for,tu,presente,esperas,czekasz,false,,conjugation::po-polsku
 "esperar, él, presente",esperar,czekać,to wait for,el,presente,espera,czeka,false,,conjugation::po-polsku

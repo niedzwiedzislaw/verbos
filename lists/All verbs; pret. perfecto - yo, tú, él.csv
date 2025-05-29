@@ -16,9 +16,9 @@
 "acostarse, yo, pret. perfecto",acostarse,położyć się,to go to bed,yo,pret_perfecto,me he acostado,,false,,conjugation::basic-verb
 "acostarse, tú, pret. perfecto",acostarse,położyć się,to go to bed,tu,pret_perfecto,te has acostado,,false,,conjugation::basic-verb
 "acostarse, él, pret. perfecto",acostarse,położyć się,to go to bed,el,pret_perfecto,se ha acostado,,false,,conjugation::basic-verb
-"adivinar, yo, pret. perfecto",adivinar,zgadywać,to guess,yo,pret_perfecto,he adivinado,,false,,
-"adivinar, tú, pret. perfecto",adivinar,zgadywać,to guess,tu,pret_perfecto,has adivinado,,false,,
-"adivinar, él, pret. perfecto",adivinar,zgadywać,to guess,el,pret_perfecto,ha adivinado,,false,,
+"adivinar, yo, pret. perfecto",adivinar,zgadywać,to guess,yo,pret_perfecto,he adivinado,,false,,conjugation::basic-verb
+"adivinar, tú, pret. perfecto",adivinar,zgadywać,to guess,tu,pret_perfecto,has adivinado,,false,,conjugation::basic-verb
+"adivinar, él, pret. perfecto",adivinar,zgadywać,to guess,el,pret_perfecto,ha adivinado,,false,,conjugation::basic-verb
 "alcanzar, yo, pret. perfecto",alcanzar,sięgać,to reach,yo,pret_perfecto,he alcanzado,,false,,
 "alcanzar, tú, pret. perfecto",alcanzar,sięgać,to reach,tu,pret_perfecto,has alcanzado,,false,,
 "alcanzar, él, pret. perfecto",alcanzar,sięgać,to reach,el,pret_perfecto,ha alcanzado,,false,,
@@ -43,6 +43,9 @@
 "caerse, yo, pret. perfecto",caerse,upaść,to fall,yo,pret_perfecto,me he ca<em>í</em>do,,true,,
 "caerse, tú, pret. perfecto",caerse,upaść,to fall,tu,pret_perfecto,te has ca<em>í</em>do,,true,,
 "caerse, él, pret. perfecto",caerse,upaść,to fall,el,pret_perfecto,se ha ca<em>í</em>do,,true,,
+"callarse, yo, pret. perfecto",callarse,zamknąć się,to be quiet,yo,pret_perfecto,me he callado,,false,,conjugation::basic-verb
+"callarse, tú, pret. perfecto",callarse,zamknąć się,to be quiet,tu,pret_perfecto,te has callado,,false,,conjugation::basic-verb
+"callarse, él, pret. perfecto",callarse,zamknąć się,to be quiet,el,pret_perfecto,se ha callado,,false,,conjugation::basic-verb
 "causar, yo, pret. perfecto",causar,powodować,to cause,yo,pret_perfecto,he causado,,false,,
 "causar, tú, pret. perfecto",causar,powodować,to cause,tu,pret_perfecto,has causado,,false,,
 "causar, él, pret. perfecto",causar,powodować,to cause,el,pret_perfecto,ha causado,,false,,
@@ -55,6 +58,9 @@
 "comer, yo, pret. perfecto",comer,jeść,to eat,yo,pret_perfecto,he comido,,false,,conjugation::basic-verb
 "comer, tú, pret. perfecto",comer,jeść,to eat,tu,pret_perfecto,has comido,,false,,conjugation::basic-verb
 "comer, él, pret. perfecto",comer,jeść,to eat,el,pret_perfecto,ha comido,,false,,conjugation::basic-verb
+"competir, yo, pret. perfecto",competir,współzawodniczyć,to compete,yo,pret_perfecto,he competido,,false,,
+"competir, tú, pret. perfecto",competir,współzawodniczyć,to compete,tu,pret_perfecto,has competido,,false,,
+"competir, él, pret. perfecto",competir,współzawodniczyć,to compete,el,pret_perfecto,ha competido,,false,,
 "componer, yo, pret. perfecto",componer,skomponować,to make up,yo,pret_perfecto,he comp<em>uest</em>o,,true,,
 "componer, tú, pret. perfecto",componer,skomponować,to make up,tu,pret_perfecto,has comp<em>uest</em>o,,true,,
 "componer, él, pret. perfecto",componer,skomponować,to make up,el,pret_perfecto,ha comp<em>uest</em>o,,true,,
@@ -127,12 +133,18 @@
 "equivocarse, yo, pret. perfecto",equivocarse,pomylić się,to make a mistake,yo,pret_perfecto,me he equivocado,,false,,
 "equivocarse, tú, pret. perfecto",equivocarse,pomylić się,to make a mistake,tu,pret_perfecto,te has equivocado,,false,,
 "equivocarse, él, pret. perfecto",equivocarse,pomylić się,to make a mistake,el,pret_perfecto,se ha equivocado,,false,,
+"eructar, yo, pret. perfecto",eructar,bekać,to belch,yo,pret_perfecto,he eructado,,false,,
+"eructar, tú, pret. perfecto",eructar,bekać,to belch,tu,pret_perfecto,has eructado,,false,,
+"eructar, él, pret. perfecto",eructar,bekać,to belch,el,pret_perfecto,ha eructado,,false,,
 "escribir, yo, pret. perfecto",escribir,pisać,to write,yo,pret_perfecto,he escri<em>t</em>o,,true,,
 "escribir, tú, pret. perfecto",escribir,pisać,to write,tu,pret_perfecto,has escri<em>t</em>o,,true,,
 "escribir, él, pret. perfecto",escribir,pisać,to write,el,pret_perfecto,ha escri<em>t</em>o,,true,,
 "escuchar, yo, pret. perfecto",escuchar,słuchać,to listen to,yo,pret_perfecto,he escuchado,,false,,conjugation::basic-verb
 "escuchar, tú, pret. perfecto",escuchar,słuchać,to listen to,tu,pret_perfecto,has escuchado,,false,,conjugation::basic-verb
 "escuchar, él, pret. perfecto",escuchar,słuchać,to listen to,el,pret_perfecto,ha escuchado,,false,,conjugation::basic-verb
+"escupir, yo, pret. perfecto",escupir,wypluwać,to spit,yo,pret_perfecto,he escupido,,false,,
+"escupir, tú, pret. perfecto",escupir,wypluwać,to spit,tu,pret_perfecto,has escupido,,false,,
+"escupir, él, pret. perfecto",escupir,wypluwać,to spit,el,pret_perfecto,ha escupido,,false,,
 "esperar, yo, pret. perfecto",esperar,czekać,to wait for,yo,pret_perfecto,he esperado,,false,,
 "esperar, tú, pret. perfecto",esperar,czekać,to wait for,tu,pret_perfecto,has esperado,,false,,
 "esperar, él, pret. perfecto",esperar,czekać,to wait for,el,pret_perfecto,ha esperado,,false,,

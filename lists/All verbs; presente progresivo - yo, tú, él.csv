@@ -16,9 +16,9 @@
 "acostarse, yo, presente progresivo",acostarse,położyć się,to go to bed,yo,presente_progresivo,me estoy acostando,,false,,conjugation::basic-verb
 "acostarse, tú, presente progresivo",acostarse,położyć się,to go to bed,tu,presente_progresivo,te estás acostando,,false,,conjugation::basic-verb
 "acostarse, él, presente progresivo",acostarse,położyć się,to go to bed,el,presente_progresivo,se está acostando,,false,,conjugation::basic-verb
-"adivinar, yo, presente progresivo",adivinar,zgadywać,to guess,yo,presente_progresivo,estoy adivinando,,false,,
-"adivinar, tú, presente progresivo",adivinar,zgadywać,to guess,tu,presente_progresivo,estás adivinando,,false,,
-"adivinar, él, presente progresivo",adivinar,zgadywać,to guess,el,presente_progresivo,está adivinando,,false,,
+"adivinar, yo, presente progresivo",adivinar,zgadywać,to guess,yo,presente_progresivo,estoy adivinando,,false,,conjugation::basic-verb
+"adivinar, tú, presente progresivo",adivinar,zgadywać,to guess,tu,presente_progresivo,estás adivinando,,false,,conjugation::basic-verb
+"adivinar, él, presente progresivo",adivinar,zgadywać,to guess,el,presente_progresivo,está adivinando,,false,,conjugation::basic-verb
 "alcanzar, yo, presente progresivo",alcanzar,sięgać,to reach,yo,presente_progresivo,estoy alcanzando,,false,,
 "alcanzar, tú, presente progresivo",alcanzar,sięgać,to reach,tu,presente_progresivo,estás alcanzando,,false,,
 "alcanzar, él, presente progresivo",alcanzar,sięgać,to reach,el,presente_progresivo,está alcanzando,,false,,
@@ -43,6 +43,9 @@
 "caerse, yo, presente progresivo",caerse,upaść,to fall,yo,presente_progresivo,me estoy ca<em>y</em>endo,,true,,
 "caerse, tú, presente progresivo",caerse,upaść,to fall,tu,presente_progresivo,te estás ca<em>y</em>endo,,true,,
 "caerse, él, presente progresivo",caerse,upaść,to fall,el,presente_progresivo,se está ca<em>y</em>endo,,true,,
+"callarse, yo, presente progresivo",callarse,zamknąć się,to be quiet,yo,presente_progresivo,me estoy callando,,false,,conjugation::basic-verb
+"callarse, tú, presente progresivo",callarse,zamknąć się,to be quiet,tu,presente_progresivo,te estás callando,,false,,conjugation::basic-verb
+"callarse, él, presente progresivo",callarse,zamknąć się,to be quiet,el,presente_progresivo,se está callando,,false,,conjugation::basic-verb
 "causar, yo, presente progresivo",causar,powodować,to cause,yo,presente_progresivo,estoy causando,,false,,
 "causar, tú, presente progresivo",causar,powodować,to cause,tu,presente_progresivo,estás causando,,false,,
 "causar, él, presente progresivo",causar,powodować,to cause,el,presente_progresivo,está causando,,false,,
@@ -55,6 +58,9 @@
 "comer, yo, presente progresivo",comer,jeść,to eat,yo,presente_progresivo,estoy comiendo,,false,,conjugation::basic-verb
 "comer, tú, presente progresivo",comer,jeść,to eat,tu,presente_progresivo,estás comiendo,,false,,conjugation::basic-verb
 "comer, él, presente progresivo",comer,jeść,to eat,el,presente_progresivo,está comiendo,,false,,conjugation::basic-verb
+"competir, yo, presente progresivo",competir,współzawodniczyć,to compete,yo,presente_progresivo,estoy comp<em>i</em>tiendo,,true,,
+"competir, tú, presente progresivo",competir,współzawodniczyć,to compete,tu,presente_progresivo,estás comp<em>i</em>tiendo,,true,,
+"competir, él, presente progresivo",competir,współzawodniczyć,to compete,el,presente_progresivo,está comp<em>i</em>tiendo,,true,,
 "componer, yo, presente progresivo",componer,skomponować,to make up,yo,presente_progresivo,estoy componiendo,,false,,
 "componer, tú, presente progresivo",componer,skomponować,to make up,tu,presente_progresivo,estás componiendo,,false,,
 "componer, él, presente progresivo",componer,skomponować,to make up,el,presente_progresivo,está componiendo,,false,,
@@ -127,12 +133,18 @@
 "equivocarse, yo, presente progresivo",equivocarse,pomylić się,to make a mistake,yo,presente_progresivo,me estoy equivocando,,false,,
 "equivocarse, tú, presente progresivo",equivocarse,pomylić się,to make a mistake,tu,presente_progresivo,te estás equivocando,,false,,
 "equivocarse, él, presente progresivo",equivocarse,pomylić się,to make a mistake,el,presente_progresivo,se está equivocando,,false,,
+"eructar, yo, presente progresivo",eructar,bekać,to belch,yo,presente_progresivo,estoy eructando,,false,,
+"eructar, tú, presente progresivo",eructar,bekać,to belch,tu,presente_progresivo,estás eructando,,false,,
+"eructar, él, presente progresivo",eructar,bekać,to belch,el,presente_progresivo,está eructando,,false,,
 "escribir, yo, presente progresivo",escribir,pisać,to write,yo,presente_progresivo,estoy escribiendo,,false,,
 "escribir, tú, presente progresivo",escribir,pisać,to write,tu,presente_progresivo,estás escribiendo,,false,,
 "escribir, él, presente progresivo",escribir,pisać,to write,el,presente_progresivo,está escribiendo,,false,,
 "escuchar, yo, presente progresivo",escuchar,słuchać,to listen to,yo,presente_progresivo,estoy escuchando,,false,,conjugation::basic-verb
 "escuchar, tú, presente progresivo",escuchar,słuchać,to listen to,tu,presente_progresivo,estás escuchando,,false,,conjugation::basic-verb
 "escuchar, él, presente progresivo",escuchar,słuchać,to listen to,el,presente_progresivo,está escuchando,,false,,conjugation::basic-verb
+"escupir, yo, presente progresivo",escupir,wypluwać,to spit,yo,presente_progresivo,estoy escupiendo,,false,,
+"escupir, tú, presente progresivo",escupir,wypluwać,to spit,tu,presente_progresivo,estás escupiendo,,false,,
+"escupir, él, presente progresivo",escupir,wypluwać,to spit,el,presente_progresivo,está escupiendo,,false,,
 "esperar, yo, presente progresivo",esperar,czekać,to wait for,yo,presente_progresivo,estoy esperando,,false,,
 "esperar, tú, presente progresivo",esperar,czekać,to wait for,tu,presente_progresivo,estás esperando,,false,,
 "esperar, él, presente progresivo",esperar,czekać,to wait for,el,presente_progresivo,está esperando,,false,,

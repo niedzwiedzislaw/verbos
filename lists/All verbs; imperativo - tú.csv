@@ -8,7 +8,7 @@
 "acabar, tú, imperativo",acabar,kończyć,to finish,tu,imperativo,acaba,,false,,
 "acercarse, tú, imperativo",acercarse,podejść,to approach,tu,imperativo,acércate,,false,,
 "acostarse, tú, imperativo",acostarse,położyć się,to go to bed,tu,imperativo,ac<em>ué</em>state,,true,,conjugation::basic-verb
-"adivinar, tú, imperativo",adivinar,zgadywać,to guess,tu,imperativo,adivina,,false,,
+"adivinar, tú, imperativo",adivinar,zgadywać,to guess,tu,imperativo,adivina,,false,,conjugation::basic-verb
 "alcanzar, tú, imperativo",alcanzar,sięgać,to reach,tu,imperativo,alcanza,,false,,
 "alquilar, tú, imperativo",alquilar,wynajmować,to rent,tu,imperativo,alquila,,false,,
 "andar, tú, imperativo",andar,chodzić,to walk,tu,imperativo,anda,,false,,conjugation::basic-verb
@@ -17,10 +17,12 @@
 "beber, tú, imperativo",beber,pić,to drink,tu,imperativo,bebe,,false,,
 "buscar, tú, imperativo",buscar,szukać,to look for,tu,imperativo,busca,,false,,conjugation::basic-verb
 "caerse, tú, imperativo",caerse,upaść,to fall,tu,imperativo,cáete,,false,,
+"callarse, tú, imperativo",callarse,zamknąć się,to be quiet,tu,imperativo,cállate,,false,,conjugation::basic-verb
 "causar, tú, imperativo",causar,powodować,to cause,tu,imperativo,causa,,false,,
 "cenar, tú, imperativo",cenar,jeść kolację,to have dinner,tu,imperativo,cena,,false,,
 "cerrar, tú, imperativo",cerrar,zamykać,to close,tu,imperativo,c<em>i</em>erra,,true,,
 "comer, tú, imperativo",comer,jeść,to eat,tu,imperativo,come,,false,,conjugation::basic-verb
+"competir, tú, imperativo",competir,współzawodniczyć,to compete,tu,imperativo,comp<em>i</em>te,,true,,
 "componer, tú, imperativo",componer,skomponować,to make up,tu,imperativo,comp<em>ón</em>,,true,,
 "comprar, tú, imperativo",comprar,kupować,to buy,tu,imperativo,compra,,false,,conjugation::basic-verb
 "conducir, tú, imperativo",conducir,prowadzić,to lead,tu,imperativo,conduce,,false,,
@@ -45,8 +47,10 @@
 "entender, tú, imperativo",entender,rozumieć,to understand,tu,imperativo,ent<em>i</em>ende,,true,,conjugation::basic-verb
 "enviar, tú, imperativo",enviar,przesłać,to send,tu,imperativo,env<em>í</em>a,,true,,
 "equivocarse, tú, imperativo",equivocarse,pomylić się,to make a mistake,tu,imperativo,equivócate,,false,,
+"eructar, tú, imperativo",eructar,bekać,to belch,tu,imperativo,eructa,,false,,
 "escribir, tú, imperativo",escribir,pisać,to write,tu,imperativo,escribe,,false,,
 "escuchar, tú, imperativo",escuchar,słuchać,to listen to,tu,imperativo,escucha,,false,,conjugation::basic-verb
+"escupir, tú, imperativo",escupir,wypluwać,to spit,tu,imperativo,escupe,,false,,
 "esperar, tú, imperativo",esperar,czekać,to wait for,tu,imperativo,espera,,false,,
 "estar, tú, imperativo",estar,być,to be,tu,imperativo,est<em>á</em>,,true,estar,conjugation::basic-verb
 "fregar, tú, imperativo",fregar,szorować,to wash,tu,imperativo,fr<em>i</em>ega,,true,,

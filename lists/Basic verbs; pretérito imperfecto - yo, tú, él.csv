@@ -7,12 +7,18 @@
 "acostarse, yo, pretérito imperfecto",acostarse,położyć się,to go to bed,yo,pret_imperfecto,me acostaba,,false,,conjugation::basic-verb
 "acostarse, tú, pretérito imperfecto",acostarse,położyć się,to go to bed,tu,pret_imperfecto,te acostabas,,false,,conjugation::basic-verb
 "acostarse, él, pretérito imperfecto",acostarse,położyć się,to go to bed,el,pret_imperfecto,se acostaba,,false,,conjugation::basic-verb
+"adivinar, yo, pretérito imperfecto",adivinar,zgadywać,to guess,yo,pret_imperfecto,adivinaba,,false,,conjugation::basic-verb
+"adivinar, tú, pretérito imperfecto",adivinar,zgadywać,to guess,tu,pret_imperfecto,adivinabas,,false,,conjugation::basic-verb
+"adivinar, él, pretérito imperfecto",adivinar,zgadywać,to guess,el,pret_imperfecto,adivinaba,,false,,conjugation::basic-verb
 "andar, yo, pretérito imperfecto",andar,chodzić,to walk,yo,pret_imperfecto,andaba,,false,,conjugation::basic-verb
 "andar, tú, pretérito imperfecto",andar,chodzić,to walk,tu,pret_imperfecto,andabas,,false,,conjugation::basic-verb
 "andar, él, pretérito imperfecto",andar,chodzić,to walk,el,pret_imperfecto,andaba,,false,,conjugation::basic-verb
 "buscar, yo, pretérito imperfecto",buscar,szukać,to look for,yo,pret_imperfecto,buscaba,,false,,conjugation::basic-verb
 "buscar, tú, pretérito imperfecto",buscar,szukać,to look for,tu,pret_imperfecto,buscabas,,false,,conjugation::basic-verb
 "buscar, él, pretérito imperfecto",buscar,szukać,to look for,el,pret_imperfecto,buscaba,,false,,conjugation::basic-verb
+"callarse, yo, pretérito imperfecto",callarse,zamknąć się,to be quiet,yo,pret_imperfecto,me callaba,,false,,conjugation::basic-verb
+"callarse, tú, pretérito imperfecto",callarse,zamknąć się,to be quiet,tu,pret_imperfecto,te callabas,,false,,conjugation::basic-verb
+"callarse, él, pretérito imperfecto",callarse,zamknąć się,to be quiet,el,pret_imperfecto,se callaba,,false,,conjugation::basic-verb
 "comer, yo, pretérito imperfecto",comer,jeść,to eat,yo,pret_imperfecto,comía,,false,,conjugation::basic-verb
 "comer, tú, pretérito imperfecto",comer,jeść,to eat,tu,pret_imperfecto,comías,,false,,conjugation::basic-verb
 "comer, él, pretérito imperfecto",comer,jeść,to eat,el,pret_imperfecto,comía,,false,,conjugation::basic-verb

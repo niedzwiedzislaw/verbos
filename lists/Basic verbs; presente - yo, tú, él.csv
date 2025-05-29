@@ -7,12 +7,18 @@
 "acostarse, yo, presente",acostarse,położyć się,to go to bed,yo,presente,me ac<em>ue</em>sto,kładę się,true,,conjugation::po-polsku conjugation::basic-verb
 "acostarse, tú, presente",acostarse,położyć się,to go to bed,tu,presente,te ac<em>ue</em>stas,kładziesz się,true,,conjugation::po-polsku conjugation::basic-verb
 "acostarse, él, presente",acostarse,położyć się,to go to bed,el,presente,se ac<em>ue</em>sta,kładzie się,true,,conjugation::po-polsku conjugation::basic-verb
+"adivinar, yo, presente",adivinar,zgadywać,to guess,yo,presente,adivino,,false,,conjugation::basic-verb
+"adivinar, tú, presente",adivinar,zgadywać,to guess,tu,presente,adivinas,,false,,conjugation::basic-verb
+"adivinar, él, presente",adivinar,zgadywać,to guess,el,presente,adivina,,false,,conjugation::basic-verb
 "andar, yo, presente",andar,chodzić,to walk,yo,presente,ando,,false,,conjugation::basic-verb
 "andar, tú, presente",andar,chodzić,to walk,tu,presente,andas,,false,,conjugation::basic-verb
 "andar, él, presente",andar,chodzić,to walk,el,presente,anda,,false,,conjugation::basic-verb
 "buscar, yo, presente",buscar,szukać,to look for,yo,presente,busco,,false,,conjugation::basic-verb
 "buscar, tú, presente",buscar,szukać,to look for,tu,presente,buscas,,false,,conjugation::basic-verb
 "buscar, él, presente",buscar,szukać,to look for,el,presente,busca,,false,,conjugation::basic-verb
+"callarse, yo, presente",callarse,zamknąć się,to be quiet,yo,presente,me callo,,false,,conjugation::basic-verb
+"callarse, tú, presente",callarse,zamknąć się,to be quiet,tu,presente,te callas,,false,,conjugation::basic-verb
+"callarse, él, presente",callarse,zamknąć się,to be quiet,el,presente,se calla,,false,,conjugation::basic-verb
 "comer, yo, presente",comer,jeść,to eat,yo,presente,como,jem,false,,conjugation::po-polsku conjugation::basic-verb
 "comer, tú, presente",comer,jeść,to eat,tu,presente,comes,jesz,false,,conjugation::po-polsku conjugation::basic-verb
 "comer, él, presente",comer,jeść,to eat,el,presente,come,je,false,,conjugation::po-polsku conjugation::basic-verb

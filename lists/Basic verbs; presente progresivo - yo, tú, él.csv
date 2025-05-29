@@ -7,12 +7,18 @@
 "acostarse, yo, presente progresivo",acostarse,położyć się,to go to bed,yo,presente_progresivo,me estoy acostando,,false,,conjugation::basic-verb
 "acostarse, tú, presente progresivo",acostarse,położyć się,to go to bed,tu,presente_progresivo,te estás acostando,,false,,conjugation::basic-verb
 "acostarse, él, presente progresivo",acostarse,położyć się,to go to bed,el,presente_progresivo,se está acostando,,false,,conjugation::basic-verb
+"adivinar, yo, presente progresivo",adivinar,zgadywać,to guess,yo,presente_progresivo,estoy adivinando,,false,,conjugation::basic-verb
+"adivinar, tú, presente progresivo",adivinar,zgadywać,to guess,tu,presente_progresivo,estás adivinando,,false,,conjugation::basic-verb
+"adivinar, él, presente progresivo",adivinar,zgadywać,to guess,el,presente_progresivo,está adivinando,,false,,conjugation::basic-verb
 "andar, yo, presente progresivo",andar,chodzić,to walk,yo,presente_progresivo,estoy andando,,false,,conjugation::basic-verb
 "andar, tú, presente progresivo",andar,chodzić,to walk,tu,presente_progresivo,estás andando,,false,,conjugation::basic-verb
 "andar, él, presente progresivo",andar,chodzić,to walk,el,presente_progresivo,está andando,,false,,conjugation::basic-verb
 "buscar, yo, presente progresivo",buscar,szukać,to look for,yo,presente_progresivo,estoy buscando,,false,,conjugation::basic-verb
 "buscar, tú, presente progresivo",buscar,szukać,to look for,tu,presente_progresivo,estás buscando,,false,,conjugation::basic-verb
 "buscar, él, presente progresivo",buscar,szukać,to look for,el,presente_progresivo,está buscando,,false,,conjugation::basic-verb
+"callarse, yo, presente progresivo",callarse,zamknąć się,to be quiet,yo,presente_progresivo,me estoy callando,,false,,conjugation::basic-verb
+"callarse, tú, presente progresivo",callarse,zamknąć się,to be quiet,tu,presente_progresivo,te estás callando,,false,,conjugation::basic-verb
+"callarse, él, presente progresivo",callarse,zamknąć się,to be quiet,el,presente_progresivo,se está callando,,false,,conjugation::basic-verb
 "comer, yo, presente progresivo",comer,jeść,to eat,yo,presente_progresivo,estoy comiendo,,false,,conjugation::basic-verb
 "comer, tú, presente progresivo",comer,jeść,to eat,tu,presente_progresivo,estás comiendo,,false,,conjugation::basic-verb
 "comer, él, presente progresivo",comer,jeść,to eat,el,presente_progresivo,está comiendo,,false,,conjugation::basic-verb
