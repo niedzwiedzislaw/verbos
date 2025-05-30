@@ -38,4 +38,5 @@ class VerbData:
     presente_progresivo: Tense
     pret_imperfecto: Tense
     futuro_simple: Tense
-    imperativo: Imperativo
+    imperativo_afirmativo: Imperativo
+    imperativo_negativo: Imperativo

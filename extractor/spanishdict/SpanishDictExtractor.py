@@ -70,10 +70,18 @@ class SpanishDictExtractor:
         return Tense(*[cls.parse_conjugation(i) for i in cells])
 
     @classmethod
-    def extract_imperativo(cls, soup: BeautifulSoup) -> Imperativo:
+    def extract_imperativo_afirmativo(cls, soup: BeautifulSoup) -> Imperativo:
         tbody = soup.findAll('tbody')[3]
         tr = tbody.findAll('tr')
         cells = [row.findAll(['th', 'td'])[1] for row in tr[2:]]
+        # cells = [row.findAll(['th', 'td'])[0] for row in tr[2:]]
+        return Imperativo(*[cls.parse_conjugation(i) for i in cells])
+
+    @classmethod
+    def extract_imperativo_negativo(cls, soup: BeautifulSoup) -> Imperativo:
+        tbody = soup.findAll('tbody')[3]
+        tr = tbody.findAll('tr')
+        cells = [row.findAll(['th', 'td'])[2] for row in tr[2:]]
         # cells = [row.findAll(['th', 'td'])[0] for row in tr[2:]]
         return Imperativo(*[cls.parse_conjugation(i) for i in cells])
 
@@ -155,7 +163,8 @@ class SpanishDictExtractor:
                 cls.extract_presente_progresivo(soup),
                 cls.extract_preterito_imperfecto(soup),
                 cls.extract_futuro_simple(soup),
-                cls.extract_imperativo(soup),
+                cls.extract_imperativo_afirmativo(soup),
+                cls.extract_imperativo_negativo(soup),
             )
         except Exception as e:
             print(f'Problem with {verb}')

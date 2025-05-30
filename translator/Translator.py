@@ -172,5 +172,6 @@ class Translator:
             verb_data.presente_progresivo,
             verb_data.pret_imperfecto,
             verb_data.futuro_simple,
-            verb_data.imperativo
+            verb_data.imperativo_afirmativo,
+            verb_data.imperativo_negativo,
         )

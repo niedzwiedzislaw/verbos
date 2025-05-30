@@ -19,7 +19,8 @@ tense_names = {
 }
 
 mode_names = {
-    'imperativo': 'imperativo'
+    'imperativo_afirmativo': 'imperativo afirmativo',
+    'imperativo_negativo': 'imperativo negativo',
 }
 
 case_names = tense_names | mode_names

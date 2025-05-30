@@ -13,10 +13,10 @@ class ListWriter:
         persons_names = ", ".join([person_abbr_with_accents[person] for person in persons])
         for t in times:
             deck_name = f'Spanish::conjugación::{prefx}{case_names[t]}: {persons_names}'
-            ListWriter.write_list(deck_name, [card for card in cards if card.verify_type(persons, [t])], if_matches)
+            ListWriter.write_conjugation_list(deck_name, [card for card in cards if card.verify_type(persons, [t])], if_matches)
 
     @staticmethod
-    def write_list(deck_name: str, cards: Iterable[Card], if_matches):
+    def write_conjugation_list(deck_name: str, cards: Iterable[Card], if_matches):
         with open("lists/" + ListWriter.__generate_file_name(deck_name), 'w', encoding='utf-8', newline='') as f:
             f.write(f'#separator:{separator}' + '\n')
             f.write(f'#html:true' + '\n')

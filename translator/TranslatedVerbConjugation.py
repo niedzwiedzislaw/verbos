@@ -64,7 +64,8 @@ class TranslatedVerbConjugation:
     presente_progresivo: Tense
     pret_imperfecto: Tense
     futuro_simple: Tense
-    imperativo: Imperativo
+    imperativo_afirmativo: Imperativo
+    imperativo_negativo: Imperativo
 
     def translated_tenses(self) -> Dict[str, TranslatedTense]:
         return {
@@ -77,6 +78,7 @@ class TranslatedVerbConjugation:
             'pret_perfecto': self.pret_perfecto,
             'presente_progresivo': self.presente_progresivo,
             'pret_imperfecto': self.pret_imperfecto,
-            'imperativo': self.imperativo,
+            'imperativo_afirmativo': self.imperativo_afirmativo,
+            'imperativo_negativo': self.imperativo_negativo,
             'futuro_simple': self.futuro_simple,
         }
