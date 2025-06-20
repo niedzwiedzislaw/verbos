@@ -4,7 +4,7 @@ abrir,to open,otwierać,verbos
 acabar,to finish,kończyć,verbos
 acercarse,to approach,podejść,verbos
 acostarse,to go to bed,położyć się,verbos
-adivinar,to guess,zgadywać,verbos
+adivinar,to guess,zgadnąć,verbos
 alcanzar,to reach,sięgać,verbos
 alquilar,to rent,wynajmować,verbos
 andar,to walk,chodzić,verbos
@@ -14,6 +14,7 @@ beber,to drink,pić,verbos
 buscar,to look for,szukać,verbos
 caerse,to fall,upaść,verbos
 callarse,to be quiet,zamknąć się,verbos
+cambiar,to change,zamieniać,verbos
 causar,to cause,powodować,verbos
 cenar,to have dinner,jeść kolację,verbos
 cerrar,to close,zamykać,verbos
@@ -28,6 +29,7 @@ conseguir,to get,zyskać,verbos
 construir,to build,budować,verbos
 contar,to count,liczyć,verbos
 crecer,to grow,rosnąć,verbos
+cruzar,to cross,przechodzić,verbos
 dar,to give,dać,verbos
 deber,to owe,musieć,verbos
 decir,to say,mówić,verbos
@@ -72,6 +74,7 @@ llover,to rain,padać,verbos
 luchar,to fight,walczyć,verbos
 marcar,to mark,zaznaczać,verbos
 medir,to measure,mierzyć,verbos
+mentir,to lie,okłamywać,verbos
 mirar,to look at,spojrzeć,verbos
 morir,to die,umrzeć,verbos
 mostrar,to show,pokazywać,verbos
@@ -122,3 +125,7 @@ vestirse,to get dressed,ubierać się,verbos
 vivir,to live,żyć,verbos
 volar,to fly,latać,verbos
 volver,to return,wracać,verbos
+negar,to deny,odmawiać,verbos
+valer,to be worth,być wartym,verbos
+exigir,to demand,żądać,verbos
+defender,to defend,bronić,verbos

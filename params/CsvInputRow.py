@@ -13,6 +13,7 @@ class TensTranslationBase:
 @dataclass
 class TranslationParams:
     polski: str
+    zwrotny: Optional[bool]
     present: TensTranslationBase
     past: TensTranslationBase
 
@@ -44,6 +45,7 @@ class CsvInputRow:
         self.conj_root_present_pl = self.__conj_root_present_pl or self.__conj_root_present_sg
         self.translation_params = TranslationParams(
             self.__polski,
+            self.__zwrotny,
             TensTranslationBase(self.__conj_root_present_sg, self.__conj_root_present_pl, self.__zwrotny),
             TensTranslationBase(self.__conj_root_past_sg, self.__conj_root_past_pl, self.__zwrotny)
         )

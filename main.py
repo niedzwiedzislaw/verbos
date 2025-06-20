@@ -1,6 +1,8 @@
 # This is a sample Python script.
 import csv
 import multiprocessing
+import os
+import shutil
 import time
 from concurrent.futures import ThreadPoolExecutor
 from itertools import chain
@@ -69,7 +71,8 @@ def main():
     #     print(existing_words)
     #     # existing_words.to_csv(f, index=False, header=True, sep=',')
     #     new_words.to_csv(f, index=False, header=False, sep=',')
-
+    shutil.copy("lists/All verbs; all.csv", "e:/iCloudDrive/Documents/Spanish/Anki/Spanish; conjugation; All verbs; all.csv")
+    shutil.copy("lists/Spanish; verbos.csv", "e:/iCloudDrive/Documents/Spanish/Anki/Spanish; verbos.csv")
 
 if __name__ == '__main__':
     main()
